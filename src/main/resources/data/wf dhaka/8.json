@@ -1,0 +1,67 @@
+{
+  "id": 8,
+  "university": {
+    "fullName": "American International University - Bangladesh",
+    "shortName": "AIUB",
+    "region": "Asia West",
+    "hashTag": "#AIUB",
+    "url": "http://www.aiub.edu",
+    "appYears": [
+      2002
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "AIUB_Captured",
+    "regionals": [
+      "Dhaka Online, 13th",
+      "Dhaka, 13th"
+    ]
+  },
+  "coach": {
+    "name": "Imran Ziad",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "shadowfax",
+    "cfRating": 1579,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Abdullah Al Mujahid",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Mujahid",
+      "cfRating": 1448,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Sadi Md. Aziz Khan",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "AmdSadi",
+      "cfRating": 1524,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Hafizur Rahman",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "hafiz_samrat",
+      "cfRating": 1582,
+      "twitterHandle": "hafiz_samrat",
+      "achievements": []
+    }
+  ]
+}

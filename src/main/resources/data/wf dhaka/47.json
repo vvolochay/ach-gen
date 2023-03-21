@@ -1,0 +1,86 @@
+{
+  "id": 47,
+  "university": {
+    "fullName": "International IT University",
+    "shortName": "IITU",
+    "region": "Northern Eurasia",
+    "hashTag": "#IITU",
+    "url": "http://www.iitu.kz",
+    "appYears": [
+      2013,
+      2014,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "IITU 1",
+    "regionals": [
+      "Kazakhstan, 2nd",
+      "Northern Eurasia Online, 17th",
+      "Northern Eurasia, 20th"
+    ]
+  },
+  "coach": {
+    "name": "Yeskendir Sultanov",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "Messi",
+    "cfRating": 1938,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Abay Baimukanov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "DinoReactor",
+      "cfRating": 2195,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Batyr Sardarbekov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Batrr",
+      "cfRating": 2880,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2019)",
+          "priority": 84
+        }
+      ]
+    },
+    {
+      "name": "Parassat Kyzyrkanov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "parasat",
+      "cfRating": 2195,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 80
+        }
+      ]
+    }
+  ]
+}

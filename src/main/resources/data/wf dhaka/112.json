@@ -1,0 +1,105 @@
+{
+  "id": 112,
+  "university": {
+    "fullName": "University of Bucharest",
+    "shortName": "UniBuc",
+    "region": "Europe",
+    "hashTag": "#UBucharest",
+    "url": "http://www.unibuc.ro",
+    "appYears": [
+      1995,
+      1996,
+      1997,
+      1999,
+      2000,
+      2004,
+      2007,
+      2012,
+      2013,
+      2014,
+      2015,
+      2017,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2020
+    ],
+    "bronzeYears": [
+      1999
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Echipa Dulce",
+    "regionals": [
+      "Southeastern Europe, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Adrian Dumitran",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Florian-Robert Usurelu",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Usu",
+      "cfRating": 2128,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "Forbes Romania 30 under 30 list",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Stelian Chichirim",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Stelutzu",
+      "cfRating": 2177,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "FII Code Qualified (2020)",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "name": "Alexandra Maria Udristoiu",
+      "altNames": [
+        "Alexandra Maria Udriștoiu",
+        "Alexandra Udristoiu"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "alexandra_udristoiu",
+      "cfRating": 2430,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 83
+        },
+        {
+          "achievement": "FII Code Qualified (2020)",
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}

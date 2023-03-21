@@ -1,0 +1,89 @@
+{
+  "id": 54,
+  "university": {
+    "fullName": "Kazan (Volga Region) Federal University",
+    "shortName": "Kazan FU",
+    "region": "Northern Eurasia",
+    "hashTag": "#kpfu ",
+    "url": "http://kpfu.ru",
+    "appYears": [
+      2015,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Kazan FU Summertime",
+    "regionals": [
+      "Southern Russia and Volga, 2nd",
+      "Northern Eurasia Online, 36th",
+      "Northern Eurasia, 14th"
+    ]
+  },
+  "coach": {
+    "name": "Kamil Khadiev",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "KamilBek",
+    "cfRating": 1659,
+    "twitterHandle": "kamil_khadiev",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2015, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Artem Ilikayev",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Ferume",
+      "cfRating": 2010,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ruslan Kapralov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "AcidWrongGod",
+      "cfRating": 2349,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Maksim Yagafarov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "lessmeaning",
+      "cfRating": 2225,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

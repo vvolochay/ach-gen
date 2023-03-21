@@ -1,0 +1,80 @@
+{
+  "id": 18,
+  "university": {
+    "fullName": "Bina Nusantara University",
+    "shortName": "BINUS",
+    "region": "Asia Pacific",
+    "hashTag": "#BINUS",
+    "url": "http://www.binus.ac.id",
+    "appYears": [
+      1997,
+      1998,
+      2007,
+      2008,
+      2009,
+      2014,
+      2017,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Hai san generations :v",
+    "regionals": [
+      "Indonesia, 1st",
+      "Jakarta, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Lie Maximilianus Maria Kolbe",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Andreas Cendranata",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Ace_02",
+      "cfRating": 1815,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Rico Filberto",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "rfpermen",
+      "cfRating": 2410,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Andreas Martin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "AVM.Martin",
+      "cfRating": 2039,
+      "twitterHandle": "AVM_Martin",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

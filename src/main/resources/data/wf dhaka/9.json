@@ -1,0 +1,75 @@
+{
+  "id": 9,
+  "university": {
+    "fullName": "American University of Beirut",
+    "shortName": "AU Beirut",
+    "region": "Africa and the Middle East",
+    "hashTag": "#AUBeirut",
+    "url": "http://www.aub.edu.lb",
+    "appYears": [
+      2010,
+      2014,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Penalteam - AUB",
+    "regionals": [
+      "Lebanon, 2nd",
+      "Africa & Arab, 15th"
+    ]
+  },
+  "coach": {
+    "name": "Nagi Nahas",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "nnahas",
+    "cfRating": 1630,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2010, 2014, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Charbel Chucri",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Charbel",
+      "cfRating": 2092,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mira Awar",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "DaMiraCode",
+      "cfRating": 1572,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jihad Hanna",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "0-jij-0",
+      "cfRating": 1899,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

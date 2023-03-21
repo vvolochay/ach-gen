@@ -1,0 +1,118 @@
+{
+  "id": 61,
+  "university": {
+    "fullName": "Moscow Institute of Physics and Technology",
+    "shortName": "MIPT",
+    "region": "Northern Eurasia",
+    "hashTag": "#PhysTech",
+    "url": "http://www.mipt.ru",
+    "appYears": [
+      2008,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [
+      2012,
+      2016,
+      2018,
+      2020
+    ],
+    "silverYears": [
+      2017
+    ],
+    "bronzeYears": [
+      2019
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Moscow IPT LinkCat",
+    "regionals": [
+      "Moscow, 5th",
+      "Northern Eurasia Online, 10th",
+      "Northern Eurasia, 12th"
+    ]
+  },
+  "coach": {
+    "name": "Filipp Rukhovich",
+    "altNames": [
+      "Филипп Рухович",
+      "Philip Rukhovich"
+    ],
+    "tcHandle": "DPR-pavlin",
+    "tcRating": 2347,
+    "cfHandle": "DPR-pavlin",
+    "cfRating": 2427,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2014)",
+        "priority": 100
+      },
+      {
+        "achievement": "TopCoder High School Finalist (2009)",
+        "priority": 50
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (2014, 2016, 2017)",
+        "priority": 50
+      },
+      {
+        "achievement": "CROC Finalist (2013, 2016)",
+        "priority": 30
+      },
+      {
+        "achievement": "VK Cup Finalist (2015)",
+        "priority": 30
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Vyacheslav Surkov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "surokpro",
+      "cfRating": 2458,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Valery Zgursky",
+      "altNames": [
+        "Valeriy Zgurskiy"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Holidin",
+      "cfRating": 2541,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "VK Cup Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Maksim Gaponov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "maksim.gaponov",
+      "cfRating": 1942,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

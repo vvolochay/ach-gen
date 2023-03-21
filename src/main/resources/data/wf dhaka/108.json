@@ -1,0 +1,68 @@
+{
+  "id": 108,
+  "university": {
+    "fullName": "Universidade Federal da Bahia",
+    "shortName": "UFBA",
+    "region": "Latin America",
+    "hashTag": "#UFBA",
+    "url": "http://www.ufba.br",
+    "appYears": [
+      2016,
+      2017
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "União Fiasco",
+    "regionals": [
+      "Brazil Preliminary, 4th",
+      "Brazil, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Rubisley Lemes",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Vinicius Teixeira Hirschle",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "viniciusth",
+      "cfRating": 1809,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Thalles Medrado",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "tysm",
+      "cfRating": 1902,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Bernardo Salmeron",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "bfs.07",
+      "cfRating": 1953,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

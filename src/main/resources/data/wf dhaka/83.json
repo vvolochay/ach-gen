@@ -1,0 +1,69 @@
+{
+  "id": 83,
+  "university": {
+    "fullName": "Suleyman Demirel University",
+    "shortName": "SDU",
+    "region": "Northern Eurasia",
+    "hashTag": "#sdukz",
+    "url": "http://www.sdu.edu.kz"
+  },
+  "team": {
+    "name": "SDU 1: Qataıý degen ne?",
+    "regionals": [
+      "Kazakhstan, 1st",
+      "Northern Eurasia Online, 30th",
+      "Northern Eurasia, 23rd"
+    ]
+  },
+  "coach": {
+    "name": "Yerbol Baigarayev",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "marvelo",
+    "cfRating": 1281,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Temirlan Baibolov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "bthero",
+      "cfRating": 2476,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 82
+        }
+      ]
+    },
+    {
+      "name": "Abu Said Manap",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "abunyawa",
+      "cfRating": 1785,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Almas Kenes",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "almas.kenes",
+      "cfRating": 1553,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

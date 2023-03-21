@@ -1,0 +1,75 @@
+{
+  "id": 119,
+  "university": {
+    "fullName": "University of Hong Kong",
+    "shortName": "HKU",
+    "region": "Asia East",
+    "hashTag": "#UHongKong",
+    "url": "http://www.cs.hku.hk",
+    "appYears": [
+      2001,
+      2004,
+      2005,
+      2006,
+      2007,
+      2009,
+      2013
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2005
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Will Cyber college students fantasize about Cloud Classroom?",
+    "regionals": [
+      "Shanghai, 44th",
+      "Nanjing, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Hao Xie",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Jiahe Jiang",
+      "altNames": [],
+      "tcHandle": "Isrothy",
+      "tcRating": null,
+      "cfHandle": "Isrothy",
+      "cfRating": 2126,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Baicheng Liu",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zhiheng Lyu",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

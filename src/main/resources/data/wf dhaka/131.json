@@ -1,0 +1,121 @@
+{
+  "id": 131,
+  "university": {
+    "fullName": "UNSW Sydney",
+    "shortName": "UNSW Sydney",
+    "region": "South Pacific",
+    "hashTag": "#UNSW",
+    "url": "http://www.cse.unsw.edu.au",
+    "appYears": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2007,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2001,
+      2018
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ]
+  },
+  "team": {
+    "name": "TLE on test case 2020",
+    "regionals": [
+      "South Pacific, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Raveen De Silva",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2013, 2014)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Pengsen Mao",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "PengsenMao",
+      "cfRating": 1799,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Temmie Yao",
+      "altNames": [
+        "Timmy Yao"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "ralismark",
+      "cfRating": 1936,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 83
+        }
+      ]
+    },
+    {
+      "name": "Angus Ritossa",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "AngusRitossa",
+      "cfRating": 2603,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2019)",
+          "priority": 84
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 80
+        }
+      ]
+    }
+  ]
+}

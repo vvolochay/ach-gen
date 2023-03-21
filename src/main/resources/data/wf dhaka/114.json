@@ -1,0 +1,97 @@
+{
+  "id": 114,
+  "university": {
+    "fullName": "University of Cambridge",
+    "shortName": "Cambridge",
+    "region": "Europe",
+    "hashTag": "#Cambridge",
+    "url": "http://www.cam.ac.uk",
+    "appYears": [
+      2009,
+      2014,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2020
+    ],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "balloonatics",
+    "regionals": [
+      "Northwestern Europe, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Andrej Ivašković",
+    "altNames": [
+      "Andrej IvaÅ¡koviÄ‡"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC silver medal as coach (2020)",
+        "priority": 3000
+      },
+      {
+        "achievement": "IOI Finalist (2012, 2014)",
+        "priority": 80
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Vladimir Milenkovic",
+      "altNames": [
+        "Vladimir Milenković"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "VladaMG98",
+      "cfRating": 2427,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2017)",
+          "priority": 82
+        }
+      ]
+    },
+    {
+      "name": "Yui Hin Arvin Leung",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "arvindf232",
+      "cfRating": 2723,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tautvydas Jasiūnas",
+      "altNames": [
+        "Tautvydas JasiÅ«nas"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Tutis",
+      "cfRating": 2404,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2018, 2019)",
+          "priority": 83
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": 101,
+  "university": {
+    "fullName": "Universidad Nacional de Córdoba - FaMAF",
+    "shortName": "FAMAF - UNC",
+    "region": "Latin America",
+    "hashTag": "#FAMAFUNC",
+    "url": "http://www.famaf.unc.edu.ar",
+    "appYears": [
+      2006,
+      2008,
+      2010,
+      2011,
+      2012,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2019
+    ]
+  },
+  "team": {
+    "name": "Alt 4F",
+    "regionals": [
+      "South America-South, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Marcos Kolodny",
+    "altNames": [],
+    "tcHandle": "marcosk",
+    "tcRating": 2102,
+    "cfHandle": "MarcosK",
+    "cfRating": 2058,
+    "twitterHandle": "MarcosKolodny",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2019, 2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Uziel Ludueña",
+      "altNames": [
+        "Uziel LudueÃ±a"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "CarusoX",
+      "cfRating": 1842,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Sebastián Marín",
+      "altNames": [
+        "SebastiÃ¡n MarÃ­n"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "SebaMarin",
+      "cfRating": 2072,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mateo Carranza Vélez",
+      "altNames": [
+        "Mateo Carranza VÃ©lez"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "MateoCV",
+      "cfRating": 2225,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

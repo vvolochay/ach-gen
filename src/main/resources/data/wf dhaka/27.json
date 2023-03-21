@@ -1,0 +1,86 @@
+{
+  "id": 27,
+  "university": {
+    "fullName": "East China Normal University",
+    "shortName": "ECNU",
+    "region": "Asia East",
+    "hashTag": "#ECNU",
+    "url": "http://www.ecnu.edu.cn",
+    "appYears": [
+      2008,
+      2011,
+      2012,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "NULL",
+    "regionals": [
+      "Nanjing, 45th",
+      "Asia East, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Chunyun Xiao",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2008, 2011, 2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tong Zhu",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "stonemasons",
+      "cfRating": 2253,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jiadong Xie",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Xiejiadong",
+      "cfRating": 2337,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    },
+    {
+      "name": "Yunxiang Zhao",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Kilo_5723",
+      "cfRating": 2286,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    }
+  ]
+}

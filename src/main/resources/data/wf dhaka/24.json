@@ -1,0 +1,87 @@
+{
+  "id": 24,
+  "university": {
+    "fullName": "Damascus University",
+    "shortName": "Damascus U",
+    "region": "Africa and the Middle East",
+    "hashTag": "#DamasUniv",
+    "url": "http://www.damascusuniversity.edu.sy",
+    "appYears": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "It is time to retire",
+    "regionals": [
+      "Damascus University, 1st",
+      "Syria, 4th",
+      "Africa & Arab, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Joud Zouzou",
+    "altNames": [],
+    "tcHandle": "joudzouzou",
+    "tcRating": 1410,
+    "cfHandle": "RedNextCentury",
+    "cfRating": 2419,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2016, 2019)",
+        "priority": 100
+      },
+      {
+        "achievement": "IOI Finalist (2014, 2015)",
+        "priority": 80
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Rami Alssadaqa",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "I-Love-Islam",
+      "cfRating": 2209,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mohammad Kartoumeh",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Mohammad_Kartoumeh",
+      "cfRating": 2123,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mhd Baraa Armoush",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Baraa_Armoush",
+      "cfRating": 2308,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

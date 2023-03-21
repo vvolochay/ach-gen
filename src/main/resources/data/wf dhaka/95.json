@@ -1,0 +1,88 @@
+{
+  "id": 95,
+  "university": {
+    "fullName": "Universidad de Buenos Aires - FCEN",
+    "shortName": "UBA - FCEN",
+    "region": "Latin America",
+    "hashTag": "#UBuenosAires",
+    "url": "http://exactas.uba.ar",
+    "appYears": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2009,
+      2011,
+      2015,
+      2020
+    ]
+  },
+  "team": {
+    "name": "Prim Floyd",
+    "regionals": [
+      "South America-South, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Eugenio Borghini",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "eugenus",
+    "cfRating": 1737,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mateo Marenco",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Mateo",
+      "cfRating": 1822,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Julián Braier",
+      "altNames": [
+        "JuliÃ¡n Braier"
+      ],
+      "tcHandle": "AguaPodrida",
+      "tcRating": 1939,
+      "cfHandle": "Agua_Podrida",
+      "cfRating": 2422,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Marcos Blufstein",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "stringa",
+      "cfRating": 1778,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 39,
+  "university": {
+    "fullName": "Higher Institute for Applied Sciences and Technology",
+    "shortName": "HIAST",
+    "region": "Africa and the Middle East",
+    "hashTag": "#HIAST",
+    "url": "http://www.hiast.edu.sy/",
+    "appYears": [
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "MaZen",
+    "regionals": [
+      "HIAST and SVU, 6th",
+      "Syria, 8th",
+      "Africa & Arab, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Jafar Alkheir",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ammar Hussein",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "AmmarBotros",
+      "cfRating": 1432,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Bashar Hussain",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Basharo",
+      "cfRating": 1888,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Somar Mohammad",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

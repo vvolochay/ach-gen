@@ -1,0 +1,59 @@
+{
+  "id": 1,
+  "university": {
+    "fullName": "Adama Science and Technology University",
+    "shortName": "ASTU",
+    "region": "Africa and the Middle East",
+    "hashTag": "#ASTU",
+    "url": "http://www.astu.edu.et/"
+  },
+  "team": {
+    "name": "Andalus",
+    "regionals": [
+      "Ethiopia, 1st",
+      "Africa & Arab, 20th"
+    ]
+  },
+  "coach": {
+    "name": "Desta Zerihun",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "DestaZerihun",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Amir Kheiru",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mustefa Kamil",
+      "altNames": [],
+      "tcHandle": "risu66",
+      "tcRating": null,
+      "cfHandle": "risu",
+      "cfRating": 1207,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mukerem Ali",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "mukeremali",
+      "cfRating": 1461,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

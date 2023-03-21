@@ -1,0 +1,69 @@
+{
+  "id": 6,
+  "university": {
+    "fullName": "Aleppo University",
+    "shortName": "Aleppo U",
+    "region": "Africa and the Middle East",
+    "hashTag": "#AleppoU",
+    "url": "http://www.alepuniv.com",
+    "appYears": [
+      2016,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Penguins+",
+    "regionals": [
+      "Aleppo University, 1st",
+      "Syria, 9th",
+      "Africa & Arab, 11th"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Alhamid",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Nehad Nabelsi",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Nihad_Nabelsi",
+      "cfRating": 1960,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ali Zaiback",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Ali_Zaiback",
+      "cfRating": 1759,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mohamad Abo Dan",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Mohamad_AboDan",
+      "cfRating": 1693,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

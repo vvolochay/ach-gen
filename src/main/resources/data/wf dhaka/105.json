@@ -1,0 +1,88 @@
+{
+  "id": 105,
+  "university": {
+    "fullName": "Universidade de São Paulo",
+    "shortName": "USP",
+    "region": "Latin America",
+    "hashTag": "#USP",
+    "url": "http://www.usp.br",
+    "appYears": [
+      1999,
+      2001,
+      2002,
+      2007,
+      2008,
+      2014,
+      2015,
+      2016,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2001
+    ],
+    "regYears": [
+      2001,
+      2018
+    ]
+  },
+  "team": {
+    "name": "KondZhiLa",
+    "regionals": [
+      "Brazil Preliminary, 7th",
+      "Brazil, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Nathan Benedetto Proença",
+    "altNames": [
+      "Nathan Benedetto ProenÃ§a"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Victor Lamarca",
+      "altNames": [],
+      "tcHandle": "vlamarca",
+      "tcRating": 1774,
+      "cfHandle": "VLamarca",
+      "cfRating": 2285,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Lucas Hiroshi Hanke Harada",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "lucas3h",
+      "cfRating": 2416,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jiang Zhi",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "kokosha",
+      "cfRating": 1919,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": 48,
+  "university": {
+    "fullName": "ITESM Campus Monterrey",
+    "shortName": "ITESM Monterrey",
+    "region": "Latin America",
+    "hashTag": "#CampusMty ",
+    "url": "http://www.mty.itesm.mx",
+    "appYears": [
+      1999,
+      2001,
+      2002,
+      2004,
+      2009,
+      2015,
+      2016,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Legendary Grand Newbies",
+    "regionals": [
+      "Mexico, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Luis Humberto González",
+    "altNames": [
+      "Luis Humberto GonzÃ¡lez"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2009, 2015-2016, 2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Adán López Alatorre",
+      "altNames": [
+        "AdÃ¡n LÃ³pez Alatorre"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "eidan",
+      "cfRating": 2197,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Diego García Rodríguez Del Campo",
+      "altNames": [
+        "Diego GarcÃ­a RodrÃ­guez Del Campo"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Diegogrc",
+      "cfRating": 2338,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 82
+        }
+      ]
+    },
+    {
+      "name": "Fiacro Gilberto Reyes Lopez",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "freyes",
+      "cfRating": 2154,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

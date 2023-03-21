@@ -1,0 +1,138 @@
+{
+  "id": 63,
+  "university": {
+    "fullName": "National Research University Higher School of Economics",
+    "shortName": "HSE",
+    "region": "Northern Eurasia",
+    "hashTag": "#HSE",
+    "url": "http://hse.ru",
+    "appYears": [
+      2010,
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2014,
+      2019,
+      2020
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Overtrained",
+    "regionals": [
+      "Moscow, 1st",
+      "Northern Eurasia Online, 4th",
+      "Northern Eurasia, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Mikhail Gustokashin",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "gustokashin",
+    "cfRating": 1865,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC bronze medal as coach (2019-2020)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (2015, 2017)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ramazan Rakhmatullin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "never_giveup",
+      "cfRating": 2935,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "Facebook Hacker Cup Finalist (2020)",
+          "priority": 90
+        },
+        {
+          "achievement": "TopCoder Open Algorithm Semifinalist (2021)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Gold Medalist (2018)",
+          "priority": 84
+        },
+        {
+          "achievement": "VK Cup 1st (2021)",
+          "priority": 35
+        },
+        {
+          "achievement": "VK Cup Finalist (2020)",
+          "priority": 30
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Maksim Gorokhovskii",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Maksim1744",
+      "cfRating": 3246,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "VK Cup 2nd (2021)",
+          "priority": 34
+        },
+        {
+          "achievement": "VK Cup Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Ivan Safonov",
+      "altNames": [],
+      "tcHandle": "isaf27",
+      "tcRating": 2338,
+      "cfHandle": "isaf27",
+      "cfRating": 3048,
+      "twitterHandle": "isaf27",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Bronze Medalist (2020)",
+          "priority": 102
+        },
+        {
+          "achievement": "VK Cup Finalist (2020, 2021)",
+          "priority": 30
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 30
+        },
+        {
+          "achievement": "VK Cup Qualified (2018)",
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}

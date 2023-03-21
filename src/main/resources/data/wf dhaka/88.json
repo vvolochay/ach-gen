@@ -1,0 +1,72 @@
+{
+  "id": 88,
+  "university": {
+    "fullName": "Texas A&M University",
+    "shortName": "Texas A&M",
+    "region": "North America",
+    "hashTag": "#tamu",
+    "url": "http://www.tamu.edu",
+    "appYears": [
+      2005
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "tamoo",
+    "regionals": [
+      "South Central USA, 2nd",
+      "North America, 7th"
+    ]
+  },
+  "coach": {
+    "name": "John Keyser",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2005)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Naixin Zong",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tanner Hoke",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "hoke_t",
+      "cfRating": 2148,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Matthew Tran",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "0e4ef622",
+      "cfRating": 2102,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

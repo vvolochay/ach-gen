@@ -1,0 +1,88 @@
+{
+  "id": 20,
+  "university": {
+    "fullName": "Cairo University - Faculty of Computers and Artificial Intelligence",
+    "shortName": "CU-FCAI",
+    "region": "Africa and the Middle East",
+    "hashTag": "#Cairo-FCI",
+    "url": "https://www.fci.cu.edu.eg",
+    "appYears": [
+      2002,
+      2004,
+      2006,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2016
+    ]
+  },
+  "team": {
+    "name": "FCAIyeen",
+    "regionals": [
+      "Cairo FCAI, 2nd",
+      "Egypt, 4th",
+      "Africa & Arab, 28th"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Mahmoud",
+    "altNames": [],
+    "tcHandle": "fegla",
+    "tcRating": 1339,
+    "cfHandle": "fegla",
+    "cfRating": 1518,
+    "twitterHandle": "wahabfegla",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Abdallah Naguib",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "abdallah_naguib",
+      "cfRating": 1575,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ali El Masry",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmed Dardery",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Dardy",
+      "cfRating": 1908,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

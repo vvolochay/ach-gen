@@ -1,0 +1,93 @@
+{
+  "id": 12,
+  "university": {
+    "fullName": "Ateneo de Manila University",
+    "shortName": "ADMU",
+    "region": "Asia Pacific",
+    "hashTag": "#AteneoDeManilau",
+    "url": "http://www.admu.edu.ph",
+    "appYears": [
+      2005,
+      2006,
+      2016,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "KFC",
+    "regionals": [
+      "Jakarta, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Vernon Gutierrez",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "verngutz",
+    "cfRating": 1926,
+    "twitterHandle": "verngutz",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2016)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Gerard Francis Ortega",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Shisuko",
+      "cfRating": 2042,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    },
+    {
+      "name": "Franz Louis Cesista",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "leloy",
+      "cfRating": 1627,
+      "twitterHandle": "leloykun",
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2017, 2018)",
+          "priority": 80
+        },
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    },
+    {
+      "name": "Kyle Patrick Dulay",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "TheLostCookie",
+      "cfRating": 2336,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    }
+  ]
+}

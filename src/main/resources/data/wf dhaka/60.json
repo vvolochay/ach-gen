@@ -1,0 +1,89 @@
+{
+  "id": 60,
+  "university": {
+    "fullName": "McGill University",
+    "shortName": "McGill U",
+    "region": "North America",
+    "hashTag": "#McGill",
+    "url": "http://www.cs.mcgill.ca",
+    "appYears": [
+      1998,
+      2009,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Bees",
+    "regionals": [
+      "Northeast North America, 4th",
+      "North America, 7th"
+    ]
+  },
+  "coach": {
+    "name": "David Becerra",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2011-2012)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Salih Bera Sogut",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Bera",
+      "cfRating": 1956,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    },
+    {
+      "name": "Thien-Trung Vuong",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    },
+    {
+      "name": "Eric Hu",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    }
+  ]
+}

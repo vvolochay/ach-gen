@@ -1,0 +1,93 @@
+{
+  "id": 80,
+  "university": {
+    "fullName": "St. Petersburg Campus of Higher School of Economics",
+    "shortName": "SPb HSE",
+    "region": "Northern Eurasia",
+    "hashTag": "#HSESPb",
+    "url": "https://spb.hse.ru/en/",
+    "appYears": [
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "SPb HSE 1: Lemon Tree",
+    "regionals": [
+      "Northwestern Russia, 4th",
+      "Northern Eurasia Online, 1st",
+      "Northern Eurasia, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Alice Sayutina",
+    "altNames": [
+      "Dmitrii Sayutin"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "cdkrot",
+    "cfRating": 2670,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Gold Medalist (2020)",
+        "priority": 104
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2018)",
+        "priority": 100
+      },
+      {
+        "achievement": "VK Cup Finalist (2020)",
+        "priority": 30
+      },
+      {
+        "achievement": "CodeChef SnackDown Finalist (2017, 2019)",
+        "priority": 30
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Konstantin Makhnev",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "kokokostya",
+      "cfRating": 2534,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "VK Cup Finalist (2018)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Maksim Surkov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "maximumSHOT",
+      "cfRating": 2560,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vasily Alferov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "platypus179",
+      "cfRating": 2138,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

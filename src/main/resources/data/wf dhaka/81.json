@@ -1,0 +1,328 @@
+{
+  "id": 81,
+  "university": {
+    "fullName": "St. Petersburg ITMO University",
+    "shortName": "SPb ITMO",
+    "region": "Northern Eurasia",
+    "hashTag": "#ITMO",
+    "url": "http://en.ifmo.ru",
+    "appYears": [
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [
+      2004,
+      2008,
+      2009,
+      2012,
+      2013,
+      2015,
+      2017
+    ],
+    "goldYears": [
+      2001,
+      2003,
+      2004,
+      2005,
+      2007,
+      2008,
+      2009,
+      2012,
+      2013,
+      2015,
+      2017,
+      2020
+    ],
+    "silverYears": [
+      2000,
+      2016
+    ],
+    "bronzeYears": [
+      1999,
+      2014,
+      2018
+    ],
+    "regYears": [
+      2004,
+      2008,
+      2009,
+      2012,
+      2013,
+      2015,
+      2017
+    ]
+  },
+  "team": {
+    "name": "SPb ITMO University Insert your name",
+    "regionals": [
+      "Northwestern Russia, 2nd",
+      "Northern Eurasia Online, 2nd",
+      "Northern Eurasia, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Gennady Korotkevich",
+    "altNames": [
+      "Геннадий Короткевич"
+    ],
+    "tcHandle": "tourist",
+    "tcRating": 4043,
+    "cfHandle": "tourist",
+    "cfRating": 3735,
+    "twitterHandle": "que_tourist",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals World Champion (2013, 2015)",
+        "priority": 105
+      },
+      {
+        "achievement": "TopCoder Open Algorithm 1st (2014, 2019, 2020, 2021)",
+        "priority": 95
+      },
+      {
+        "achievement": "TopCoder Open Marathon 1st (2018, 2019)",
+        "priority": 95
+      },
+      {
+        "achievement": "Google Code Jam 1st (2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022)",
+        "priority": 95
+      },
+      {
+        "achievement": "Facebook Hacker Cup 1st (2014, 2015, 2019, 2020)",
+        "priority": 95
+      },
+      {
+        "achievement": "TopCoder Open Marathon 2nd (2020)",
+        "priority": 94
+      },
+      {
+        "achievement": "TopCoder Open Algorithm 3rd (2018)",
+        "priority": 93
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Finalist (2013, 2017)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Semifinalist (2015, 2016)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Open Marathon Finalist (2021)",
+        "priority": 90
+      },
+      {
+        "achievement": "Google Code Jam Finalist (2021)",
+        "priority": 90
+      },
+      {
+        "achievement": "Distributed Code Jam Finalist (2017, 2018)",
+        "priority": 90
+      },
+      {
+        "achievement": "AtCoder World Tour Finals Finalist (2019)",
+        "priority": 90
+      },
+      {
+        "achievement": "Facebook Hacker Cup Finalist (2013, 2017, 2018, 2021)",
+        "priority": 90
+      },
+      {
+        "achievement": "IOI Absolute Winner (2009, 2010, 2011)",
+        "priority": 85
+      },
+      {
+        "achievement": "IOI Gold Medalist (2007, 2008, 2012)",
+        "priority": 84
+      },
+      {
+        "achievement": "IOI Silver Medalist (2006)",
+        "priority": 83
+      },
+      {
+        "achievement": "VK Cup 3rd (2012)",
+        "priority": 73
+      },
+      {
+        "achievement": "Yandex.Algorithm 1st (2013, 2014, 2015, 2017, 2018)",
+        "priority": 55
+      },
+      {
+        "achievement": "TopCoder High School 1st (2010)",
+        "priority": 55
+      },
+      {
+        "achievement": "Russian Code Cup 1st (2014, 2016)",
+        "priority": 55
+      },
+      {
+        "achievement": "TopCoder High School 2nd (2009)",
+        "priority": 54
+      },
+      {
+        "achievement": "Yandex.Algorithm Finalist (2011, 2016)",
+        "priority": 50
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (2017)",
+        "priority": 50
+      },
+      {
+        "achievement": "VK Cup 1st (2015, 2016, 2020)",
+        "priority": 35
+      },
+      {
+        "achievement": "CROC 1st (2013, 2016)",
+        "priority": 35
+      },
+      {
+        "achievement": "Code Festival 1st (2016, 2017)",
+        "priority": 35
+      },
+      {
+        "achievement": "CodeChef SnackDown 1st (2016, 2019)",
+        "priority": 35
+      },
+      {
+        "achievement": "Kotlin Challenge 1st (2014)",
+        "priority": 35
+      },
+      {
+        "achievement": "Yandex Open 1st (2010)",
+        "priority": 35
+      },
+      {
+        "achievement": "Russian Code Cup 2nd (2013, 2015)",
+        "priority": 34
+      },
+      {
+        "achievement": "Code Festival Grand Final 2nd (2016)",
+        "priority": 34
+      },
+      {
+        "achievement": "CodeChef SnackDown 2nd (2015, 2021)",
+        "priority": 34
+      },
+      {
+        "achievement": "CodeChef SnackDown Finalist (2017)",
+        "priority": 30
+      },
+      {
+        "achievement": "Lyft Level 5 Challenge 1st (2018)",
+        "priority": 15
+      },
+      {
+        "achievement": "Bayan Programming Contest Qualified (2013)",
+        "priority": 2
+      },
+      {
+        "achievement": "Google Code Jam Qualified (2010, 2012, 2013)",
+        "priority": 2
+      },
+      {
+        "achievement": "Russian Code Cup Qualified (2012)",
+        "priority": 2
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Stanislav Naumov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "josdas",
+      "cfRating": 2567,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2016)",
+          "priority": 83
+        },
+        {
+          "achievement": "VK Cup Qualified (2017)",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "name": "Roman Korobkov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "romanasa",
+      "cfRating": 2376,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Nikolay Budin",
+      "altNames": [
+        "Nikolai Budin"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Nebuchadnezzar",
+      "cfRating": 2699,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Gold Medalist (2020)",
+          "priority": 104
+        },
+        {
+          "achievement": "Facebook Hacker Cup Finalist (2020, 2021)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Silver Medalist (2015)",
+          "priority": 83
+        },
+        {
+          "achievement": "Yandex.Algorithm Finalist (2018)",
+          "priority": 50
+        },
+        {
+          "achievement": "VK Cup Finalist (2017, 2020, 2021)",
+          "priority": 30
+        },
+        {
+          "achievement": "CROC Finalist (2016)",
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

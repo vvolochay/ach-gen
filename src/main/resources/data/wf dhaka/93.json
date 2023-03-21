@@ -1,0 +1,79 @@
+{
+  "id": 93,
+  "university": {
+    "fullName": "Tishreen University",
+    "shortName": "Tishreen",
+    "region": "Africa and the Middle East",
+    "hashTag": "#Tishreen",
+    "url": "http://www.tishreen.edu.sy",
+    "appYears": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "CODeIT-20",
+    "regionals": [
+      "Tishreen University and Tartous University, 1st",
+      "Syria, 3rd",
+      "Africa & Arab, 17th"
+    ]
+  },
+  "coach": {
+    "name": "Jafar Alkheir",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Aws Issa",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Kaitokid",
+      "cfRating": 2271,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Khaled Farhat",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "KhaledFarhat",
+      "cfRating": 1883,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Wael Mchantaf",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "AboAlmanal",
+      "cfRating": 1644,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

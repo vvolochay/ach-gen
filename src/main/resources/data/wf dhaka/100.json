@@ -1,0 +1,66 @@
+{
+  "id": 100,
+  "university": {
+    "fullName": "Universidad Mayor de San Simón",
+    "shortName": "UMSS",
+    "region": "Latin America",
+    "hashTag": "#UMSS",
+    "url": "http://www.umss.edu.bo/",
+    "appYears": [
+      2017
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Que perdio",
+    "regionals": [
+      "South America-South, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Maria Leticia Blanco Coca",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Rodrigo Joaquin Salguero Morales",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "pacha2880",
+      "cfRating": 1986,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ronaldo Franco Jaldin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Mr.Universe",
+      "cfRating": 1657,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Miguel Angel Ortiz Merida",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "MickyOr",
+      "cfRating": 1954,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

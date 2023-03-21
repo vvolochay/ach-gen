@@ -1,0 +1,100 @@
+{
+  "id": 65,
+  "university": {
+    "fullName": "National University of Singapore",
+    "shortName": "NUS",
+    "region": "Asia Pacific",
+    "hashTag": "#NUSingapore",
+    "url": "http://www.nus.edu.sg",
+    "appYears": [
+      1999,
+      2000,
+      2001,
+      2003,
+      2005,
+      2009,
+      2010,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "MLG",
+    "regionals": [
+      "Jakarta, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Steven Halim",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "steven.halim",
+    "cfRating": 2104,
+    "twitterHandle": "Steven7Halim",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2010, 2012, 2014, 2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Dinh Quang Minh Nguyen",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "MofK",
+      "cfRating": 2588,
+      "twitterHandle": "nguyendqminh",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2018)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Hoang Long Vuong",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Lomk",
+      "cfRating": 2436,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Guangxuan Zhang",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "zhangguangxuan99",
+      "cfRating": 2252,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2017)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2016)",
+          "priority": 82
+        }
+      ]
+    }
+  ]
+}

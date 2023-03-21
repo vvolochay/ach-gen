@@ -1,0 +1,93 @@
+{
+  "id": 40,
+  "university": {
+    "fullName": "Indian Institute of Technology - Bombay",
+    "shortName": "IIT Bombay",
+    "region": "Asia West",
+    "hashTag": "#IITBombay",
+    "url": "http://www.iitb.ac.in",
+    "appYears": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Kal se Gym Jayenge",
+    "regionals": [
+      "Amritapuri Online, 12th",
+      "Gwalior-Pune, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Abhiram Ranade",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2007)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Shivam Goel",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Shivam_18",
+      "cfRating": 2151,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Shubham Jain",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "TheOneYouWant",
+      "cfRating": 2248,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Bhaskar Gupta",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "BhaskarTM",
+      "cfRating": 2410,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "World Under 10 Chess Championship 4th place (2009)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

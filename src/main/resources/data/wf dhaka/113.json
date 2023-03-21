@@ -1,0 +1,68 @@
+{
+  "id": 113,
+  "university": {
+    "fullName": "University of California, Los Angeles",
+    "shortName": "UCLA",
+    "region": "North America",
+    "hashTag": "#UCLA",
+    "url": "http://www.ucla.edu",
+    "appYears": [
+      2015,
+      2017
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UCLA Ice Cream Sandwich",
+    "regionals": [
+      "Southern California, 2nd",
+      "North America, 7th"
+    ]
+  },
+  "coach": {
+    "name": "David Smallberg",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Arihant Jain",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "arihant72600",
+      "cfRating": 2044,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Lucas Xia",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "lucasxia01",
+      "cfRating": 2203,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jacob Zhang",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "jacob.b.zhang",
+      "cfRating": 1966,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

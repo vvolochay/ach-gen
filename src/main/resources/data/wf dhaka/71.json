@@ -1,0 +1,88 @@
+{
+  "id": 71,
+  "university": {
+    "fullName": "Princess Sumaya University for Technology",
+    "shortName": "PSUT",
+    "region": "Africa and the Middle East",
+    "hashTag": "#psutJO",
+    "url": "http://psut.edu.jo",
+    "appYears": [
+      2014,
+      2016,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2018,
+      2020
+    ]
+  },
+  "team": {
+    "name": "WELCOME TO A CBC",
+    "regionals": [
+      "Jordan, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Firas Alghanim",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ahmad Hammoudeh",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Hambubger",
+      "cfRating": 1638,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mohammad Kilani",
+      "altNames": [
+        "Mohammad Alkilani"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Kilani",
+      "cfRating": 2241,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 82
+        },
+        {
+          "achievement": "IOI Finalist (2016, 2017)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Asem Tuffaha",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "MEOWW",
+      "cfRating": 1920,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

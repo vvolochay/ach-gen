@@ -1,0 +1,106 @@
+{
+  "id": 28,
+  "university": {
+    "fullName": "École Normale Supérieure de Paris",
+    "shortName": "ENS Paris",
+    "region": "Europe",
+    "hashTag": "#ENS_Ulm",
+    "url": "http://www.ens.fr",
+    "appYears": [
+      2010,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "ENS Ulm 1",
+    "regionals": [
+      "Southwestern Europe, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Hadrien Barral",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2017-2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Etienne Rossignol",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "etiennerossignol",
+      "cfRating": 1937,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2017, 2018, 2019)",
+          "priority": 83
+        }
+      ]
+    },
+    {
+      "name": "Noé Weeks",
+      "altNames": [
+        "NoÃ© Weeks"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "nweeks",
+      "cfRating": 2421,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Arthur Léonard",
+      "altNames": [
+        "Arthur LÃ©onard"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Arturgo",
+      "cfRating": 2392,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2019)",
+          "priority": 84
+        },
+        {
+          "achievement": "IOI Silver Medalist (2016)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2015, 2017, 2018)",
+          "priority": 82
+        },
+        {
+          "achievement": "IOI Finalist (2014)",
+          "priority": 80
+        }
+      ]
+    }
+  ]
+}

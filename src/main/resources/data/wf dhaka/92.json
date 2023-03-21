@@ -1,0 +1,206 @@
+{
+  "id": 92,
+  "university": {
+    "fullName": "The University of Tokyo",
+    "shortName": "U Tokyo",
+    "region": "Asia Pacific",
+    "hashTag": "#UTokyo",
+    "url": "http://www.u-tokyo.ac.jp",
+    "appYears": [
+      2002,
+      2003,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [
+      2013,
+      2015,
+      2018,
+      2019,
+      2020
+    ],
+    "silverYears": [
+      2014
+    ],
+    "bronzeYears": [
+      2003,
+      2012,
+      2017
+    ],
+    "regYears": [
+      2015,
+      2018,
+      2019
+    ]
+  },
+  "team": {
+    "name": "___ KING ___",
+    "regionals": [
+      "Japan Online, 1st",
+      "Yokohama, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Soh Kumabe",
+    "altNames": [],
+    "tcHandle": "DEGwer",
+    "tcRating": 2713,
+    "cfHandle": "DEGwer",
+    "cfRating": 2641,
+    "twitterHandle": "DEGwer3456",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Gold Medalist (2018)",
+        "priority": 104
+      },
+      {
+        "achievement": "ICPC World Finals Bronze Medalist (2017)",
+        "priority": 102
+      },
+      {
+        "achievement": "IOI Silver Medalist (2013)",
+        "priority": 83
+      },
+      {
+        "achievement": "Code Festival Finalist (2016, 2017)",
+        "priority": 30
+      },
+      {
+        "achievement": "Code Festival Grand Final Finalist (2016)",
+        "priority": 30
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yuta Takaya",
+      "altNames": [
+        "高谷 悠太"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "yutaka1999",
+      "cfRating": 3190,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "AtCoder World Tour Finals 2nd (2019)",
+          "priority": 94
+        },
+        {
+          "achievement": "Google Code Jam Finalist (2019, 2020, 2022)",
+          "priority": 90
+        },
+        {
+          "achievement": "Facebook Hacker Cup Finalist (2019)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Absolute Winner (2017)",
+          "priority": 85
+        },
+        {
+          "achievement": "IOI Gold Medalist (2014, 2015, 2016)",
+          "priority": 84
+        },
+        {
+          "achievement": "ICPC World Finals Invitational 1st (2020)",
+          "priority": 55
+        },
+        {
+          "achievement": "Yandex.Algorithm Finalist (2018)",
+          "priority": 50
+        },
+        {
+          "achievement": "TopCoder Open Algorithm Qualified (2019)",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "name": "Riku Kawasaki",
+      "altNames": [],
+      "tcHandle": "maroon_kuri",
+      "tcRating": 3274,
+      "cfHandle": "maroonrk",
+      "cfRating": 3438,
+      "twitterHandle": "maroon_kuri",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Gold Medalist (2019)",
+          "priority": 104
+        },
+        {
+          "achievement": "TopCoder Open Algorithm Semifinalist (2019, 2021)",
+          "priority": 90
+        },
+        {
+          "achievement": "Facebook Hacker Cup Finalist (2019, 2020, 2021)",
+          "priority": 90
+        },
+        {
+          "achievement": "Google Code Jam Finalist (2021)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Gold Medalist (2017)",
+          "priority": 84
+        },
+        {
+          "achievement": "IOI Silver Medalist (2016)",
+          "priority": 83
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Hirotaka Isa",
+      "altNames": [],
+      "tcHandle": "IH19980412",
+      "tcRating": 2724,
+      "cfHandle": "HIR180",
+      "cfRating": 3102,
+      "twitterHandle": "HIR180",
+      "achievements": [
+        {
+          "achievement": "TopCoder Open Algorithm Semifinalist (2020)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Silver Medalist (2014)",
+          "priority": 83
+        },
+        {
+          "achievement": "ICPC World Finals Invitational 1st (2020)",
+          "priority": 55
+        },
+        {
+          "achievement": "Code Festival Finalist (2017)",
+          "priority": 30
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

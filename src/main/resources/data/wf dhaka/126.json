@@ -1,0 +1,95 @@
+{
+  "id": 126,
+  "university": {
+    "fullName": "University of Toronto",
+    "shortName": "U of Toronto",
+    "region": "North America",
+    "hashTag": "#UofT",
+    "url": "http://www.toronto.edu",
+    "appYears": [
+      1996,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2006,
+      2007,
+      2012,
+      2013,
+      2014
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2001
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "U of T Blue",
+    "regionals": [
+      "East Central North America, 6th",
+      "North America, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Noah Fleming",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Michael Nematollahi",
+      "altNames": [
+        "Mohammad Hossein Nematollahi",
+        "Seyed Mohammad Hossein Nematollahi"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Deemo",
+      "cfRating": 2616,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2018)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Gold Medalist (2017)",
+          "priority": 84
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2016)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Matthew Agar",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "mattagar6",
+      "cfRating": 2151,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Victor Tao",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Growth",
+      "cfRating": 2017,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

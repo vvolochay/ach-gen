@@ -1,0 +1,129 @@
+{
+  "id": 67,
+  "university": {
+    "fullName": "Nizhny Novgorod State University",
+    "shortName": "UNN",
+    "region": "Northern Eurasia",
+    "hashTag": "#UNN",
+    "url": "http://www.unn.ac.ru",
+    "appYears": [
+      2001,
+      2003,
+      2004,
+      2005,
+      2011,
+      2012,
+      2016,
+      2020
+    ],
+    "winYears": [
+      2020
+    ],
+    "goldYears": [
+      2020
+    ],
+    "silverYears": [
+      2011
+    ],
+    "bronzeYears": [
+      2016
+    ],
+    "regYears": [
+      2020
+    ]
+  },
+  "team": {
+    "name": "Lera Almost Retired",
+    "regionals": [
+      "Southern Russia and Volga, 6th",
+      "Northern Eurasia Online, 42nd",
+      "Northern Eurasia, 16th"
+    ]
+  },
+  "coach": {
+    "name": "Alexey Shmelev",
+    "altNames": [
+      "Алексей Шмелев"
+    ],
+    "tcHandle": "ashmelev",
+    "tcRating": 2309,
+    "cfHandle": "I_Remember_Olya_ashmelev",
+    "cfRating": 2480,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC win as coach (2020)",
+        "priority": 5000
+      },
+      {
+        "achievement": "ICPC World Finals Silver Medalist (2011)",
+        "priority": 103
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2012)",
+        "priority": 100
+      },
+      {
+        "achievement": "Google Code Jam Finalist (2011)",
+        "priority": 90
+      },
+      {
+        "achievement": "Facebook Hacker Cup Finalist (2015)",
+        "priority": 90
+      },
+      {
+        "achievement": "CROC Finalist (2013)",
+        "priority": 30
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (2011, 2013, 2015)",
+        "priority": 30
+      },
+      {
+        "achievement": "CodeChef SnackDown Finalist (2021)",
+        "priority": 30
+      },
+      {
+        "achievement": "Facebook Hacker Cup Qualified* (2013)",
+        "priority": 1
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ilya Khlyustov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Riladavin",
+      "cfRating": 2151,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Valeria Ryabchikova",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Ekler",
+      "cfRating": 2005,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals World Champion (2020)",
+          "priority": 105
+        }
+      ]
+    },
+    {
+      "name": "Maksim Emelin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Makcum888",
+      "cfRating": 2205,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

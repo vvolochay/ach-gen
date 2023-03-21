@@ -1,0 +1,129 @@
+{
+  "id": 130,
+  "university": {
+    "fullName": "University of Wroclaw",
+    "shortName": "U Wroclaw",
+    "region": "Europe",
+    "hashTag": "#UWroclaw",
+    "url": "http://www.uni.wroc.pl",
+    "appYears": [
+      2005,
+      2007,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2005,
+      2019,
+      2020
+    ],
+    "bronzeYears": [
+      2016
+    ],
+    "regYears": [
+      2020
+    ]
+  },
+  "team": {
+    "name": "UWr1",
+    "regionals": [
+      "Central Europe, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Paweł Gawrychowski",
+    "altNames": [
+      "PaweÅ‚ Gawrychowski",
+      "Pawel Gawrychowski"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC silver medal as coach (2020)",
+        "priority": 3000
+      },
+      {
+        "achievement": "World Finals coach (2011, 2014)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Silver Medalist (2005)",
+        "priority": 103
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2007)",
+        "priority": 100
+      },
+      {
+        "achievement": "Google Code Jam Finalist (2005, 2006, 2008, 2012)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Finalist (2005)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Wildcard (2007, 2011)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Semifinalist (2008)",
+        "priority": 90
+      },
+      {
+        "achievement": "Facebook Hacker Cup Finalist (2011, 2012)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Collegiate Challenge Algorithm 3rd (2007)",
+        "priority": 73
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Marcin Knapik",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Fly_37",
+      "cfRating": 2302,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Adam Zyzik",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "w0nsh",
+      "cfRating": 2541,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Krzysztof Boryczka",
+      "altNames": [],
+      "tcHandle": "kobor",
+      "tcRating": 1388,
+      "cfHandle": "kobor",
+      "cfRating": 2290,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

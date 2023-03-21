@@ -1,0 +1,71 @@
+{
+  "id": 125,
+  "university": {
+    "fullName": "University of Tehran",
+    "shortName": "UT",
+    "region": "Asia West",
+    "hashTag": "#UTehran",
+    "url": "http://www.ut.ac.ir",
+    "appYears": [
+      2008,
+      2012,
+      2015,
+      2017,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "aRandomFunnyPhrase",
+    "regionals": [
+      "Tehran Online, 2nd",
+      "Tehran, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Sepehr Saeedpour",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "sepsad8",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Yara Kamkar",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "yarak",
+      "cfRating": 1826,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mohammad Hadi Hojjat",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mojtaba Shahbazi",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "mowji",
+      "cfRating": 1999,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

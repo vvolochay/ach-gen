@@ -1,0 +1,75 @@
+{
+  "id": 21,
+  "university": {
+    "fullName": "Cairo University - Faculty of Engineering",
+    "shortName": "CU-FE",
+    "region": "Africa and the Middle East",
+    "hashTag": "#Cairo-FE",
+    "url": "http://www.eng.cu.edu.eg",
+    "appYears": [
+      2008,
+      2018,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "NULL += ERROR!",
+    "regionals": [
+      "Cairo Engineering, 1st",
+      "Egypt, 15th",
+      "Africa & Arab, 22nd"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Mahmoud",
+    "altNames": [],
+    "tcHandle": "fegla",
+    "tcRating": 1339,
+    "cfHandle": "fegla",
+    "cfRating": 1518,
+    "twitterHandle": "wahabfegla",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Hassan Osama",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Hassanosama",
+      "cfRating": 1662,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Muhammad Sayed",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Muhammad98",
+      "cfRating": 1515,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Amr Aboshama",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Half-Blood_Prince",
+      "cfRating": 1872,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

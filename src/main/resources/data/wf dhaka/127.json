@@ -1,0 +1,158 @@
+{
+  "id": 127,
+  "university": {
+    "fullName": "University of Warsaw",
+    "shortName": "U Warsaw",
+    "region": "Europe",
+    "hashTag": "#UWarsaw",
+    "url": "http://www.uw.edu.pl",
+    "appYears": [
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [
+      2003,
+      2007
+    ],
+    "goldYears": [
+      2003,
+      2007,
+      2012,
+      2017,
+      2019
+    ],
+    "silverYears": [
+      2001,
+      2006,
+      2010,
+      2013,
+      2014,
+      2016
+    ],
+    "bronzeYears": [
+      1998,
+      2004,
+      2009,
+      2015
+    ],
+    "regYears": [
+      2003,
+      2007,
+      2018,
+      2019
+    ]
+  },
+  "team": {
+    "name": "Warsaw Eagles 2021",
+    "regionals": [
+      "Central Europe, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Jan Madey",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC win as coach (2003, 2007)",
+        "priority": 5000
+      },
+      {
+        "achievement": "ACM ICPC gold medal as coach (2012, 2017, 2019)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ACM ICPC silver medal as coach (2001, 2006, 2010, 2013-2014, 2016)",
+        "priority": 3000
+      },
+      {
+        "achievement": "ACM ICPC bronze medal as coach (2004, 2009, 2015)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (1999-2000, 2002, 2005, 2008, 2011, 2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Łukasz Kondraciuk",
+      "altNames": [
+        "Åukasz Kondraciuk"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "xman1024",
+      "cfRating": 2218,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dawid Jamka",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "shadowatyy",
+      "cfRating": 2453,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 82
+        }
+      ]
+    },
+    {
+      "name": "Konrad Paluszek",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "zdolny_kaczor",
+      "cfRating": 2722,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Gold Medalist (2019)",
+          "priority": 104
+        },
+        {
+          "achievement": "IOI Silver Medalist (2015)",
+          "priority": 83
+        }
+      ]
+    }
+  ]
+}

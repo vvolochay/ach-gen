@@ -1,0 +1,107 @@
+{
+  "id": 31,
+  "university": {
+    "fullName": "ETH Zürich",
+    "shortName": "ETH Zürich",
+    "region": "Europe",
+    "hashTag": "#ETH",
+    "url": "http://www.ethz.ch",
+    "appYears": [
+      2011,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "lETHargy",
+    "regionals": [
+      "Southwestern Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Konstantin Wohlwend",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Yuhao Yao",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "YaoBIG",
+      "cfRating": 2644,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Antti Röyskö",
+      "altNames": [
+        "Antti RÃ¶yskÃ¶"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "mango_lassi",
+      "cfRating": 2862,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2018)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2017)",
+          "priority": 82
+        }
+      ]
+    },
+    {
+      "name": "Marcel Bezdrighin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "please_delete_account",
+      "cfRating": 2130,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2016)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2015)",
+          "priority": 82
+        },
+        {
+          "achievement": "IOI Finalist (2014)",
+          "priority": 80
+        }
+      ]
+    }
+  ]
+}

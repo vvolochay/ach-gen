@@ -1,0 +1,73 @@
+{
+  "id": 56,
+  "university": {
+    "fullName": "Korea University",
+    "shortName": "Korea U",
+    "region": "Asia Pacific",
+    "hashTag": "#KU",
+    "url": "http://www.korea.ac.kr",
+    "appYears": [
+      2012,
+      2014,
+      2015,
+      2016,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2015
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "1_Hoeaeng_2_Hawawang",
+    "regionals": [
+      "Korea, 18th",
+      "Seoul, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Jaehoon Lee",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Taesoo Seo",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "cheetose",
+      "cfRating": 2433,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jun Kyeom Kim",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Ryute",
+      "cfRating": 2009,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Seyun Roh",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "knon0501",
+      "cfRating": 1959,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

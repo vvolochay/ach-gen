@@ -1,0 +1,122 @@
+{
+  "id": 74,
+  "university": {
+    "fullName": "Saratov State University",
+    "shortName": "Saratov State U",
+    "region": "Northern Eurasia",
+    "hashTag": "#SGU",
+    "url": "http://sgu.ru",
+    "appYears": [
+      2002,
+      2003,
+      2005,
+      2006,
+      2007,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [
+      2006
+    ],
+    "goldYears": [
+      2006,
+      2009
+    ],
+    "silverYears": [
+      2002,
+      2003,
+      2007,
+      2010,
+      2011
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2002,
+      2006
+    ]
+  },
+  "team": {
+    "name": "Saratov SU N",
+    "regionals": [
+      "Southern Russia and Volga, 1st",
+      "Northern Eurasia Online, 18th",
+      "Northern Eurasia, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Ivan Androsov",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "BledDest",
+    "cfRating": 2643,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2018, 2019)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mikhail Piklyaev",
+      "altNames": [],
+      "tcHandle": "pikmike98",
+      "tcRating": 2405,
+      "cfHandle": "awoo",
+      "cfRating": 2459,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "VK Cup Finalist (2021)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Vladimir Petrov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "vovuh",
+      "cfRating": 2175,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Maksim Meshcheryakov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Neon",
+      "cfRating": 1961,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

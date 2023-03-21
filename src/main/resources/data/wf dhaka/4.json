@@ -1,0 +1,60 @@
+{
+  "id": 4,
+  "university": {
+    "fullName": "Al-Azhar University",
+    "shortName": "Al-Azhar",
+    "region": "Africa and the Middle East",
+    "hashTag": "#Al-Azhar",
+    "url": "http://www.azhar.edu.eg/en/"
+  },
+  "team": {
+    "name": "Bug Busters",
+    "regionals": [
+      "Al Azhar University, 1st",
+      "Egypt, 24th",
+      "Africa & Arab, 9th"
+    ]
+  },
+  "coach": {
+    "name": "Abdelrahman Abdelmoneam",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "Abder-Rahman_26",
+    "cfRating": 1272,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Muhammad Al-Halaby",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "MuhammadAl-Halaby",
+      "cfRating": 1698,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmed Magdy",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Ahmad-Magdy",
+      "cfRating": 1644,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmad Almaghraby",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "maghrabyJr_",
+      "cfRating": 1783,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

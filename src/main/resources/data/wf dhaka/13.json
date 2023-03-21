@@ -1,0 +1,93 @@
+{
+  "id": 13,
+  "university": {
+    "fullName": "Bangladesh University of Engineering and Technology",
+    "shortName": "BUET",
+    "region": "Asia West",
+    "hashTag": "#BUET",
+    "url": "http://www.buet.ac.bd",
+    "appYears": [
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2020
+    ]
+  },
+  "team": {
+    "name": "BUET_NerdHerd",
+    "regionals": [
+      "Dhaka Online, 7th",
+      "Dhaka, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Mohammad Sohel Rahman",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Apurba Saha",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Roll_Num_56",
+      "cfRating": 1999,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Noshin Nawal",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "noshin_faiza",
+      "cfRating": 2084,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Iftekhar Hakim Kaowsar",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Iftekhar_Hakim_K",
+      "cfRating": 2145,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

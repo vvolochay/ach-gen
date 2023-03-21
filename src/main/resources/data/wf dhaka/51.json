@@ -1,0 +1,69 @@
+{
+  "id": 51,
+  "university": {
+    "fullName": "Jahangirnagar University",
+    "shortName": "JU",
+    "region": "Asia West",
+    "hashTag": "#JUniv",
+    "url": "http://www.juniv.edu",
+    "appYears": [
+      2015,
+      2016,
+      2017
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "JU_Glass_Half_Full",
+    "regionals": [
+      "Dhaka Online, 10th",
+      "Dhaka, 10th"
+    ]
+  },
+  "coach": {
+    "name": "Md Ezharul Islam",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Chayan Kumar Ray",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "_c_k_r_",
+      "cfRating": 1772,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Anik Sarker",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "aniks2645",
+      "cfRating": 1762,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Sakib Hasan",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "the0dd1out",
+      "cfRating": 1808,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 30,
+  "university": {
+    "fullName": "El Shorouk Academy",
+    "shortName": "Elshorouk",
+    "region": "Africa and the Middle East",
+    "hashTag": null,
+    "url": "http://sha.edu.eg/"
+  },
+  "team": {
+    "name": " Angry Nerds",
+    "regionals": [
+      "El-Shorouk Academy, 1st",
+      "Egypt, 27th",
+      "Africa & Arab, 37th"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Mahmoud",
+    "altNames": [],
+    "tcHandle": "fegla",
+    "tcRating": 1339,
+    "cfHandle": "fegla",
+    "cfRating": 1518,
+    "twitterHandle": "wahabfegla",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Salah Elden Tarek",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "SalahSalem",
+      "cfRating": 1708,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mohaned el-haddad",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "mohaned2014",
+      "cfRating": 1724,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Peter Mourad",
+      "altNames": [],
+      "tcHandle": "peter_mourad",
+      "tcRating": null,
+      "cfHandle": "peter_mourad",
+      "cfRating": 1544,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

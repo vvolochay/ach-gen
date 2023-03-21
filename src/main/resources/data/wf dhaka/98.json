@@ -1,0 +1,100 @@
+{
+  "id": 98,
+  "university": {
+    "fullName": "Universidad de La Habana",
+    "shortName": "UH",
+    "region": "Latin America",
+    "hashTag": "#UniversidadLH",
+    "url": "http://www.uh.cu/",
+    "appYears": [
+      2011,
+      2012,
+      2013,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2017
+    ]
+  },
+  "team": {
+    "name": "UH Top",
+    "regionals": [
+      "Caribbean, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Alfredo Somoza Moreno",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2011-2013, 2015-2017, 2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Denis Gómez Cruz",
+      "altNames": [
+        "Denis GÃ³mez Cruz"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Devil",
+      "cfRating": 2168,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "David Manuel García Aguilera",
+      "altNames": [
+        "David Manuel GarcÃ­a Aguilera"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "dmga44",
+      "cfRating": 2517,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Lázaro Raúl Iglesias Vera",
+      "altNames": [
+        "LÃ¡zaro RaÃºl Iglesias Vera"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "RULO",
+      "cfRating": 1731,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

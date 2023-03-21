@@ -1,0 +1,72 @@
+{
+  "id": 19,
+  "university": {
+    "fullName": "Birla Institute of Technology and Science, Pilani Campus",
+    "shortName": "BITS Pilani",
+    "region": "Asia West",
+    "hashTag": "#BITS",
+    "url": "http://www.bits-pilani.ac.in",
+    "appYears": [
+      2016
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "thayir_sadam_lovers",
+    "regionals": [
+      "Amritapuri Online, 5th",
+      "Gwalior-Pune, 19th"
+    ]
+  },
+  "coach": {
+    "name": "Avinash Gautam",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2016)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Rahul Prabhu",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Lain",
+      "cfRating": 2131,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abhinav Ramachandran",
+      "altNames": [],
+      "tcHandle": "geckods",
+      "tcRating": 1226,
+      "cfHandle": "geckods",
+      "cfRating": 2161,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aditya Ramaswamy",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "lolok123",
+      "cfRating": 2101,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

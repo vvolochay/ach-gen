@@ -1,0 +1,73 @@
+{
+  "id": 91,
+  "university": {
+    "fullName": "The University of Texas at Dallas",
+    "shortName": "UT Dallas",
+    "region": "North America",
+    "hashTag": "#utdallas",
+    "url": "http://www.utdallas.edu",
+    "appYears": [
+      2007,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "👌 whoosh 👌",
+    "regionals": [
+      "South Central USA, 1st",
+      "North America, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Bhadrachalam Chitturi",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2014-2015, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Suraj Mathashery",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mike Nguyen",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Evan Bailey",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "EMBailey",
+      "cfRating": 2037,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

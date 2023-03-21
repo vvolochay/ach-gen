@@ -1,0 +1,68 @@
+{
+  "id": 136,
+  "university": {
+    "fullName": "Yale University",
+    "shortName": "Yale",
+    "region": "North America",
+    "hashTag": "#Yale",
+    "url": "http://www.cs.yale.edu/"
+  },
+  "team": {
+    "name": "Yale-Yale",
+    "regionals": [
+      "Greater New York, 5th",
+      "North America, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Ruzica Piskac",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Andrew Yuan",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "idontreallyknow",
+      "cfRating": 2164,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Deyuan Li",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "eed7573",
+      "cfRating": 2122,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dion Stephan Ong",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "dsjong",
+      "cfRating": 2140,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2020)",
+          "priority": 82
+        },
+        {
+          "achievement": "IOI Finalist (2019)",
+          "priority": 80
+        }
+      ]
+    }
+  ]
+}

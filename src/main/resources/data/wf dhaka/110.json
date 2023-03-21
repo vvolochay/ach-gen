@@ -1,0 +1,97 @@
+{
+  "id": 110,
+  "university": {
+    "fullName": "Universitas Indonesia",
+    "shortName": "UI",
+    "region": "Asia Pacific",
+    "hashTag": "#UnivIndonesia",
+    "url": "http://www.ui.ac.id",
+    "appYears": [
+      2017,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "3S: 2 Silver 1 Salman",
+    "regionals": [
+      "Indonesia, 2nd",
+      "Jakarta, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Denny Denny",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "dennycs",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2014-2015, 2017, 2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ahmad Haulian Yoga Pratama",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "yogahmad77",
+      "cfRating": 2462,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 83
+        }
+      ]
+    },
+    {
+      "name": "Fausta Anugrah Dianparama",
+      "altNames": [
+        "R. Fausta Anugrah Dianparama"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "faustaadp",
+      "cfRating": 2394,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 83
+        }
+      ]
+    },
+    {
+      "name": "Muhammad Salman Al-Farisi",
+      "altNames": [
+        "Muhammad Salman Al Farisi"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "AlphaS",
+      "cfRating": 1701,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 82
+        }
+      ]
+    }
+  ]
+}

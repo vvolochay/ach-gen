@@ -1,0 +1,59 @@
+{
+  "id": 69,
+  "university": {
+    "fullName": "Northeastern University",
+    "shortName": "NEU",
+    "region": "North America",
+    "hashTag": "#Northeastern",
+    "url": "https://www.northeastern.edu"
+  },
+  "team": {
+    "name": "NEU 1",
+    "regionals": [
+      "Northeast North America, 5th",
+      "North America, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Sushant Agarwal",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Noble Mushtak",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Noble_Mushtak",
+      "cfRating": 2239,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jonathan Hsieh",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "jonathanh8686",
+      "cfRating": 1454,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "David Zhuang",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

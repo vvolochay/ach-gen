@@ -1,0 +1,71 @@
+{
+  "id": 99,
+  "university": {
+    "fullName": "Universidad de las Ciencias Informáticas",
+    "shortName": "UCI",
+    "region": "Latin America",
+    "hashTag": "#UCI",
+    "url": "http://www.uci.cu",
+    "appYears": [
+      2011,
+      2013
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "FreesTyle",
+    "regionals": [
+      "Caribbean, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Rubén Alcolea Núñez",
+    "altNames": [
+      "RubÃ©n Alcolea NÃºÃ±ez"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Vladimir Otero Mariño",
+      "altNames": [
+        "Vladimir Otero MariÃ±o"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Kosmo00",
+      "cfRating": 1362,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Adiane Cueto Portuondo",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ernesto Teruel Velazco",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "teruel",
+      "cfRating": 1637,
+      "twitterHandle": "teruel1998",
+      "achievements": []
+    }
+  ]
+}

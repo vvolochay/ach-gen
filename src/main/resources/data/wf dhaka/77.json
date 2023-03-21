@@ -1,0 +1,73 @@
+{
+  "id": 77,
+  "university": {
+    "fullName": "Shahjalal University of Science and Technology",
+    "shortName": "SUST",
+    "region": "Asia West",
+    "hashTag": "#SUST",
+    "url": "http://www.sust.edu",
+    "appYears": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2018,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "BerlekampMassey",
+    "regionals": [
+      "Dhaka Online, 2nd",
+      "Dhaka, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Enamul Hassan",
+    "altNames": [],
+    "tcHandle": "manetsus",
+    "tcRating": 1286,
+    "cfHandle": "manetsus",
+    "cfRating": 1629,
+    "twitterHandle": "enamcse",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Md. Shajalal Sohag",
+      "altNames": [],
+      "tcHandle": "YouKnowWho",
+      "tcRating": null,
+      "cfHandle": "YouKn0wWho",
+      "cfRating": 2226,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Fahim Tajwar Saikat",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "steinum",
+      "cfRating": 1934,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Shaikat Hosen",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Raiden",
+      "cfRating": 2112,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

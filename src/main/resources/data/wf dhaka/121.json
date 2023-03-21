@@ -1,0 +1,98 @@
+{
+  "id": 121,
+  "university": {
+    "fullName": "University of Michigan at Ann Arbor",
+    "shortName": "U Michigan",
+    "region": "North America",
+    "hashTag": "#umich",
+    "url": "http://www.umich.edu",
+    "appYears": [
+      2004,
+      2005,
+      2010,
+      2011,
+      2014,
+      2015,
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [
+      2011
+    ],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2011
+    ]
+  },
+  "team": {
+    "name": "Victors",
+    "regionals": [
+      "East Central North America, 13th",
+      "North America, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Kevin Compton",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC gold medal as coach (2011)",
+        "priority": 4000
+      },
+      {
+        "achievement": "World Finals coach (2004-2005, 2010, 2014-2015, 2017-2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Allen Li",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Junwen Tan",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ramchandra Apte",
+      "altNames": [
+        "Ramchandra Kishor Apte"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "ramchandra",
+      "cfRating": 2163,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2018)",
+          "priority": 80
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2019)",
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

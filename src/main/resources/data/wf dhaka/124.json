@@ -1,0 +1,89 @@
+{
+  "id": 124,
+  "university": {
+    "fullName": "University of Science, VNU-HCM",
+    "shortName": "VNUHCM-US",
+    "region": "Asia Pacific",
+    "hashTag": "#VNU-HCM",
+    "url": "http://www.hcmus.edu.vn",
+    "appYears": [
+      2010,
+      2011,
+      2014,
+      2016,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "HCMUS-Illuminate",
+    "regionals": [
+      "Vietnam, 2nd",
+      "Can Tho, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Vi-Minh Luong",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Quy-Khoi Le",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "GreymaneSilverfang",
+      "cfRating": 2378,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Diep Xuan Quang Nguyen",
+      "altNames": [],
+      "tcHandle": "xuanquang1999",
+      "tcRating": 1489,
+      "cfHandle": "xuanquang1999",
+      "cfRating": 2446,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Quang-Thuc Nguyen",
+      "altNames": [
+        "Quang Nguyen Diep Xuan"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "xuanquang1999",
+      "cfRating": 2446,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 80
+        }
+      ]
+    }
+  ]
+}

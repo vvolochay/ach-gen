@@ -1,0 +1,81 @@
+{
+  "id": 96,
+  "university": {
+    "fullName": "Universidad de Costa Rica",
+    "shortName": "UCR",
+    "region": "Latin America",
+    "hashTag": "#UCR",
+    "url": "http://www.ucr.ac.cr",
+    "appYears": [
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Chayotes UCR",
+    "regionals": [
+      "Central America, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Rodrigo Antonio Chaves Fernández",
+    "altNames": [
+      "Rodrigo Antonio Chaves FernÃ¡ndez"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "rchaves",
+    "cfRating": 1681,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Kevin Coto",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "César Herrera Garro",
+      "altNames": [
+        "CÃ©sar Herrera Garro"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kevin Rojas",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "kevinrojas99",
+      "cfRating": 1519,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 135,
+  "university": {
+    "fullName": "Xidian University",
+    "shortName": "Xidian U",
+    "region": "Asia East",
+    "hashTag": "#Xidian",
+    "url": "http://www.xidian.edu.cn",
+    "appYears": [
+      2007,
+      2010
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Symplectic Geometric Rhythm",
+    "regionals": [
+      "Shenyang, 12th",
+      "Nanjing, 4th",
+      "Asia East, 26th"
+    ]
+  },
+  "coach": {
+    "name": "Wan Bo",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Zhongsheng Zhan",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "zzs_dasc",
+      "cfRating": 2129,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Chang Feng",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Can Zhou",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "bzy",
+      "cfRating": 1710,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

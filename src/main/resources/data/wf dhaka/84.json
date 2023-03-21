@@ -1,0 +1,90 @@
+{
+  "id": 84,
+  "university": {
+    "fullName": "Swarthmore College",
+    "shortName": "Swarthmore",
+    "region": "North America",
+    "hashTag": "#Swarthmore",
+    "url": "http://www.swarthmore.edu",
+    "appYears": [
+      1996,
+      1997,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2020
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "cout << 1/0 << endl;",
+    "regionals": [
+      "Mid-Atlantic USA, 1st",
+      "North America, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Joshua Brody",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Runze Wang",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "nitrousoxide",
+      "cfRating": 2186,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    },
+    {
+      "name": "Timothy Mou",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "silxi",
+      "cfRating": 2052,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    },
+    {
+      "name": "Jay Leeds",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Geothermal",
+      "cfRating": 3053,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "Facebook Hacker Cup Finalist (2020)",
+          "priority": 90
+        },
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    }
+  ]
+}

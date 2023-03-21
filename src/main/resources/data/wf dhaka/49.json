@@ -1,0 +1,99 @@
+{
+  "id": 49,
+  "university": {
+    "fullName": "Izhevsk State Technical University",
+    "shortName": "Izhevsk STU",
+    "region": "Northern Eurasia",
+    "hashTag": "#IzhevskSTU",
+    "url": "http://inter.istu.ru/",
+    "appYears": [
+      2004,
+      2005,
+      2008,
+      2010,
+      2013,
+      2014,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [
+      2008
+    ],
+    "silverYears": [
+      2004
+    ],
+    "bronzeYears": [
+      2005
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Izhevsk STU: Ne nado dumat'",
+    "regionals": [
+      "Ural, 2nd",
+      "Northern Eurasia Online, 41st",
+      "Northern Eurasia, 21st"
+    ]
+  },
+  "coach": {
+    "name": "Ruslan Gatin",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "Ruslan",
+    "cfRating": 2042,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2013)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ilya Zylev",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "ATSTNG",
+      "cfRating": 2141,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Rustam Musin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "jvmusin",
+      "cfRating": 1777,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Nikita Kryazhevskikh",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "kibastian",
+      "cfRating": 1420,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

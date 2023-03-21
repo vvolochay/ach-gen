@@ -1,0 +1,112 @@
+{
+  "id": 75,
+  "university": {
+    "fullName": "Seoul National University",
+    "shortName": "Seoul National U",
+    "region": "Asia Pacific",
+    "hashTag": "#SNU",
+    "url": "http://www.snu.ac.kr",
+    "appYears": [
+      2001,
+      2002,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [
+      2017,
+      2020
+    ],
+    "silverYears": [
+      2001,
+      2018,
+      2019
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2001,
+      2017,
+      2020
+    ]
+  },
+  "team": {
+    "name": "Let Us Win ICPC WF",
+    "regionals": [
+      "Korea, 10th",
+      "Seoul, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Heonyoung Yeom",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC gold medal as coach (2020)",
+        "priority": 4000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Minje Lee",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "dlalswp25",
+      "cfRating": 2668,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Sebin Kim",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "blackbori",
+      "cfRating": 2946,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2018, 2019)",
+          "priority": 84
+        }
+      ]
+    },
+    {
+      "name": "Gyojun Youn",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "GyojunYoun",
+      "cfRating": 2574,
+      "twitterHandle": "youngyojun",
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2019)",
+          "priority": 84
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 83
+        }
+      ]
+    }
+  ]
+}

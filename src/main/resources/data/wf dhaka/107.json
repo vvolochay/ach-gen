@@ -1,0 +1,95 @@
+{
+  "id": 107,
+  "university": {
+    "fullName": "Universidade Estadual de Campinas",
+    "shortName": "UNICAMP",
+    "region": "Latin America",
+    "hashTag": "#UNICAMP",
+    "url": "http://www.ic.unicamp.br",
+    "appYears": [
+      2003,
+      2004,
+      2005,
+      2008,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "namae wa??",
+    "regionals": [
+      "Brazil Preliminary, 1st",
+      "Brazil, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Fábio Luiz Usberti",
+    "altNames": [
+      "FÃ¡bio Luiz Usberti"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "fusberti",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2016-2017, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tiago Souza",
+      "altNames": [
+        "Tiago Domingos Almeida Souza"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "tdas",
+      "cfRating": 2114,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2019)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Naim Shaikhzadeh",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "NaimSS",
+      "cfRating": 2308,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Matheus Viana",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "MatheusLealV",
+      "cfRating": 1907,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2018)",
+          "priority": 80
+        }
+      ]
+    }
+  ]
+}

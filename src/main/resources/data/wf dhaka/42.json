@@ -1,0 +1,80 @@
+{
+  "id": 42,
+  "university": {
+    "fullName": "Indian Institute of Technology - Kanpur",
+    "shortName": "IIT Kanpur",
+    "region": "Asia West",
+    "hashTag": "#IITKNP",
+    "url": "http://www.iitk.ac.in",
+    "appYears": [
+      2000,
+      2002,
+      2011,
+      2012,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "ACassins",
+    "regionals": [
+      "Amritapuri Online, 2nd",
+      "Kanpur-Mathura Online, 22nd"
+    ]
+  },
+  "coach": {
+    "name": "Surender Baswana",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2016, 2018-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mohan Raghu Garimella",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "mohanraghug",
+      "cfRating": 2050,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Akhilesh Sharma",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Dragnoid99",
+      "cfRating": 1665,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abhinav Sharma",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "abhinavvv306",
+      "cfRating": 2322,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

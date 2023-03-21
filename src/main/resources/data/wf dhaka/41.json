@@ -1,0 +1,72 @@
+{
+  "id": 41,
+  "university": {
+    "fullName": "Indian Institute of Technology - Guwahati",
+    "shortName": "IIT Guwahati",
+    "region": "Asia West",
+    "hashTag": "#IITGuwahati",
+    "url": "http://www.iitg.ernet.in",
+    "appYears": [
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Cheese_Maggi",
+    "regionals": [
+      "Amritapuri Online, 9th",
+      "Gwalior-Pune, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Chandan Karfa",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Vaibhav Kumar Singh",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "zeus_iitg",
+      "cfRating": 2120,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tejas Khairnar",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "BrownieTK",
+      "cfRating": 1857,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nishchay Manwani",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "EnEm",
+      "cfRating": 2500,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

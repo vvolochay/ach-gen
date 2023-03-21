@@ -1,0 +1,59 @@
+{
+  "id": 73,
+  "university": {
+    "fullName": "Rajshahi University of Engineering & Technology",
+    "shortName": "RUET",
+    "region": "Asia West",
+    "hashTag": "#RUET",
+    "url": "http://www.ruet.ac.bd/"
+  },
+  "team": {
+    "name": "RUET_assert(0)",
+    "regionals": [
+      "Dhaka Online, 18th",
+      "Dhaka, 14th"
+    ]
+  },
+  "coach": {
+    "name": "Barshon Sen",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Shahwat Hasnaine",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Hasnaine_",
+      "cfRating": 1432,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Risal Shahriar Shefin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "shefin.cse16",
+      "cfRating": 2108,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tauhedul Islam",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "tanus_era",
+      "cfRating": 1853,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

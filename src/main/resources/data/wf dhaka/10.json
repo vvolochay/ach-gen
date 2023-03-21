@@ -1,0 +1,110 @@
+{
+  "id": 10,
+  "university": {
+    "fullName": "Arab Academy for Science and Technology - Alexandria",
+    "shortName": "AAST-Alex",
+    "region": "Africa and the Middle East",
+    "hashTag": "#AAST",
+    "url": "http://www.aast.edu",
+    "appYears": [
+      2007,
+      2009,
+      2013,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2013
+    ]
+  },
+  "team": {
+    "name": "100% Winrate",
+    "regionals": [
+      "AAST, 1st",
+      "Egypt, 1st",
+      "Africa & Arab, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Mahmoud",
+    "altNames": [],
+    "tcHandle": "fegla",
+    "tcRating": 1339,
+    "cfHandle": "fegla",
+    "cfRating": 1518,
+    "twitterHandle": "wahabfegla",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mariam Salah",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "tamp_",
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mahmoud Badawy",
+      "altNames": [],
+      "tcHandle": "mahmoudbadawy5",
+      "tcRating": 1572,
+      "cfHandle": "mahmoudbadawy",
+      "cfRating": 2220,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2016)",
+          "priority": 82
+        },
+        {
+          "achievement": "IOI Finalist (2018)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Youssef Salama",
+      "altNames": [
+        "Yousef Ibrahim Salama"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Yousef_Salama",
+      "cfRating": 2593,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2017)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2015)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2012, 2013)",
+          "priority": 82
+        }
+      ]
+    }
+  ]
+}

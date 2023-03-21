@@ -1,0 +1,73 @@
+{
+  "id": 97,
+  "university": {
+    "fullName": "Universidad de Guadalajara CUCEI",
+    "shortName": "UdG CUCEI",
+    "region": "Latin America",
+    "hashTag": "#udgcucei",
+    "url": "http://www.cucei.udg.mx/",
+    "appYears": [
+      2008
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Leones(0,0,0)",
+    "regionals": [
+      "Mexico, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Marcos Kolodny",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "MarcosK",
+    "cfRating": 2058,
+    "twitterHandle": "MarcosKolodny",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2019, 2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Franco Ariel Ramirez Villa",
+      "altNames": [],
+      "tcHandle": "Franco1010",
+      "tcRating": 1347,
+      "cfHandle": "Franco1010",
+      "cfRating": 1593,
+      "twitterHandle": "@Franco1010_",
+      "achievements": []
+    },
+    {
+      "name": "Aida Crystal Rodriguez Soto",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "crystaalroo",
+      "cfRating": 1491,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jorge Iván Bórquez Meza",
+      "altNames": [
+        "Jorge IvÃ¡n BÃ³rquez Meza"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "IvanBorquez",
+      "cfRating": 2114,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

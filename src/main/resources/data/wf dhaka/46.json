@@ -1,0 +1,81 @@
+{
+  "id": 46,
+  "university": {
+    "fullName": "International Institute of Information Technology - Hyderabad",
+    "shortName": "IIIT Hyderabad",
+    "region": "Asia West",
+    "hashTag": "#IIITHyderabad",
+    "url": "http://www.iiit.ac.in",
+    "appYears": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2017,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Holy Trinity",
+    "regionals": [
+      "Amritapuri Online, 4th",
+      "Gwalior-Pune, 11th"
+    ]
+  },
+  "coach": {
+    "name": "Vikram Pudi",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2009-2013, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Gaurav Sultane",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "gaurav172",
+      "cfRating": 2309,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Sayantan Jana",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "shaanknight",
+      "cfRating": 2103,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Arnav Juneja",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "vivace_jr",
+      "cfRating": 2166,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

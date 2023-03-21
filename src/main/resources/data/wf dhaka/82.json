@@ -1,0 +1,201 @@
+{
+  "id": 82,
+  "university": {
+    "fullName": "St. Petersburg State University",
+    "shortName": "St. Petersburg SU",
+    "region": "Northern Eurasia",
+    "hashTag": "#SPBU",
+    "url": "http://eng.spbu.ru",
+    "appYears": [
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [
+      2000,
+      2001,
+      2014,
+      2016
+    ],
+    "goldYears": [
+      1998,
+      2000,
+      2001,
+      2009,
+      2011,
+      2014,
+      2016,
+      2017
+    ],
+    "silverYears": [
+      2006,
+      2010,
+      2013
+    ],
+    "bronzeYears": [
+      1997,
+      1999,
+      2008
+    ],
+    "regYears": [
+      2000,
+      2001,
+      2011,
+      2014,
+      2016
+    ]
+  },
+  "team": {
+    "name": "LOUD Enough",
+    "regionals": [
+      "Northwestern Russia, 3rd",
+      "Northern Eurasia Online, 7th",
+      "Northern Eurasia, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Andrei Lopatin",
+    "altNames": [
+      "Andrei Lopatine",
+      "Андрей Лопатин"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "KOTEHOK",
+    "cfRating": 2291,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC win as coach (2014, 2016)",
+        "priority": 5000
+      },
+      {
+        "achievement": "ACM ICPC gold medal as coach (2017)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ACM ICPC silver medal as coach (2013)",
+        "priority": 3000
+      },
+      {
+        "achievement": "World Finals coach (2012, 2015, 2018-2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals World Champion (2000, 2001)",
+        "priority": 105
+      },
+      {
+        "achievement": "TopCoder Open Marathon 1st (2009)",
+        "priority": 95
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Wildcard (2008)",
+        "priority": 90
+      },
+      {
+        "achievement": "Google Code Jam Finalist (2008)",
+        "priority": 90
+      },
+      {
+        "achievement": "IOI Silver Medalist (1997, 1998)",
+        "priority": 83
+      },
+      {
+        "achievement": "TopCoder Collegiate Challenge Algorithm Wildcard (2006)",
+        "priority": 70
+      },
+      {
+        "achievement": "TopCoder Collegiate Challenge Marathon Finalist (2007)",
+        "priority": 70
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (2012)",
+        "priority": 30
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ivan Bochkov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "gnomina007",
+      "cfRating": 2468,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "VK Cup Finalist (2017)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Nikita Gaevoi",
+      "altNames": [
+        "Nikita Gaevoy"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "nikgaevoy",
+      "cfRating": 2676,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "VK Cup Finalist (2017)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Vladislav Makarov",
+      "altNames": [
+        "Владислав Макаров"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Kaban-5",
+      "cfRating": 2543,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2018)",
+          "priority": 100
+        },
+        {
+          "achievement": "Russian Code Cup Finalist (2016)",
+          "priority": 50
+        },
+        {
+          "achievement": "CROC Finalist (2016)",
+          "priority": 30
+        },
+        {
+          "achievement": "VK Cup Finalist (2015, 2016)",
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": 89,
+  "university": {
+    "fullName": "University of Asia Pacific",
+    "shortName": "UAP",
+    "region": "Asia West",
+    "hashTag": "#UAP",
+    "url": "http://www.uap-bd.edu/",
+    "appYears": [
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Uap_Lumos",
+    "regionals": [
+      "Dhaka Online, 225th",
+      "Dhaka, 33rd"
+    ]
+  },
+  "coach": {
+    "name": "Bilkis Jamal Ferdosi",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ashraful Islam",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Amit Sarker",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Peregrine_Falcon",
+      "cfRating": 1455,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mohamod Kabir Sadi",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "mksaadi03",
+      "cfRating": 969,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

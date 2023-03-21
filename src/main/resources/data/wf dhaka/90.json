@@ -1,0 +1,92 @@
+{
+  "id": 90,
+  "university": {
+    "fullName": "The University of British Columbia",
+    "shortName": "U British Columbia",
+    "region": "North America",
+    "hashTag": "#UBC",
+    "url": "http://www.ubc.ca",
+    "appYears": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2012,
+      2013,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UBC************",
+    "regionals": [
+      "Pacific Northwest, 2nd",
+      "North America, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Heng Xia",
+    "altNames": [
+      "Henry Xia"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "ehnryx",
+    "cfRating": 2537,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2019, 2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Vincent Ling",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "..vince",
+      "cfRating": 2247,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 83
+        }
+      ]
+    },
+    {
+      "name": "Rahim Mammadli",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Nots0fast",
+      "cfRating": 2419,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Xingyu Zhou",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "cnjzxy",
+      "cfRating": 2298,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

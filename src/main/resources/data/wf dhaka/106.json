@@ -1,0 +1,88 @@
+{
+  "id": 106,
+  "university": {
+    "fullName": "Universidade de São Paulo - Campus de São Carlos",
+    "shortName": "USP - São Carlos",
+    "region": "Latin America",
+    "hashTag": "#USP-ICMC",
+    "url": "http://www.icmc.usp.br",
+    "appYears": [
+      2013,
+      2014,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "deitando no gramado",
+    "regionals": [
+      "Brazil Preliminary, 2nd",
+      "Brazil, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Samuel Santos",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2018, 2019)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Lucas Fernandes Turci",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "lucasturci",
+      "cfRating": 2161,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Andre Fakhoury",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "fakhoury",
+      "cfRating": 1960,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Frederico Ribeiro",
+      "altNames": [
+        "Frederico Bulhões De Souza Ribeiro"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "fredbr",
+      "cfRating": 1953,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 82
+        }
+      ]
+    }
+  ]
+}

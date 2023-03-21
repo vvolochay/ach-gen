@@ -1,0 +1,100 @@
+{
+  "id": 57,
+  "university": {
+    "fullName": "KTH - Royal Institute of Technology",
+    "shortName": "KTH",
+    "region": "Europe",
+    "hashTag": "#KTH",
+    "url": "http://www.kth.se",
+    "appYears": [
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2009,
+      2010,
+      2015,
+      2017
+    ],
+    "winYears": [],
+    "goldYears": [
+      2004
+    ],
+    "silverYears": [
+      2005
+    ],
+    "bronzeYears": [
+      2010,
+      2017
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "CyanForces",
+    "regionals": [
+      "Northwestern Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Joseph Swernofsky",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Nicole Hedblom",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "nicode",
+      "cfRating": 1817,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Joakim Blikstad",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Xylofo",
+      "cfRating": 2701,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2015, 2016)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2014)",
+          "priority": 82
+        }
+      ]
+    },
+    {
+      "name": "Tobias Glimmerfors",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "tobias.glimmerfors",
+      "cfRating": 2114,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "Codeflows Finalist (2021)",
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

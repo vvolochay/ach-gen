@@ -1,0 +1,72 @@
+{
+  "id": 44,
+  "university": {
+    "fullName": "Indian Institute of Technology - Varanasi",
+    "shortName": "IITBHU",
+    "region": "Asia West",
+    "hashTag": "#BanarasHinduUniversity",
+    "url": "https://www.iitbhu.ac.in",
+    "appYears": [
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "rng(weed)",
+    "regionals": [
+      "Amritapuri Online, 13th",
+      "Kanpur-Mathura Online, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Hari Prabhat Gupta",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Anshu Garg",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "CoderAnshu",
+      "cfRating": 2504,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jatin Garg",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "rivalq",
+      "cfRating": 2440,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Yash Goyal",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "DenOMINATOR",
+      "cfRating": 2166,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

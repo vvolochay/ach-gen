@@ -1,0 +1,92 @@
+{
+  "id": 7,
+  "university": {
+    "fullName": "Alexandru Ioan Cuza University of Iași",
+    "shortName": "UAIC",
+    "region": "Europe",
+    "hashTag": "#UAICIasi",
+    "url": "http://www.infoiasi.ro",
+    "appYears": [
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UAIC Endgame",
+    "regionals": [
+      "Iasi, 1st",
+      "Southeastern Europe, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Alexandru Ionita",
+    "altNames": [
+      "Alex Ionita"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "Juve45",
+    "cfRating": 2440,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2019)",
+        "priority": 100
+      },
+      {
+        "achievement": "MindCoding Finalist (2016)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Cristian Vintur",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "cristian1997",
+      "cfRating": 2152,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "MindCoding Finalist (2017)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Matei Chiriac",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "status_coding",
+      "cfRating": 2102,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Denis Banu",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "denis2111",
+      "cfRating": 2161,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "MindCoding Finalist (2016)",
+          "priority": 10
+        }
+      ]
+    }
+  ]
+}

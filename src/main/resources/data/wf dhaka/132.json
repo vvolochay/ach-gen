@@ -1,0 +1,79 @@
+{
+  "id": 132,
+  "university": {
+    "fullName": "Ural Federal University",
+    "shortName": "Ural FU",
+    "region": "Northern Eurasia",
+    "hashTag": "#UralFU",
+    "url": "https://urfu.ru",
+    "appYears": [
+      2012,
+      2013,
+      2014,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2016
+    ],
+    "bronzeYears": [
+      2017,
+      2018
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Ural FU: CheezeKEK",
+    "regionals": [
+      "Ural, 1st",
+      "Northern Eurasia Online, 37th",
+      "Northern Eurasia, 24th"
+    ]
+  },
+  "coach": {
+    "name": "Dmitry Kosolobov",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Alexey Chizhov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Friska",
+      "cfRating": 2261,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Artyom Tsepov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kirill Reshke",
+      "altNames": [],
+      "tcHandle": "reshke",
+      "tcRating": 1631,
+      "cfHandle": "reshke",
+      "cfRating": 2132,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

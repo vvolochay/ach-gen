@@ -1,0 +1,91 @@
+{
+  "id": 109,
+  "university": {
+    "fullName": "Universidade Federal de Campina Grande",
+    "shortName": "UFCG",
+    "region": "Latin America",
+    "hashTag": "#UFCG",
+    "url": "http://www.ufcg.edu.br",
+    "appYears": [
+      2012,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2012
+    ]
+  },
+  "team": {
+    "name": "O amarelo é impostor",
+    "regionals": [
+      "Brazil Preliminary, 10th",
+      "Brazil, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Rohit Gheyi",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "rohitgheyi",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2012, 2014-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "João Marcos Lima Medeiros",
+      "altNames": [
+        "JoÃ£o Marcos Lima Medeiros"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Daniel Figueredo",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "figdan",
+      "cfRating": 1903,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Emerson Leonardo Lucena",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "Forethought Future Cup Finalist (2019)",
+          "priority": 10
+        }
+      ]
+    }
+  ]
+}

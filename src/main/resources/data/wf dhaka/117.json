@@ -1,0 +1,75 @@
+{
+  "id": 117,
+  "university": {
+    "fullName": "University of Dhaka",
+    "shortName": "DU",
+    "region": "Asia West",
+    "hashTag": "#UnivofDhaka",
+    "url": "http://www.du.ac.bd",
+    "appYears": [
+      2006,
+      2009,
+      2017,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "DU_FlareBlitz_4.0",
+    "regionals": [
+      "Dhaka Online, 6th",
+      "Dhaka, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Md Mahmudur Rahman",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "mrrana",
+    "cfRating": 1476,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Reyad Hossain",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Fiction",
+      "cfRating": 1810,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Asif Jawad",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "_timelord",
+      "cfRating": 1823,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nayeemul Islam Swad",
+      "altNames": [],
+      "tcHandle": "DrSwad",
+      "tcRating": null,
+      "cfHandle": "DrSwad",
+      "cfRating": 2104,
+      "twitterHandle": "DrSwad",
+      "achievements": []
+    }
+  ]
+}

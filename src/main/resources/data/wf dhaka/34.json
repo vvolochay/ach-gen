@@ -1,0 +1,59 @@
+{
+  "id": 34,
+  "university": {
+    "fullName": "FAST Institute of Computer Science",
+    "shortName": "FAST ICS",
+    "region": "Asia West",
+    "hashTag": null,
+    "url": "http://www.fast.edu.pk"
+  },
+  "team": {
+    "name": "OVERLOADS",
+    "regionals": [
+      "Topi Online, 7th",
+      "Topi, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Iffat Maab",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Hamza Zaheer",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nabeel Hassan",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Syed Muhammad Ali Mustafa",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

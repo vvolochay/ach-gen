@@ -1,0 +1,86 @@
+{
+  "id": 85,
+  "university": {
+    "fullName": "Syrian Virtual University",
+    "shortName": "SVU",
+    "region": "Africa and the Middle East",
+    "hashTag": "#SVU",
+    "url": "http://www.svuonline.org",
+    "appYears": [
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2019
+    ]
+  },
+  "team": {
+    "name": "Traitors",
+    "regionals": [
+      "HIAST and SVU, 2nd",
+      "Syria, 9th",
+      "Africa & Arab, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Salman Ali",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "Slman_Ali",
+    "cfRating": 1435,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Salim Shebli",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Salim_Shebli",
+      "cfRating": 2018,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Zaher SaadEddin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Zaher",
+      "cfRating": 2111,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mhd Adel SaadEddin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Adel_SaadEddin",
+      "cfRating": 1965,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

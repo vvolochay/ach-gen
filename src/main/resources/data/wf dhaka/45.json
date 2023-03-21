@@ -1,0 +1,81 @@
+{
+  "id": 45,
+  "university": {
+    "fullName": "Instituto Tecnológico Autónomo de México",
+    "shortName": "ITAM",
+    "region": "Latin America",
+    "hashTag": "#ITAM",
+    "url": "http://www.itam.mx",
+    "appYears": [
+      2016,
+      2017,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "FoundTheBug.ItsMe",
+    "regionals": [
+      "Mexico, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Fernando Esponda",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Juan Carlos Sigler Priego",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Juanito98",
+      "cfRating": 2123,
+      "twitterHandle": "JuanCarloSP98",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2017)",
+          "priority": 82
+        },
+        {
+          "achievement": "IOI Finalist (2015, 2016)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Carlos Alberto Delgado Elizondo",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yosshua Cisneros",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

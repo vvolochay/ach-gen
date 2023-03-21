@@ -1,0 +1,91 @@
+{
+  "id": 102,
+  "university": {
+    "fullName": "Universidad Panamericana Campus Bonaterra",
+    "shortName": "UP Bonaterra",
+    "region": "Latin America",
+    "hashTag": "#UPBonaterra",
+    "url": "http://www.up.edu.mx/",
+    "appYears": [
+      2013,
+      2014,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UPsolving",
+    "regionals": [
+      "Mexico, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Ricardo Espinosa",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Juan Marquina Cancino",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "tiojuan",
+      "cfRating": 1715,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Hector Fernando Ricardez",
+      "altNames": [
+        "Héctor Fernando Ricárdez Lara"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "kishtarn",
+      "cfRating": 2062,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2017, 2019, 2020)",
+          "priority": 82
+        },
+        {
+          "achievement": "IOI Finalist (2018)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Gustavo Meza García",
+      "altNames": [
+        "Gustavo Meza GarcÃ­a"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "GustavoMG",
+      "cfRating": 2109,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

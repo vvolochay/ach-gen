@@ -1,0 +1,86 @@
+{
+  "id": 36,
+  "university": {
+    "fullName": "German University in Cairo",
+    "shortName": "GUC",
+    "region": "Africa and the Middle East",
+    "hashTag": "#GUC",
+    "url": "https://www.guc.edu.eg/",
+    "appYears": [
+      2009,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2009,
+      2012,
+      2017
+    ]
+  },
+  "team": {
+    "name": "Treevial",
+    "regionals": [
+      "GUC, 4th",
+      "Egypt, 20th",
+      "Africa & Arab, 12th"
+    ]
+  },
+  "coach": {
+    "name": "Slim Abdennadher",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2009, 2011, 2015, 2017-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mohamed Khaled",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "MohamedK",
+      "cfRating": 1673,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Omar Tarek",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Omar_Tarek",
+      "cfRating": 1697,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abdelrahman Selim",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Khater",
+      "cfRating": 1698,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

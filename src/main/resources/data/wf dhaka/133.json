@@ -1,0 +1,83 @@
+{
+  "id": 133,
+  "university": {
+    "fullName": "Utrecht University",
+    "shortName": "Utrecht University",
+    "region": "Europe",
+    "hashTag": "#UtrechtUni",
+    "url": "http://www.uu.nl",
+    "appYears": [
+      2016,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "while (false) break;",
+    "regionals": [
+      "Benelux Preliminary, 1st",
+      "Benelux, 1st",
+      "Northwestern Europe, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Ludo Pulles",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "ludo",
+    "cfRating": 2391,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2020)",
+        "priority": 100
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2015)",
+        "priority": 82
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Reinier Schmiermann",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Richard Wols",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ludo Dekker",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

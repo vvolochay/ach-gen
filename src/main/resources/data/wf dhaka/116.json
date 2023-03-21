@@ -1,0 +1,75 @@
+{
+  "id": 116,
+  "university": {
+    "fullName": "University of Chinese Academy of Sciences",
+    "shortName": "UCAS",
+    "region": "Asia East",
+    "hashTag": null,
+    "url": "http://www.ucas.ac.cn/",
+    "appYears": [
+      2012
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Retired Masters",
+    "regionals": [
+      "Shanghai, 31st",
+      "Kunming, 7th",
+      "Asia East, 47th"
+    ]
+  },
+  "coach": {
+    "name": "Xiaoming Sun",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2012)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tianle Chen",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Xuandeng Fu",
+      "altNames": [
+        "Abreto"
+      ],
+      "tcHandle": "Abreto",
+      "tcRating": 656,
+      "cfHandle": "Abreto",
+      "cfRating": 1964,
+      "twitterHandle": "cn_Abreto",
+      "achievements": []
+    },
+    {
+      "name": "Yunhan Shen",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "shenyunhan",
+      "cfRating": 2147,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 66,
+  "university": {
+    "fullName": "National Yang Ming Chiao Tung University",
+    "shortName": "NYCU",
+    "region": "Asia Pacific",
+    "hashTag": "#NCTU",
+    "url": "https://www.nycu.edu.tw/en/",
+    "appYears": [
+      1992,
+      1993,
+      2002,
+      2003,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2020
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "NCTU_a",
+    "regionals": [
+      "Taiwan Online, 8th",
+      "Taipei-Hsinchu, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Shi-Chun Tsai",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2002-2003)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Bo-Wei Lin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "alan8585",
+      "cfRating": 2067,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Hsuan-Yu Kuo",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "HNO2",
+      "cfRating": 2219,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ke-Wei Huang",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "ToxicPie9",
+      "cfRating": 2221,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

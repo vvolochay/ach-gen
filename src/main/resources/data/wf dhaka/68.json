@@ -1,0 +1,70 @@
+{
+  "id": 68,
+  "university": {
+    "fullName": "North South University",
+    "shortName": "North South U",
+    "region": "Asia West",
+    "hashTag": "#NorthSouthU",
+    "url": "http://www.northsouth.edu",
+    "appYears": [
+      1998,
+      1999,
+      2009,
+      2016
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "NSU_Stolichnaya",
+    "regionals": [
+      "Dhaka Online, 28th",
+      "Dhaka, 12th"
+    ]
+  },
+  "coach": {
+    "name": "Silvia Ahmed",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Salman Sahel",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "OneLastTime",
+      "cfRating": 1479,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mehran Siddiqui",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "ms166",
+      "cfRating": 1489,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Akash Lanard",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "s_da_sailor",
+      "cfRating": 1904,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

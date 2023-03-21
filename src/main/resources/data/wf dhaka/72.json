@@ -1,0 +1,83 @@
+{
+  "id": 72,
+  "university": {
+    "fullName": "Purdue University",
+    "shortName": "Purdue",
+    "region": "North America",
+    "hashTag": "#Purdue",
+    "url": "http://www.purdue.edu",
+    "appYears": [
+      2009,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Purdue RE",
+    "regionals": [
+      "East Central North America, 2nd",
+      "North America, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Ninghui Li",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "cnh355",
+    "cfRating": 1932,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Richard Li",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "richzli",
+      "cfRating": 1925,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Trung Dang",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Kuroni",
+      "cfRating": 2780,
+      "twitterHandle": "kuroni_osu",
+      "achievements": []
+    },
+    {
+      "name": "Riley Borgard",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Monogon",
+      "cfRating": 2553,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

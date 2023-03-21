@@ -1,0 +1,67 @@
+{
+  "id": 55,
+  "university": {
+    "fullName": "Keio University",
+    "shortName": "Keio U",
+    "region": "Asia Pacific",
+    "hashTag": "#KEIOU",
+    "url": "http://www.keio.ac.jp",
+    "appYears": [
+      2017
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Antitled",
+    "regionals": [
+      "Japan Online, 10th",
+      "Yokohama, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Yutaka Hori",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ryuto Kojima",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Keita Murase",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tomohiro Nakayoshi",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

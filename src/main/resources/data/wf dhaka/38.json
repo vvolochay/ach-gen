@@ -1,0 +1,86 @@
+{
+  "id": 38,
+  "university": {
+    "fullName": "Hanoi University of Science and Technology",
+    "shortName": "HUST",
+    "region": "Asia Pacific",
+    "hashTag": "#HUST",
+    "url": "https://hust.edu.vn",
+    "appYears": [
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "C'est BON!",
+    "regionals": [
+      "Vietnam, 6th",
+      "Can Tho, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Hung Nguyen An",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Minh Quang Le",
+      "altNames": [],
+      "tcHandle": "LeMinhQuang",
+      "tcRating": 1483,
+      "cfHandle": "Quang",
+      "cfRating": 2443,
+      "twitterHandle": "quanglm1998",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    },
+    {
+      "name": "Anh Duc Le",
+      "altNames": [],
+      "tcHandle": "ladpro98",
+      "tcRating": 1985,
+      "cfHandle": "ladpro98",
+      "cfRating": 2284,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 50
+        }
+      ]
+    },
+    {
+      "name": "Dinh Dac Do",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

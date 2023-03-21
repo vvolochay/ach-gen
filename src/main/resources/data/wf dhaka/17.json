@@ -1,0 +1,90 @@
+{
+  "id": 17,
+  "university": {
+    "fullName": "Belarusian State University of Informatics and Radioelectronics",
+    "shortName": "BSUIR",
+    "region": "Northern Eurasia",
+    "hashTag": "#BSUIR",
+    "url": "http://www.bsuir.by",
+    "appYears": [
+      2012,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2012
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Belarusian SUIR #2",
+    "regionals": [
+      "Belarus and Baltics, 3rd",
+      "Northern Eurasia Online, 29th",
+      "Northern Eurasia, 25th"
+    ]
+  },
+  "coach": {
+    "name": "Andrei Tkachenka",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ivan Udovin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "wilcot",
+      "cfRating": 2131,
+      "twitterHandle": "iudovin",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Valery Shavel",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Qwertenx",
+      "cfRating": 2144,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Uladzislau Vishneuski",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Vladik",
+      "cfRating": 2162,
+      "twitterHandle": "vladik_red_2017",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

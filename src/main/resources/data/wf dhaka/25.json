@@ -1,0 +1,73 @@
+{
+  "id": 25,
+  "university": {
+    "fullName": "Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar",
+    "shortName": "DA-IICT",
+    "region": "Asia West",
+    "hashTag": "#DAIICT",
+    "url": "http://www.daiict.ac.in",
+    "appYears": [
+      2017,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Pay Attention",
+    "regionals": [
+      "Amritapuri Online, 3rd",
+      "Kanpur-Mathura Online, 26th"
+    ]
+  },
+  "coach": {
+    "name": "Rahul Muthu",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2017, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jaydeep Machhi",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Jaydeep999997",
+      "cfRating": 2031,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Harsh Rajani",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "harshrajani460",
+      "cfRating": 1993,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nishant Shah",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "nishant403",
+      "cfRating": 2502,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

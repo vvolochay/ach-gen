@@ -1,0 +1,82 @@
+{
+  "id": 35,
+  "university": {
+    "fullName": "Georgia Institute of Technology",
+    "shortName": "Georgia Tech",
+    "region": "North America",
+    "hashTag": "#GeorgiaTech",
+    "url": "http://www.gatech.edu",
+    "appYears": [
+      1995,
+      1999,
+      2000,
+      2001,
+      2004,
+      2005,
+      2006,
+      2008,
+      2012,
+      2015,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Acceptable",
+    "regionals": [
+      "Southeast USA, 3rd",
+      "North America, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Jingbang Chen",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "chenjb",
+    "cfRating": 2705,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2018)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jeffrey Chang",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Maxwell Zhang",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "smax",
+      "cfRating": 2220,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Arvind Ramaswami",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "arvindr9",
+      "cfRating": 2085,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 76,
+  "university": {
+    "fullName": "Shahid Beheshti University",
+    "shortName": "SBU",
+    "region": "Asia West",
+    "hashTag": "#SBU",
+    "url": "http://en.sbu.ac.ir",
+    "appYears": [
+      2006,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Goraz",
+    "regionals": [
+      "Tehran Online, 3rd",
+      "Tehran, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Erfan Alimohammadi",
+    "altNames": [],
+    "tcHandle": "Erfaniaa",
+    "tcRating": null,
+    "cfHandle": "Erfan.aa",
+    "cfRating": 1699,
+    "twitterHandle": "erfanafre",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2017, 2019)",
+        "priority": 100
+      },
+      {
+        "achievement": "Bayan Programming Contest Finalist (2015)",
+        "priority": 30
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mohammadreza Mohammadzadeh Asl",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Mohammadreza_mz",
+      "cfRating": 2091,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Amirreza Mohseni",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Amireza",
+      "cfRating": 2069,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 3,
+  "university": {
+    "fullName": "Ain Shams University - Faculty of Engineering",
+    "shortName": "ASU-FE",
+    "region": "Africa and the Middle East",
+    "hashTag": null,
+    "url": "https://eng.asu.edu.eg",
+    "appYears": [
+      2015
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "The G.O.A.T.S",
+    "regionals": [
+      "Ain Shams Engineering, 1st",
+      "Egypt, 30th",
+      "Africa & Arab, 27th"
+    ]
+  },
+  "coach": {
+    "name": "Medhat Alhaddad",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Mohamed Tawfik",
+      "altNames": [],
+      "tcHandle": "shadowdancer851",
+      "tcRating": 1376,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2013)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2004, 2005, 2007)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Nour E-Din El-Nhass",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mohamed Sameh",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Sameh",
+      "cfRating": 1757,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

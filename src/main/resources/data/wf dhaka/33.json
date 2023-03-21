@@ -1,0 +1,111 @@
+{
+  "id": 33,
+  "university": {
+    "fullName": "Faculty of Computer Science, Belgrade",
+    "shortName": "RAF",
+    "region": "Europe",
+    "hashTag": "#UBelgrade",
+    "url": "http://www.raf.edu.rs",
+    "appYears": [
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "RAF Penguins",
+    "regionals": [
+      "Southeastern Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Dušan Zdravković",
+    "altNames": [
+      "DuÅ¡an ZdravkoviÄ‡",
+      "Dusan Zdravkovic"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2010, 2011)",
+        "priority": 82
+      },
+      {
+        "achievement": "Codeflows Finalist (2021)",
+        "priority": 30
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Pavle Martinovic",
+      "altNames": [
+        "Pavle Martinović"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Pajaraja",
+      "cfRating": 2438,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 83
+        }
+      ]
+    },
+    {
+      "name": "Aleksa Milisavljevic",
+      "altNames": [
+        "Aleksa Milisavljević"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "milisav",
+      "cfRating": 2637,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 82
+        }
+      ]
+    },
+    {
+      "name": "Aleksa Plavsic",
+      "altNames": [
+        "Aleksa Plavšić"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "allllekssssa",
+      "cfRating": 2171,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

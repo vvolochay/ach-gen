@@ -1,0 +1,60 @@
+{
+  "id": 11,
+  "university": {
+    "fullName": "Arab Academy for Science and Technology - Cairo",
+    "shortName": "AAST-Cairo",
+    "region": "Africa and the Middle East",
+    "hashTag": "#AASTMT-Cairo",
+    "url": "https://aast.edu/en/sites/cairo/"
+  },
+  "team": {
+    "name": "El habeda",
+    "regionals": [
+      "AAST, 5th",
+      "Egypt, 56th",
+      "Africa & Arab, 24th"
+    ]
+  },
+  "coach": {
+    "name": "Hesham Ragab Aly Hussein",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Mohamed Mostafa",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abdalrhman Essam",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ibrahim Amin",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "ibrahim.amin.1",
+      "cfRating": 1058,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

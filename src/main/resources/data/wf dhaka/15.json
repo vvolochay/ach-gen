@@ -1,0 +1,66 @@
+{
+  "id": 15,
+  "university": {
+    "fullName": "Belarusian National Technical University",
+    "shortName": "BNTU",
+    "region": "Northern Eurasia",
+    "hashTag": "#BNTU",
+    "url": "http://www.bntu.by/."
+  },
+  "team": {
+    "name": "FITR BNTU #1: Great team",
+    "regionals": [
+      "Belarus and Baltics, 6th",
+      "Northern Eurasia, 22nd"
+    ]
+  },
+  "coach": {
+    "name": "Alena Kastsiukevich",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Pavel Sheftelevich",
+      "altNames": [
+        "Pavel Shaftsialevich"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "shef_2318",
+      "cfRating": 2221,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2016)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Dzmitry Zdanovich",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Viktar Vasileuski",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "vitux",
+      "cfRating": 2111,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

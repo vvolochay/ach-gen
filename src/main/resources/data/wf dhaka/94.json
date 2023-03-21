@@ -1,0 +1,88 @@
+{
+  "id": 94,
+  "university": {
+    "fullName": "Tokyo Institute of Technology",
+    "shortName": "Titech",
+    "region": "Asia Pacific",
+    "hashTag": "#Titech",
+    "url": "http://www.titech.ac.jp",
+    "appYears": [
+      2003,
+      2004,
+      2013,
+      2014,
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "good_yamikin",
+    "regionals": [
+      "Japan Online, 5th",
+      "Yokohama, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Yoshiki Nakamura",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Takuto Yoshida",
+      "altNames": [],
+      "tcHandle": "goodbaton",
+      "tcRating": 1629,
+      "cfHandle": "goodbaton",
+      "cfRating": 2495,
+      "twitterHandle": "goodbaton",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2018)",
+          "priority": 100
+        },
+        {
+          "achievement": "Code Festival Finalist (2017)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Mikihito Matsuura",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "mikit",
+      "cfRating": 2415,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tatsuhito Yamagata",
+      "altNames": [
+        "Tatyam"
+      ],
+      "tcHandle": "tatyam",
+      "tcRating": 2377,
+      "cfHandle": "tatyam",
+      "cfRating": 2692,
+      "twitterHandle": "tatyam_prime",
+      "achievements": []
+    }
+  ]
+}

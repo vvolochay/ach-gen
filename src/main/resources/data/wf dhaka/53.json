@@ -1,0 +1,71 @@
+{
+  "id": 53,
+  "university": {
+    "fullName": "Karlsruhe Institute of Technology",
+    "shortName": "KIT",
+    "region": "Europe",
+    "hashTag": "#Karlsruhe",
+    "url": "http://www.kit.edu/english/",
+    "appYears": [
+      2008
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Let's Party: Home Alone",
+    "regionals": [
+      "Germany, 2nd",
+      "Northwestern Europe, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Christopher Weyand",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ilia Bozhinov",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "AnotherRound",
+      "cfRating": 2122,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Christian König",
+      "altNames": [
+        "Christian KÃ¶nig"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Michael Zündorf",
+      "altNames": [
+        "Michael ZÃ¼ndorf"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

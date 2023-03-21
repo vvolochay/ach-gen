@@ -1,0 +1,72 @@
+{
+  "id": 29,
+  "university": {
+    "fullName": "Ecole Polytechnique",
+    "shortName": "EP",
+    "region": "Europe",
+    "hashTag": "#Polytechnique",
+    "url": "http://www.polytechnique.fr/",
+    "appYears": [
+      2002,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "EP Epsilon",
+    "regionals": [
+      "Southwestern Europe, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Hang Zhou",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Pedro Cabral",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Marc Dufay",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Macdu",
+      "cfRating": 2140,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Matthias Hasler",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

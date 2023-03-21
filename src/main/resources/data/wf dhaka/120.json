@@ -1,0 +1,86 @@
+{
+  "id": 120,
+  "university": {
+    "fullName": "University of Melbourne",
+    "shortName": "U Melbourne",
+    "region": "South Pacific",
+    "hashTag": "#UniMelb",
+    "url": "http://www.unimelb.edu.au",
+    "appYears": [
+      1992,
+      1995,
+      1998,
+      2000,
+      2001,
+      2009
+    ],
+    "winYears": [
+      1992
+    ],
+    "goldYears": [
+      1992,
+      2000
+    ],
+    "silverYears": [
+      1998
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2000,
+      2009
+    ]
+  },
+  "team": {
+    "name": "taxiOverflow",
+    "regionals": [
+      "South Pacific, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Junhao Gan",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Netanya Robinson",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Quang Ong",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2020)",
+          "priority": 82
+        }
+      ]
+    },
+    {
+      "name": "Michael Zhao",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 50,
+  "university": {
+    "fullName": "Jagiellonian University in Krakow",
+    "shortName": "Jagiellonian",
+    "region": "Europe",
+    "hashTag": "#Jagiellonski",
+    "url": "http://www.uj.edu.pl",
+    "appYears": [
+      2004,
+      2006,
+      2008,
+      2009,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [
+      2006
+    ],
+    "silverYears": [],
+    "bronzeYears": [
+      2011,
+      2013
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Jagiellonian",
+    "regionals": [
+      "Central Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Lech Duraj",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "paladin",
+    "cfRating": 1936,
+    "twitterHandle": "lduraj",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Krzysztof Ziobro",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "krzysiek27",
+      "cfRating": 1944,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jacek Salata",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "jacynkaa",
+      "cfRating": 2730,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Grzegorz Gawryał",
+      "altNames": [
+        "Grzegorz GawryaÅ‚"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "ggawryal",
+      "cfRating": 2291,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

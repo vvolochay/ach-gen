@@ -1,0 +1,92 @@
+{
+  "id": 118,
+  "university": {
+    "fullName": "University of Engineering and Technology - VNU",
+    "shortName": "UET - VNU",
+    "region": "Asia Pacific",
+    "hashTag": "#UETVNU",
+    "url": "http://e.uet.vnu.edu.vn",
+    "appYears": [
+      2007,
+      2009,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "EggCentroy",
+    "regionals": [
+      "Vietnam, 1st",
+      "Can Tho, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Ho Dac Phuong",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2015-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Nguyen Hai Binh",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "SeehtEntity",
+      "cfRating": 2302,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kien Vu Hoang",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Maripium",
+      "cfRating": 2614,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2019, 2020)",
+          "priority": 83
+        }
+      ]
+    },
+    {
+      "name": "Đức Bùi Hồng",
+      "altNames": [
+        "Äá»©c BÃ¹i Há»“ng",
+        "Duc Bui Hong"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "user202729_",
+      "cfRating": 2863,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2019, 2020)",
+          "priority": 84
+        }
+      ]
+    }
+  ]
+}

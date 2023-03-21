@@ -1,0 +1,116 @@
+{
+  "id": 16,
+  "university": {
+    "fullName": "Belarusian State University",
+    "shortName": "Belarusian SU",
+    "region": "Northern Eurasia",
+    "hashTag": "#BelarusianSU",
+    "url": "http://www.bsu.by",
+    "appYears": [
+      1999,
+      2000,
+      2002,
+      2003,
+      2004,
+      2005,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [
+      2004
+    ],
+    "silverYears": [
+      2012,
+      2013,
+      2020
+    ],
+    "bronzeYears": [
+      2008
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "BelarusianSU 3",
+    "regionals": [
+      "Belarus and Baltics, 4th",
+      "Northern Eurasia Online, 12th",
+      "Northern Eurasia, 9th"
+    ]
+  },
+  "coach": {
+    "name": "Vladimir Kotov",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC gold medal as coach (2004)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ACM ICPC silver medal as coach (2012-2013, 2020)",
+        "priority": 3000
+      },
+      {
+        "achievement": "ACM ICPC bronze medal as coach (2008)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (1999-2000, 2002-2003, 2005, 2007, 2009-2011, 2014-2016, 2018-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yafim Klimasheuski",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Septimelon",
+      "cfRating": 2643,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Anton Paliukhovich",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "RED_INSIDE",
+      "cfRating": 2273,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aliaksei Filinovich",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "aleex",
+      "cfRating": 2486,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 82
+        }
+      ]
+    }
+  ]
+}

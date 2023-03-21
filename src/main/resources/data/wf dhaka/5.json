@@ -1,0 +1,87 @@
+{
+  "id": 5,
+  "university": {
+    "fullName": "Al-Baath University",
+    "shortName": "Al-Baath",
+    "region": "Africa and the Middle East",
+    "hashTag": "#albaathunivweb",
+    "url": "http://www.albaath-univ.edu.sy",
+    "appYears": [
+      2017,
+      2018,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "H-DVD.org",
+    "regionals": [
+      "Al-baath and Hama University, 2nd",
+      "Syria, 5th",
+      "Africa & Arab, 16th"
+    ]
+  },
+  "coach": {
+    "name": "Tony Makdissy",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "SyrianTony",
+    "cfRating": 1589,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Naseem Daghestani",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Naseem17",
+      "cfRating": 2271,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Marcel Ibrahim",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Al-Merreikh",
+      "cfRating": 1932,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mouhanad Alaskari",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "_Mugiwara_",
+      "cfRating": 1811,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

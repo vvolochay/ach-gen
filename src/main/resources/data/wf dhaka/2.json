@@ -1,0 +1,78 @@
+{
+  "id": 2,
+  "university": {
+    "fullName": "Ain Shams University - Faculty of Computer and Information Sciences",
+    "shortName": "ASU-FCIS",
+    "region": "Africa and the Middle East",
+    "hashTag": "#Fciseg",
+    "url": "http://cis.shams.edu.eg",
+    "appYears": [
+      2011,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Codey Manga",
+    "regionals": [
+      "Ain Shams FCI, 1st",
+      "Egypt, 7th",
+      "Africa & Arab, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Anany",
+    "altNames": [],
+    "tcHandle": "TripleM5ds",
+    "tcRating": 1726,
+    "cfHandle": "DeadlyPillow",
+    "cfRating": 2156,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2018, 2019)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Abdelrahman Sayed",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Bedo_Sayed",
+      "cfRating": 1912,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abdelrahman Osman",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mostafa Alaa",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Beevo",
+      "cfRating": 1783,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

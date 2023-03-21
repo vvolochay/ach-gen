@@ -1,0 +1,92 @@
+{
+  "id": 43,
+  "university": {
+    "fullName": "Indian Institute of Technology - Roorkee",
+    "shortName": "IIT Roorkee",
+    "region": "Asia West",
+    "hashTag": "#IITRoorkee",
+    "url": "http://www.iitr.ernet.in",
+    "appYears": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Area 151",
+    "regionals": [
+      "Amritapuri Online, 1st",
+      "Kanpur-Mathura Online, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Balasubramanian Raman",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2013, 2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Piyush Sethia",
+      "altNames": [],
+      "tcHandle": "piyush1999",
+      "tcRating": 1459,
+      "cfHandle": "piyushsethia1999",
+      "cfRating": 2391,
+      "twitterHandle": "PiyushSethia7",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Harsh Kumar Bhartiya",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "harshhx17",
+      "cfRating": 2193,
+      "twitterHandle": "harshhx17",
+      "achievements": []
+    },
+    {
+      "name": "Rahul Dugar",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "amnesiac_dusk",
+      "cfRating": 2532,
+      "twitterHandle": "rahuldugarrd",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2019, 2021)",
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

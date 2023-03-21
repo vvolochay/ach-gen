@@ -1,0 +1,100 @@
+{
+  "id": 123,
+  "university": {
+    "fullName": "University of Rochester",
+    "shortName": "U Rochester",
+    "region": "North America",
+    "hashTag": "#UofR",
+    "url": "http://www.rochester.edu",
+    "appYears": [
+      2010,
+      2017,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Yellowjackets",
+    "regionals": [
+      "Northeast North America, 6th",
+      "North America, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Daniel Stefankovic",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2010, 2017, 2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "IOI Gold Medalist (1993)",
+        "priority": 84
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Vladimir Maksimovski",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "ReaLNero",
+      "cfRating": 2193,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2016)",
+          "priority": 82
+        },
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Bao Tran",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Loc Bui",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

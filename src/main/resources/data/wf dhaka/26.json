@@ -1,0 +1,78 @@
+{
+  "id": 26,
+  "university": {
+    "fullName": "EAFIT University",
+    "shortName": "EAFIT",
+    "region": "Latin America",
+    "hashTag": "#EAFIT",
+    "url": "http://www.eafit.edu.co/",
+    "appYears": [
+      2009,
+      2011,
+      2013
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Fast and Fourier",
+    "regionals": [
+      "Colombia, 1st",
+      "South America-North, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Osman David Jiménez Gutiérrez",
+    "altNames": [
+      "Osman David JimÃ©nez GutiÃ©rrez"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "-osdajigu-",
+    "cfRating": 2005,
+    "twitterHandle": "osdajigu",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2019, 2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Simón Fallon Giraldo",
+      "altNames": [
+        "SimÃ³n Fallon Giraldo"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "SimonFallon19",
+      "cfRating": 1651,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Santiago Cano Franco",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "Scano",
+      "cfRating": 1645,
+      "twitterHandle": "santiagocano_f",
+      "achievements": []
+    },
+    {
+      "name": "Martin Diaz",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "martinius",
+      "cfRating": 1679,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

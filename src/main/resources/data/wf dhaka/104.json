@@ -1,0 +1,81 @@
+{
+  "id": 104,
+  "university": {
+    "fullName": "Universidad Tecnologica de Pereira",
+    "shortName": "UTP",
+    "region": "Latin America",
+    "hashTag": "#UTP",
+    "url": "http://www.utp.edu.co",
+    "appYears": [
+      2013,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UTP - Lucas",
+    "regionals": [
+      "South America-North, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Hugo Humberto Morales Peña",
+    "altNames": [
+      "Hugo Humberto Morales PeÃ±a"
+    ],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "huhumor",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2013-2014, 2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yeferson Gaitan Gomez",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "yefrigg",
+      "cfRating": 1846,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2018)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Jhon Alex Gaviria Tobón",
+      "altNames": [
+        "Jhon Alex Gaviria TobÃ³n"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Juan Camilo Palacios Galvis",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

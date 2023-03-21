@@ -1,0 +1,97 @@
+{
+  "id": 103,
+  "university": {
+    "fullName": "Universidad Simón Bolívar",
+    "shortName": "USB",
+    "region": "Latin America",
+    "hashTag": "#UniversidadSB",
+    "url": "http://www.usb.ve",
+    "appYears": [
+      2000,
+      2004,
+      2005,
+      2010,
+      2015,
+      2016,
+      2017,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "La bomba de tenedores",
+    "regionals": [
+      "South America-North, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Augusto Hidalgo",
+    "altNames": [],
+    "tcHandle": "pulgares",
+    "tcRating": 1756,
+    "cfHandle": "lmn0x4F",
+    "cfRating": 2225,
+    "twitterHandle": "augustohidalgob",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2016, 2017)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Neil Villamizar",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "totito",
+      "cfRating": 1594,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Marcos Lerones",
+      "altNames": [],
+      "tcHandle": "MarcosJLR",
+      "tcRating": 1672,
+      "cfHandle": "CrazyDiamond",
+      "cfRating": 2192,
+      "twitterHandle": "WarcosJLR",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Jesus De Aguiar",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "JoTaR",
+      "cfRating": 1570,
+      "twitterHandle": "jesusrda",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

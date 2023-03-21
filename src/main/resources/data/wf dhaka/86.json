@@ -1,0 +1,101 @@
+{
+  "id": 86,
+  "university": {
+    "fullName": "Technische Universität München",
+    "shortName": "TUM",
+    "region": "Europe",
+    "hashTag": "#TUM",
+    "url": "http://www.tum.de",
+    "appYears": [
+      2006,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Dolores TUMbridge",
+    "regionals": [
+      "Germany, 1st",
+      "Northwestern Europe, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Gregor Matl",
+    "altNames": [],
+    "tcHandle": null,
+    "tcRating": null,
+    "cfHandle": "Gregory",
+    "cfRating": 2195,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2019, 2020)",
+        "priority": 100
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2014)",
+        "priority": 82
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Atacan İyidoğan",
+      "altNames": [
+        "Atacan Ä°yidoÄŸan"
+      ],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2018)",
+          "priority": 84
+        },
+        {
+          "achievement": "IOI Silver Medalist (2017)",
+          "priority": 83
+        }
+      ]
+    },
+    {
+      "name": "Tobias Benjamin Schindler",
+      "altNames": [],
+      "tcHandle": null,
+      "tcRating": null,
+      "cfHandle": "tob123",
+      "cfRating": 2388,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Erik Sünderhauf",
+      "altNames": [
+        "Erik SÃ¼nderhauf"
+      ],
+      "tcHandle": "eriksuenderhauf",
+      "tcRating": 1893,
+      "cfHandle": "eriksuenderhauf",
+      "cfRating": 2245,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2018, 2019)",
+          "priority": 82
+        }
+      ]
+    }
+  ]
+}
