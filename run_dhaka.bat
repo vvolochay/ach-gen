@@ -1,0 +1,1 @@
+java -jar build/libs/ach-gen.jar --data data/wf_dhaka/jsons --logo data/wf_dhaka/logo

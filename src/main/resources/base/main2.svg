@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1350" height="205" viewBox="0 0 1350 205" fill="none" version="1.1" id="svg46" xml:space="preserve"
+     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_303_366)" id="g36" transform="translate(0,-765)">
+        <path d="m 0,765 h 1350 v 189.001 c 0,8.836 -7.16,16 -16,16 H 16 c -8.83656,0 -16,-7.164 -16,-16 z"
+              fill="#154326" id="path2"/>
+        <image width="161.6842" height="159.15788" preserveAspectRatio="xMidYMid"
+               xlink:href="data:image/png;base64, {Logo}"
+               id="logo" x="32" y="784"/>
+        <text opacity="0.03" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica"
+              font-size="220px" font-weight="bold" letter-spacing="-20px" id="text6"><tspan x="-490.703" y="946.50897" id="tspan4">{FullUniversityName_1}{FullUniversityName_2}</tspan></text>
+        <text opacity="0.75" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica"
+              font-size="20px" font-weight="bold" letter-spacing="0em" id="text20"><tspan x="216" y="829.89899" id="tspan18">{ShortTeamName}   {Region}</tspan></text>
+        <rect x="1222" y="809" width="88" height="28" rx="4" fill="#ffffff" id="rect22"/>
+        <text fill="#000000" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="16px"
+              font-weight="bold" letter-spacing="0em" id="text26"><tspan x="1227" y="828.52002" id="tspan24">{FinalsCounter}</tspan></text>
+        <text fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="40px"
+              font-weight="bold" letter-spacing="0em" id="text30"><tspan x="216" y="881.79901" id="tspan28">{FullUniversityName_1}</tspan></text>
+        <text fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="40px"
+              font-weight="bold" letter-spacing="0em" id="text30"><tspan x="216" y="930.79901" id="tspan28">{FullUniversityName_2} {HashTag}</tspan></text>
+    </g>
+    <defs id="defs44">
+        <clipPath id="clip0_303_366"><rect width="1350" height="970" rx="12" fill="#ffffff" id="rect38" x="0" y="0" /></clipPath>
+    </defs>
+</svg>

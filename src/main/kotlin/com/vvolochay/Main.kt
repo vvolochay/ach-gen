@@ -19,12 +19,12 @@ fun main(args: Array<String>) {
     val output by parser.option(ArgType.String, shortName = "-o", description = "Output directory").default("build/generated")
     parser.parse(args)
 
-    val outputDir = Path.of(output).createDirectories().toString();
+    val outputDir = Path.of(output).createDirectories().toString()
 
     val dataFile = File(data)
     if (dataFile.isDirectory) {
         // generate wf achievements from json files
-        FullAchievementsGen().run(dataFile, File(logo), File(template), outputDir)
+        FullAchievementsGen().run(dataFile, File(logo), outputDir)
     } else {
         // generate base achievement from txt file
         BaseAchievementsGen().run(dataFile, File(logo), File(template), outputDir)
