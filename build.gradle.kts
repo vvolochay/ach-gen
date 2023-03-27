@@ -12,8 +12,9 @@ repositories {
 }
 
 dependencies {
-    implementation("com.google.code.gson:gson:2.10")
+    implementation("com.google.code.gson:gson:2.10.1")
     implementation("org.apache.commons:commons-io:1.3.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-cli:0.3.5")
 }
 
 tasks {

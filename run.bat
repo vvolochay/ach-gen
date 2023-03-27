@@ -1,1 +1,1 @@
-java -jar build/libs/ach-gen.jar src/main/resources/data/nef2022.txt
+java -jar build/libs/ach-gen.jar --data data/nef2022/vkoshp_tests.txt
