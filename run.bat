@@ -1,1 +1,1 @@
-java -jar build/libs/ach-gen.jar --data data/nef2022/vkoshp_tests.txt
+java -jar build/libs/ach-gen.jar --input data/nef2022/vkoshp_tests.txt -t Team

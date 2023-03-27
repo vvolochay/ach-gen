@@ -8,27 +8,32 @@ import java.io.File
 import java.nio.file.Path
 import kotlin.io.path.createDirectories
 
+enum class AchType { Person, WF, Team }
+
 fun main(args: Array<String>) {
     val parser = ArgParser("ach-gen")
 
-    val data by parser.option(ArgType.String, shortName = "-d", description = "Input file with data: file or directory").required()
-    val logo by parser.option(ArgType.String, shortName = "-l", description = "Logo: image file or folder with .JPG files, ICPC logo by default")
+    val input by parser.option(ArgType.String, shortName = "i", description = "Input with data: file or directory").required()
+    val type by parser.option(ArgType.Choice<AchType>(), shortName = "t", description = "Type of achievements").required()
+
+    val logo by parser.option(ArgType.String, description = "Logo: image file or folder with .JPG files, ICPC logo by default")
         .default("src/main/resources/images/icpc_logo.png")
-    val template by parser.option(ArgType.String, shortName = "-t", description = "SVG template, ICPC template by default, see resources/base/simple1.svg")
+    val svg by parser.option(ArgType.String, description = "SVG template, ICPC template by default")
         .default("src/main/resources/base/simple1.svg")
-    val output by parser.option(ArgType.String, shortName = "-o", description = "Output directory").default("build/generated")
+
+    val result by parser.option(ArgType.Boolean, shortName = "r", description = "result").default(false)
+
+    val output by parser.option(ArgType.String, shortName = "o", description = "Output directory").default("build/generated")
     parser.parse(args)
 
-    val outputDir = Path.of(output).createDirectories().toString()
-
-    val dataFile = File(data)
-    if (dataFile.isDirectory) {
-        // generate wf achievements from json files
-        FullAchievementsGen().run(dataFile, File(logo), outputDir)
-    } else {
-        // generate base achievement from txt file
-        BaseAchievementsGen().run(dataFile, File(logo), File(template), outputDir)
-
+    val gen: Generator = when (type) {
+        AchType.Person -> PersonalAchievementsGen()
+        AchType.Team -> TeamAchievementsGen()
+        AchType.WF -> FullAchievementsGen()
     }
+
+    Path.of(output).createDirectories()
+    gen.run(File(input), File(logo), File(svg), output, result)
+
     println("All generated files added to folder $output")
 }

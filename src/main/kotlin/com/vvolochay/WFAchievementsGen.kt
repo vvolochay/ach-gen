@@ -22,13 +22,13 @@ data class Person(val name: String, val altNames: List<String>, val tcHandle: St
 data class Achievement(val achievement: String, val priority: Int)
 
 
-class FullAchievementsGen {
+class FullAchievementsGen : Generator() {
 
     private lateinit var output: String
     private lateinit var logo: File
 
-    fun run(teamsData: File, logo: File, outputDir: String) {
-        val teamData = parseJsons(teamsData)
+    override fun run(filename: File, logo: File, template: File, outputDir: String, result: Boolean) {
+        val teamData = parseJsons(filename)
         this.output = outputDir
         this.logo = logo
 

@@ -6,9 +6,9 @@ data class TeamData(
     val id: String, val hashTag: String, val university: String, val teamName: String, val contestants: String
 )
 
-class BaseAchievementsGen {
+class TeamAchievementsGen : Generator() {
 
-    fun run(filename: File, logo: File, template: File, outputDir: String) {
+    override fun run(filename: File, logo: File, template: File, outputDir: String, result: Boolean) {
         filename.forEachLine {
             val teamInfo = parseData(it)
 
