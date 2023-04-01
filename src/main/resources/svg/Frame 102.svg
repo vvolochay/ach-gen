@@ -1,0 +1,17 @@
+<svg width="368" height="226" viewBox="0 0 368 226" fill="none" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rect width="368" height="226" rx="16" fill="#C74A2F"/>
+    <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Urbanist" font-size="24"
+          font-weight="bold" letter-spacing="0em"><tspan x="136" y="51.4">Massachusetts </tspan>
+        <tspan x="136" y="79.4">Institute of </tspan>
+        <tspan x="136" y="107.4">Technology</tspan></text>
+    <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Urbanist" font-size="16"
+          font-weight="500" letter-spacing="0em"><tspan x="20.6406" y="175.1">{HashTag} {ShortTeamName}</tspan></text>
+    <rect x="10" y="10" width="109" height="109" fill="url(#pattern0)"/>
+    <defs>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#logo" transform="scale(0.00925926)"/>
+        </pattern>
+        <image id="logo" width="98" height="98" xlink:href="data:image/png;base64,{UniversityLogo} "/>
+    </defs>
+</svg>
