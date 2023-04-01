@@ -5,10 +5,13 @@
 .gradle/
 build/
 gradle/
-generated/
 
 # IntelliJ Files
 .idea/
 *.iml
 *.iws
 *.ipr
+
+# folders
+generated/
+auto-svg/
