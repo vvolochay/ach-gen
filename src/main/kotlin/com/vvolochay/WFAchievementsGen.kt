@@ -4,25 +4,36 @@ import com.google.gson.Gson
 import com.google.gson.stream.JsonReader
 import java.io.File
 import java.io.FileReader
-import java.nio.file.Path
-import kotlin.io.path.createDirectories
 
-data class Data(val id: Int, val university: University, val team: Team, val coach: Person, val contestants: List<Person>)
+data class Data(
+    val id: Int,
+    val university: University,
+    val team: Team,
+    val coach: Person,
+    val contestants: List<Person>
+)
 
 data class Team(val name: String, val regionals: List<String>)
 
-data class University(val fullName: String, val shortName: String, val region: String, val hashTag: String?, val url: String,
-                      val appYears: List<Int>? = null, val winYears: List<Int>? = null, val goldYears: List<Int>? = null,
-                      val silverYears: List<Int>? = null, val bronzeYears: List<Int>? = null, val regYears: List<Int>? = null)
+data class University(
+    val fullName: String, val shortName: String, val region: String, val hashTag: String?, val url: String,
+    val appYears: List<Int>? = null, val winYears: List<Int>? = null, val goldYears: List<Int>? = null,
+    val silverYears: List<Int>? = null, val bronzeYears: List<Int>? = null, val regYears: List<Int>? = null
+)
 
-data class Person(val name: String, val altNames: List<String>, val tcHandle: String? = null, val tcRating: Int? = null,
-                  val cfHandle: String? = null, val cfRating: Int? = null, val twitterHandle: String? = null,
-                  val achievements: List<Achievement>? = null)
+data class Person(
+    val name: String, val altNames: List<String>, val tcHandle: String? = null, val tcRating: Int? = null,
+    val cfHandle: String? = null, val cfRating: Int? = null, val twitterHandle: String? = null,
+    val achievements: List<Achievement>? = null
+)
 
 data class Achievement(val achievement: String, val priority: Int)
 
 
-class FullAchievementsGen : Generator() {
+class WFAchievementsGen : Generator() {
+
+    private var fromY: Int = 40
+    private var text: String = "<text class=\"box\" x=\"140\" y=\"{FromY}\" >{part}</text>"
 
     private lateinit var output: String
     private lateinit var logo: File
@@ -33,7 +44,8 @@ class FullAchievementsGen : Generator() {
         this.logo = logo
 
         for (data in teamData) {
-            generateMainSVG(data)
+
+            generateMainSVG(data, outputDir)
 //            generatePersonSVG(data, data.coach, "coach")
 //            for (i in 0 until data.contestants.size) {
 //                generatePersonSVG(data, data.contestants[i], "contestant_$i")
@@ -41,32 +53,27 @@ class FullAchievementsGen : Generator() {
         }
     }
 
-    fun generateMainSVG(data: Data) {
-        val svgText: String = if (data.university.fullName.length <= 45) {
-            File("src/main/resources/base/main.svg").readText(Charsets.UTF_8)
-                .replace("{FullUniversityName}", data.university.fullName)
+    fun generateMainSVG(data: Data, path: String) {
+        val svgText: String = File("src/main/resources/svg/main_1_1.svg").readText(Charsets.UTF_8)
+
+        var replaced = if (data.university.fullName.length >= 55) {
+            svgText.replace("font-size: 24", "font-size: 20")
+                .replace("{University Name}", splitNameBySpace(data.university.fullName, 22))
         } else {
-            val firstSubstring = data.university.fullName.substring(0, 45).substringBeforeLast(" ")
-            File("src/main/resources/base/main2.svg").readText(Charsets.UTF_8)
-                .replace("{FullUniversityName_1}", firstSubstring)
-                .replace("{FullUniversityName_2}", data.university.fullName.substring(firstSubstring.length, data.university.fullName.length).trim())
+            svgText.replace("{University Name}", splitNameBySpace(data.university.fullName))
         }
 
-        val replaced = svgText.replace("{Logo}", base64Logo(if (logo.isDirectory) File(logo.path + "/" + data.id + ".jpg") else logo))
+        replaced = replaced
+            .replace("{Logo}", base64Logo(if (logo.isDirectory) File(logo.path + "/" + data.id + ".jpg") else logo))
             .replace("{ShortTeamName}", data.university.shortName)
             .replace("{Region}", data.university.region)
             .replace("{HashTag}", data.university.hashTag ?: "")
-            .replace(
-                "{FinalsCounter}",
-                if (data.university.appYears == null || data.university.appYears.size == 1) " 1 FINAL"
-                else data.university.appYears.size.toString() + " FINALS"
-            )
+            .replace("&", "&amp;") // fix escaping symbols
 
-        Path.of("$output/main").createDirectories().toString()
-        File("$output/main/" + data.id.toString() + "_main.svg").writeText(replaced, Charsets.UTF_8)
+        File(path, "${data.id}_main.svg").writeText(replaced, Charsets.UTF_8)
     }
 
-    fun parseJsons(dataFiles: File): List<Data> {
+    private fun parseJsons(dataFiles: File): List<Data> {
         val teamsData = mutableListOf<Data>()
         dataFiles.listFiles()?.forEach {
             val reader = JsonReader(FileReader(it))
@@ -74,6 +81,22 @@ class FullAchievementsGen : Generator() {
             teamsData.add(data)
         }
         return teamsData
+    }
+
+    private fun splitNameBySpace(fullName: String, maxLen: Int = 16): String {
+        val nameParts = mutableListOf<String>()
+        var name = fullName
+        while (name.length > maxLen && name.contains(" ")) {
+            val s = name.substring(0, maxLen).substringBeforeLast(" ")
+            nameParts.add(s)
+            name = name.removeRange(0, s.length).trim()
+        }
+        nameParts.add(name)
+
+        nameParts.mapIndexed { index, s ->
+            nameParts[index] = text.replace("{part}", s).replace("{FromY}", (fromY + index * 30).toString())
+        }
+        return nameParts.joinToString("\n")
     }
 }
 
