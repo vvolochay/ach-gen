@@ -1,1 +1,1 @@
-java -jar build/libs/ach-gen.jar --svg data/nac2023/NAC_ach.sv  g --input data/nac2023/teams.txt -t Team
+java -jar build/libs/ach-gen.jar --svg data/nac2023/NAC_Ach.svg --input data/nac2023/teams.txt -t Team

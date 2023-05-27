@@ -1,5 +1,6 @@
 <svg width="1350" height="970" viewBox="0 0 1350 970" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_3751_85755)">
+<path d="M0 765H1350V954.001C1350 962.837 1342.84 970.001 1334 970.001H16C7.16344 970.001 0 962.837 0 954.001V765Z" fill="white"/>
 <g clip-path="url(#clip1_3751_85755)">
 <path d="M0 765H1350V954.001C1350 962.837 1342.84 970.001 1334 970.001H16C7.16344 970.001 0 962.837 0 954.001V765Z" fill="url(#paint0_linear_3751_85755)"/>
 <text opacity="0.75" fill="#0A3470" xml:space="preserve" style="white-space: pre" font-family="Helvetica" font-size="27.5676" font-weight="bold" letter-spacing="0em"><tspan x="245" y="823.9">{University}</tspan></text>
