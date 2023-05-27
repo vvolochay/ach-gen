@@ -1,1 +1,1 @@
-java -jar build/libs/ach-gen.jar --input data/nef2022/vkoshp_tests.txt -t Team
+java -jar build/libs/ach-gen.jar --svg data/nac2023/NAC_ach.sv  g --input data/nac2023/teams.txt -t Team
