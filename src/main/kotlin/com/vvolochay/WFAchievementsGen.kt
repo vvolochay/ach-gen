@@ -54,21 +54,31 @@ class WFAchievementsGen : Generator() {
     }
 
     fun generateMainSVG(data: Data, path: String) {
-        val svgText: String = File("src/main/resources/svg/main_1_1.svg").readText(Charsets.UTF_8)
+        val svgText: String
 
-        var replaced = if (data.university.fullName.length >= 55) {
-            svgText.replace("font-size: 24", "font-size: 20")
-                .replace("{University Name}", splitNameBySpace(data.university.fullName, 22))
+        var replaced = if (data.university.fullName.length >= 35) {
+
+            val splitName = splitNameTwoPart(data.university.fullName)
+
+            File("src/main/resources/svg/University_main 2 line.svg").readText(Charsets.UTF_8)
+                .replace("{UniversityName1}", splitName.first)
+                .replace("{UniversityName2}", splitName.second)
+
         } else {
-            svgText.replace("{University Name}", splitNameBySpace(data.university.fullName))
+            File("src/main/resources/svg/University_main 1 line.svg").readText(Charsets.UTF_8)
+                .replace("{UniversityName}", replaceEscapingSymbols(data.university.fullName))
         }
 
         replaced = replaced
             .replace("{Logo}", base64Logo(if (logo.isDirectory) File(logo.path + "/" + data.id + ".jpg") else logo))
-            .replace("{ShortTeamName}", data.university.shortName)
-            .replace("{Region}", data.university.region)
+            .replace("{ShortTeamName}", replaceEscapingSymbols(data.team.name))
+            .replace("{Region}", replaceEscapingSymbols(data.university.region))
+            .replace("{RegionalPlace}", replaceEscapingSymbols(data.team.regionals.last()))
             .replace("{HashTag}", data.university.hashTag ?: "")
-            .replace("&", "&amp;") // fix escaping symbols
+
+        // set font size
+        val font = data.team.name.length * 12 + 190
+        replaced = replaced.replace("{font_size}", font.toString())
 
         File(path, "${data.id}_main.svg").writeText(replaced, Charsets.UTF_8)
     }
@@ -97,6 +107,11 @@ class WFAchievementsGen : Generator() {
             nameParts[index] = text.replace("{part}", s).replace("{FromY}", (fromY + index * 30).toString())
         }
         return nameParts.joinToString("\n")
+    }
+
+    private fun splitNameTwoPart(fullName: String): Pair<String, String> {
+        val s =  fullName.substring(0, fullName.length / 2).substringBeforeLast(" ")
+        return Pair(s.trim(), fullName.substring(s.length, fullName.length).trim())
     }
 }
 
