@@ -1,5 +1,6 @@
 package com.vvolochay
 
+import com.vvolochay.GenUtils.Companion.base64Logo
 import java.io.File
 
 data class TeamData(

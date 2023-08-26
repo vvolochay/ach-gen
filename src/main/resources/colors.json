@@ -1,0 +1,542 @@
+[
+  {
+    "name": "julep",
+    "hex": "#eaf6c7",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "luna",
+    "hex": "#cfdb87",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "apple",
+    "hex": "#8db060",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "emerald",
+    "hex": "#5ca464",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "parrot",
+    "hex": "#589c84",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "juniper",
+    "hex": "#4b6863",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "teal",
+    "hex": "#58a4a2",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "pool",
+    "hex": "#60b0b8",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "turquose",
+    "hex": "#69bbd2",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "aqua",
+    "hex": "#dcfeff",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "fern",
+    "hex": "#758554",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "olive",
+    "hex": "#5D5F52",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "peacock",
+    "hex": "#3c6380",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "oceana",
+    "hex": "#7eaaa9",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "fog",
+    "hex": "#b7b5a8",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "silk",
+    "hex": "#E0C6A3",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "wheat",
+    "hex": "#B29583",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "mocca",
+    "hex": "#997660",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "chocolate",
+    "hex": "#614945",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "cacao",
+    "hex": "#403636",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "adobe",
+    "hex": "#CD5142",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "Coral",
+    "hex": "#E36F60",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "salmon",
+    "hex": "#EA968F",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "papaya",
+    "hex": "#EC9685",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "apricot",
+    "hex": "#E49785",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "deco peach",
+    "hex": "#E4AC8E",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "carrot",
+    "hex": "#DC8555",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "saffron",
+    "hex": "#D88C54",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "goldfish",
+    "hex": "#C35C24",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "tangerine",
+    "hex": "#C94E2D",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "pumpkin",
+    "hex": "#9E331F",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "daylily",
+    "hex": "#A43524",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "flowerpot",
+    "hex": "#8D2826",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "paprika",
+    "hex": "#602118",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "chili pepper",
+    "hex": "#6E1A1D",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "ginger",
+    "hex": "#9E4A30",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "latte",
+    "hex": "#936B57",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "cacao",
+    "hex": "#3D2A24",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "bark",
+    "hex": "#4F3234",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "mushroom",
+    "hex": "#917A73",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "fawn",
+    "hex": "#9C836D",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "sand dollar",
+    "hex": "#CAB8A2",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "ivory",
+    "hex": "#D6CEAB",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "white",
+    "hex": "#F7F5FA",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "moonlight",
+    "hex": "#C4C1BA",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "vapor",
+    "hex": "#B6C2C0",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "titanium",
+    "hex": "#6B6B6B",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "Charcoal",
+    "hex": "#3E3A39",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "black",
+    "hex": "#0F0D10",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "julep",
+    "hex": "#E6F3E2",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "grow",
+    "hex": "#BDE87D",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "seedling",
+    "hex": "#C3EBAF",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "retro green",
+    "hex": "#99D696",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "emerald",
+    "hex": "#64BD6D",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "parrot",
+    "hex": "#5FB9A3",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "evergreen",
+    "hex": "#456164",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "olive",
+    "hex": "#6D6D51",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "willow",
+    "hex": "#BFCD6C",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "pistachio",
+    "hex": "#D4E3A2",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "sunny day",
+    "hex": "#E5DE73",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "lemon Creme",
+    "hex": "#FCF5E3",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "shooting star",
+    "hex": "#F6D985",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "straw",
+    "hex": "#DABA7F",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "maize",
+    "hex": "#B9864E",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "sea glass",
+    "hex": "#EDF9FD",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "aqua",
+    "hex": "#D1F0F4",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "pool",
+    "hex": "#9BD5DA",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "oceana",
+    "hex": "#83B5C3",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "pearl blue",
+    "hex": "#BDD4D1",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "turquoise",
+    "hex": "#9CDEE8",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "cyan",
+    "hex": "#6DBFE4",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "peacock",
+    "hex": "#44738D",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "blueberry",
+    "hex": "#7BBCE8",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "flannel",
+    "hex": "#ACCCEB",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "sky",
+    "hex": "#CCE4EE",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "cerulean",
+    "hex": "#618EBE",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "cobalt",
+    "hex": "#2D54B2",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "lapis",
+    "hex": "#304D90",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "ink",
+    "hex": "#1A1B20",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "periwinkle",
+    "hex": "#A5BCE7",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "wisteria",
+    "hex": "#DADAF5",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "lilac",
+    "hex": "#C2B6DA",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "tanzanite",
+    "hex": "#7870AD",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "purple rain",
+    "hex": "#6E4491",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "grape jelly",
+    "hex": "#5E3550",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "eggplant",
+    "hex": "#523A52",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "wild violet",
+    "hex": "#A37688",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "pansy",
+    "hex": "#C4ADDC",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "orchid",
+    "hex": "#C289BE",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "phlox",
+    "hex": "#DDBAD8",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "azalea",
+    "hex": "#E27CAC",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "koolaid",
+    "hex": "#A35985",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "autumn rose",
+    "hex": "#B35375",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "berry",
+    "hex": "#7F2A4B",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "pinot",
+    "hex": "#4B262D",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "garnet",
+    "hex": "#833239",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "pomegranite",
+    "hex": "#8B212B",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "poppy",
+    "hex": "#CA2F33",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "ember",
+    "hex": "#C43F44",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "zinnia",
+    "hex": "#C32E4B",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "flamingo",
+    "hex": "#E46A8C",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "peony",
+    "hex": "#D4517C",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "vintage pink",
+    "hex": "#C85C6E",
+    "fontColor": "#FFFFFF"
+  },
+  {
+    "name": "blush",
+    "hex": "#F1C3C6",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "daisy",
+    "hex": "#F4D9DA",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "shrimp",
+    "hex": "#EDBDA9",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "ballet",
+    "hex": "#F1DCD7",
+    "fontColor": "#2B2B2B"
+  },
+  {
+    "name": "shell pink",
+    "hex": "#F0E7E2",
+    "fontColor": "#2B2B2B"
+  }
+]

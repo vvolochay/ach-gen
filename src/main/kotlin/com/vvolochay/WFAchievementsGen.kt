@@ -2,8 +2,13 @@ package com.vvolochay
 
 import com.google.gson.Gson
 import com.google.gson.stream.JsonReader
+import com.vvolochay.GenUtils.Companion.base64Logo
+import com.vvolochay.GenUtils.Companion.parseColorLibrary
+import com.vvolochay.GenUtils.Companion.replaceEscapingSymbols
 import java.io.File
 import java.io.FileReader
+
+val DEFAULT_COLOR = Color("default", "#FFFFFF", "#2B2B2B")
 
 data class Data(
     val id: Int,
@@ -11,6 +16,11 @@ data class Data(
     val team: Team,
     val coach: Person,
     val contestants: List<Person>
+)
+
+data class TeamColor(
+    val id: Int,
+    val colorName: String,
 )
 
 data class Team(val name: String, val regionals: List<String>)
@@ -29,23 +39,23 @@ data class Person(
 
 data class Achievement(val achievement: String, val priority: Int)
 
-
 class WFAchievementsGen : Generator() {
-
-    private var fromY: Int = 40
-    private var text: String = "<text class=\"box\" x=\"140\" y=\"{FromY}\" >{part}</text>"
 
     private lateinit var output: String
     private lateinit var logo: File
+    private var colors = parseColorLibrary(File("src/main/resources/colors.json"))
 
     override fun run(filename: File, logo: File, template: File, outputDir: String, result: Boolean) {
-        val teamData = parseJsons(filename)
+        val teamData = parseTeamsData(filename)
+        val teamColors = parseTeamsColors(File("data/wf_dhaka/shirts.json"))
+
         this.output = outputDir
         this.logo = logo
 
         for (data in teamData) {
+            val teamColor = teamColors.getOrElse(data.id - 1) { DEFAULT_COLOR }
 
-            generateMainSVG(data, outputDir)
+            generateMainSVG(data, outputDir, teamColor)
 //            generatePersonSVG(data, data.coach, "coach")
 //            for (i in 0 until data.contestants.size) {
 //                generatePersonSVG(data, data.contestants[i], "contestant_$i")
@@ -53,11 +63,8 @@ class WFAchievementsGen : Generator() {
         }
     }
 
-    fun generateMainSVG(data: Data, path: String) {
-        val svgText: String
-
+    fun generateMainSVG(data: Data, path: String, color: Color) {
         var replaced = if (data.university.fullName.length >= 35) {
-
             val splitName = splitNameTwoPart(data.university.fullName)
 
             File("src/main/resources/svg/University_main 2 line.svg").readText(Charsets.UTF_8)
@@ -78,12 +85,15 @@ class WFAchievementsGen : Generator() {
 
         // set font size
         val font = data.team.name.length * 12 + 190
-        replaced = replaced.replace("{font_size}", font.toString())
+        replaced = replaced.replace("{fontSize}", font.toString())
+
+        //set colors
+        replaced = replaced.replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
 
         File(path, "${data.id}_main.svg").writeText(replaced, Charsets.UTF_8)
     }
 
-    private fun parseJsons(dataFiles: File): List<Data> {
+    private fun parseTeamsData(dataFiles: File): List<Data> {
         val teamsData = mutableListOf<Data>()
         dataFiles.listFiles()?.forEach {
             val reader = JsonReader(FileReader(it))
@@ -93,24 +103,15 @@ class WFAchievementsGen : Generator() {
         return teamsData
     }
 
-    private fun splitNameBySpace(fullName: String, maxLen: Int = 16): String {
-        val nameParts = mutableListOf<String>()
-        var name = fullName
-        while (name.length > maxLen && name.contains(" ")) {
-            val s = name.substring(0, maxLen).substringBeforeLast(" ")
-            nameParts.add(s)
-            name = name.removeRange(0, s.length).trim()
-        }
-        nameParts.add(name)
+    private fun parseTeamsColors(file: File): List<Color> {
+        val reader = JsonReader(FileReader(file))
+        val teams: Array<TeamColor> = Gson().fromJson(reader, Array<TeamColor>::class.java)
 
-        nameParts.mapIndexed { index, s ->
-            nameParts[index] = text.replace("{part}", s).replace("{FromY}", (fromY + index * 30).toString())
-        }
-        return nameParts.joinToString("\n")
+        return teams.map { colors[it.colorName]!! }
     }
 
     private fun splitNameTwoPart(fullName: String): Pair<String, String> {
-        val s =  fullName.substring(0, fullName.length / 2).substringBeforeLast(" ")
+        val s = fullName.substring(0, fullName.length * 2 / 3 ).substringBeforeLast(" ")
         return Pair(s.trim(), fullName.substring(s.length, fullName.length).trim())
     }
 }
