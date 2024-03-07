@@ -5,7 +5,7 @@ Generates SVG files with provided data about teams and contestants
 Three modes of gens: [ Team, Person, WF ]
 
  * Team: basic info about team, one file, supported tags: [University, HashTag, Contestants, TeamName]
- * Person: info about contestant, one file, supported tags: [Name, Region, AdditionalInfo, Results]
+ * Person: info about contestant, one file, supported tags: [Name, Region, additionalInfo, Results]
  * WF: generates 4 from json files, TBD
 
 ### Input data
