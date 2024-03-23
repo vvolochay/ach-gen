@@ -1,0 +1,52 @@
+cteam05	|   |	Saarland University	                                |	<(OvO)>                     |
+cteam03	|   |	Delft University of Technology	                    |	Segfault go BRRRR           |
+cteam35	|   |	University of Bergen                                |	Florida Men                 |
+cteam31	|   |	University of Copenhagen	                        |	string & a long             |
+cteam12	|   |	University of Wroclaw	                            |	UWr 1                       |
+cteam16	|   |	University of Bucharest	                            |	3PeasInAPod                 |
+cteam20	|   |	Babes-Bolyai University	                            |	UBB_Echipa_Misterelor       |
+cteam32	|   |	Charles University	                                |	MFF1                        |
+cteam09	|   |	Karlsruhe Institute of Technology	                |	Kindergarten Timelimit      |
+cteam07	|   |	Constructor University Bremen                       |	destructor college          |
+cteam13	|   |	Hasso Plattner Institute	                        |	Seems to be O(k!)           |
+cteam22	|   |	University of Belgrade	                            |	Paja's Pokémon              |
+cteam52	|   |	POLITEHNICA University of Bucharest	                |	MLP                         |
+cteam37	|   |	Chalmers University of Technology	                |	yescpc                      |
+cteam50	|   |	University of Novi Sad	                            |	Infinity                    |
+cteam44	|   |	Taras Shevchenko National University of Kyiv	    |	KNU_0_GB_RAM                |
+cteam46	|   |	POLITEHNICA University of Bucharest	                |	CodeBusters                 |
+cteam27	|   |	Imperial College London	                            |	IMPostors                   |
+cteam30	|   |	Nicolaus Copernicus University	                    |	NCU2                        |
+cteam40	|   |	Kharkiv National University of Radio Electronics	|	KhNURE_KIVI                 |
+cteam04	|   |	Jagiellonian University in Krakow	                |	Jagiellonian teapots        |
+cteam34	|   |	University of Ljubljana	                            |	Ljubljana 3                 |
+cteam06	|   |	Eötvös Loránd University	                        |	ELTE 1                      |
+cteam33	|   |	Utrecht University	                                |	Ctrl Alt Defeat             |
+cteam48	|   |	Lviv National University	                        |	LNU Stallions               |
+cteam08	|   |	University of Warsaw	                            |	Warsaw Eagles 2024          |
+cteam36	|   |	Czech Technical University in Prague	            |	caCTUs                      |
+cteam01	|   |	University of Oxford	                            |	NewJeans                    |
+cteam02	|   |	University of Latvia	                            |	LU1                         |
+cteam14	|   |	Uzhgorod National University	                    |	UzhNU_Machata               |
+cteam10	|   |	University of Zagreb	                            |	Zagreb 1                    |
+cteam26	|   |	University of Zagreb	                            |	Zagreb 3                    |
+cteam42	|   |	Alexandru Ioan Cuza University of Iași	            |	[UAIC] Concret              |
+cteam38	|   |	Comenius University	                                |	Traktoristi                 |
+cteam28	|   |	Masaryk University	                                |	FI MUNI 01                  |
+cteam11	|   |	University of Cambridge	                            |	treenity                    |
+cteam29	|   |	University of Cambridge	                            |	Trinity's Trinity           |
+cteam18	|   |	Bogazici University	                                |	Fatal Error                 |
+cteam24	|   |	National Technical University of Athens	            |	TwoOutOfThree               |
+cteam51	|   |	Ecole Polytechnique	                                |	cnXtv                       |
+cteam39	|   |	Ecole Polytechnique Fédérale de Lausanne	        |	EPFL Polympiads 1           |
+cteam19	|   |	École Normale Supérieure de Paris	                |	ENS Ulm 1                   |
+cteam21	|   |	Sorbonne Université	                                |	Sorbonne Pourpre            |
+cteam17	|   |	Università Degli Studi di Milano	                |	LaStatale Blue              |
+cteam45	|   |	University of Bologna	                            |	UNIBOis                     |
+cteam47	|   |	Universidade do Porto	                            |	Heroes of the C             |
+cteam49	|   |	Universitat Politècnica de Catalunya	            |	UPC-1                       |
+cteam15	|   |	Universitat Politècnica de Catalunya	            |	UPC-2                       |
+cteam43	|   |	ETH Zürich	                                        |	dETHroners                  |
+cteam41	|   |	Università di Pisa	                                |	Volterra gng                |
+cteam23	|   |	Tel Aviv University	                                |	TAUtology                   |
+cteam25	|   |	Instituto Superior Técnico                          |	Inlaws                      |

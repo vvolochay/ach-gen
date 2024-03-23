@@ -1,1 +1,1 @@
-java -jar build/libs/ach-gen.jar --svg data/mrc-2023/nwrrc.svg --input data/mrc-2023/teams.txt -t Team
+java -jar build/libs/ach-gen.jar --svg data/euc2024/euc.svg --input data/euc2024/teams.txt --logo data/euc2024/logo -t Team
