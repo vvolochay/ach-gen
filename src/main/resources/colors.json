@@ -2,541 +2,541 @@
   {
     "name": "julep",
     "hex": "#eaf6c7",
-    "fontColor": "#2B2B2B"
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "luna",
     "hex": "#cfdb87",
-    "fontColor": "#2B2B2B"
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "apple",
     "hex": "#8db060",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "emerald",
     "hex": "#5ca464",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "parrot",
     "hex": "#589c84",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "juniper",
     "hex": "#4b6863",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "teal",
     "hex": "#58a4a2",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "pool",
     "hex": "#60b0b8",
-    "fontColor": "#2B2B2B"
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "turquose",
     "hex": "#69bbd2",
-    "fontColor": "#2B2B2B"
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "aqua",
     "hex": "#dcfeff",
-    "fontColor": "#2B2B2B"
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "fern",
     "hex": "#758554",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "olive",
-    "hex": "#5D5F52",
-    "fontColor": "#FFFFFF"
+    "hex": "#5d5f52",
+    "fontColor": "#ffffff"
   },
   {
     "name": "peacock",
     "hex": "#3c6380",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "oceana",
     "hex": "#7eaaa9",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "fog",
     "hex": "#b7b5a8",
-    "fontColor": "#2B2B2B"
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "silk",
-    "hex": "#E0C6A3",
-    "fontColor": "#2B2B2B"
+    "hex": "#e0c6a3",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "wheat",
-    "hex": "#B29583",
-    "fontColor": "#FFFFFF"
+    "hex": "#b29583",
+    "fontColor": "#ffffff"
   },
   {
     "name": "mocca",
     "hex": "#997660",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "chocolate",
     "hex": "#614945",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "cacao",
     "hex": "#403636",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "adobe",
-    "hex": "#CD5142",
-    "fontColor": "#FFFFFF"
+    "hex": "#cd5142",
+    "fontColor": "#ffffff"
   },
   {
-    "name": "Coral",
-    "hex": "#E36F60",
-    "fontColor": "#FFFFFF"
+    "name": "coral",
+    "hex": "#e36f60",
+    "fontColor": "#ffffff"
   },
   {
     "name": "salmon",
-    "hex": "#EA968F",
-    "fontColor": "#2B2B2B"
+    "hex": "#ea968f",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "papaya",
-    "hex": "#EC9685",
-    "fontColor": "#2B2B2B"
+    "hex": "#ec9685",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "apricot",
-    "hex": "#E49785",
-    "fontColor": "#2B2B2B"
+    "hex": "#e49785",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "deco peach",
-    "hex": "#E4AC8E",
-    "fontColor": "#2B2B2B"
+    "hex": "#e4ac8e",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "carrot",
-    "hex": "#DC8555",
-    "fontColor": "#FFFFFF"
+    "hex": "#dc8555",
+    "fontColor": "#ffffff"
   },
   {
     "name": "saffron",
-    "hex": "#D88C54",
-    "fontColor": "#FFFFFF"
+    "hex": "#d88c54",
+    "fontColor": "#ffffff"
   },
   {
     "name": "goldfish",
-    "hex": "#C35C24",
-    "fontColor": "#FFFFFF"
+    "hex": "#c35c24",
+    "fontColor": "#ffffff"
   },
   {
     "name": "tangerine",
-    "hex": "#C94E2D",
-    "fontColor": "#FFFFFF"
+    "hex": "#c94e2d",
+    "fontColor": "#ffffff"
   },
   {
     "name": "pumpkin",
-    "hex": "#9E331F",
-    "fontColor": "#FFFFFF"
+    "hex": "#9e331f",
+    "fontColor": "#ffffff"
   },
   {
     "name": "daylily",
-    "hex": "#A43524",
-    "fontColor": "#FFFFFF"
+    "hex": "#a43524",
+    "fontColor": "#ffffff"
   },
   {
     "name": "flowerpot",
-    "hex": "#8D2826",
-    "fontColor": "#FFFFFF"
+    "hex": "#8d2826",
+    "fontColor": "#ffffff"
   },
   {
     "name": "paprika",
     "hex": "#602118",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "chili pepper",
-    "hex": "#6E1A1D",
-    "fontColor": "#FFFFFF"
+    "hex": "#6e1a1d",
+    "fontColor": "#ffffff"
   },
   {
     "name": "ginger",
-    "hex": "#9E4A30",
-    "fontColor": "#FFFFFF"
+    "hex": "#9e4a30",
+    "fontColor": "#ffffff"
   },
   {
     "name": "latte",
-    "hex": "#936B57",
-    "fontColor": "#FFFFFF"
+    "hex": "#936b57",
+    "fontColor": "#ffffff"
   },
   {
     "name": "cacao",
-    "hex": "#3D2A24",
-    "fontColor": "#FFFFFF"
+    "hex": "#3d2a24",
+    "fontColor": "#ffffff"
   },
   {
     "name": "bark",
-    "hex": "#4F3234",
-    "fontColor": "#FFFFFF"
+    "hex": "#4f3234",
+    "fontColor": "#ffffff"
   },
   {
     "name": "mushroom",
-    "hex": "#917A73",
-    "fontColor": "#FFFFFF"
+    "hex": "#917a73",
+    "fontColor": "#ffffff"
   },
   {
     "name": "fawn",
-    "hex": "#9C836D",
-    "fontColor": "#2B2B2B"
+    "hex": "#9c836d",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "sand dollar",
-    "hex": "#CAB8A2",
-    "fontColor": "#2B2B2B"
+    "hex": "#cab8a2",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "ivory",
-    "hex": "#D6CEAB",
-    "fontColor": "#2B2B2B"
+    "hex": "#d6ceab",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "white",
-    "hex": "#F7F5FA",
-    "fontColor": "#2B2B2B"
+    "hex": "#f7f5fa",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "moonlight",
-    "hex": "#C4C1BA",
-    "fontColor": "#2B2B2B"
+    "hex": "#c4c1ba",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "vapor",
-    "hex": "#B6C2C0",
-    "fontColor": "#2B2B2B"
+    "hex": "#b6c2c0",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "titanium",
-    "hex": "#6B6B6B",
-    "fontColor": "#FFFFFF"
+    "hex": "#6b6b6b",
+    "fontColor": "#ffffff"
   },
   {
-    "name": "Charcoal",
-    "hex": "#3E3A39",
-    "fontColor": "#FFFFFF"
+    "name": "charcoal",
+    "hex": "#3e3a39",
+    "fontColor": "#ffffff"
   },
   {
     "name": "black",
-    "hex": "#0F0D10",
-    "fontColor": "#FFFFFF"
+    "hex": "#0f0d10",
+    "fontColor": "#ffffff"
   },
   {
     "name": "julep",
-    "hex": "#E6F3E2",
-    "fontColor": "#2B2B2B"
+    "hex": "#e6f3e2",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "grow",
-    "hex": "#BDE87D",
-    "fontColor": "#2B2B2B"
+    "hex": "#bde87d",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "seedling",
-    "hex": "#C3EBAF",
-    "fontColor": "#2B2B2B"
+    "hex": "#c3ebaf",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "retro green",
-    "hex": "#99D696",
-    "fontColor": "#2B2B2B"
+    "hex": "#99d696",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "emerald",
-    "hex": "#64BD6D",
-    "fontColor": "#2B2B2B"
+    "hex": "#64bd6d",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "parrot",
-    "hex": "#5FB9A3",
-    "fontColor": "#2B2B2B"
+    "hex": "#5fb9a3",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "evergreen",
     "hex": "#456164",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "olive",
-    "hex": "#6D6D51",
-    "fontColor": "#FFFFFF"
+    "hex": "#6d6d51",
+    "fontColor": "#ffffff"
   },
   {
     "name": "willow",
-    "hex": "#BFCD6C",
-    "fontColor": "#2B2B2B"
+    "hex": "#bfcd6c",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "pistachio",
-    "hex": "#D4E3A2",
-    "fontColor": "#2B2B2B"
+    "hex": "#d4e3a2",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "sunny day",
-    "hex": "#E5DE73",
-    "fontColor": "#2B2B2B"
+    "hex": "#e5de73",
+    "fontColor": "#2b2b2b"
   },
   {
-    "name": "lemon Creme",
-    "hex": "#FCF5E3",
-    "fontColor": "#2B2B2B"
+    "name": "lemon creme",
+    "hex": "#fcf5e3",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "shooting star",
-    "hex": "#F6D985",
-    "fontColor": "#2B2B2B"
+    "hex": "#f6d985",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "straw",
-    "hex": "#DABA7F",
-    "fontColor": "#2B2B2B"
+    "hex": "#daba7f",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "maize",
-    "hex": "#B9864E",
-    "fontColor": "#FFFFFF"
+    "hex": "#b9864e",
+    "fontColor": "#ffffff"
   },
   {
     "name": "sea glass",
-    "hex": "#EDF9FD",
-    "fontColor": "#2B2B2B"
+    "hex": "#edf9fd",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "aqua",
-    "hex": "#D1F0F4",
-    "fontColor": "#2B2B2B"
+    "hex": "#d1f0f4",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "pool",
-    "hex": "#9BD5DA",
-    "fontColor": "#2B2B2B"
+    "hex": "#9bd5da",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "oceana",
-    "hex": "#83B5C3",
-    "fontColor": "#2B2B2B"
+    "hex": "#83b5c3",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "pearl blue",
-    "hex": "#BDD4D1",
-    "fontColor": "#2B2B2B"
+    "hex": "#bdd4d1",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "turquoise",
-    "hex": "#9CDEE8",
-    "fontColor": "#2B2B2B"
+    "hex": "#9cdee8",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "cyan",
-    "hex": "#6DBFE4",
-    "fontColor": "#2B2B2B"
+    "hex": "#6dbfe4",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "peacock",
-    "hex": "#44738D",
-    "fontColor": "#FFFFFF"
+    "hex": "#44738d",
+    "fontColor": "#ffffff"
   },
   {
     "name": "blueberry",
-    "hex": "#7BBCE8",
-    "fontColor": "#2B2B2B"
+    "hex": "#7bbce8",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "flannel",
-    "hex": "#ACCCEB",
-    "fontColor": "#2B2B2B"
+    "hex": "#accceb",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "sky",
-    "hex": "#CCE4EE",
-    "fontColor": "#2B2B2B"
+    "hex": "#cce4ee",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "cerulean",
-    "hex": "#618EBE",
-    "fontColor": "#FFFFFF"
+    "hex": "#618ebe",
+    "fontColor": "#ffffff"
   },
   {
     "name": "cobalt",
-    "hex": "#2D54B2",
-    "fontColor": "#FFFFFF"
+    "hex": "#2d54b2",
+    "fontColor": "#ffffff"
   },
   {
     "name": "lapis",
-    "hex": "#304D90",
-    "fontColor": "#FFFFFF"
+    "hex": "#304d90",
+    "fontColor": "#ffffff"
   },
   {
     "name": "ink",
-    "hex": "#1A1B20",
-    "fontColor": "#FFFFFF"
+    "hex": "#1a1b20",
+    "fontColor": "#ffffff"
   },
   {
     "name": "periwinkle",
-    "hex": "#A5BCE7",
-    "fontColor": "#2B2B2B"
+    "hex": "#a5bce7",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "wisteria",
-    "hex": "#DADAF5",
-    "fontColor": "#2B2B2B"
+    "hex": "#dadaf5",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "lilac",
-    "hex": "#C2B6DA",
-    "fontColor": "#2B2B2B"
+    "hex": "#c2b6da",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "tanzanite",
-    "hex": "#7870AD",
-    "fontColor": "#FFFFFF"
+    "hex": "#7870ad",
+    "fontColor": "#ffffff"
   },
   {
     "name": "purple rain",
-    "hex": "#6E4491",
-    "fontColor": "#FFFFFF"
+    "hex": "#6e4491",
+    "fontColor": "#ffffff"
   },
   {
     "name": "grape jelly",
-    "hex": "#5E3550",
-    "fontColor": "#FFFFFF"
+    "hex": "#5e3550",
+    "fontColor": "#ffffff"
   },
   {
     "name": "eggplant",
-    "hex": "#523A52",
-    "fontColor": "#FFFFFF"
+    "hex": "#523a52",
+    "fontColor": "#ffffff"
   },
   {
     "name": "wild violet",
-    "hex": "#A37688",
-    "fontColor": "#FFFFFF"
+    "hex": "#a37688",
+    "fontColor": "#ffffff"
   },
   {
     "name": "pansy",
-    "hex": "#C4ADDC",
-    "fontColor": "#2B2B2B"
+    "hex": "#c4addc",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "orchid",
-    "hex": "#C289BE",
-    "fontColor": "#2B2B2B"
+    "hex": "#c289be",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "phlox",
-    "hex": "#DDBAD8",
-    "fontColor": "#2B2B2B"
+    "hex": "#ddbad8",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "azalea",
-    "hex": "#E27CAC",
-    "fontColor": "#2B2B2B"
+    "hex": "#e27cac",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "koolaid",
-    "hex": "#A35985",
-    "fontColor": "#FFFFFF"
+    "hex": "#a35985",
+    "fontColor": "#ffffff"
   },
   {
     "name": "autumn rose",
-    "hex": "#B35375",
-    "fontColor": "#FFFFFF"
+    "hex": "#b35375",
+    "fontColor": "#ffffff"
   },
   {
     "name": "berry",
-    "hex": "#7F2A4B",
-    "fontColor": "#FFFFFF"
+    "hex": "#7f2a4b",
+    "fontColor": "#ffffff"
   },
   {
     "name": "pinot",
-    "hex": "#4B262D",
-    "fontColor": "#FFFFFF"
+    "hex": "#4b262d",
+    "fontColor": "#ffffff"
   },
   {
     "name": "garnet",
     "hex": "#833239",
-    "fontColor": "#FFFFFF"
+    "fontColor": "#ffffff"
   },
   {
     "name": "pomegranite",
-    "hex": "#8B212B",
-    "fontColor": "#FFFFFF"
+    "hex": "#8b212b",
+    "fontColor": "#ffffff"
   },
   {
     "name": "poppy",
-    "hex": "#CA2F33",
-    "fontColor": "#FFFFFF"
+    "hex": "#ca2f33",
+    "fontColor": "#ffffff"
   },
   {
     "name": "ember",
-    "hex": "#C43F44",
-    "fontColor": "#FFFFFF"
+    "hex": "#c43f44",
+    "fontColor": "#ffffff"
   },
   {
     "name": "zinnia",
-    "hex": "#C32E4B",
-    "fontColor": "#FFFFFF"
+    "hex": "#c32e4b",
+    "fontColor": "#ffffff"
   },
   {
     "name": "flamingo",
-    "hex": "#E46A8C",
-    "fontColor": "#2B2B2B"
+    "hex": "#e46a8c",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "peony",
-    "hex": "#D4517C",
-    "fontColor": "#FFFFFF"
+    "hex": "#d4517c",
+    "fontColor": "#ffffff"
   },
   {
     "name": "vintage pink",
-    "hex": "#C85C6E",
-    "fontColor": "#FFFFFF"
+    "hex": "#c85c6e",
+    "fontColor": "#ffffff"
   },
   {
     "name": "blush",
-    "hex": "#F1C3C6",
-    "fontColor": "#2B2B2B"
+    "hex": "#f1c3c6",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "daisy",
-    "hex": "#F4D9DA",
-    "fontColor": "#2B2B2B"
+    "hex": "#f4d9da",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "shrimp",
-    "hex": "#EDBDA9",
-    "fontColor": "#2B2B2B"
+    "hex": "#edbda9",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "ballet",
-    "hex": "#F1DCD7",
-    "fontColor": "#2B2B2B"
+    "hex": "#f1dcd7",
+    "fontColor": "#2b2b2b"
   },
   {
     "name": "shell pink",
-    "hex": "#F0E7E2",
-    "fontColor": "#2B2B2B"
+    "hex": "#f0e7e2",
+    "fontColor": "#2b2b2b"
   }
 ]

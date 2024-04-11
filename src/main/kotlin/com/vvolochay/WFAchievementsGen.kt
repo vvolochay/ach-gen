@@ -7,8 +7,10 @@ import com.vvolochay.GenUtils.Companion.parseColorLibrary
 import com.vvolochay.GenUtils.Companion.replaceEscapingSymbols
 import java.io.File
 import java.io.FileReader
+import kotlin.math.min
 
 val DEFAULT_COLOR = Color("default", "#FFFFFF", "#2B2B2B")
+const val DEFAULT_FONT_SIZE = 50
 
 data class Data(
     val id: Int,
@@ -64,15 +66,20 @@ class WFAchievementsGen : Generator() {
     }
 
     fun generateMainSVG(data: Data, path: String, color: Color) {
-        var replaced = if (data.university.fullName.length >= 35) {
+        var fontSize = DEFAULT_FONT_SIZE
+        var replaced =
+            if (data.university.fullName.length < 35) {
+                fontSize = 39
+                File("src/main/resources/svg/main_one_line.svg").readText(Charsets.UTF_8)
+                    .replace("{UniversityName}", replaceEscapingSymbols(data.university.fullName))
+            } else if (data.university.fullName.length > 30) {
             val splitName = splitNameTwoPart(data.university.fullName)
 
-            File("src/main/resources/svg/University_main 2 line.svg").readText(Charsets.UTF_8)
-                .replace("{UniversityName1}", splitName.first)
-                .replace("{UniversityName2}", splitName.second)
-
+            File("src/main/resources/svg/main_two_lines.svg").readText(Charsets.UTF_8)
+                .replace("{UniversityName1}", replaceEscapingSymbols(splitName.first))
+                .replace("{UniversityName2}", replaceEscapingSymbols(splitName.second))
         } else {
-            File("src/main/resources/svg/University_main 1 line.svg").readText(Charsets.UTF_8)
+            File("src/main/resources/svg/main_one_line.svg").readText(Charsets.UTF_8)
                 .replace("{UniversityName}", replaceEscapingSymbols(data.university.fullName))
         }
 
@@ -80,12 +87,10 @@ class WFAchievementsGen : Generator() {
             .replace("{Logo}", base64Logo(if (logo.isDirectory) File(logo.path + "/" + data.id + ".jpg") else logo))
             .replace("{ShortTeamName}", replaceEscapingSymbols(data.team.name))
             .replace("{Region}", replaceEscapingSymbols(data.university.region))
+            .replace("{fontSize}", fontSize.toString())
             .replace("{RegionalPlace}", replaceEscapingSymbols(data.team.regionals.last()))
             .replace("{HashTag}", data.university.hashTag ?: "")
 
-        // set font size
-        val font = data.team.name.length * 12 + 190
-        replaced = replaced.replace("{fontSize}", font.toString())
 
         //set colors
         replaced = replaced.replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
@@ -107,11 +112,14 @@ class WFAchievementsGen : Generator() {
         val reader = JsonReader(FileReader(file))
         val teams: Array<TeamColor> = Gson().fromJson(reader, Array<TeamColor>::class.java)
 
-        return teams.map { colors[it.colorName]!! }
+
+        return teams.map {
+            colors[it.colorName]!!
+        }
     }
 
     private fun splitNameTwoPart(fullName: String): Pair<String, String> {
-        val s = fullName.substring(0, fullName.length * 2 / 3 ).substringBeforeLast(" ")
+        val s = fullName.substring(0, min(fullName.length, 35)).substringBeforeLast(" ")
         return Pair(s.trim(), fullName.substring(s.length, fullName.length).trim())
     }
 }
