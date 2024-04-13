@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup, NavigableString
 from pathlib import Path
 
 
-images = "_main.svg", "_contestant_0.svg", "_contestant_1.svg", "_contestant_2.svg", "_coach.svg", "_main.svg"
+images = "_main.svg", "_contestant_0.svg", "_contestant_1.svg", "_contestant_2.svg", "_coach.svg", "_finals.svg", "_main.svg"
 for i in range(1, 3):
     print(i)
     soups = []

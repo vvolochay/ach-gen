@@ -4,6 +4,7 @@ import com.google.gson.Gson
 import com.google.gson.stream.JsonReader
 import com.vvolochay.GenUtils.Companion.base64Logo
 import com.vvolochay.GenUtils.Companion.parseColorLibrary
+import com.vvolochay.GenUtils.Companion.placeRating
 import com.vvolochay.GenUtils.Companion.replaceEscapingSymbols
 import java.io.File
 import java.io.FileReader
@@ -58,10 +59,11 @@ class WFAchievementsGen : Generator() {
             val teamColor = teamColors.getOrElse(data.id - 1) { DEFAULT_COLOR }
 
             generateMainSVG(data, outputDir, teamColor)
-//            generatePersonSVG(data, data.coach, "coach")
-//            for (i in 0 until data.contestants.size) {
-//                generatePersonSVG(data, data.contestants[i], "contestant_$i")
-//            }
+            generatePersonSVG(data.id, data.coach,  outputDir,"coach", teamColor)
+            for (i in 0 until data.contestants.size) {
+                generatePersonSVG(data.id, data.contestants[i], outputDir, "contestant_$i", teamColor)
+            }
+            generateFinalsSVG(data, outputDir, teamColor)
         }
     }
 
@@ -91,11 +93,51 @@ class WFAchievementsGen : Generator() {
             .replace("{RegionalPlace}", replaceEscapingSymbols(data.team.regionals.last()))
             .replace("{HashTag}", data.university.hashTag ?: "")
 
-
         //set colors
         replaced = replaced.replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
-
         File(path, "${data.id}_main.svg").writeText(replaced, Charsets.UTF_8)
+    }
+
+    fun generatePersonSVG(id: Int, person: Person,  path: String, role: String, color: Color) {
+        var replaced = File("src/main/resources/svg/personal.svg").readText(Charsets.UTF_8)
+            .replace("{Name}", person.name)
+
+        if (person.name.length > 22 && person.achievements!!.isNotEmpty()) {
+            println("Check by hands long name:" + id + "_" + role)
+        }
+
+        var rating = ""
+        var xCoord = 150
+        if (person.tcRating != null) {
+            rating += placeRating(person.tcRating.toString(), xCoord, "TC")
+            xCoord = 258
+        }
+        if (person.cfRating != null) {
+            rating += placeRating(person.cfRating.toString(), xCoord, "CF")
+        }
+
+        var longValue = false
+        for ((index, value) in person.achievements!!.withIndex()) {
+            replaced = replaced.replace("{ach${index+1}}", value.achievement)
+            if (value.achievement.length >= 38) {
+                longValue = true
+            }
+        }
+        if (longValue && person.achievements.size > 4) {
+            println("Check by hands long string:" + id + "_" + role)
+        }
+
+        for (i in 1..8) {
+            replaced = replaced.replace("{ach$i}", "")
+        }
+
+        //set colors
+        replaced = replaced
+            .replace("{Logo}", base64Logo(if (logo.isDirectory) File(logo.path + "/" + id + ".jpg") else logo))
+            .replace("{Rating Circles}", rating)
+            .replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
+
+        File(path, "${id}_" + role + ".svg").writeText(replaced, Charsets.UTF_8)
     }
 
     private fun parseTeamsData(dataFiles: File): List<Data> {
@@ -106,6 +148,21 @@ class WFAchievementsGen : Generator() {
             teamsData.add(data)
         }
         return teamsData
+    }
+
+    fun generateFinalsSVG(data: Data, path: String, color: Color) {
+        var replaced = File("src/main/resources/svg/finals.svg").readText(Charsets.UTF_8)
+            .replace("{Logo}", base64Logo(if (logo.isDirectory) File(logo.path + "/" + data.id + ".jpg") else logo))
+
+        if (data.university.appYears != null) {
+            replaced = replaced.replace("{F}", data.university.appYears.size.toString())
+        } else {
+            replaced = replaced.replace("{F}", "1")
+        }
+
+        //set colors
+        replaced = replaced.replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
+        File(path, "${data.id}_finals.svg").writeText(replaced, Charsets.UTF_8)
     }
 
     private fun parseTeamsColors(file: File): List<Color> {
