@@ -1,0 +1,65 @@
+{
+  "id": 47023,
+  "university": {
+    "fullName": "Chulalongkorn University",
+    "shortName": "Chulalongkorn U",
+    "region": "Asia Pacific",
+    "hashTag": "#ChulalongkornU",
+    "url": "http://www.chula.ac.th",
+    "appYears": [
+      2016,
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Waifu=Senpai:Re",
+    "regionals": [
+      "Manila, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Athasit Surarerks",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2016-2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Supakorn Kijwattanachai",
+      "altNames": [],
+      "cfHandle": "Lucina",
+      "cfRating": 2120,
+      "twitterHandle": "-",
+      "achievements": []
+    },
+    {
+      "name": "Natapong Sriwatanasakdi",
+      "altNames": [],
+      "cfHandle": "PineapplesOnPizza",
+      "cfRating": 2014,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mattanyu Tangngekkee",
+      "altNames": [],
+      "cfHandle": "Mentholzzz",
+      "cfRating": 1485,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

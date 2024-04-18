@@ -1,0 +1,85 @@
+{
+  "id": 47090,
+  "university": {
+    "fullName": "Taras Shevchenko National University of Kyiv",
+    "shortName": "TS Kyiv NU",
+    "region": "Europe",
+    "hashTag": "#TSKievNU",
+    "url": "http://www.univ.kiev.ua",
+    "appYears": [
+      1995,
+      2003,
+      2006,
+      2009,
+      2010,
+      2011,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [
+      2010
+    ],
+    "silverYears": [
+      2013
+    ],
+    "bronzeYears": [
+      2003
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "KNU_stascool5",
+    "regionals": [
+      "Southeastern Europe, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Oleksandr Vechur",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Daniil Smelskyi",
+      "altNames": [],
+      "cfHandle": "danya.smelskiy",
+      "cfRating": 2592,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2018)",
+          "priority": 64
+        }
+      ]
+    },
+    {
+      "name": "Sofiia Melnyk",
+      "altNames": [],
+      "cfHandle": "Sonechko",
+      "cfRating": 2455,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2018, 2019, 2020)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Marko Hryshechkin",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

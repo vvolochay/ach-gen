@@ -1,0 +1,50 @@
+{
+  "id": 47046,
+  "university": {
+    "fullName": "Indian Institute Of Technology Jodhpur ",
+    "shortName": "IITJ",
+    "region": "Asia West",
+    "hashTag": "#IITJodhpur",
+    "url": "https://iitj.ac.in"
+  },
+  "team": {
+    "name": "Pratyahara",
+    "regionals": [
+      "Asia West, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Somitra Sanadhya",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ankit Chauhan",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vikash Singh",
+      "altNames": [],
+      "cfHandle": "covid01",
+      "cfRating": 1934,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vedanshu Goyal",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": 47116,
+  "university": {
+    "fullName": "University of California, Berkeley",
+    "shortName": "UC Berkeley",
+    "region": "North America",
+    "hashTag": "#UCBerkeley",
+    "url": "http://www.berkeley.edu",
+    "appYears": [
+      1993,
+      1994,
+      1995,
+      1996,
+      1998,
+      1999,
+      2001,
+      2002,
+      2003,
+      2009,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "winYears": [
+      1996
+    ],
+    "goldYears": [
+      1995,
+      1996
+    ],
+    "silverYears": [
+      1993,
+      2015
+    ],
+    "bronzeYears": [
+      1994,
+      1999
+    ],
+    "regYears": [
+      2015
+    ]
+  },
+  "team": {
+    "name": "Golden State Geeks",
+    "regionals": [
+      "North America, 13th"
+    ]
+  },
+  "coach": {
+    "name": "Jelani Nelson",
+    "altNames": [],
+    "cfHandle": "Minilek",
+    "cfRating": 1550,
+    "twitterHandle": "minilek",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Swapnil Garg",
+      "altNames": [],
+      "cfHandle": "linpaws",
+      "cfRating": 2103,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nishant Bhakar",
+      "altNames": [],
+      "cfHandle": "fatant",
+      "cfRating": 1706,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Saathvik Selvan",
+      "altNames": [],
+      "cfHandle": "ss1237",
+      "cfRating": 1688,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

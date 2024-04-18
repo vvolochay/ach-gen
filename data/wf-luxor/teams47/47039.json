@@ -1,0 +1,70 @@
+{
+  "id": 47039,
+  "university": {
+    "fullName": "Indian Institute of Technology - Bombay",
+    "shortName": "IIT Bombay",
+    "region": "Asia West",
+    "hashTag": "#IITBombay",
+    "url": "http://www.iitb.ac.in",
+    "appYears": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Leaf Papad",
+    "regionals": [
+      "Asia West, 11th"
+    ]
+  },
+  "coach": {
+    "name": "Krishna S",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Shivang Tiwari",
+      "altNames": [],
+      "cfHandle": "shadow9236",
+      "cfRating": 2178,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Parth Dwivedi",
+      "altNames": [],
+      "cfHandle": "ParthDwivedi",
+      "cfRating": 1984,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kunal Kundwani",
+      "altNames": [],
+      "cfHandle": "dumb_boi",
+      "cfRating": 1819,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

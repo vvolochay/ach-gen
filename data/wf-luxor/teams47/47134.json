@@ -1,0 +1,59 @@
+{
+  "id": 47134,
+  "university": {
+    "fullName": "Xi'an Jiaotong University",
+    "shortName": "XJTU",
+    "region": "Asia East",
+    "hashTag": "#xjtu",
+    "url": "http://www.xjtu.edu.cn",
+    "appYears": [
+      2018,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Dodo Kindergarten",
+    "regionals": [
+      "Asia East, 28th"
+    ]
+  },
+  "coach": {
+    "name": "Longxiang Wang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Zhikun Wang",
+      "altNames": [],
+      "cfHandle": "nocriz",
+      "cfRating": 2722,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yeyuan Chen",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dong Yang",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

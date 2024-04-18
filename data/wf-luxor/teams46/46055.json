@@ -1,0 +1,102 @@
+{
+  "id": 46055,
+  "university": {
+    "fullName": "Moscow Institute of Physics and Technology",
+    "shortName": "MIPT",
+    "region": "Northern Eurasia",
+    "hashTag": "#PhysTech",
+    "url": "http://www.mipt.ru",
+    "appYears": [
+      2008,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [
+      2012,
+      2016,
+      2018,
+      2020
+    ],
+    "silverYears": [
+      2017
+    ],
+    "bronzeYears": [
+      2019
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Log-rank conjecture",
+    "regionals": [
+      "Northern Eurasia, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Filipp Rukhovich",
+    "altNames": [
+      "Philip Rukhovich",
+      "Филипп Рухович"
+    ],
+    "cfHandle": "DPR-pavlin",
+    "cfRating": 2427,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2014)",
+        "priority": 100
+      },
+      {
+        "achievement": "TopCoder High School Finalist (2009)",
+        "priority": 30
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (x3)",
+        "priority": 30
+      },
+      {
+        "achievement": "CROC Finalist (2013, 2016)",
+        "priority": 10
+      },
+      {
+        "achievement": "VK Cup Finalist (2015)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Anton Sadovnichiy",
+      "altNames": [],
+      "cfHandle": "sadovan",
+      "cfRating": 2620,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dmitry Grigoryev",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Alexander Shekhovtsov",
+      "altNames": [],
+      "cfHandle": "Jatana",
+      "cfRating": 2288,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -50,11 +50,11 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2019)",
+          "achievement": "ICPC WF Finalist (2019)",
           "priority": 100
         },
         {
-          "achievement": "Facebook Hacker Cup Finalist (2020)",
+          "achievement": "Hacker Cup Finalist (2020)",
           "priority": 90
         },
         {
@@ -84,7 +84,7 @@
       "twitterHandle": "BuligaStefan",
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2019)",
+          "achievement": "ICPC WF Finalist (2019)",
           "priority": 100
         },
         {
@@ -115,11 +115,11 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2019)",
+          "achievement": "ICPC WF Finalist (2019)",
           "priority": 100
         },
         {
-          "achievement": "Google Code Jam Finalist (2022)",
+          "achievement": "GCJ Finalist (2022)",
           "priority": 90
         },
         {

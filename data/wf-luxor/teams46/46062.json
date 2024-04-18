@@ -1,0 +1,116 @@
+{
+  "id": 46062,
+  "university": {
+    "fullName": "National Taiwan University",
+    "shortName": "National Taiwan U",
+    "region": "Asia Pacific",
+    "hashTag": "#NationalTaiwanU",
+    "url": "http://www.ntu.edu.tw",
+    "appYears": [
+      1996,
+      1997,
+      1998,
+      1999,
+      2001,
+      2002,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [
+      2010,
+      2013,
+      2014
+    ],
+    "silverYears": [
+      1997,
+      2004,
+      2019
+    ],
+    "bronzeYears": [
+      1999,
+      2001
+    ],
+    "regYears": [
+      2004
+    ]
+  },
+  "team": {
+    "name": "ckiseki",
+    "regionals": [
+      "Taipei, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Pu-Jen Cheng",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC gold medal as coach (2010, 2013-2014)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ACM ICPC silver medal as coach (2019)",
+        "priority": 3000
+      },
+      {
+        "achievement": "WF coach (2008-2009, 2011-2012, 2015-2018, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "YU-HSUN Chiang",
+      "altNames": [],
+      "cfHandle": "oToToT",
+      "cfRating": 2169,
+      "twitterHandle": "o_ToT_oT",
+      "achievements": []
+    },
+    {
+      "name": "Ping-Hsuan Lin",
+      "altNames": [],
+      "cfHandle": "2qbingxuan",
+      "cfRating": 2232,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2021)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2020)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "PoYu Chou",
+      "altNames": [],
+      "cfHandle": "moe.tsuki",
+      "cfRating": 2293,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

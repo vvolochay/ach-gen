@@ -1,0 +1,99 @@
+{
+  "id": 46083,
+  "university": {
+    "fullName": "Technische Universität München",
+    "shortName": "TUM",
+    "region": "Europe",
+    "hashTag": "#TUM",
+    "url": "http://www.tum.de",
+    "appYears": [
+      2006,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "TUM Riddle",
+    "regionals": [
+      "Northwestern Europe, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Gregor Matl",
+    "altNames": [],
+    "cfHandle": "Gregory",
+    "cfRating": 2195,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2019, 2020)",
+        "priority": 100
+      },
+      {
+        "achievement": "GHC Finalist (2019, 2020, 2022)",
+        "priority": 70
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2014)",
+        "priority": 62
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tobias Benjamin Schindler",
+      "altNames": [],
+      "cfHandle": "tob123",
+      "cfRating": 2388,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020, 2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "GHC Finalist (2019, 2020, 2022)",
+          "priority": 70
+        }
+      ]
+    },
+    {
+      "name": "Atacan İyidoğan",
+      "altNames": [
+        "Atacan"
+      ],
+      "cfHandle": "atacan",
+      "cfRating": 2315,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "GHC Finalist (2020)",
+          "priority": 70
+        }
+      ]
+    },
+    {
+      "name": "Erik Sünderhauf",
+      "altNames": [],
+      "cfHandle": "eriksuenderhauf",
+      "cfRating": 2245,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2018, 2019)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

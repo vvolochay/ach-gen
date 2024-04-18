@@ -1,0 +1,67 @@
+{
+  "id": 46086,
+  "university": {
+    "fullName": "The University of Jordan",
+    "shortName": "UJ",
+    "region": "Africa and Arabia",
+    "hashTag": "#UJ",
+    "url": "http://www.ju.edu.jo",
+    "appYears": [
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Where you at & how much you have",
+    "regionals": [
+      "Africa & Arab, 23rd"
+    ]
+  },
+  "coach": {
+    "name": "Heba Saadeh",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Salem Warawreh",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Muhannad Alwarawreh",
+      "altNames": [],
+      "cfHandle": "Warawreh",
+      "cfRating": 2102,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2018)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Khaled Abu Sarhan",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

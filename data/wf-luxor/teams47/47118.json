@@ -1,0 +1,100 @@
+{
+  "id": 47118,
+  "university": {
+    "fullName": "University of Cambridge",
+    "shortName": "Cambridge",
+    "region": "Europe",
+    "hashTag": "#Cambridge",
+    "url": "http://www.cam.ac.uk",
+    "appYears": [
+      2009,
+      2014,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2020
+    ],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Trinity's Trinity",
+    "regionals": [
+      "Northwestern Europe, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Dimitrije Erdeljan",
+    "altNames": [],
+    "cfHandle": "dd__",
+    "cfRating": 2243,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2018)",
+        "priority": 100
+      },
+      {
+        "achievement": "IOI Silver Medalist (2014, 2015)",
+        "priority": 63
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2013)",
+        "priority": 62
+      },
+      {
+        "achievement": "GHC Finalist (2017)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Fredrik Ekholm",
+      "altNames": [],
+      "cfHandle": "fredrik.w.ekholm",
+      "cfRating": 2293,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2018, 2019, 2020)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2017)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Matej Urban",
+      "altNames": [],
+      "cfHandle": "Maturvo",
+      "cfRating": 2211,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2021)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Joël Benjamin Huber",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

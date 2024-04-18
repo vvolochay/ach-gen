@@ -2,6 +2,9 @@ package com.vvolochay
 
 import com.google.gson.Gson
 import com.google.gson.stream.JsonReader
+import com.vvolochay.GenUtils.Companion.addCups
+import com.vvolochay.GenUtils.Companion.addMedals
+import com.vvolochay.GenUtils.Companion.addRC
 import com.vvolochay.GenUtils.Companion.base64Logo
 import com.vvolochay.GenUtils.Companion.parseColorLibrary
 import com.vvolochay.GenUtils.Companion.placeRating
@@ -14,7 +17,7 @@ val DEFAULT_COLOR = Color("default", "#FFFFFF", "#2B2B2B")
 const val DEFAULT_FONT_SIZE = 50
 
 data class Data(
-    val id: Int,
+    var id: Int,
     val university: University,
     val team: Team,
     val coach: Person,
@@ -44,21 +47,28 @@ data class Achievement(val achievement: String, val priority: Int)
 
 class WFAchievementsGen : Generator() {
 
+    private var ignored = ArrayList<String>()
+
     private lateinit var output: String
     private lateinit var logo: File
-    private var colors = parseColorLibrary(File("src/main/resources/colors.json"))
+    private var defaultLogo = File("data/wf-luxor/Logo.png")
+    private var colors = parseColorLibrary(File("src/main/resources/finals_colors.json"))
 
     override fun run(filename: File, logo: File, template: File, outputDir: String, result: Boolean) {
         val teamData = parseTeamsData(filename)
-        val teamColors = parseTeamsColors(File("data/wf_dhaka/shirts.json"))
+//        val teamColors = parseTeamsColors(File("data/wf-luxor/shirts46.json"))
 
         this.output = outputDir
         this.logo = logo
 
         for (data in teamData) {
-            val teamColor = teamColors.getOrElse(data.id - 1) { DEFAULT_COLOR }
+            if (data.id >= 47055) { //dirty hack for WF 47
+                data.id += 1
+            }
+            val teamColor = parseFinalsColors(data.id)
+//            val teamColor = teamColors.getOrElse(data.id - 1) { DEFAULT_COLOR }
 
-            generateMainSVG(data, outputDir, teamColor)
+            generateMainSVG(data, outputDir, teamColor!!)
             generatePersonSVG(data.id, data.coach,  outputDir,"coach", teamColor)
             for (i in 0 until data.contestants.size) {
                 generatePersonSVG(data.id, data.contestants[i], outputDir, "contestant_$i", teamColor)
@@ -86,12 +96,19 @@ class WFAchievementsGen : Generator() {
         }
 
         replaced = replaced
-            .replace("{Logo}", base64Logo(if (logo.isDirectory) File(logo.path + "/" + data.id + ".jpg") else logo))
+            .replace("{Logo}", base64Logo(logo, data.id, defaultLogo))
             .replace("{ShortTeamName}", replaceEscapingSymbols(data.team.name))
             .replace("{Region}", replaceEscapingSymbols(data.university.region))
             .replace("{fontSize}", fontSize.toString())
-            .replace("{RegionalPlace}", replaceEscapingSymbols(data.team.regionals.last()))
             .replace("{HashTag}", data.university.hashTag ?: "")
+
+        if (data.team.regionals != null) {
+             replaced = replaced.replace("{RegionalPlace}", replaceEscapingSymbols(data.team.regionals.last()))
+        }
+
+        if (data.university.hashTag == null) {
+            println("HASTAG MISSED " + data.id)
+        }
 
         //set colors
         replaced = replaced.replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
@@ -133,7 +150,7 @@ class WFAchievementsGen : Generator() {
 
         //set colors
         replaced = replaced
-            .replace("{Logo}", base64Logo(if (logo.isDirectory) File(logo.path + "/" + id + ".jpg") else logo))
+            .replace("{Logo}", base64Logo(logo, id, defaultLogo))
             .replace("{Rating Circles}", rating)
             .replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
 
@@ -152,7 +169,7 @@ class WFAchievementsGen : Generator() {
 
     fun generateFinalsSVG(data: Data, path: String, color: Color) {
         var replaced = File("src/main/resources/svg/finals.svg").readText(Charsets.UTF_8)
-            .replace("{Logo}", base64Logo(if (logo.isDirectory) File(logo.path + "/" + data.id + ".jpg") else logo))
+            .replace("{Logo}", base64Logo(logo, data.id, defaultLogo))
 
         if (data.university.appYears != null) {
             replaced = replaced.replace("{F}", data.university.appYears.size.toString())
@@ -160,9 +177,19 @@ class WFAchievementsGen : Generator() {
             replaced = replaced.replace("{F}", "1")
         }
 
+        replaced = addMedals(replaced, data.university)
+//        replaced = addCups(replaced, data.university, 1000)
+//        replaced = addRC(replaced, data.university, 500)
+
         //set colors
         replaced = replaced.replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
         File(path, "${data.id}_finals.svg").writeText(replaced, Charsets.UTF_8)
+    }
+
+
+    private fun parseFinalsColors(id: Int): Color? {
+        if (id.toString().startsWith("46")) return colors["46"]
+        return colors["47"]
     }
 
     private fun parseTeamsColors(file: File): List<Color> {

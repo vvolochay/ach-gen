@@ -1,0 +1,73 @@
+{
+  "id": 46045,
+  "university": {
+    "fullName": "International Institute of Information Technology - Hyderabad",
+    "shortName": "IIIT Hyderabad",
+    "region": "Asia West",
+    "hashTag": "#IIITHyderabad",
+    "url": "http://www.iiit.ac.in",
+    "appYears": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "FLogic",
+    "regionals": [
+      "Asia West, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Vikram Pudi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2009-2013, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Alapan Chaudhuri",
+      "altNames": [],
+      "cfHandle": "arjo",
+      "cfRating": 1767,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Amul Agrawal",
+      "altNames": [],
+      "cfHandle": "amul_agrawal",
+      "cfRating": 2103,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aditya Verma",
+      "altNames": [],
+      "cfHandle": "aditya.verma",
+      "cfRating": 2130,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

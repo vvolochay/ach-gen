@@ -1,0 +1,50 @@
+{
+  "id": 47052,
+  "university": {
+    "fullName": "Jordan University of Science and Technology",
+    "shortName": "JUST",
+    "region": "Africa and Arabia",
+    "hashTag": "#justedujo",
+    "url": "https://www.just.edu.jo/"
+  },
+  "team": {
+    "name": "divideAndKrunker",
+    "regionals": [
+      "Africa & Arab, 22nd"
+    ]
+  },
+  "coach": {
+    "name": "Malak Abdullah",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Monther Abuzaina",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yazan Istatiyeh",
+      "altNames": [],
+      "cfHandle": "yazan_istatiyeh",
+      "cfRating": 1444,
+      "twitterHandle": "YIstatiyeh",
+      "achievements": []
+    },
+    {
+      "name": "Osama Shkukani",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

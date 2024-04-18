@@ -1,0 +1,90 @@
+{
+  "id": 46052,
+  "university": {
+    "fullName": "Kharkiv National University of Radio Electronics",
+    "shortName": "KhNURE",
+    "region": "Europe",
+    "hashTag": "#KNURE",
+    "url": "https://nure.ua/en",
+    "appYears": [
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2020
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "KhNURE_Energy is not over",
+    "regionals": [
+      "Southeastern Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Oleksandr Vechur",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Oleh Vallas",
+      "altNames": [],
+      "cfHandle": "Mustang98",
+      "cfRating": 2138,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Bronze Medalist (2020)",
+          "priority": 102
+        },
+        {
+          "achievement": "GHC Finalist (2020)",
+          "priority": 70
+        }
+      ]
+    },
+    {
+      "name": "Ihor Barenblat",
+      "altNames": [],
+      "cfHandle": "Barichek",
+      "cfRating": 2567,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Matvii Aslandukov",
+      "altNames": [],
+      "cfHandle": "BigBag",
+      "cfRating": 2765,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Bronze Medalist (2020)",
+          "priority": 102
+        },
+        {
+          "achievement": "GCJ Finalist (2022)",
+          "priority": 90
+        },
+        {
+          "achievement": "GHC Finalist (2020)",
+          "priority": 70
+        },
+        {
+          "achievement": "IOI Silver Medalist (2015)",
+          "priority": 63
+        },
+        {
+          "achievement": "VK Cup Finalist (2018)",
+          "priority": 10
+        }
+      ]
+    }
+  ]
+}

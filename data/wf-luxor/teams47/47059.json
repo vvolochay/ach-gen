@@ -1,0 +1,122 @@
+{
+  "id": 47059,
+  "university": {
+    "fullName": "Moscow Institute of Physics and Technology",
+    "shortName": "MIPT",
+    "region": "Northern Eurasia",
+    "hashTag": "#PhysTech",
+    "url": "http://www.mipt.ru",
+    "appYears": [
+      2008,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [
+      2012,
+      2016,
+      2018,
+      2020
+    ],
+    "silverYears": [
+      2017
+    ],
+    "bronzeYears": [
+      2019
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Yolki-palki",
+    "regionals": [
+      "Northern Eurasia, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Filipp Rukhovich",
+    "altNames": [
+      "Philip Rukhovich",
+      "Филипп Рухович"
+    ],
+    "cfHandle": "DPR-pavlin",
+    "cfRating": 2427,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2014)",
+        "priority": 100
+      },
+      {
+        "achievement": "TopCoder High School Finalist (2009)",
+        "priority": 50
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (x3)",
+        "priority": 50
+      },
+      {
+        "achievement": "CROC Finalist (2013, 2016)",
+        "priority": 30
+      },
+      {
+        "achievement": "VK Cup Finalist (2015)",
+        "priority": 30
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Vsevolod Nagibin",
+      "altNames": [
+        "Всеволод Нагибин"
+      ],
+      "cfHandle": "Pechalka",
+      "cfRating": 2578,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "Yandex.Algorithm Finalist (2023)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Gold Medalist (2022)",
+          "priority": 64
+        }
+      ]
+    },
+    {
+      "name": "Denis Mustafin",
+      "altNames": [],
+      "cfHandle": "Kapt",
+      "cfRating": 2685,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "Yandex.Algorithm Finalist (2023)",
+          "priority": 90
+        },
+        {
+          "achievement": "VK Cup Finalist (2022)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Tikhon Evteev",
+      "altNames": [],
+      "cfHandle": "Tikhon228",
+      "cfRating": 2181,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

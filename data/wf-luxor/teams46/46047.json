@@ -1,0 +1,91 @@
+{
+  "id": 46047,
+  "university": {
+    "fullName": "Jagiellonian University in Krakow",
+    "shortName": "Jagiellonian",
+    "region": "Europe",
+    "hashTag": "#Jagiellonski",
+    "url": "http://www.uj.edu.pl",
+    "appYears": [
+      2004,
+      2006,
+      2008,
+      2009,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [
+      2006
+    ],
+    "silverYears": [],
+    "bronzeYears": [
+      2011,
+      2013
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Jagiellonian Grandpas",
+    "regionals": [
+      "Central Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Lech Duraj",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "lduraj",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Krzysztof Pióro",
+      "altNames": [],
+      "cfHandle": "Piurko",
+      "cfRating": 2269,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Krzysztof Potępa",
+      "altNames": [],
+      "cfHandle": "teapotd",
+      "cfRating": 2547,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Bartosz Podkanowicz",
+      "altNames": [],
+      "cfHandle": "trabbbart",
+      "cfRating": 2133,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

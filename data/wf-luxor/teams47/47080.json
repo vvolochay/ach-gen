@@ -1,0 +1,60 @@
+{
+  "id": 47080,
+  "university": {
+    "fullName": "Shandong University",
+    "shortName": "SDU",
+    "region": "Asia East",
+    "hashTag": "#Shandong",
+    "url": "http://www.sdu.edu.cn",
+    "appYears": [
+      2008,
+      2011,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Big Black Dog Candy",
+    "regionals": [
+      "Asia East, 62nd"
+    ]
+  },
+  "coach": {
+    "name": "Xudong Lu",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Zaixuan Wang",
+      "altNames": [],
+      "cfHandle": "asuldb",
+      "cfRating": 2078,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "He Zhou",
+      "altNames": [],
+      "cfHandle": "wh_ZH",
+      "cfRating": 2277,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Wencheng Cai",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

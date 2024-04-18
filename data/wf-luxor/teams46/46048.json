@@ -1,0 +1,50 @@
+{
+  "id": 46048,
+  "university": {
+    "fullName": "Jinan University",
+    "shortName": "JNU",
+    "region": "Asia East",
+    "hashTag": "#JNUers",
+    "url": "http://www.jnu.edu.cn"
+  },
+  "team": {
+    "name": "Aegleseekers",
+    "regionals": [
+      "Asia East, 13th"
+    ]
+  },
+  "coach": {
+    "name": "Zhen Zhang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Jianwei Wen",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jun Mai",
+      "altNames": [],
+      "cfHandle": "superguymj",
+      "cfRating": 2498,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yinhua Wen",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

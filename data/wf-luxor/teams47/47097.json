@@ -1,0 +1,63 @@
+{
+  "id": 47097,
+  "university": {
+    "fullName": "Universidad de Guadalajara CUCEI",
+    "shortName": "UdG CUCEI",
+    "region": "Latin America",
+    "hashTag": "#udgcucei",
+    "url": "http://www.cucei.udg.mx/",
+    "appYears": [
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Almost Retired",
+    "regionals": [
+      "Mexico, 9th"
+    ]
+  },
+  "coach": {
+    "name": "Franco Ariel Ramirez Villa",
+    "altNames": [],
+    "cfHandle": "Franco1010",
+    "cfRating": 1593,
+    "twitterHandle": "@Franco1010_",
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2021)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jesús Uriel Guzmán-Mendoza",
+      "altNames": [],
+      "cfHandle": "Uriel",
+      "cfRating": 1154,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abraham Baltazar Murillo Sandoval",
+      "altNames": [],
+      "cfHandle": "Abraham",
+      "cfRating": 1443,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Roberto Jesús García Pino",
+      "altNames": [],
+      "cfHandle": "Pino",
+      "cfRating": 1743,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

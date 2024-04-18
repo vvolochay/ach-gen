@@ -1,0 +1,77 @@
+{
+  "id": 47123,
+  "university": {
+    "fullName": "University of Hong Kong",
+    "shortName": "HKU",
+    "region": "Asia East",
+    "hashTag": "#UHongKong",
+    "url": "http://www.cs.hku.hk",
+    "appYears": [
+      2001,
+      2004,
+      2005,
+      2006,
+      2007,
+      2009,
+      2013,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2005
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "I am not in danger. I am the danger.",
+    "regionals": [
+      "Asia East, 103rd"
+    ]
+  },
+  "coach": {
+    "name": "Hao Xie",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Jiahe Jiang",
+      "altNames": [],
+      "cfHandle": "Isrothy",
+      "cfRating": 2126,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Che Liu",
+      "altNames": [],
+      "cfHandle": "cheissmart",
+      "cfRating": 2506,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2022)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Anzhe Wang",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

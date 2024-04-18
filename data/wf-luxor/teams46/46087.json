@@ -1,0 +1,82 @@
+{
+  "id": 46087,
+  "university": {
+    "fullName": "The University of Texas at Austin",
+    "shortName": "UT Austin",
+    "region": "North America",
+    "hashTag": "#UTAustin",
+    "url": "http://www.utexas.edu",
+    "appYears": [
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2007,
+      2008,
+      2009,
+      2010,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "NewType",
+    "regionals": [
+      "North America, 16th"
+    ]
+  },
+  "coach": {
+    "name": "Etienne Vouga",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2017-2019)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Finalist (2006)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ruoshi Dai",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Stanley Wei",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jiawei Li",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

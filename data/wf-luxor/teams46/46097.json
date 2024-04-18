@@ -1,0 +1,70 @@
+{
+  "id": 46097,
+  "university": {
+    "fullName": "Universidad de las Ciencias Informáticas",
+    "shortName": "UCI",
+    "region": "Latin America",
+    "hashTag": "#UCI",
+    "url": "http://www.uci.cu",
+    "appYears": [
+      2011,
+      2013,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "FreesTyle",
+    "regionals": [
+      "Caribbean, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Ramón Morales Alvarez",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Vladimir Otero Mariño",
+      "altNames": [],
+      "cfHandle": "Kosmo00",
+      "cfRating": 1362,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Calzadilla Fernández",
+      "altNames": [],
+      "cfHandle": "Mononoke001",
+      "cfRating": 1201,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ernesto Teruel Velazco",
+      "altNames": [],
+      "cfHandle": "teruel",
+      "cfRating": 1637,
+      "twitterHandle": "teruel1998",
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

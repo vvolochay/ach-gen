@@ -1,0 +1,118 @@
+{
+  "id": 47070,
+  "university": {
+    "fullName": "Neapolis University Pafos",
+    "shortName": "NUP",
+    "region": "Europe",
+    "hashTag": "#nupac",
+    "url": "http://www.nup.ac.cy/"
+  },
+  "team": {
+    "name": "bird-cherry",
+    "regionals": [
+      "Southeastern Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Niyaz Nigmatullin",
+    "altNames": [
+      "Нияз Нигматуллин"
+    ],
+    "cfHandle": "niyaznigmatul",
+    "cfRating": 2665,
+    "twitterHandle": "niyaznigmatul",
+    "achievements": [
+      {
+        "achievement": "ICPC WF Champion (2012, 2013)",
+        "priority": 105
+      },
+      {
+        "achievement": "Hacker Cup Finalist (2014)",
+        "priority": 90
+      },
+      {
+        "achievement": "GHC 1st (2019, 2020)",
+        "priority": 75
+      },
+      {
+        "achievement": "GHC 2nd (2021)",
+        "priority": 74
+      },
+      {
+        "achievement": "GHC Finalist (2022)",
+        "priority": 70
+      },
+      {
+        "achievement": "Yandex.Algorithm Finalist (2013, 2015)",
+        "priority": 30
+      },
+      {
+        "achievement": "VK Cup 1st (2015)",
+        "priority": 15
+      },
+      {
+        "achievement": "CROC Finalist (2013, 2016)",
+        "priority": 10
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (2011, 2012, 2013, 2015)",
+        "priority": 10
+      },
+      {
+        "achievement": "Kotlin Challenge Finalist (2014)",
+        "priority": 10
+      },
+      {
+        "achievement": "Yandex Open Finalist (2010)",
+        "priority": 10
+      },
+      {
+        "achievement": "CodeChef SnackDown Finalist (2015)",
+        "priority": 10
+      },
+      {
+        "achievement": "CodeChef SnackDown Qualified (2016)",
+        "priority": 2
+      },
+      {
+        "achievement": "Google Code Jam Qualified* (2013)",
+        "priority": 1
+      },
+      {
+        "achievement": "CodeChef SnackDown Qualified* (2017)",
+        "priority": 1
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Stepan Filippov",
+      "altNames": [],
+      "cfHandle": "step_by_step",
+      "cfRating": 2822,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "VK Cup Finalist (2020)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Nikolai Chukhin",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vsevolod Vaskin",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

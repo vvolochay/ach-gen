@@ -1,0 +1,50 @@
+{
+  "id": 47083,
+  "university": {
+    "fullName": "Soongsil University",
+    "shortName": "Soongsil U",
+    "region": "Asia Pacific",
+    "hashTag": "",
+    "url": "http://www.ssu.ac.kr"
+  },
+  "team": {
+    "name": "NLP",
+    "regionals": [
+      "Seoul, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Cheol Hong Kim",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Chansol Park",
+      "altNames": [],
+      "cfHandle": "nlog",
+      "cfRating": 1959,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jeounghui Nah",
+      "altNames": [],
+      "cfHandle": "Justice_Hui",
+      "cfRating": 2100,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dohyun Kim",
+      "altNames": [],
+      "cfHandle": "wolfrevo",
+      "cfRating": 1926,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

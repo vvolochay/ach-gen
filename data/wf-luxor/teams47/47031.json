@@ -1,0 +1,102 @@
+{
+  "id": 47031,
+  "university": {
+    "fullName": "Georgia Institute of Technology",
+    "shortName": "Georgia Tech",
+    "region": "North America",
+    "hashTag": "#GeorgiaTech",
+    "url": "http://www.gatech.edu",
+    "appYears": [
+      1995,
+      1999,
+      2000,
+      2001,
+      2004,
+      2005,
+      2006,
+      2008,
+      2012,
+      2015,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Georgia Tech Pandas",
+    "regionals": [
+      "North America, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Richard Peng",
+    "altNames": [
+      "Yang Peng"
+    ],
+    "cfHandle": "rpeng",
+    "cfRating": 2321,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC bronze medal as coach (2015)",
+        "priority": 2000
+      },
+      {
+        "achievement": "WF coach (2014)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Bronze Medalist (2008)",
+        "priority": 102
+      },
+      {
+        "achievement": "IOI Gold Medalist (2005)",
+        "priority": 64
+      },
+      {
+        "achievement": "IOI Silver Medalist (2004, 2006)",
+        "priority": 63
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jeffrey Chang",
+      "altNames": [],
+      "cfHandle": "RandomKami",
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Maxwell Zhang",
+      "altNames": [],
+      "cfHandle": "smax",
+      "cfRating": 2220,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Daniel Zhang",
+      "altNames": [],
+      "cfHandle": "dragonslayerintraining",
+      "cfRating": 2409,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2019)",
+          "priority": 64
+        }
+      ]
+    }
+  ]
+}

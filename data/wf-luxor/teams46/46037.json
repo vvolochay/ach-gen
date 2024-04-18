@@ -1,0 +1,75 @@
+{
+  "id": 46037,
+  "university": {
+    "fullName": "Indian Institute of Technology - Roorkee",
+    "shortName": "IIT Roorkee",
+    "region": "Asia West",
+    "hashTag": "#IITRoorkee",
+    "url": "http://www.iitr.ernet.in",
+    "appYears": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Kaala Khatta",
+    "regionals": [
+      "Asia West, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Balasubramanian Raman",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2013, 2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Dinesh Goyal",
+      "altNames": [],
+      "cfHandle": "dnshgyl21",
+      "cfRating": 2350,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yatin Khanna",
+      "altNames": [],
+      "cfHandle": "_Enigma__",
+      "cfRating": 2150,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Ajit Pant",
+      "altNames": [],
+      "cfHandle": "_deactivated_",
+      "cfRating": 2215,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

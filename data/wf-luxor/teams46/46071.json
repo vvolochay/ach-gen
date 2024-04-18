@@ -1,0 +1,60 @@
+{
+  "id": 46071,
+  "university": {
+    "fullName": "Purdue University",
+    "shortName": "Purdue",
+    "region": "North America",
+    "hashTag": "#Purdue",
+    "url": "http://www.purdue.edu",
+    "appYears": [
+      2009,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Purdue UWU",
+    "regionals": [
+      "North America, 10th"
+    ]
+  },
+  "coach": {
+    "name": "Ethan Dickey",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Peter Jin",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Minh Nguyen",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Egor Gagushin",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

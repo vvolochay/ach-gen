@@ -1,0 +1,74 @@
+{
+  "id": 47125,
+  "university": {
+    "fullName": "University of Melbourne",
+    "shortName": "U Melbourne",
+    "region": "Asia Pacific",
+    "hashTag": "#UniMelb",
+    "url": "http://www.unimelb.edu.au",
+    "appYears": [
+      1992,
+      1995,
+      1998,
+      2000,
+      2001,
+      2009,
+      2021
+    ],
+    "winYears": [
+      1992
+    ],
+    "goldYears": [
+      1992,
+      2000
+    ],
+    "silverYears": [
+      1998
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2000,
+      2009
+    ]
+  },
+  "team": {
+    "name": "Arts Students",
+    "regionals": [
+      "South Pacific, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Junhao Gan",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Phuc Nguyen",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Quang Anh Trinh",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Hoang Giap Vu",
+      "altNames": [],
+      "cfHandle": "A05",
+      "cfRating": 2288,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

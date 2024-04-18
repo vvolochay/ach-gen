@@ -1,0 +1,71 @@
+{
+  "id": 47026,
+  "university": {
+    "fullName": "EAFIT University",
+    "shortName": "EAFIT",
+    "region": "Latin America",
+    "hashTag": "#EAFIT",
+    "url": "http://www.eafit.edu.co/",
+    "appYears": [
+      2009,
+      2011,
+      2013,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Fast and Fourier",
+    "regionals": [
+      "South America-North, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Sergio Ramirez",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Santiago Cano Franco",
+      "altNames": [],
+      "cfHandle": "Scano",
+      "cfRating": 1698,
+      "twitterHandle": "santiagocano_f",
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Martin Diaz",
+      "altNames": [],
+      "cfHandle": "martinius",
+      "cfRating": 1693,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Simón Fallon Giraldo",
+      "altNames": [],
+      "cfHandle": "MesSimonFallon19",
+      "cfRating": 1813,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

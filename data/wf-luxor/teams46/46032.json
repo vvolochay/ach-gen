@@ -1,0 +1,61 @@
+{
+  "id": 46032,
+  "university": {
+    "fullName": "Higher Institute for Applied Sciences and Technology",
+    "shortName": "HIAST",
+    "region": "Africa and Arabia",
+    "hashTag": "#HIAST",
+    "url": "http://www.hiast.edu.sy/",
+    "appYears": [
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "BUGABOO",
+    "regionals": [
+      "Africa & Arab, 15th"
+    ]
+  },
+  "coach": {
+    "name": "Samih Jammoul",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ghaffar Daher",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Molham Arabia",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mohamad Al Aswad",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

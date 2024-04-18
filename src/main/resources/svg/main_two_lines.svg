@@ -29,12 +29,12 @@
                                   alignment-baseline="middle" text-anchor="middle">{HashTag}</text>
                         </svg>
                     </g>
-                    <g id="WF">
-                        <rect id="Rectangle 77_2" x="864" y="52" width="97" height="25" rx="9.49064"
-                              fill="{fontColor}"/>
-                        <text id="WF 47" fill="{mainColor}" xml:space="preserve" style="white-space: pre"
-                              font-family="Helvetica" font-size="14.3887" letter-spacing="0em"><tspan x="891.31" y="70.4353">WF 47</tspan></text>
-                    </g>
+<!--                    <g id="WF">-->
+<!--                        <rect id="Rectangle 77_2" x="864" y="52" width="97" height="25" rx="9.49064"-->
+<!--                              fill="{fontColor}"/>-->
+<!--                        <text id="WF 47" fill="{mainColor}" xml:space="preserve" style="white-space: pre"-->
+<!--                              font-family="Helvetica" font-size="14.3887" letter-spacing="0em"><tspan x="891.31" y="70.4353">WF 47</tspan></text>-->
+<!--                    </g>-->
                 </g>
             </g>
             <g id="Group 50">

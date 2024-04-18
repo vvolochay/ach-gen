@@ -1,0 +1,133 @@
+{
+  "id": 46067,
+  "university": {
+    "fullName": "Nizhny Novgorod State University",
+    "shortName": "NNSU",
+    "region": "Northern Eurasia",
+    "hashTag": "#UNN",
+    "url": "http://www.unn.ac.ru",
+    "appYears": [
+      2001,
+      2003,
+      2004,
+      2005,
+      2011,
+      2012,
+      2016,
+      2020,
+      2021
+    ],
+    "winYears": [
+      2020
+    ],
+    "goldYears": [
+      2020
+    ],
+    "silverYears": [
+      2011
+    ],
+    "bronzeYears": [
+      2016
+    ],
+    "regYears": [
+      2020
+    ]
+  },
+  "team": {
+    "name": "NNSU Lera Retired",
+    "regionals": [
+      "Northern Eurasia, 24th"
+    ]
+  },
+  "coach": {
+    "name": "Alexey Shmelev",
+    "altNames": [
+      "Алексей Шмелев"
+    ],
+    "cfHandle": "I_Remember_Olya_ashmelev",
+    "cfRating": 2480,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC win as coach (2020)",
+        "priority": 5000
+      },
+      {
+        "achievement": "ICPC WF Silver Medalist (2011)",
+        "priority": 103
+      },
+      {
+        "achievement": "ICPC WF Finalist (2012)",
+        "priority": 100
+      },
+      {
+        "achievement": "GCJ Finalist (2011)",
+        "priority": 90
+      },
+      {
+        "achievement": "Hacker Cup Finalist (2015)",
+        "priority": 90
+      },
+      {
+        "achievement": "GHC 3rd (2018)",
+        "priority": 13
+      },
+      {
+        "achievement": "CROC Finalist (2013)",
+        "priority": 10
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (2011, 2013, 2015)",
+        "priority": 10
+      },
+      {
+        "achievement": "CodeChef SnackDown Finalist (2021)",
+        "priority": 10
+      },
+      {
+        "achievement": "GHC Finalist (2017, 2019)",
+        "priority": 10
+      },
+      {
+        "achievement": " Hacker Cup Qualified* (2013)",
+        "priority": 1
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Aleksey Upirvitskiy",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ilya Khlyustov",
+      "altNames": [],
+      "cfHandle": "Riladavin",
+      "cfRating": 2151,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Maksim Emelin",
+      "altNames": [],
+      "cfHandle": "Makcum888",
+      "cfRating": 2205,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

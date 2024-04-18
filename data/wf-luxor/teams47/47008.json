@@ -1,0 +1,95 @@
+{
+  "id": 47008,
+  "university": {
+    "fullName": "Bangladesh University of Engineering and Technology",
+    "shortName": "BUET",
+    "region": "Asia West",
+    "hashTag": "#BUET",
+    "url": "http://www.buet.ac.bd",
+    "appYears": [
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2020
+    ]
+  },
+  "team": {
+    "name": "BUET Sommohito",
+    "regionals": [
+      "Asia West, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Mohammad Sohel Rahman",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mahdi Hasnat",
+      "altNames": [],
+      "cfHandle": "mahdi.hasnat",
+      "cfRating": 2050,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Apurba Saha",
+      "altNames": [],
+      "cfHandle": "Roll_Num_56",
+      "cfRating": 1999,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Iftekhar Hakim Kaowsar",
+      "altNames": [],
+      "cfHandle": "Iftekhar_Hakim_K",
+      "cfRating": 2145,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

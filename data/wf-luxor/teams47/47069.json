@@ -1,0 +1,59 @@
+{
+  "id": 47069,
+  "university": {
+    "fullName": "Nazarbayev University",
+    "shortName": "Nazarbayev U",
+    "region": "Northern Eurasia",
+    "hashTag": "#NUedukz",
+    "url": "http://nu.edu.kz/",
+    "appYears": [
+      2014,
+      2015
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "wf or gf?",
+    "regionals": [
+      "Northern Eurasia, 20th"
+    ]
+  },
+  "coach": {
+    "name": "Yerkali Ziyatov",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Dulat Aldazharov",
+      "altNames": [],
+      "cfHandle": "dulatcodes",
+      "cfRating": 1843,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Rauan Omarov",
+      "altNames": [],
+      "cfHandle": "krauch",
+      "cfRating": 2128,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Khafiz Batyrkhan",
+      "altNames": [],
+      "cfHandle": "CMaster",
+      "cfRating": 2103,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

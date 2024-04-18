@@ -1,0 +1,68 @@
+{
+  "id": 46009,
+  "university": {
+    "fullName": "Astana IT University",
+    "shortName": "AITU",
+    "region": "Northern Eurasia",
+    "hashTag": "#AstanaItUniversity",
+    "url": "https://astanait.edu.kz/en"
+  },
+  "team": {
+    "name": "AITU 1",
+    "regionals": [
+      "Northern Eurasia, 26th"
+    ]
+  },
+  "coach": {
+    "name": "Temirlan Satylkhanov",
+    "altNames": [],
+    "cfHandle": "Tima",
+    "cfRating": 2169,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2019)",
+        "priority": 100
+      },
+      {
+        "achievement": "VK Cup Finalist (2017)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Dinmukhamed Oralkhanov",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Daulet Biakhmet",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Parassat Kyzyrkanov",
+      "altNames": [],
+      "cfHandle": "parasat",
+      "cfRating": 2195,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

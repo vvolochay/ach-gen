@@ -1,0 +1,72 @@
+{
+  "id": 47121,
+  "university": {
+    "fullName": "University of Electronic Science and Technology of China",
+    "shortName": "UESTC",
+    "region": "Asia East",
+    "hashTag": "#UESTC",
+    "url": "http://www.uestc.edu.cn",
+    "appYears": [
+      2008,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UESTC_Hanabi",
+    "regionals": [
+      "Asia East, 51st"
+    ]
+  },
+  "coach": {
+    "name": "Xiaoping Wang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2013, 2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Lijun Wu",
+      "altNames": [],
+      "cfHandle": "verjun",
+      "cfRating": 1973,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zihan Zhu",
+      "altNames": [],
+      "cfHandle": "SpaceJellyfish",
+      "cfRating": 2426,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Peiyong Shan",
+      "altNames": [],
+      "cfHandle": "liar_frisky",
+      "cfRating": 1851,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

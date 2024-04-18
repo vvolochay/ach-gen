@@ -1,0 +1,106 @@
+{
+  "id": 47064,
+  "university": {
+    "fullName": "National Research University Higher School of Economics",
+    "shortName": "HSE",
+    "region": "Northern Eurasia",
+    "hashTag": "#HSE",
+    "url": "http://hse.ru",
+    "appYears": [
+      2010,
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2014,
+      2019,
+      2020,
+      2021
+    ],
+    "regYears": [
+      2021
+    ]
+  },
+  "team": {
+    "name": "FFTilted",
+    "regionals": [
+      "Northern Eurasia, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Mikhail Gustokashin",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC bronze medal as coach (2019-2020)",
+        "priority": 2000
+      },
+      {
+        "achievement": "WF coach (2015, 2017)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Kirill Kudriashov",
+      "altNames": [
+        "Kirill Kudryashov"
+      ],
+      "cfHandle": "Kirill22",
+      "cfRating": 2641,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "VK Cup Finalist (2022)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Aleksandr Babin",
+      "altNames": [],
+      "cfHandle": "teraqqq",
+      "cfRating": 2626,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2022)",
+          "priority": 64
+        }
+      ]
+    },
+    {
+      "name": "Fedor Romashov",
+      "altNames": [],
+      "cfHandle": "Ormlis",
+      "cfRating": 3178,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2022)",
+          "priority": 63
+        },
+        {
+          "achievement": "VK Cup 2nd (2022)",
+          "priority": 14
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 46112,
+  "university": {
+    "fullName": "University of Electronic Science and Technology of China",
+    "shortName": "UESTC",
+    "region": "Asia East",
+    "hashTag": "#UESTC",
+    "url": "http://www.uestc.edu.cn",
+    "appYears": [
+      2008,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UESTC_Sorry",
+    "regionals": [
+      "Asia East, 105th"
+    ]
+  },
+  "coach": {
+    "name": "Peng Yang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2012, 2014-2017)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Zexing Chen",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Junjie Chen",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yiming Feng",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

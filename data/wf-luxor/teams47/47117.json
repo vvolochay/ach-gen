@@ -1,0 +1,60 @@
+{
+  "id": 47117,
+  "university": {
+    "fullName": "University of California Los Angeles",
+    "shortName": "UCLA",
+    "region": "North America",
+    "hashTag": "#UCLA",
+    "url": "http://www.ucla.edu",
+    "appYears": [
+      2015,
+      2017,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UCLA Tortellini",
+    "regionals": [
+      "North America, 15th"
+    ]
+  },
+  "coach": {
+    "name": "David Smallberg",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Jason Liu",
+      "altNames": [],
+      "cfHandle": "VisualProgrammer",
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Rishi Sankar",
+      "altNames": [],
+      "cfHandle": "rishisankar",
+      "cfRating": 1939,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nikil Roashan Selvam",
+      "altNames": [],
+      "cfHandle": "nikilrselvam",
+      "cfRating": 2143,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

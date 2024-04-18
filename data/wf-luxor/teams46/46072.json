@@ -1,0 +1,58 @@
+{
+  "id": 46072,
+  "university": {
+    "fullName": "Rajshahi University of Engineering & Technology",
+    "shortName": "RUET",
+    "region": "Asia West",
+    "hashTag": "#RUET",
+    "url": "http://www.ruet.ac.bd/",
+    "appYears": [
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "RUET_Aftermath",
+    "regionals": [
+      "Asia West, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Barshon Sen",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Adnan Zawad Toky",
+      "altNames": [],
+      "cfHandle": "adnan_toky",
+      "cfRating": 2154,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Sayeef Mahmud",
+      "altNames": [],
+      "cfHandle": "thisIsMorningstar",
+      "cfRating": 1823,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Risal Shahriar Shefin",
+      "altNames": [],
+      "cfHandle": "Shefin_",
+      "cfRating": 2108,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 46036,
+  "university": {
+    "fullName": "Indian Institute of Technology - Patna",
+    "shortName": "IIT Patna",
+    "region": "Asia West",
+    "hashTag": "#IITP",
+    "url": "http://www.iitp.ac.in",
+    "appYears": [
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Triumvirate73",
+    "regionals": [
+      "Asia West, 12th"
+    ]
+  },
+  "coach": {
+    "name": "Arijit Mondal",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Harsh Bharadwaj",
+      "altNames": [],
+      "cfHandle": "pac-man21",
+      "cfRating": 2158,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dolesh .",
+      "altNames": [],
+      "cfHandle": "croxo",
+      "cfRating": 2058,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Saurabh Singh",
+      "altNames": [],
+      "cfHandle": "Crocuta",
+      "cfRating": 1920,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

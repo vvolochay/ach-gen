@@ -1,0 +1,79 @@
+{
+  "id": 46019,
+  "university": {
+    "fullName": "Damascus University",
+    "shortName": "Damascus U",
+    "region": "Africa and Arabia",
+    "hashTag": "#DamasUniv",
+    "url": "http://www.damascusuniversity.edu.sy",
+    "appYears": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Zit Zit",
+    "regionals": [
+      "Africa & Arab, 9th"
+    ]
+  },
+  "coach": {
+    "name": "Mhd Baraa Armoush",
+    "altNames": [],
+    "cfHandle": "Baraa_Armoush",
+    "cfRating": 2308,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2021)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mhd Said Sabbagh",
+      "altNames": [],
+      "cfHandle": "SaeedSabbagh",
+      "cfRating": 1928,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Omar Alhelo",
+      "altNames": [],
+      "cfHandle": "Kavaliro",
+      "cfRating": 1737,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mhd Bsher Ghbrh",
+      "altNames": [],
+      "cfHandle": "Bsher",
+      "cfRating": 1907,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": 46053,
+  "university": {
+    "fullName": "Lviv National University",
+    "shortName": "Lviv NU",
+    "region": "Europe",
+    "hashTag": "#LNU ",
+    "url": "http://franko.lviv.ua",
+    "appYears": [
+      2008,
+      2011,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [
+      2008
+    ],
+    "silverYears": [],
+    "bronzeYears": [
+      2016
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "LNU Bulldogs",
+    "regionals": [
+      "Southeastern Europe, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Vasyl Biletskyy",
+    "altNames": [
+      "Vasyl Biletsky"
+    ],
+    "cfHandle": "Shef",
+    "cfRating": 2532,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC gold medal as coach (2008)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ACM ICPC bronze medal as coach (2016)",
+        "priority": 2000
+      },
+      {
+        "achievement": "WF coach (2011, 2015)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Gold Medalist (2008)",
+        "priority": 104
+      },
+      {
+        "achievement": "Google Code Jam 2nd (2013)",
+        "priority": 94
+      },
+      {
+        "achievement": "TCO Algorithm Semifinalist (x3)",
+        "priority": 90
+      },
+      {
+        "achievement": "TCO Algorithm Wildcard (2010)",
+        "priority": 90
+      },
+      {
+        "achievement": "TCO Marathon Finalist (2014)",
+        "priority": 90
+      },
+      {
+        "achievement": "GCJ Finalist (2010, 2012)",
+        "priority": 90
+      },
+      {
+        "achievement": "Hacker Cup Finalist (2013)",
+        "priority": 90
+      },
+      {
+        "achievement": "TC Collegiate Challenge Algorithm Semifinalist (2007)",
+        "priority": 50
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (2012, 2014, 2016)",
+        "priority": 30
+      },
+      {
+        "achievement": "Bayan Programming Contest Finalist (2015)",
+        "priority": 10
+      },
+      {
+        "achievement": "GHC Finalist (2017)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Bohdan Pastushchak",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Danylo Mocherniuk",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vasyl Protsiv",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

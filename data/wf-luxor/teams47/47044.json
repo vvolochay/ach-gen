@@ -1,0 +1,70 @@
+{
+  "id": 47044,
+  "university": {
+    "fullName": "Indian Institute of Technology - Madras",
+    "shortName": "IIT Madras",
+    "region": "Asia West",
+    "hashTag": "#iitmadras",
+    "url": "http://www.iitm.ac.in",
+    "appYears": [
+      2005,
+      2007,
+      2008,
+      2012,
+      2014,
+      2015,
+      2018,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Yorozuya Forever",
+    "regionals": [
+      "Asia West, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Rupesh Nasre",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2015, 2018-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yash Bhagwat",
+      "altNames": [],
+      "cfHandle": "Blitztage",
+      "cfRating": 1910,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nisanth Daniel",
+      "altNames": [],
+      "cfHandle": "Nisanth",
+      "cfRating": 2244,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dronadula Teja",
+      "altNames": [],
+      "cfHandle": "Teja-Smart",
+      "cfRating": 1984,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

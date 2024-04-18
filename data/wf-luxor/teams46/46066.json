@@ -1,0 +1,85 @@
+{
+  "id": 46066,
+  "university": {
+    "fullName": "National Yang Ming Chiao Tung University",
+    "shortName": "NYCU",
+    "region": "Asia Pacific",
+    "hashTag": "#NCTU",
+    "url": "https://www.nycu.edu.tw/en/",
+    "appYears": [
+      1992,
+      1993,
+      2002,
+      2003,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2020
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "NYCU_ACtame",
+    "regionals": [
+      "Taipei, 10th"
+    ]
+  },
+  "coach": {
+    "name": "Min-Zheng Shieh",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "mzshieh",
+    "achievements": [
+      {
+        "achievement": "WF coach (2016, 2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Bo-Wei Lin",
+      "altNames": [],
+      "cfHandle": "alan8585",
+      "cfRating": 2067,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ke-Wei Huang",
+      "altNames": [],
+      "cfHandle": "ToxicPie9",
+      "cfRating": 2221,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Hsuan-Yu Kuo",
+      "altNames": [],
+      "cfHandle": "HNO2",
+      "cfRating": 2219,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

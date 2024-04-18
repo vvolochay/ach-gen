@@ -1,0 +1,67 @@
+{
+  "id": 46014,
+  "university": {
+    "fullName": "Bina Nusantara University",
+    "shortName": "BINUS",
+    "region": "Asia Pacific",
+    "hashTag": "#BINUS",
+    "url": "http://www.binus.ac.id",
+    "appYears": [
+      1997,
+      1998,
+      2007,
+      2008,
+      2009,
+      2014,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Proof by... forgor",
+    "regionals": [
+      "Jakarta, 12th"
+    ]
+  },
+  "coach": {
+    "name": "Lie Maximilianus Maria Kolbe",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Luis Anthonie Alkins",
+      "altNames": [],
+      "cfHandle": "ZeroScar",
+      "cfRating": 2041,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Richard Alison",
+      "altNames": [],
+      "cfHandle": "KerakTelor",
+      "cfRating": 1708,
+      "twitterHandle": "RichardAlison86",
+      "achievements": []
+    },
+    {
+      "name": "Owen Djonatan",
+      "altNames": [],
+      "cfHandle": "Owmicron",
+      "cfRating": 2003,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

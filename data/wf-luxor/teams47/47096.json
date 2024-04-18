@@ -1,0 +1,60 @@
+{
+  "id": 47096,
+  "university": {
+    "fullName": "Universidad de Costa Rica",
+    "shortName": "UCR",
+    "region": "Latin America",
+    "hashTag": "#UCR",
+    "url": "http://www.ucr.ac.cr",
+    "appYears": [
+      2018,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UCR Mix",
+    "regionals": [
+      "Central America, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Daniel Campos",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ernesto Delgado",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ingrid Salazar Picado",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Maricruz Vasquez Sandi",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 47091,
+  "university": {
+    "fullName": "The University of Texas at Dallas",
+    "shortName": "UT Dallas",
+    "region": "North America",
+    "hashTag": "#utdallas",
+    "url": "http://www.utdallas.edu",
+    "appYears": [
+      2007,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "👌whoosh👌",
+    "regionals": [
+      "North America, 12th"
+    ]
+  },
+  "coach": {
+    "name": "Bhadrachalam Chitturi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2014-2015, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Suraj Mathashery",
+      "altNames": [],
+      "cfHandle": "surajchip2",
+      "cfRating": 1900,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Evan Bailey",
+      "altNames": [],
+      "cfHandle": "EMBailey",
+      "cfRating": 2037,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mike Nguyen",
+      "altNames": [],
+      "cfHandle": "DedsecKnight",
+      "cfRating": 1768,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 46018,
+  "university": {
+    "fullName": "Columbia University",
+    "shortName": "Columbia U",
+    "region": "North America",
+    "hashTag": "#ColumbiaU",
+    "url": "http://www.columbia.edu",
+    "appYears": [
+      1994,
+      1995,
+      1996,
+      1997,
+      2010,
+      2013,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Columbia-fortcoders",
+    "regionals": [
+      "North America, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Christian Lim",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Kaiheng Dai",
+      "altNames": [],
+      "cfHandle": "askd",
+      "cfRating": 2263,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kevin Yang",
+      "altNames": [],
+      "cfHandle": "yangster67",
+      "cfRating": 2417,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jiajie Lai",
+      "altNames": [],
+      "cfHandle": "Nea1",
+      "cfRating": 2149,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 47028,
+  "university": {
+    "fullName": "Escuela Superior De Computo Instituto Politecnico Nacional",
+    "shortName": "ESCOM IPN",
+    "region": "Latin America",
+    "hashTag": "#ESCOMIPN",
+    "url": "http://www.escom.ipn.mx",
+    "appYears": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Exceso de Fé",
+    "regionals": [
+      "Mexico, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Edgardo Adrian Franco Martinez",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "eafrancom",
+    "achievements": [
+      {
+        "achievement": "WF coach (2013-2016, 2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Daniel Montes Guerrero",
+      "altNames": [],
+      "cfHandle": "DanielMontes",
+      "cfRating": 1783,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jorge Luis Ibáñez Canales",
+      "altNames": [],
+      "cfHandle": "JorgeIbanez",
+      "cfRating": 1591,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Esteban Raymundo Olmedo Ramírez",
+      "altNames": [],
+      "cfHandle": "FeetTester",
+      "cfRating": 1630,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

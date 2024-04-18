@@ -1,0 +1,72 @@
+{
+  "id": 47056,
+  "university": {
+    "fullName": "Lund University",
+    "shortName": "LU",
+    "region": "Europe",
+    "hashTag": "#lunduniversity",
+    "url": "http://www.lu.se",
+    "appYears": [
+      2006
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "ezcp",
+    "regionals": [
+      "Northwestern Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Måns Magnusson",
+    "altNames": [],
+    "cfHandle": "exoji2e",
+    "cfRating": 1983,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "GHC Finalist (2019)",
+        "priority": 70
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Björn Magnusson",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "GHC Finalist (2019)",
+          "priority": 70
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Teodor Bucht",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Erik Amirell Eklöf",
+      "altNames": [],
+      "cfHandle": "Eae02",
+      "cfRating": 2076,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

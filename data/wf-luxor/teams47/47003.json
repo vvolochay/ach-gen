@@ -1,0 +1,60 @@
+{
+  "id": 47003,
+  "university": {
+    "fullName": "Aleppo University",
+    "shortName": "Aleppo U",
+    "region": "Africa and Arabia",
+    "hashTag": "#AleppoU",
+    "url": "http://www.alepuniv.com",
+    "appYears": [
+      2016,
+      2019,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "ZERØs",
+    "regionals": [
+      "Africa & Arab, 15th"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Alhamid",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Mohammad Saeed Dalil",
+      "altNames": [],
+      "cfHandle": "MD0",
+      "cfRating": 1725,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ayham Dabah Albaqar",
+      "altNames": [],
+      "cfHandle": "Ayham_Dabah",
+      "cfRating": 1606,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Moaaz Raslan",
+      "altNames": [],
+      "cfHandle": "mezoro",
+      "cfRating": 1491,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 46120,
+  "university": {
+    "fullName": "University of Washington",
+    "shortName": "U of Washington",
+    "region": "North America",
+    "hashTag": "#universityofwashington",
+    "url": "http://www.washington.edu",
+    "appYears": [
+      1997,
+      2000
+    ],
+    "winYears": [],
+    "goldYears": [
+      1997
+    ],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "new-final-final-2",
+    "regionals": [
+      "North America, 17th"
+    ]
+  },
+  "coach": {
+    "name": "Victor Oliveira Reis",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Milin Kodnongbua",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Nathanon Akkaraphab",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Phawin Prongpaophan",
+      "altNames": [],
+      "cfHandle": "GoogleBot",
+      "cfRating": 2150,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2017)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

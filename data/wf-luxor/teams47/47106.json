@@ -1,0 +1,100 @@
+{
+  "id": 47106,
+  "university": {
+    "fullName": "Universidade Estadual de Campinas",
+    "shortName": "UNICAMP",
+    "region": "Latin America",
+    "hashTag": "#UNICAMP",
+    "url": "http://www.ic.unicamp.br",
+    "appYears": [
+      2003,
+      2004,
+      2005,
+      2008,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Você beijaria Matheus Leal Viana?",
+    "regionals": [
+      "Brazil, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Fábio Luiz Usberti",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "fusberti",
+    "achievements": [
+      {
+        "achievement": "WF coach (2016-2017, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Naim Shaikhzadeh",
+      "altNames": [],
+      "cfHandle": "NaimSS",
+      "cfRating": 2308,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Tiago Souza",
+      "altNames": [
+        "Tiago Domingos Almeida Souza"
+      ],
+      "cfHandle": "tdas",
+      "cfRating": 2114,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2019)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Yan Silva",
+      "altNames": [
+        "Yan Matheus Tavares E Silva"
+      ],
+      "cfHandle": "yan.silva",
+      "cfRating": 2299,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2020)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

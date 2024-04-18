@@ -1,0 +1,76 @@
+{
+  "id": 47127,
+  "university": {
+    "fullName": "University of Oxford",
+    "shortName": "Oxford",
+    "region": "Europe",
+    "hashTag": "#Oxford",
+    "url": "http://www.ox.ac.uk",
+    "appYears": [
+      2008,
+      2009,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2009
+    ],
+    "bronzeYears": [
+      2021
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "lamelame",
+    "regionals": [
+      "Northwestern Europe, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Bartek Klin",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Xingjian Bai",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yichen Huang",
+      "altNames": [],
+      "cfHandle": "hychyc",
+      "cfRating": 2198,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Andy Van Horssen",
+      "altNames": [],
+      "cfHandle": "Andyvanh1",
+      "cfRating": 2234,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2022)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2021)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

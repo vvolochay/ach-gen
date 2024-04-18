@@ -47,7 +47,7 @@
         "priority": 2000
       },
       {
-        "achievement": "World Finals coach (2015, 2017)",
+        "achievement": "WF coach (2015, 2017)",
         "priority": 1000
       }
     ]
@@ -63,11 +63,11 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "Facebook Hacker Cup Finalist (2020)",
+          "achievement": "Hacker Cup Finalist (2020)",
           "priority": 90
         },
         {
-          "achievement": "TopCoder Open Algorithm Semifinalist (2021)",
+          "achievement": "TCO Algorithm Semifinalist (2021)",
           "priority": 90
         },
         {
@@ -117,7 +117,7 @@
       "twitterHandle": "isaf27",
       "achievements": [
         {
-          "achievement": "ICPC World Finals Bronze Medalist (2020)",
+          "achievement": "ICPC WF Bronze Medalist (2020)",
           "priority": 102
         },
         {

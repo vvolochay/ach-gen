@@ -1,0 +1,63 @@
+{
+  "id": 47015,
+  "university": {
+    "fullName": "BITS-Pilani, Hyderabad Campus",
+    "shortName": "BITS-Pilani Hyderabad",
+    "region": "Asia West",
+    "hashTag": "#BITSPilani",
+    "url": "http://www.bits-hyderabad.ac.in",
+    "appYears": [
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": ":(){ :|:& };:",
+    "regionals": [
+      "Asia West, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Paresh Saxena",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Hriday Gajulapalli",
+      "altNames": [],
+      "cfHandle": "the_hyp0cr1t3",
+      "cfRating": 2054,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jeevan Jyot Singh",
+      "altNames": [],
+      "cfHandle": "JeevanJyot",
+      "cfRating": 2179,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Pranav Rajagopalan",
+      "altNames": [],
+      "cfHandle": "ExplodingFreeze",
+      "cfRating": 2196,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 10
+        }
+      ]
+    }
+  ]
+}

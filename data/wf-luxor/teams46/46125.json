@@ -1,0 +1,75 @@
+{
+  "id": 46125,
+  "university": {
+    "fullName": "Ural Federal University",
+    "shortName": "Ural FU",
+    "region": "Northern Eurasia",
+    "hashTag": "#UralFU",
+    "url": "https://urfu.ru",
+    "appYears": [
+      2012,
+      2013,
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2016
+    ],
+    "bronzeYears": [
+      2017,
+      2018
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Ural FU: CheezeKEK",
+    "regionals": [
+      "Northern Eurasia, 16th"
+    ]
+  },
+  "coach": {
+    "name": "Alexandra Reshke",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Kirill Reshke",
+      "altNames": [],
+      "cfHandle": "reshke",
+      "cfRating": 2132,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Artyom Tsepov",
+      "altNames": [],
+      "cfHandle": "ArtyomTsepov",
+      "cfRating": 2115,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aleksei Chizhov",
+      "altNames": [],
+      "cfHandle": "Friska",
+      "cfRating": 2261,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

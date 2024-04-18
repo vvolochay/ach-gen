@@ -1,0 +1,52 @@
+{
+  "id": 46058,
+  "university": {
+    "fullName": "Nanjing University of Posts and Telecommunications",
+    "shortName": "NJUPT",
+    "region": "Asia East",
+    "hashTag": "#NUPT",
+    "url": "https://www.njupt.edu.cn/en/main.psp"
+  },
+  "team": {
+    "name": "Citrus",
+    "regionals": [
+      "Asia East, 33rd"
+    ]
+  },
+  "coach": {
+    "name": "Zhi Chen",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "zhichen_cn",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Lehan He",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yizhou Zhao",
+      "altNames": [],
+      "cfHandle": "Artistic_Fantasy",
+      "cfRating": 2137,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yixin Chen",
+      "altNames": [
+        "ugly2333"
+      ],
+      "cfHandle": "ugly2333",
+      "cfRating": 3033,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

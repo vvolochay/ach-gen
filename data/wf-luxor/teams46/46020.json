@@ -1,0 +1,86 @@
+{
+  "id": 46020,
+  "university": {
+    "fullName": "École Normale Supérieure de Paris",
+    "shortName": "ENS Paris",
+    "region": "Europe",
+    "hashTag": "#ENS_Ulm",
+    "url": "http://www.ens.fr",
+    "appYears": [
+      2010,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2021
+    ],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "ENS Ulm 1",
+    "regionals": [
+      "Southwestern Europe, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Hadrien Barral",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2017-2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Hector Buffière",
+      "altNames": [],
+      "cfHandle": "pasthec",
+      "cfRating": 1754,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Victor Deng",
+      "altNames": [],
+      "cfHandle": "vdng9338",
+      "cfRating": 1787,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Felix Breton",
+      "altNames": [
+        "Félix Breton"
+      ],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2019, 2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2016)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

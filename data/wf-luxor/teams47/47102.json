@@ -1,0 +1,77 @@
+{
+  "id": 47102,
+  "university": {
+    "fullName": "Universidad Nacional de Rosario",
+    "shortName": "UNR",
+    "region": "Latin America",
+    "hashTag": "#UNR",
+    "url": "http://www.unr.edu.ar",
+    "appYears": [
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2016
+    ]
+  },
+  "team": {
+    "name": "Don Gato",
+    "regionals": [
+      "South America-South, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Mariano Crosetti",
+    "altNames": [],
+    "cfHandle": "mariano22",
+    "cfRating": 2009,
+    "twitterHandle": "CrosettiMariano",
+    "achievements": [
+      {
+        "achievement": "WF coach (2019)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Finalist (2015, 2016)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Federico Bersano",
+      "altNames": [],
+      "cfHandle": "Tainel",
+      "cfRating": 1814,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Franco De Rico",
+      "altNames": [],
+      "cfHandle": "Fran2001",
+      "cfRating": 927,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Sebastián Mestre",
+      "altNames": [],
+      "cfHandle": "estoy-re-sebado",
+      "cfRating": 2065,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2018, 2019, 2020)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

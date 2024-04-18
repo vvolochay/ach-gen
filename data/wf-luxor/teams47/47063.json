@@ -1,0 +1,72 @@
+{
+  "id": 47063,
+  "university": {
+    "fullName": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+    "shortName": "MEPhI",
+    "region": "Northern Eurasia",
+    "hashTag": "#MEPhI",
+    "url": "http://www.mephi.ru",
+    "appYears": [
+      2016,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Useless but powerful",
+    "regionals": [
+      "Northern Eurasia, 32nd"
+    ]
+  },
+  "coach": {
+    "name": "Alexander Minakov",
+    "altNames": [],
+    "cfHandle": "elshiko",
+    "cfRating": 2161,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Finalist (2016)",
+        "priority": 100
+      },
+      {
+        "achievement": "GHC Finalist (2021)",
+        "priority": 70
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Evgeny Anzin",
+      "altNames": [],
+      "cfHandle": "Azzpg7",
+      "cfRating": 1817,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Grigorij Ivanenko",
+      "altNames": [],
+      "cfHandle": "GrishaIvanenko",
+      "cfRating": 2204,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ivan Melnikov",
+      "altNames": [],
+      "cfHandle": "ZNOL",
+      "cfRating": 1534,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

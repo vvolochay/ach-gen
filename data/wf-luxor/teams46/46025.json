@@ -1,0 +1,127 @@
+{
+  "id": 46025,
+  "university": {
+    "fullName": "Georgia Institute of Technology",
+    "shortName": "Georgia Tech",
+    "region": "North America",
+    "hashTag": "#GeorgiaTech",
+    "url": "http://www.gatech.edu",
+    "appYears": [
+      1995,
+      1999,
+      2000,
+      2001,
+      2004,
+      2005,
+      2006,
+      2008,
+      2012,
+      2015,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Days of Future Past",
+    "regionals": [
+      "North America, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Richard Peng",
+    "altNames": [
+      "Yang Peng"
+    ],
+    "cfHandle": "rpeng",
+    "cfRating": 2321,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC bronze medal as coach (2015)",
+        "priority": 2000
+      },
+      {
+        "achievement": "WF coach (2014)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Bronze Medalist (2008)",
+        "priority": 102
+      },
+      {
+        "achievement": "IOI Gold Medalist (2005)",
+        "priority": 64
+      },
+      {
+        "achievement": "IOI Silver Medalist (2004, 2006)",
+        "priority": 63
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yu Gao",
+      "altNames": [],
+      "cfHandle": "xyz2606",
+      "cfRating": 2763,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2017)",
+          "priority": 100
+        },
+        {
+          "achievement": "Russian Code Cup Finalist (2017)",
+          "priority": 30
+        },
+        {
+          "achievement": "ICPC WF Invitational Finalist (2020)",
+          "priority": 30
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2015, 2016)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Jingbang Chen",
+      "altNames": [],
+      "cfHandle": "chenjb",
+      "cfRating": 2705,
+      "twitterHandle": "_chenjb",
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2018)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Li Chen",
+      "altNames": [],
+      "cfHandle": "akaiNeko",
+      "cfRating": 2205,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2018)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2013)",
+          "priority": 62
+        },
+        {
+          "achievement": "ICPC WF Invitational Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

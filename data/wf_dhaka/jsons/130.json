@@ -57,35 +57,35 @@
         "priority": 3000
       },
       {
-        "achievement": "World Finals coach (2011, 2014)",
+        "achievement": "WF coach (2011, 2014)",
         "priority": 1000
       },
       {
-        "achievement": "ICPC World Finals Silver Medalist (2005)",
+        "achievement": "ICPC WF Silver Medalist (2005)",
         "priority": 103
       },
       {
-        "achievement": "ICPC World Finals Finalist (2007)",
+        "achievement": "ICPC WF Finalist (2007)",
         "priority": 100
       },
       {
-        "achievement": "Google Code Jam Finalist (2005, 2006, 2008, 2012)",
+        "achievement": "GCJ Finalist (2005, 2006, 2008, 2012)",
         "priority": 90
       },
       {
-        "achievement": "TopCoder Open Algorithm Finalist (2005)",
+        "achievement": "TCO Algorithm Finalist (2005)",
         "priority": 90
       },
       {
-        "achievement": "TopCoder Open Algorithm Wildcard (2007, 2011)",
+        "achievement": "TCO Algorithm Wildcard (2007, 2011)",
         "priority": 90
       },
       {
-        "achievement": "TopCoder Open Algorithm Semifinalist (2008)",
+        "achievement": "TCO Algorithm Semifinalist (2008)",
         "priority": 90
       },
       {
-        "achievement": "Facebook Hacker Cup Finalist (2011, 2012)",
+        "achievement": "Hacker Cup Finalist (2011, 2012)",
         "priority": 90
       },
       {

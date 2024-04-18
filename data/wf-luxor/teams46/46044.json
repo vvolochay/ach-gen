@@ -1,0 +1,61 @@
+{
+  "id": 46044,
+  "university": {
+    "fullName": "Instituto Tecnológico Autónomo de México",
+    "shortName": "ITAM",
+    "region": "Latin America",
+    "hashTag": "#ITAM",
+    "url": "http://www.itam.mx",
+    "appYears": [
+      2016,
+      2017,
+      2019,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Radical Sweep",
+    "regionals": [
+      "Mexico, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Fernando Esponda",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Carlos Alberto Delgado Elizondo",
+      "altNames": [],
+      "cfHandle": "CaDe",
+      "cfRating": 1678,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Alfredo Pineda",
+      "altNames": [],
+      "cfHandle": "Guendabiaani",
+      "cfRating": 1747,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Diego Hinojosa",
+      "altNames": [],
+      "cfHandle": "diegoht",
+      "cfRating": 815,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

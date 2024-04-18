@@ -1,0 +1,77 @@
+{
+  "id": 47126,
+  "university": {
+    "fullName": "University of Novi Sad",
+    "shortName": "UNS",
+    "region": "Europe",
+    "hashTag": "#UNS",
+    "url": "http://www.im.ns.ac.yu/"
+  },
+  "team": {
+    "name": "Infinity",
+    "regionals": [
+      "Southeastern Europe, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Marko Savić",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "IOI Silver Medalist (2000)",
+        "priority": 63
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tadija Šebez",
+      "altNames": [],
+      "cfHandle": "TadijaSebez",
+      "cfRating": 2683,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "Hacker Cup Finalist (2021)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Gold Medalist (2020)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Nikola Pešić",
+      "altNames": [],
+      "cfHandle": "nikolapesic2802",
+      "cfRating": 2596,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Viktor Lučić",
+      "altNames": [],
+      "cfHandle": "stefanbalaz2",
+      "cfRating": 1954,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

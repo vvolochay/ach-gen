@@ -1,0 +1,91 @@
+{
+  "id": 46022,
+  "university": {
+    "fullName": "Escuela Superior De Computo Instituto Politecnico Nacional",
+    "shortName": "ESCOM IPN",
+    "region": "Latin America",
+    "hashTag": "#ESCOMIPN",
+    "url": "http://www.escom.ipn.mx",
+    "appYears": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Chilaquiles con pollo",
+    "regionals": [
+      "Mexico, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Edgardo Adrian Franco Martinez",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "eafrancom",
+    "achievements": [
+      {
+        "achievement": "WF coach (2013-2016, 2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Abraham Omar Macías Márquez",
+      "altNames": [],
+      "cfHandle": "Marckess",
+      "cfRating": 2403,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "ICPC WF Invitational Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Bryan Enrique González Vélez",
+      "altNames": [],
+      "cfHandle": "begv",
+      "cfRating": 1933,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Invitational Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Alan Enrique Ontiveros Salazar",
+      "altNames": [],
+      "cfHandle": "alaneos777",
+      "cfRating": 1557,
+      "twitterHandle": "alaneos777",
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "ICPC WF Invitational Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

@@ -95,47 +95,47 @@
     "twitterHandle": "que_tourist",
     "achievements": [
       {
-        "achievement": "ICPC World Finals World Champion (2013, 2015)",
+        "achievement": "ICPC WF Champion (2013, 2015)",
         "priority": 105
       },
       {
-        "achievement": "TopCoder Open Algorithm 1st (2014, 2019, 2020, 2021)",
+        "achievement": "TCO Algorithm 1st (2014, 2019, 2020, 2021)",
         "priority": 95
       },
       {
-        "achievement": "TopCoder Open Marathon 1st (2018, 2019)",
+        "achievement": "TCO Marathon 1st (2018, 2019)",
         "priority": 95
       },
       {
-        "achievement": "Google Code Jam 1st (2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022)",
+        "achievement": "Google Code Jam 1st (2014, 2015, x3, 2019, 2020, 2022)",
         "priority": 95
       },
       {
-        "achievement": "Facebook Hacker Cup 1st (2014, 2015, 2019, 2020)",
+        "achievement": " Hacker Cup 1st (2014, 2015, 2019, 2020)",
         "priority": 95
       },
       {
-        "achievement": "TopCoder Open Marathon 2nd (2020)",
+        "achievement": "TCO Marathon 2nd (2020)",
         "priority": 94
       },
       {
-        "achievement": "TopCoder Open Algorithm 3rd (2018)",
+        "achievement": "TCO Algorithm 3rd (2018)",
         "priority": 93
       },
       {
-        "achievement": "TopCoder Open Algorithm Finalist (2013, 2017)",
+        "achievement": "TCO Algorithm Finalist (2013, 2017)",
         "priority": 90
       },
       {
-        "achievement": "TopCoder Open Algorithm Semifinalist (2015, 2016)",
+        "achievement": "TCO Algorithm Semifinalist (2015, 2016)",
         "priority": 90
       },
       {
-        "achievement": "TopCoder Open Marathon Finalist (2021)",
+        "achievement": "TCO Marathon Finalist (2021)",
         "priority": 90
       },
       {
-        "achievement": "Google Code Jam Finalist (2021)",
+        "achievement": "GCJ Finalist (2021)",
         "priority": 90
       },
       {
@@ -147,7 +147,7 @@
         "priority": 90
       },
       {
-        "achievement": "Facebook Hacker Cup Finalist (2013, 2017, 2018, 2021)",
+        "achievement": "Hacker Cup Finalist (2013, 2017, 2018, 2021)",
         "priority": 90
       },
       {
@@ -259,7 +259,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2019)",
+          "achievement": "ICPC WF Finalist (2019)",
           "priority": 100
         },
         {
@@ -282,7 +282,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2019)",
+          "achievement": "ICPC WF Finalist (2019)",
           "priority": 100
         }
       ]
@@ -299,11 +299,11 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Gold Medalist (2020)",
+          "achievement": "ICPC WF Gold Medalist (2020)",
           "priority": 104
         },
         {
-          "achievement": "Facebook Hacker Cup Finalist (2020, 2021)",
+          "achievement": "Hacker Cup Finalist (2020, 2021)",
           "priority": 90
         },
         {

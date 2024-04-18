@@ -1,0 +1,142 @@
+{
+  "id": 46061,
+  "university": {
+    "fullName": "National Research University Higher School of Economics",
+    "shortName": "HSE",
+    "region": "Northern Eurasia",
+    "hashTag": "#HSE",
+    "url": "http://hse.ru",
+    "appYears": [
+      2010,
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2014,
+      2019,
+      2020,
+      2021
+    ],
+    "regYears": [
+      2021
+    ]
+  },
+  "team": {
+    "name": "Undertrained+Overpressured",
+    "regionals": [
+      "Northern Eurasia, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Mikhail Gustokashin",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC bronze medal as coach (2019-2020)",
+        "priority": 2000
+      },
+      {
+        "achievement": "WF coach (2015, 2017)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ivan Safonov",
+      "altNames": [
+        "Иван Сафонов"
+      ],
+      "cfHandle": "isaf27",
+      "cfRating": 3048,
+      "twitterHandle": "isaf27",
+      "achievements": [
+        {
+          "achievement": "ICPC WF Bronze Medalist (2020, 2021)",
+          "priority": 102
+        },
+        {
+          "achievement": "Yandex.Algorithm Semifinalist (2023)",
+          "priority": 90
+        },
+        {
+          "achievement": "GHC Finalist (x3)",
+          "priority": 70
+        },
+        {
+          "achievement": "VK Cup Finalist (2020, 2021, 2022)",
+          "priority": 10
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 10
+        },
+        {
+          "achievement": "VK Cup Qualified (2018)",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "name": "Timofei Fedoseev",
+      "altNames": [],
+      "cfHandle": "fedoseev.timofey",
+      "cfRating": 2720,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "GCJ Finalist (2021)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Gold Medalist (2021)",
+          "priority": 64
+        },
+        {
+          "achievement": "VK Cup Finalist (2021)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Maksim Gorokhovskii",
+      "altNames": [],
+      "cfHandle": "Maksim1744",
+      "cfRating": 3246,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Bronze Medalist (2021)",
+          "priority": 102
+        },
+        {
+          "achievement": "GHC Finalist (2022)",
+          "priority": 70
+        },
+        {
+          "achievement": "VK Cup 1st (2022)",
+          "priority": 15
+        },
+        {
+          "achievement": "VK Cup 2nd (2021)",
+          "priority": 14
+        },
+        {
+          "achievement": "VK Cup Finalist (2020)",
+          "priority": 10
+        }
+      ]
+    }
+  ]
+}

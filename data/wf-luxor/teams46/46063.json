@@ -1,0 +1,63 @@
+{
+  "id": 46063,
+  "university": {
+    "fullName": "National Tsing Hua University",
+    "shortName": "NTHU",
+    "region": "Asia Pacific",
+    "hashTag": "#NTHU",
+    "url": "http://www.nthu.edu.tw",
+    "appYears": [
+      1994,
+      1995,
+      1996,
+      1999,
+      2000,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "BFs",
+    "regionals": [
+      "Taipei, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Che-Rung Lee",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "LI-YUAN Chiang",
+      "altNames": [],
+      "cfHandle": "jeeeerrrpop",
+      "cfRating": 2131,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yu-Cheng Chen",
+      "altNames": [],
+      "cfHandle": "Yazmau",
+      "cfRating": 2105,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kai-Chun Ho",
+      "altNames": [],
+      "cfHandle": "Jeffrey",
+      "cfRating": 2407,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

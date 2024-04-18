@@ -1,0 +1,50 @@
+{
+  "id": 47074,
+  "university": {
+    "fullName": "Pontificia Universidad Católica de Chile",
+    "shortName": "PUC",
+    "region": "Latin America",
+    "hashTag": "",
+    "url": "http://www.puc.cl"
+  },
+  "team": {
+    "name": "Laranjas.clear()",
+    "regionals": [
+      "South America-South, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Benjamín Rubio",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Martin Andrighetti",
+      "altNames": [],
+      "cfHandle": "kovaxis",
+      "cfRating": 2018,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ignacio Muñoz",
+      "altNames": [],
+      "cfHandle": "MrNachoX",
+      "cfRating": 2043,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vicente Opazo",
+      "altNames": [],
+      "cfHandle": "visho33",
+      "cfRating": 2073,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

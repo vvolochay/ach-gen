@@ -1,0 +1,55 @@
+{
+  "id": 47037,
+  "university": {
+    "fullName": "Huazhong University of Science and Technology",
+    "shortName": "HUST",
+    "region": "Asia East",
+    "hashTag": "#HUST",
+    "url": "https://www.hust.edu.cn"
+  },
+  "team": {
+    "name": "Clover",
+    "regionals": [
+      "Asia East, 50th"
+    ]
+  },
+  "coach": {
+    "name": "Kun He",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Chen Gong",
+      "altNames": [],
+      "cfHandle": "GCCCCCCC",
+      "cfRating": 2118,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Xin Zheng",
+      "altNames": [],
+      "cfHandle": "Weierstrass",
+      "cfRating": 2197,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zhongyao Yu",
+      "altNames": [],
+      "cfHandle": "yzyyylx",
+      "cfRating": 2462,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

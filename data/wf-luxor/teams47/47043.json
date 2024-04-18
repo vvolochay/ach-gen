@@ -1,0 +1,66 @@
+{
+  "id": 47043,
+  "university": {
+    "fullName": "Indian Institute of Technology - Kharagpur",
+    "shortName": "IIT Kharagpur",
+    "region": "Asia West",
+    "hashTag": "#IITKharagpur",
+    "url": "http://www.iitkgp.ac.in",
+    "appYears": [
+      2015,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Ab_Ki_Baar",
+    "regionals": [
+      "Asia West, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Pawan Goyal",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Rahul Chugh",
+      "altNames": [],
+      "cfHandle": "RahulChugh",
+      "cfRating": 2078,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Harsh Vardhan Goenka",
+      "altNames": [],
+      "cfHandle": "harsh639",
+      "cfRating": 2025,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Saurav Pandey",
+      "altNames": [],
+      "cfHandle": "professor_flux",
+      "cfRating": 2113,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

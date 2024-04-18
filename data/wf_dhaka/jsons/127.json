@@ -98,7 +98,7 @@
         "priority": 2000
       },
       {
-        "achievement": "World Finals coach (1999-2000, 2002, 2005, 2008, 2011, 2018)",
+        "achievement": "WF coach (1999-2000, 2002, 2005, 2008, 2011, 2018)",
         "priority": 1000
       }
     ]
@@ -126,7 +126,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2020)",
+          "achievement": "ICPC WF Finalist (2020)",
           "priority": 100
         },
         {
@@ -145,7 +145,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Gold Medalist (2019)",
+          "achievement": "ICPC WF Gold Medalist (2019)",
           "priority": 104
         },
         {

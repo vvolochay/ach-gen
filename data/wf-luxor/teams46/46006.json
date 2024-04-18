@@ -1,0 +1,50 @@
+{
+  "id": 46006,
+  "university": {
+    "fullName": "Applied Science Private University",
+    "shortName": "ASU",
+    "region": "Africa and Arabia",
+    "hashTag": "#ASPUJordan",
+    "url": "http://www.asu.edu.jo"
+  },
+  "team": {
+    "name": "CPX",
+    "regionals": [
+      "Africa & Arab, 28th"
+    ]
+  },
+  "coach": {
+    "name": "Mohammad Hijjawi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ayoub Abuasbeh",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Belal Malabeh",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mohammad Shamali",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

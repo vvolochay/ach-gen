@@ -1,0 +1,68 @@
+{
+  "id": 47001,
+  "university": {
+    "fullName": "Ain Shams University - Faculty of Computer and Information Sciences",
+    "shortName": "ASU-FCIS",
+    "region": "Africa and Arabia",
+    "hashTag": "#Fciseg",
+    "url": "http://cis.shams.edu.eg",
+    "appYears": [
+      2011,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Sa3t El Sefr",
+    "regionals": [
+      "Africa & Arab, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Anany",
+    "altNames": [],
+    "cfHandle": "DeadlyPillow",
+    "cfRating": 2156,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2018, 2019)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Abdelrahman Ahmed",
+      "altNames": [],
+      "cfHandle": "abdelrahman001",
+      "cfRating": 1455,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ziad Khobeiz",
+      "altNames": [],
+      "cfHandle": "ziad.khobeiz",
+      "cfRating": 1825,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abdelrahman Osman",
+      "altNames": [],
+      "cfHandle": "Abdelrahman_Etman",
+      "cfRating": 2019,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

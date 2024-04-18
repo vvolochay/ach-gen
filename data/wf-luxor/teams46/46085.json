@@ -1,0 +1,50 @@
+{
+  "id": 46085,
+  "university": {
+    "fullName": "The Chinese University of Hong Kong, Shenzhen",
+    "shortName": "CUHKSZ",
+    "region": "Asia East",
+    "hashTag": "#CUHKSZ",
+    "url": "https://www.cuhk.edu.cn"
+  },
+  "team": {
+    "name": "Novices on the Road",
+    "regionals": [
+      "Asia East, 16th"
+    ]
+  },
+  "coach": {
+    "name": "Yixiang Fang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Yuan Xu",
+      "altNames": [],
+      "cfHandle": "MooNight",
+      "cfRating": 2460,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Qiuyang Mang",
+      "altNames": [],
+      "cfHandle": "Joyemang",
+      "cfRating": 2485,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Qingshuo Guo",
+      "altNames": [],
+      "cfHandle": "forxen",
+      "cfRating": 2231,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 46004,
+  "university": {
+    "fullName": "Al-Baath University",
+    "shortName": "Al-Baath",
+    "region": "Africa and Arabia",
+    "hashTag": "#albaathunivweb",
+    "url": "http://www.albaath-univ.edu.sy",
+    "appYears": [
+      2017,
+      2018,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Official bots",
+    "regionals": [
+      "Africa & Arab, 16th"
+    ]
+  },
+  "coach": {
+    "name": "Tony Makdissy",
+    "altNames": [],
+    "cfHandle": "SyrianTony",
+    "cfRating": 1589,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ahmad Sarhan",
+      "altNames": [],
+      "cfHandle": "Vectors_Master",
+      "cfRating": 2068,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mohanad Nahhal",
+      "altNames": [],
+      "cfHandle": "Mohanad_Nahhal",
+      "cfRating": 2125,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmad Alhussin",
+      "altNames": [],
+      "cfHandle": "BabaVoss",
+      "cfRating": 1816,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

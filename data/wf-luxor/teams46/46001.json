@@ -1,0 +1,55 @@
+{
+  "id": 46001,
+  "university": {
+    "fullName": "ADA University",
+    "shortName": "ADA",
+    "region": "Northern Eurasia",
+    "hashTag": "#ADAUniversity",
+    "url": "http://www.ada.edu.az"
+  },
+  "team": {
+    "name": "ADA U 2",
+    "regionals": [
+      "Northern Eurasia, 96th"
+    ]
+  },
+  "coach": {
+    "name": "Mykhailo Medvediev",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ibrahim Taghizade",
+      "altNames": [],
+      "cfHandle": "ibrahim001",
+      "cfRating": 1727,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2019, 2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Ulvi Aslanli",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aykhan Aghayev",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

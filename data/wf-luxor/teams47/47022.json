@@ -1,0 +1,128 @@
+{
+  "id": 47022,
+  "university": {
+    "fullName": "Charles University",
+    "shortName": "Charles U",
+    "region": "Europe",
+    "hashTag": "#UniKarlova",
+    "url": "http://www.cuni.cz",
+    "appYears": [
+      1998,
+      2000,
+      2001,
+      2002,
+      2004,
+      2012,
+      2015,
+      2016,
+      2018,
+      2021
+    ],
+    "winYears": [
+      1998
+    ],
+    "goldYears": [
+      1998
+    ],
+    "silverYears": [
+      2015
+    ],
+    "bronzeYears": [
+      2000,
+      2001
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "MFF3",
+    "regionals": [
+      "Central Europe, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Zdenek Dvorak",
+    "altNames": [
+      "Zdeněk Dvořák"
+    ],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2016, 2018)",
+        "priority": 1000
+      },
+      {
+        "achievement": "IOI Gold Medalist (1999)",
+        "priority": 84
+      },
+      {
+        "achievement": "IOI Bronze Medalist (1998)",
+        "priority": 82
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Josef Minařík",
+      "altNames": [],
+      "cfHandle": "Yongaron",
+      "cfRating": 2472,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 82
+        },
+        {
+          "achievement": "Codeflows Finalist (2021)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Jiri Kalvoda",
+      "altNames": [
+        "Jiří Kalvoda"
+      ],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2021)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019, 2020)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Adam Rajský",
+      "altNames": [],
+      "cfHandle": "adam_rajsky",
+      "cfRating": 2263,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 83
+        }
+      ]
+    }
+  ]
+}

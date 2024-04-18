@@ -1,0 +1,63 @@
+{
+  "id": 47005,
+  "university": {
+    "fullName": "Arab Academy for Science, Technology and Maritime Transport - Cairo",
+    "shortName": "AASTMT-Cairo",
+    "region": "Africa and Arabia",
+    "hashTag": "#AASTMT-Cairo",
+    "url": "https://aast.edu/en/sites/cairo/",
+    "appYears": [
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Three Sannin",
+    "regionals": [
+      "Africa & Arab, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Mahmoud",
+    "altNames": [],
+    "cfHandle": "fegla",
+    "cfRating": 1518,
+    "twitterHandle": "wahabfegla",
+    "achievements": [
+      {
+        "achievement": "WF coach (2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ahmed Taha",
+      "altNames": [],
+      "cfHandle": "Uzumaki_Narutoo",
+      "cfRating": 1761,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mostafa Emad",
+      "altNames": [],
+      "cfHandle": "Eddard",
+      "cfRating": 2330,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Bedo Sayed",
+      "altNames": [],
+      "cfHandle": "Bedoo",
+      "cfRating": 2040,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

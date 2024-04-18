@@ -83,15 +83,15 @@
     "twitterHandle": "jcvbcn",
     "achievements": [
       {
-        "achievement": "ICPC World Finals Silver Medalist (2017)",
+        "achievement": "ICPC WF Silver Medalist (2017)",
         "priority": 103
       },
       {
-        "achievement": "TopCoder Open Algorithm Semifinalist (2018)",
+        "achievement": "TCO Algorithm Semifinalist (2018)",
         "priority": 90
       },
       {
-        "achievement": "Google Code Jam Finalist (2016, 2018)",
+        "achievement": "GCJ Finalist (2016, 2018)",
         "priority": 90
       },
       {
@@ -103,7 +103,7 @@
         "priority": 53
       },
       {
-        "achievement": "Yandex.Algorithm Finalist (2016, 2017, 2018)",
+        "achievement": "Yandex.Algorithm Finalist (x3)",
         "priority": 50
       },
       {
@@ -119,7 +119,7 @@
         "priority": 2
       },
       {
-        "achievement": "Facebook Hacker Cup Qualified (2017)",
+        "achievement": " Hacker Cup Qualified (2017)",
         "priority": 2
       },
       {
@@ -139,7 +139,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "Google Code Jam Finalist (2021, 2022)",
+          "achievement": "GCJ Finalist (2021, 2022)",
           "priority": 90
         },
         {
@@ -168,7 +168,7 @@
       "twitterHandle": "matthew99a",
       "achievements": [
         {
-          "achievement": "Facebook Hacker Cup Finalist (2018)",
+          "achievement": "Hacker Cup Finalist (2018)",
           "priority": 90
         },
         {

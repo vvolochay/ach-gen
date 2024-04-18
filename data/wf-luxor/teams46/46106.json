@@ -1,0 +1,65 @@
+{
+  "id": 46106,
+  "university": {
+    "fullName": "Universidade Federal do Rio de Janeiro",
+    "shortName": "UFRJ",
+    "region": "Latin America",
+    "hashTag": "#UFRJ",
+    "url": "http://www.ufrj.br",
+    "appYears": [
+      2012,
+      2015,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "desCE ouTro BaLÃo, MelAnCia!!@!1! ",
+    "regionals": [
+      "Brazil, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Marcia Cerioli",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2015, 2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Lucas Melick",
+      "altNames": [],
+      "cfHandle": "Lucas_Melick",
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vinicius Proença",
+      "altNames": [],
+      "cfHandle": "viniciuslettieri",
+      "cfRating": 382,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Christopher Ciafrino",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

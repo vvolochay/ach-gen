@@ -1,0 +1,58 @@
+{
+  "id": 47013,
+  "university": {
+    "fullName": "Birla Institute of Technology and Science, Pilani Campus",
+    "shortName": "BITS Pilani",
+    "region": "Asia West",
+    "hashTag": "#BITS",
+    "url": "http://www.bits-pilani.ac.in",
+    "appYears": [
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "jaggu's bois",
+    "regionals": [
+      "Asia West, 12th"
+    ]
+  },
+  "coach": {
+    "name": "Amit Dua",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Utkarsh Darolia",
+      "altNames": [],
+      "cfHandle": "utk",
+      "cfRating": 2013,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aniket Jain",
+      "altNames": [],
+      "cfHandle": "aniketjain0317",
+      "cfRating": 1972,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Anish Kasegaonkar",
+      "altNames": [],
+      "cfHandle": "AAK",
+      "cfRating": 1824,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

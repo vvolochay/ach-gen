@@ -1,0 +1,118 @@
+{
+  "id": 47029,
+  "university": {
+    "fullName": "ETH Zürich",
+    "shortName": "ETH Zürich",
+    "region": "Europe",
+    "hashTag": "#ETH",
+    "url": "http://www.ethz.ch",
+    "appYears": [
+      2011,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2021
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2021
+    ]
+  },
+  "team": {
+    "name": "gETHyped",
+    "regionals": [
+      "Southwestern Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Antti Röyskö",
+    "altNames": [],
+    "cfHandle": "mango_lassi",
+    "cfRating": 2861,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Silver Medalist (2021)",
+        "priority": 103
+      },
+      {
+        "achievement": "ICPC WF Finalist (2018)",
+        "priority": 100
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2017)",
+        "priority": 82
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Marc Dufay",
+      "altNames": [],
+      "cfHandle": "Macdu",
+      "cfRating": 2140,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Theodor Moroianu",
+      "altNames": [
+        "Theodor Pierre Moroianu",
+        "Teo Moroianu"
+      ],
+      "cfHandle": "theodor.moroianu",
+      "cfRating": 2247,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Silver Medalist (2020)",
+          "priority": 103
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 63
+        },
+        {
+          "achievement": "Codeflows Finalist (2021)",
+          "priority": 10
+        },
+        {
+          "achievement": "FII Code 1st (2019)",
+          "priority": -5
+        }
+      ]
+    },
+    {
+      "name": "Andon Todorov",
+      "altNames": [],
+      "cfHandle": "donentseto",
+      "cfRating": 2474,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2020, 2021)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2022)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

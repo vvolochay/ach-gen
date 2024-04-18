@@ -1,0 +1,64 @@
+{
+  "id": 46129,
+  "university": {
+    "fullName": "Zhejiang Normal University",
+    "shortName": "ZJNU",
+    "region": "Asia East",
+    "hashTag": "#ZJNU",
+    "url": "http://www.zjnu.edu.cn",
+    "appYears": [
+      2011,
+      2016
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "xxsrk",
+    "regionals": [
+      "Asia East, 31st"
+    ]
+  },
+  "coach": {
+    "name": "Jianmin Han",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2011, 2016)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Zhihang Yu",
+      "altNames": [],
+      "cfHandle": "yzh2023",
+      "cfRating": 1969,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tianchen Zhou",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Runhao Jiang",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

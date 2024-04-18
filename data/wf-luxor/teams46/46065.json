@@ -1,0 +1,93 @@
+{
+  "id": 46065,
+  "university": {
+    "fullName": "National University of Singapore",
+    "shortName": "NUS",
+    "region": "Asia Pacific",
+    "hashTag": "#NUSingapore",
+    "url": "http://www.nus.edu.sg",
+    "appYears": [
+      1999,
+      2000,
+      2001,
+      2003,
+      2005,
+      2009,
+      2010,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "7 Halim",
+    "regionals": [
+      "Jakarta, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Steven Halim",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "steven7halim",
+    "achievements": [
+      {
+        "achievement": "WF coach (2010, 2012, 2014, 2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Edbert Geraldy Cangdinata",
+      "altNames": [],
+      "cfHandle": "Berted",
+      "cfRating": 2304,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2020)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Li Lim",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2017)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Yehezkiel Theodoroes",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

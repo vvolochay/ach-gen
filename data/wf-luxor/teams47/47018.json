@@ -1,0 +1,84 @@
+{
+  "id": 47018,
+  "university": {
+    "fullName": "Cairo University - Faculty of Computers and Artificial Intelligence",
+    "shortName": "CU-FCAI",
+    "region": "Africa and Arabia",
+    "hashTag": "#Cairo-FCI",
+    "url": "https://fcai.cu.edu.eg/",
+    "appYears": [
+      2002,
+      2004,
+      2006,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2016
+    ]
+  },
+  "team": {
+    "name": "Kofta Sentinel Edition",
+    "regionals": [
+      "Africa & Arab, 13th"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Yasser Ezat",
+    "altNames": [
+      "Mohammad Yasser"
+    ],
+    "cfHandle": "Mohammad_Yasser",
+    "cfRating": 2171,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2018)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Finalist (2016, 2017)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Omar Hany",
+      "altNames": [],
+      "cfHandle": "Omar76",
+      "cfRating": 1700,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mostafa Mahmoud",
+      "altNames": [],
+      "cfHandle": "Kofta",
+      "cfRating": 1992,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmed Salah",
+      "altNames": [],
+      "cfHandle": "Ahmed_Salah7",
+      "cfRating": 1811,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

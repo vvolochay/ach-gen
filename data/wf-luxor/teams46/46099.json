@@ -1,0 +1,85 @@
+{
+  "id": 46099,
+  "university": {
+    "fullName": "Universidad Nacional de Córdoba - FaMAF",
+    "shortName": "FAMAF - UNC",
+    "region": "Latin America",
+    "hashTag": "#FAMAFUNC",
+    "url": "http://www.famaf.unc.edu.ar",
+    "appYears": [
+      2006,
+      2008,
+      2010,
+      2011,
+      2012,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2019,
+      2021
+    ]
+  },
+  "team": {
+    "name": "Overflowed",
+    "regionals": [
+      "South America-South, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Sebastián Marín",
+    "altNames": [],
+    "cfHandle": "SebaMarin",
+    "cfRating": 2072,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2020, 2021)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Uziel Ludueña",
+      "altNames": [],
+      "cfHandle": "CarusoX",
+      "cfRating": 1773,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mateo Carranza Vélez",
+      "altNames": [],
+      "cfHandle": "MateoCV",
+      "cfRating": 2225,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020, 2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Emanuel Nicolás Herrador",
+      "altNames": [],
+      "cfHandle": "helcsnewsxd",
+      "cfRating": 1495,
+      "twitterHandle": "helcsnewsxd",
+      "achievements": []
+    }
+  ]
+}

@@ -91,15 +91,15 @@
         "priority": 4000
       },
       {
-        "achievement": "ACM ICPC silver medal as coach (2003, 2006-2007, 2014, 2018)",
+        "achievement": "ACM ICPC silver medal as coach (x5)",
         "priority": 3000
       },
       {
-        "achievement": "ACM ICPC bronze medal as coach (2000-2001, 2015)",
+        "achievement": "ACM ICPC bronze medal as coach (x3)",
         "priority": 2000
       },
       {
-        "achievement": "World Finals coach (2004, 2008-2009, 2011, 2017, 2019)",
+        "achievement": "WF coach (x6)",
         "priority": 1000
       }
     ]

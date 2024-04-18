@@ -1,0 +1,66 @@
+{
+  "id": 47041,
+  "university": {
+    "fullName": "Indian Institute of Technology - Indore",
+    "shortName": "IIT Indore",
+    "region": "Asia West",
+    "hashTag": "#IITIndore",
+    "url": "http://www.iiti.ac.in",
+    "appYears": [
+      2013,
+      2014,
+      2017,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Paradigm Shift",
+    "regionals": [
+      "Asia West, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Abhishek Srivastava",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2013-2014, 2017, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jaskaran Singh",
+      "altNames": [],
+      "cfHandle": "s_jaskaran_s",
+      "cfRating": 2024,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Deepkamal Singh",
+      "altNames": [],
+      "cfHandle": "codebuster_10",
+      "cfRating": 2181,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nishkarsh Luthra",
+      "altNames": [],
+      "cfHandle": "nishkarsh",
+      "cfRating": 2202,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

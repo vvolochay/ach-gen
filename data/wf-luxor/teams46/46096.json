@@ -1,0 +1,78 @@
+{
+  "id": 46096,
+  "university": {
+    "fullName": "Universidad de La Habana",
+    "shortName": "UH",
+    "region": "Latin America",
+    "hashTag": "#UniversidadLH",
+    "url": "http://www.uh.cu/",
+    "appYears": [
+      2011,
+      2012,
+      2013,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2017
+    ]
+  },
+  "team": {
+    "name": "UH++",
+    "regionals": [
+      "Caribbean, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Alfredo Somoza Moreno",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2011-2013, 2015-2017, 2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Carmen Cabrera",
+      "altNames": [],
+      "cfHandle": "milaXD",
+      "cfRating": 1682,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Marcos Adrián Valdivié Rodríguez",
+      "altNames": [],
+      "cfHandle": "marcOS",
+      "cfRating": 2295,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Marcos Tirador",
+      "altNames": [],
+      "cfHandle": "ChandlerMTR",
+      "cfRating": 1929,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 47085,
+  "university": {
+    "fullName": "St. Petersburg Campus of Higher School of Economics",
+    "shortName": "SPb HSE",
+    "region": "Northern Eurasia",
+    "hashTag": "#HSESPb",
+    "url": "https://spb.hse.ru/en/",
+    "appYears": [
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Just3Keks",
+    "regionals": [
+      "Northern Eurasia, 15th"
+    ]
+  },
+  "coach": {
+    "name": "Maksim Surkov",
+    "altNames": [],
+    "cfHandle": "maximumSHOT",
+    "cfRating": 2560,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Vladislav Mosin",
+      "altNames": [],
+      "cfHandle": "vmos1999",
+      "cfRating": 1995,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vladislav Epifanov",
+      "altNames": [],
+      "cfHandle": "NeKpoT",
+      "cfRating": 2151,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Anton Bukov",
+      "altNames": [],
+      "cfHandle": "Xrite",
+      "cfRating": 1843,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

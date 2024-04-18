@@ -1,0 +1,86 @@
+{
+  "id": 46017,
+  "university": {
+    "fullName": "Carnegie Mellon University",
+    "shortName": "Carnegie Mellon",
+    "region": "North America",
+    "hashTag": "#CMU",
+    "url": "http://www.cmu.edu",
+    "appYears": [
+      1994,
+      1996,
+      1997,
+      1999,
+      2000,
+      2001,
+      2003,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2021
+    ],
+    "bronzeYears": [
+      2009,
+      2013
+    ],
+    "regYears": [
+      2013
+    ]
+  },
+  "team": {
+    "name": "CMU1",
+    "regionals": [
+      "North America, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Qingyu Shi",
+    "altNames": [],
+    "cfHandle": "Qingyu",
+    "cfRating": 2520,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Aditya Sundaram",
+      "altNames": [],
+      "cfHandle": "amsraman",
+      "cfRating": 2140,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dilhan Salgado",
+      "altNames": [],
+      "cfHandle": "conqueror_of_tourist",
+      "cfRating": 3044,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yijun Chen",
+      "altNames": [],
+      "cfHandle": "int_jim",
+      "cfRating": 2266,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

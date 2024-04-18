@@ -1,0 +1,70 @@
+{
+  "id": 46038,
+  "university": {
+    "fullName": "Indian Institute of Technology - Varanasi",
+    "shortName": "IITBHU",
+    "region": "Asia West",
+    "hashTag": "#BanarasHinduUniversity",
+    "url": "https://www.iitbhu.ac.in",
+    "appYears": [
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "rng(weed)",
+    "regionals": [
+      "Asia West, 10th"
+    ]
+  },
+  "coach": {
+    "name": "Hari Prabhat Gupta",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Kushagra Goel",
+      "altNames": [
+        "Anshu Garg"
+      ],
+      "cfHandle": "CoderAnshu",
+      "cfRating": 2504,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Vaibhav Khater",
+      "altNames": [],
+      "cfHandle": "kingmessi",
+      "cfRating": 1934,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Piyush Pransukhka",
+      "altNames": [],
+      "cfHandle": "demoralizer",
+      "cfRating": 2352,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

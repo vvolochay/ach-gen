@@ -1,0 +1,75 @@
+{
+  "id": 46057,
+  "university": {
+    "fullName": "Nanjing University",
+    "shortName": "NJU",
+    "region": "Asia East",
+    "hashTag": "#NJU",
+    "url": "http://www.nju.edu.cn/",
+    "appYears": [
+      2009,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2020
+    ],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Unreal Eventide",
+    "regionals": [
+      "Asia East, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Jun Ma",
+    "altNames": [],
+    "cfHandle": "yefllower",
+    "cfRating": 2260,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2019)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Bronze Medalist (2015)",
+        "priority": 102
+      },
+      {
+        "achievement": "CodeChef SnackDown Finalist (2015)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tianxing Ding",
+      "altNames": [],
+      "cfHandle": "-skyline-",
+      "cfRating": 2683,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Fengning Ou",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Qicheng Shan",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

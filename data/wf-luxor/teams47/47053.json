@@ -1,0 +1,85 @@
+{
+  "id": 47053,
+  "university": {
+    "fullName": "KAIST",
+    "shortName": "KAIST",
+    "region": "Asia Pacific",
+    "hashTag": "#KAIST",
+    "url": "http://www.kaist.ac.kr",
+    "appYears": [
+      1996,
+      1997,
+      1999,
+      2001,
+      2003,
+      2004,
+      2006,
+      2007,
+      2009,
+      2010,
+      2011,
+      2013,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      1997,
+      2001,
+      2017
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "BabyPenguin",
+    "regionals": [
+      "Seoul, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Sukyoung Ryu",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jongyoung Lee",
+      "altNames": [],
+      "cfHandle": "mo_onrabbit2",
+      "cfRating": 2610,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Eunsoo Choe",
+      "altNames": [],
+      "cfHandle": "Worteltje",
+      "cfRating": 2619,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jimin Ahn",
+      "altNames": [],
+      "cfHandle": "Retro3014",
+      "cfRating": 2655,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

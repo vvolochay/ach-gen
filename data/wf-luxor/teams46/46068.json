@@ -1,0 +1,58 @@
+{
+  "id": 46068,
+  "university": {
+    "fullName": "Northwestern Polytechnical University",
+    "shortName": "NWPU",
+    "region": "Asia East",
+    "hashTag": "#NWPU",
+    "url": "http://www.nwpu.edu.cn",
+    "appYears": [
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Al+Cu=Au+Cl↑",
+    "regionals": [
+      "Asia East, 32nd"
+    ]
+  },
+  "coach": {
+    "name": "Junrui Liu",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Jiutao Chi",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Haoyang Xu",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tianshu Li",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

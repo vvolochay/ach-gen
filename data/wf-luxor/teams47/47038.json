@@ -1,0 +1,63 @@
+{
+  "id": 47038,
+  "university": {
+    "fullName": "Hunan University",
+    "shortName": "Hunan University",
+    "region": "Asia East",
+    "hashTag": "#HunanU",
+    "url": "http://www.hnu.edu.cn",
+    "appYears": [
+      2014
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Gold legend",
+    "regionals": [
+      "Asia East, 110th"
+    ]
+  },
+  "coach": {
+    "name": "Hao Wu",
+    "altNames": [],
+    "cfHandle": "qwdqkh1",
+    "cfRating": 1583,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2015, 2016)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jie Su",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zeming Fan",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Shukang Liao",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

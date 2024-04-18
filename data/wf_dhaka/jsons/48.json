@@ -40,7 +40,7 @@
     "twitterHandle": null,
     "achievements": [
       {
-        "achievement": "World Finals coach (2009, 2015-2016, 2019)",
+        "achievement": "WF coach (2009, 2015-2016, 2019)",
         "priority": 1000
       }
     ]
@@ -58,7 +58,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2019)",
+          "achievement": "ICPC WF Finalist (2019)",
           "priority": 100
         }
       ]
@@ -75,7 +75,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2019)",
+          "achievement": "ICPC WF Finalist (2019)",
           "priority": 100
         },
         {

@@ -1,0 +1,50 @@
+{
+  "id": 47050,
+  "university": {
+    "fullName": "Jadavpur University, Kolkata",
+    "shortName": "JU",
+    "region": "Asia West",
+    "hashTag": "#JU",
+    "url": null
+  },
+  "team": {
+    "name": "BForBruteForce",
+    "regionals": [
+      "Asia West, 9th"
+    ]
+  },
+  "coach": {
+    "name": "Sarbani Roy",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Anubhab Das",
+      "altNames": [],
+      "cfHandle": "DrearyJoke",
+      "cfRating": 1956,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Arka Choudhuri",
+      "altNames": [],
+      "cfHandle": "beedle",
+      "cfRating": 1884,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Deepamoy Pal",
+      "altNames": [],
+      "cfHandle": "Yomapeed",
+      "cfRating": 1876,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

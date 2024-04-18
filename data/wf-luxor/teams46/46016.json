@@ -1,0 +1,86 @@
+{
+  "id": 46016,
+  "university": {
+    "fullName": "Cairo University - Faculty of Computers and Artificial Intelligence",
+    "shortName": "CU-FCAI",
+    "region": "Africa and Arabia",
+    "hashTag": "#Cairo-FCI",
+    "url": "https://fcai.cu.edu.eg/",
+    "appYears": [
+      2002,
+      2004,
+      2006,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2016
+    ]
+  },
+  "team": {
+    "name": "GG Well Played",
+    "regionals": [
+      "Africa & Arab, 14th"
+    ]
+  },
+  "coach": {
+    "name": "Mohammed Abdon",
+    "altNames": [
+      "Mohammed Saeed"
+    ],
+    "cfHandle": "compiler_101",
+    "cfRating": 2145,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2019, 2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Waleed Abdelhakim",
+      "altNames": [],
+      "cfHandle": "Wolf.",
+      "cfRating": 1625,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mahmoud Rashad",
+      "altNames": [],
+      "cfHandle": "Luka",
+      "cfRating": 1710,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Youssef Saeed",
+      "altNames": [],
+      "cfHandle": "Error_404",
+      "cfRating": 1919,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

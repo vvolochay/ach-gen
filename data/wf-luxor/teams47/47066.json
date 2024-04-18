@@ -1,0 +1,63 @@
+{
+  "id": 47066,
+  "university": {
+    "fullName": "National Tsing Hua University",
+    "shortName": "NTHU",
+    "region": "Asia Pacific",
+    "hashTag": "#NTHU",
+    "url": "http://www.nthu.edu.tw",
+    "appYears": [
+      1994,
+      1995,
+      1996,
+      1999,
+      2000,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "KiminoShiranaiMonogatari",
+    "regionals": [
+      "Taoyuan, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Che-Rung Lee",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "YA-YUN Huang",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "HSIN-WEI Lee",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "HUNG-CHE Hsu",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

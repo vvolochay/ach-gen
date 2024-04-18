@@ -1,0 +1,60 @@
+{
+  "id": 47030,
+  "university": {
+    "fullName": "Facultad de Ciencias-Universidad Nacional Autónoma de México",
+    "shortName": "FC-UNAM",
+    "region": "Latin America",
+    "hashTag": "#UNAM",
+    "url": "http://www.fciencias.unam.mx",
+    "appYears": [
+      2017,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Cagua++",
+    "regionals": [
+      "Mexico, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Roberto Andrés Ledesma Granados",
+    "altNames": [],
+    "cfHandle": "Ledesma",
+    "cfRating": 1514,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Alberto Isaac Estrella Madrigal",
+      "altNames": [],
+      "cfHandle": "Zawos",
+      "cfRating": 1481,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Alejandro Briceño Espinoza",
+      "altNames": [],
+      "cfHandle": "alexbrii",
+      "cfRating": 1497,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Laura Itzel Rodríguez Dimayuga",
+      "altNames": [],
+      "cfHandle": "laudima",
+      "cfRating": 981,
+      "twitterHandle": "laudimaaa",
+      "achievements": []
+    }
+  ]
+}

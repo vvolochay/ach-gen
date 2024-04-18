@@ -1,0 +1,65 @@
+{
+  "id": 47019,
+  "university": {
+    "fullName": "Carleton College",
+    "shortName": "Carleton",
+    "region": "North America",
+    "hashTag": "#carletoncollege ",
+    "url": "http://www.carleton.edu/",
+    "appYears": [
+      1996,
+      1997,
+      2015
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Chinela++",
+    "regionals": [
+      "North America, 21st"
+    ]
+  },
+  "coach": {
+    "name": "David Musicant",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2015)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Batmend Batsaikhan",
+      "altNames": [],
+      "cfHandle": "batmend_kh",
+      "cfRating": 1904,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Luca Araujo",
+      "altNames": [],
+      "cfHandle": "Luca",
+      "cfRating": 2268,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zimri Leisher",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

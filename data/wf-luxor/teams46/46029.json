@@ -1,0 +1,60 @@
+{
+  "id": 46029,
+  "university": {
+    "fullName": "Hanoi University of Science and Technology",
+    "shortName": "HUST",
+    "region": "Asia Pacific",
+    "hashTag": "#HUST",
+    "url": "https://hust.edu.vn",
+    "appYears": [
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Vaccinated",
+    "regionals": [
+      "Hanoi, 9th"
+    ]
+  },
+  "coach": {
+    "name": "Thuan Do Phan",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Dinh Dac Do",
+      "altNames": [],
+      "cfHandle": "LastDance",
+      "cfRating": 2354,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Le Hiep Tran",
+      "altNames": [],
+      "cfHandle": "TranLeHiep",
+      "cfRating": 2191,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Viet Dung Nguyen",
+      "altNames": [],
+      "cfHandle": "toilanvd_HUST",
+      "cfRating": 1925,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

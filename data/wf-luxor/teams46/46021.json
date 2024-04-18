@@ -1,0 +1,70 @@
+{
+  "id": 46021,
+  "university": {
+    "fullName": "Ecole Polytechnique",
+    "shortName": "EP",
+    "region": "Europe",
+    "hashTag": "#Polytechnique",
+    "url": "http://www.polytechnique.fr/",
+    "appYears": [
+      2002,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "EP Oranje",
+    "regionals": [
+      "Southwestern Europe, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Hang Zhou",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Matthias Hasler",
+      "altNames": [],
+      "cfHandle": "m4h",
+      "cfRating": 2204,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Killian Dengreville",
+      "altNames": [],
+      "cfHandle": "Kengreville",
+      "cfRating": 2169,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "François Sellier",
+      "altNames": [],
+      "cfHandle": "glpstkf",
+      "cfRating": 2179,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}
