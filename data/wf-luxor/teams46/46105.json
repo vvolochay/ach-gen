@@ -1,0 +1,84 @@
+{
+  "id": 46105,
+  "university": {
+    "fullName": "Universidade Federal de Pernambuco",
+    "shortName": "UFPE",
+    "region": "Latin America",
+    "hashTag": "#UFPernambuco",
+    "url": "http://cin.ufpe.br",
+    "appYears": [
+      1999,
+      2002,
+      2003,
+      2004,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2010
+    ]
+  },
+  "team": {
+    "name": "Amigos de Yuki  U・ᴥ・U",
+    "regionals": [
+      "Brazil, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Nivan Ferreira",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Bezaliel Silva",
+      "altNames": [],
+      "cfHandle": "beza",
+      "cfRating": 1644,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ícaro Guerra",
+      "altNames": [],
+      "cfHandle": "ijmg",
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Gabriel De Azevedo Pessoa",
+      "altNames": [],
+      "cfHandle": "Gapzinho",
+      "cfRating": 2382,
+      "twitterHandle": "Gapzinho",
+      "achievements": []
+    }
+  ]
+}

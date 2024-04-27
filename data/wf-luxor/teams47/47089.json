@@ -1,0 +1,62 @@
+{
+  "id": 47089,
+  "university": {
+    "fullName": "Syrian Virtual University",
+    "shortName": "SVU",
+    "region": "Africa and Arabia",
+    "hashTag": "#SVU",
+    "url": "http://www.svuonline.org",
+    "appYears": [
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2019
+    ]
+  },
+  "team": {
+    "name": "AHA",
+    "regionals": [
+      "Africa & Arab, 14th"
+    ]
+  },
+  "coach": {
+    "name": "Ehsan Refaee",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ahmad Alghadban",
+      "altNames": [],
+      "cfHandle": "ahmad_alghadban",
+      "cfRating": 1847,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ammar Haj Ahmad Dabaan",
+      "altNames": [],
+      "cfHandle": "AmmarDab3an",
+      "cfRating": 1752,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Hassan Alhaj Ali",
+      "altNames": [],
+      "cfHandle": "Hassan111",
+      "cfRating": 1654,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

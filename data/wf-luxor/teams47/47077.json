@@ -1,0 +1,94 @@
+{
+  "id": 47077,
+  "university": {
+    "fullName": "Saratov State University",
+    "shortName": "Saratov State U",
+    "region": "Northern Eurasia",
+    "hashTag": "#SGU",
+    "url": "http://sgu.ru",
+    "appYears": [
+      2002,
+      2003,
+      2005,
+      2006,
+      2007,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [
+      2006
+    ],
+    "goldYears": [
+      2006,
+      2009
+    ],
+    "silverYears": [
+      2002,
+      2003,
+      2007,
+      2010,
+      2011
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2002,
+      2006
+    ]
+  },
+  "team": {
+    "name": "Saratov SU K",
+    "regionals": [
+      "Northern Eurasia, 31st"
+    ]
+  },
+  "coach": {
+    "name": "Ivan Androsov",
+    "altNames": [],
+    "cfHandle": "BledDest",
+    "cfRating": 2643,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2018, 2019)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ilia Lankin",
+      "altNames": [],
+      "cfHandle": "Lankin",
+      "cfRating": 1772,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aleksei Shnirelman",
+      "altNames": [],
+      "cfHandle": "shnirelman",
+      "cfRating": 2434,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Roman Brovko",
+      "altNames": [],
+      "cfHandle": "Brovko",
+      "cfRating": 2612,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

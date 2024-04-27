@@ -1,0 +1,133 @@
+{
+  "id": 47095,
+  "university": {
+    "fullName": "Universidad de Buenos Aires - FCEN",
+    "shortName": "UBA - FCEN",
+    "region": "Latin America",
+    "hashTag": "#UBuenosAires",
+    "url": "http://exactas.uba.ar",
+    "appYears": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2009,
+      2011,
+      2015,
+      2020
+    ]
+  },
+  "team": {
+    "name": "una ma y no inchamo ma",
+    "regionals": [
+      "South America-South, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Agustin Santiago Gutierrez",
+    "altNames": [
+      "Agustín Santiago Gutiérrez",
+      "Agustin Gutierrez"
+    ],
+    "cfHandle": "elsantodel90",
+    "cfRating": 2423,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2013-2017, 2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Finalist (2009, 2011)",
+        "priority": 100
+      },
+      {
+        "achievement": "GCJ Finalist (2010)",
+        "priority": 90
+      },
+      {
+        "achievement": "IOI Silver Medalist (2007)",
+        "priority": 63
+      },
+      {
+        "achievement": "IOI Finalist (2006)",
+        "priority": 60
+      },
+      {
+        "achievement": "Codeflows Finalist (2021)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ivo Pajor",
+      "altNames": [],
+      "cfHandle": "Heibor",
+      "cfRating": 2088,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Carlos Miguel Soto",
+      "altNames": [],
+      "cfHandle": "reedef",
+      "cfRating": 2495,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Gold Medalist (2018)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Lautaro Lasorsa",
+      "altNames": [],
+      "cfHandle": "CodigoL",
+      "cfRating": 2147,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2017, 2019)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

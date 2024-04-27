@@ -1,0 +1,69 @@
+{
+  "id": 47024,
+  "university": {
+    "fullName": "Damascus University",
+    "shortName": "Damascus U",
+    "region": "Africa and Arabia",
+    "hashTag": "#DamasUniv",
+    "url": "http://www.damascusuniversity.edu.sy",
+    "appYears": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Win Win Situation",
+    "regionals": [
+      "Africa & Arab, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Opada Kartomeh",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Esmael Sufe",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zaher SaadEddin",
+      "altNames": [],
+      "cfHandle": "Zaher",
+      "cfRating": 2111,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020, 2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ahmad Anabtawi",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

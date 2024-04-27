@@ -1,0 +1,90 @@
+{
+  "id": 46023,
+  "university": {
+    "fullName": "ETH Zürich",
+    "shortName": "ETH Zürich",
+    "region": "Europe",
+    "hashTag": "#ETH",
+    "url": "http://www.ethz.ch",
+    "appYears": [
+      2011,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2021
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2021
+    ]
+  },
+  "team": {
+    "name": "mETHodical",
+    "regionals": [
+      "Southwestern Europe, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Bernhard Linn Hilmarsson",
+    "altNames": [],
+    "cfHandle": "BenniKartefla",
+    "cfRating": 2181,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "IOI Bronze Medalist (2017)",
+        "priority": 62
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Christopher Burckhardt",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2019)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Paula Vidas",
+      "altNames": [],
+      "cfHandle": "paula",
+      "cfRating": 2169,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 63
+        },
+        {
+          "achievement": "ICPC WF Invitational Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Andrzej Turko",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

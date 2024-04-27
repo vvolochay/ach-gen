@@ -1,0 +1,69 @@
+{
+  "id": 47045,
+  "university": {
+    "fullName": "Indian Institute of Technology - Patna",
+    "shortName": "IIT Patna",
+    "region": "Asia West",
+    "hashTag": "#IITP",
+    "url": "http://www.iitp.ac.in",
+    "appYears": [
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Maanzar",
+    "regionals": [
+      "Asia West, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Jimson Mathew",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Aryaman Amitabh",
+      "altNames": [],
+      "cfHandle": "TimeWarp101",
+      "cfRating": 2042,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Anay Karnik",
+      "altNames": [],
+      "cfHandle": "AwakeAnay",
+      "cfRating": 2356,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2019)",
+          "priority": 60
+        },
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Saurabh Shah",
+      "altNames": [],
+      "cfHandle": "100gods",
+      "cfRating": 1911,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

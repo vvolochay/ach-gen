@@ -1,0 +1,77 @@
+{
+  "id": 46005,
+  "university": {
+    "fullName": "American University of Beirut",
+    "shortName": "AU Beirut",
+    "region": "Africa and Arabia",
+    "hashTag": "#AUBeirut",
+    "url": "http://www.aub.edu.lb",
+    "appYears": [
+      2010,
+      2014,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Penalteam",
+    "regionals": [
+      "Africa & Arab, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Nagi Nahas",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2010, 2014, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Karim Hamadeh",
+      "altNames": [],
+      "cfHandle": "ChaosAngel",
+      "cfRating": 1832,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jihad Hanna",
+      "altNames": [],
+      "cfHandle": "0-jij-0",
+      "cfRating": 1874,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Charbel Chucri",
+      "altNames": [],
+      "cfHandle": "Charbel",
+      "cfRating": 2092,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

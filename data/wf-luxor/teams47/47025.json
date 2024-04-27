@@ -1,0 +1,65 @@
+{
+  "id": 47025,
+  "university": {
+    "fullName": "Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar",
+    "shortName": "DA-IICT",
+    "region": "Asia West",
+    "hashTag": "#DAIICT",
+    "url": "http://www.daiict.ac.in",
+    "appYears": [
+      2017,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Silent 3lers",
+    "regionals": [
+      "Asia West, 13th"
+    ]
+  },
+  "coach": {
+    "name": "Rahul Muthu",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2017, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Bhavya Rajdev",
+      "altNames": [],
+      "cfHandle": "bhavya_rajdev",
+      "cfRating": 1797,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Harshvardhan Sharma",
+      "altNames": [],
+      "cfHandle": "Zeus_459",
+      "cfRating": 1773,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Preet Sheth",
+      "altNames": [],
+      "cfHandle": "preet_25",
+      "cfRating": 2182,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

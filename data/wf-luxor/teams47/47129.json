@@ -1,0 +1,63 @@
+{
+  "id": 47129,
+  "university": {
+    "fullName": "University of Science, VNU-HCM",
+    "shortName": "VNUHCM-US",
+    "region": "Asia Pacific",
+    "hashTag": "#VNU-HCM",
+    "url": "http://www.hcmus.edu.vn",
+    "appYears": [
+      2010,
+      2011,
+      2014,
+      2016,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "HCMUS-BurnedTomatoes",
+    "regionals": [
+      "Ho Chi Minh, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Thanh Hung Nguyen",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Phat Ho Ngoc Vinh",
+      "altNames": [],
+      "cfHandle": "vinfat",
+      "cfRating": 2333,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Bao-Hiep Le",
+      "altNames": [],
+      "cfHandle": "hieplpvip",
+      "cfRating": 2301,
+      "twitterHandle": "hieplpvip",
+      "achievements": []
+    },
+    {
+      "name": "Huy Nguyen Vu Dang",
+      "altNames": [],
+      "cfHandle": "Yurushia",
+      "cfRating": 2405,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

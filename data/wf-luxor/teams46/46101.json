@@ -1,0 +1,68 @@
+{
+  "id": 46101,
+  "university": {
+    "fullName": "Universidad Tecnológica Nacional - Facultad Regional Santa Fe",
+    "shortName": "UTN Argentina - Santa Fe",
+    "region": "Latin America",
+    "hashTag": "#UTNSantaFe",
+    "url": "http://www.frsf.utn.edu.ar",
+    "appYears": [
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "anarap+1",
+    "regionals": [
+      "South America-South, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Matias Ramos",
+    "altNames": [],
+    "cfHandle": "matramos",
+    "cfRating": 1101,
+    "twitterHandle": "somartam",
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2019)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Federico Nahuel Quijada",
+      "altNames": [],
+      "cfHandle": "FedeNQ",
+      "cfRating": 1945,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Luis Santiago Ré",
+      "altNames": [],
+      "cfHandle": "lsantire",
+      "cfRating": 2134,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2019)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Juan Pablo Cabaña",
+      "altNames": [],
+      "cfHandle": "JPrime",
+      "cfRating": 1436,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 46098,
+  "university": {
+    "fullName": "Universidad Nacional de Colombia - Bogotá",
+    "shortName": "UNAL Bogotá",
+    "region": "Latin America",
+    "hashTag": "#ComunidadUN",
+    "url": "http://www.unal.edu.co",
+    "appYears": [
+      2006,
+      2009,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "doscomUNAL",
+    "regionals": [
+      "South America-North, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Osman David Jiménez Gutiérrez",
+    "altNames": [],
+    "cfHandle": "-osdajigu-",
+    "cfRating": 2005,
+    "twitterHandle": "osdajigu",
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2019, 2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Oscar Fabian Sierra Daza",
+      "altNames": [],
+      "cfHandle": "mcqueencin",
+      "cfRating": 2405,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jonathan Carrillo",
+      "altNames": [],
+      "cfHandle": "JhonnyZaz",
+      "cfRating": 2143,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Roger David Trujillo Ibáñez",
+      "altNames": [
+        "Roger Trujillo"
+      ],
+      "cfHandle": "ahoraSoyPeor",
+      "cfRating": 2188,
+      "twitterHandle": "@RogerTr22400480",
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2015, x3)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

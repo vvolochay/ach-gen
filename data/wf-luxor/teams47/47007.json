@@ -1,0 +1,59 @@
+{
+  "id": 47007,
+  "university": {
+    "fullName": "Astana IT University",
+    "shortName": "AITU",
+    "region": "Northern Eurasia",
+    "hashTag": "#AstanaItUniversity",
+    "url": "https://astanait.edu.kz/en"
+  },
+  "team": {
+    "name": "AITU 1",
+    "regionals": [
+      "Northern Eurasia, 23rd"
+    ]
+  },
+  "coach": {
+    "name": "Temirlan Satylkhanov",
+    "altNames": [],
+    "cfHandle": "Tima",
+    "cfRating": 2169,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2019)",
+        "priority": 100
+      },
+      {
+        "achievement": "VK Cup Finalist (2017)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Alikhan Aliaidar",
+      "altNames": [],
+      "cfHandle": "alixan",
+      "cfRating": 1428,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Adilkhan Muratov",
+      "altNames": [],
+      "cfHandle": "paradox",
+      "cfRating": 2193,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Narkhan Kamzabek",
+      "altNames": [],
+      "cfHandle": "nkamzabek",
+      "cfRating": 1843,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

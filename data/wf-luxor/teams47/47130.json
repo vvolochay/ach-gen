@@ -1,0 +1,76 @@
+{
+  "id": 47130,
+  "university": {
+    "fullName": "University of Toronto",
+    "shortName": "U of Toronto",
+    "region": "North America",
+    "hashTag": "#UofT",
+    "url": "http://www.toronto.edu",
+    "appYears": [
+      1996,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2006,
+      2007,
+      2012,
+      2013,
+      2014,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2001
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "UofT Blue",
+    "regionals": [
+      "North America, 10th"
+    ]
+  },
+  "coach": {
+    "name": "Aditya Bandekar",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Matthew Agar",
+      "altNames": [],
+      "cfHandle": "mattagar6",
+      "cfRating": 2151,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Anthony Fetelya",
+      "altNames": [],
+      "cfHandle": "bonopo",
+      "cfRating": 2122,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zhenyuan Xiang",
+      "altNames": [],
+      "cfHandle": "TriNitroTofu",
+      "cfRating": 679,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

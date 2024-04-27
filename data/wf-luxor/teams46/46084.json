@@ -1,0 +1,61 @@
+{
+  "id": 46084,
+  "university": {
+    "fullName": "The British University in Egypt",
+    "shortName": "BUE",
+    "region": "Africa and Arabia",
+    "hashTag": "#BUE",
+    "url": "http://www.bue.edu.eg",
+    "appYears": [
+      2010,
+      2016
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2010
+    ]
+  },
+  "team": {
+    "name": "Falling Recursively",
+    "regionals": [
+      "Africa & Arab, 81st"
+    ]
+  },
+  "coach": {
+    "name": "Omar Kamal",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Khaled Ahmed",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmed Tammaa",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Amro Sherif",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

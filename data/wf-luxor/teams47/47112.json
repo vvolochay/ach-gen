@@ -1,0 +1,63 @@
+{
+  "id": 47112,
+  "university": {
+    "fullName": "University of Bergen",
+    "shortName": "UiB",
+    "region": "Europe",
+    "hashTag": "ShandongU",
+    "url": "http://www.uib.no",
+    "appYears": [
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Algos but Greek chars",
+    "regionals": [
+      "Northwestern Europe, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Torstein Strømme",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "tjstromme",
+    "achievements": [
+      {
+        "achievement": "WF coach (2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Andreas Alberg",
+      "altNames": [],
+      "cfHandle": "lebarelue",
+      "cfRating": 2035,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Magnus Hegdahl",
+      "altNames": [],
+      "cfHandle": "magnus.hegdahl",
+      "cfRating": 2282,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Marius Binner",
+      "altNames": [],
+      "cfHandle": "AkihikOoOo",
+      "cfRating": 1230,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

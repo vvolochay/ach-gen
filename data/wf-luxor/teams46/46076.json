@@ -1,0 +1,50 @@
+{
+  "id": 46076,
+  "university": {
+    "fullName": "Soongsil University",
+    "shortName": "Soongsil U",
+    "region": "Asia Pacific",
+    "hashTag": "#Soongsil",
+    "url": "http://www.ssu.ac.kr"
+  },
+  "team": {
+    "name": "LongestPathToWF",
+    "regionals": [
+      "Seoul, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Sangjun Lee",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Seongseo Lee",
+      "altNames": [],
+      "cfHandle": "edenooo",
+      "cfRating": 2298,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "YongHyun An",
+      "altNames": [],
+      "cfHandle": "Savior-of-Cross",
+      "cfRating": 2517,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Joowon Oh",
+      "altNames": [],
+      "cfHandle": "JooDdae",
+      "cfRating": 2309,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

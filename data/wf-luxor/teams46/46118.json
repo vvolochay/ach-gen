@@ -1,0 +1,68 @@
+{
+  "id": 46118,
+  "university": {
+    "fullName": "University of Science, VNU-HCM",
+    "shortName": "VNUHCM-US",
+    "region": "Asia Pacific",
+    "hashTag": "#VNU-HCM",
+    "url": "http://www.hcmus.edu.vn",
+    "appYears": [
+      2010,
+      2011,
+      2014,
+      2016,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "HCMUS-HenoWorld",
+    "regionals": [
+      "Ho Chi Min, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Minh Triet Tran",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "minhtriet_tran",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Tung Hoang Vu",
+      "altNames": [],
+      "cfHandle": "VHTung",
+      "cfRating": 2150,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Minh-Hoang Le",
+      "altNames": [],
+      "cfHandle": "Monarchuwu",
+      "cfRating": 2156,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nghia Huu Le",
+      "altNames": [],
+      "cfHandle": "SaoST",
+      "cfRating": 2354,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2022)",
+          "priority": 63
+        }
+      ]
+    }
+  ]
+}

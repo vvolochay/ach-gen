@@ -1,0 +1,64 @@
+{
+  "id": 47104,
+  "university": {
+    "fullName": "Universidade de Brasília",
+    "shortName": "UnB",
+    "region": "Latin America",
+    "hashTag": "#UnB",
+    "url": "http://www.cic.unb.br",
+    "appYears": [
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "FLAMENGO",
+    "regionals": [
+      "Brazil, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Guilherme Ramos",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Eduardo Quirino De Oliveira",
+      "altNames": [],
+      "cfHandle": "cebolinha",
+      "cfRating": 1868,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Enzo Niho",
+      "altNames": [],
+      "cfHandle": "EYZ",
+      "cfRating": 1430,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Wilson Guimarães",
+      "altNames": [],
+      "cfHandle": "Vilsu",
+      "cfRating": 1503,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

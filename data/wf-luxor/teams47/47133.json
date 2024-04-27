@@ -1,0 +1,63 @@
+{
+  "id": 47133,
+  "university": {
+    "fullName": "UNSW Sydney",
+    "shortName": "UNSW Sydney",
+    "region": "Asia Pacific",
+    "hashTag": "#UNSW",
+    "url": "http://www.cse.unsw.edu.au",
+    "appYears": [
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Hell Hunt",
+    "regionals": [
+      "South Pacific, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Raveen De Silva",
+    "altNames": [],
+    "cfHandle": "blueandgold11",
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2013, 2014)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tsingying Xu",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Josephus Nifahowuo Ziraluo",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tao He",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

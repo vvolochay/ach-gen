@@ -1,5 +1,6 @@
 package com.vvolochay
 
+import com.vvolochay.GenUtils.Companion.base64Logo
 import java.io.File
 
 data class TeamData(
@@ -18,7 +19,7 @@ class TeamAchievementsGen : Generator() {
                 .replace("{Contestants}", teamInfo.contestants)
                 .replace("{TeamName}", replaceEscapingSymbols(teamInfo.teamName))
                 .replace("{Logo}",
-                    base64Logo(if (logo.isDirectory) File(logo.path + "/" + teamInfo.id + ".png") else logo))
+                    base64Logo(logo, teamInfo.id.toInt(), File("")))
             File("$outputDir/${teamInfo.id}.svg").writeText(replaced, Charsets.UTF_8)
         }
     }

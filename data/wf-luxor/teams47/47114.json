@@ -1,0 +1,60 @@
+{
+  "id": 47114,
+  "university": {
+    "fullName": "University of California Irvine",
+    "shortName": "UC Irvine",
+    "region": "North America",
+    "hashTag": "#UCIrvine",
+    "url": "http://www.uci.edu",
+    "appYears": [
+      1994,
+      2014,
+      2017
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UCI Map",
+    "regionals": [
+      "North America, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Michael Shindler",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Thomas Neill",
+      "altNames": [],
+      "cfHandle": "t0mmyn",
+      "cfRating": 2061,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Elijah Huang",
+      "altNames": [],
+      "cfHandle": "codicon",
+      "cfRating": 1933,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jerry Li",
+      "altNames": [],
+      "cfHandle": "nanoblob",
+      "cfRating": 1911,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

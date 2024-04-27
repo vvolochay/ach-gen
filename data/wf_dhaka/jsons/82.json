@@ -98,23 +98,23 @@
         "priority": 3000
       },
       {
-        "achievement": "World Finals coach (2012, 2015, 2018-2020)",
+        "achievement": "WF coach (2012, 2015, 2018-2020)",
         "priority": 1000
       },
       {
-        "achievement": "ICPC World Finals World Champion (2000, 2001)",
+        "achievement": "ICPC WF Champion (2000, 2001)",
         "priority": 105
       },
       {
-        "achievement": "TopCoder Open Marathon 1st (2009)",
+        "achievement": "TCO Marathon 1st (2009)",
         "priority": 95
       },
       {
-        "achievement": "TopCoder Open Algorithm Wildcard (2008)",
+        "achievement": "TCO Algorithm Wildcard (2008)",
         "priority": 90
       },
       {
-        "achievement": "Google Code Jam Finalist (2008)",
+        "achievement": "GCJ Finalist (2008)",
         "priority": 90
       },
       {
@@ -180,7 +180,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2018)",
+          "achievement": "ICPC WF Finalist (2018)",
           "priority": 100
         },
         {

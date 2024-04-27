@@ -1,0 +1,81 @@
+{
+  "id": 46128,
+  "university": {
+    "fullName": "Yerevan State University",
+    "shortName": "Yerevan SU",
+    "region": "Northern Eurasia",
+    "hashTag": "#YSU",
+    "url": "http://www.ysu.am",
+    "appYears": [
+      2017,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Yerevan SU 2813",
+    "regionals": [
+      "Northern Eurasia, 10th"
+    ]
+  },
+  "coach": {
+    "name": "Albert Sahakyan",
+    "altNames": [],
+    "cfHandle": "albert96",
+    "cfRating": 2333,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Finalist (2017)",
+        "priority": 100
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2013)",
+        "priority": 62
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Levon Muradyan",
+      "altNames": [],
+      "cfHandle": "_LeMur_",
+      "cfRating": 2131,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2016)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Vahagn Altunyan",
+      "altNames": [],
+      "cfHandle": "altunyanv",
+      "cfRating": 2111,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Arsen Hambardzumyan",
+      "altNames": [],
+      "cfHandle": "zidder",
+      "cfRating": 2312,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

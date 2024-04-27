@@ -1,0 +1,83 @@
+{
+  "id": 46077,
+  "university": {
+    "fullName": "St. Petersburg Campus of Higher School of Economics",
+    "shortName": "SPb HSE",
+    "region": "Northern Eurasia",
+    "hashTag": "#HSESPb",
+    "url": "https://spb.hse.ru/en/",
+    "appYears": [
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Chatik",
+    "regionals": [
+      "Northern Eurasia, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Alisa Sayutina",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Vasily Alferov",
+      "altNames": [],
+      "cfHandle": "platypus179",
+      "cfRating": 2138,
+      "twitterHandle": "LambdaImperator",
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "GHC Finalist (2020)",
+          "priority": 70
+        }
+      ]
+    },
+    {
+      "name": "Konstantin Makhnev",
+      "altNames": [],
+      "cfHandle": "kokokostya",
+      "cfRating": 2534,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "VK Cup Finalist (2018)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Anton Ermilov",
+      "altNames": [],
+      "cfHandle": "Eran",
+      "cfRating": 2201,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2019)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 47047,
+  "university": {
+    "fullName": "Innopolis University",
+    "shortName": "Innopolis",
+    "region": "Northern Eurasia",
+    "hashTag": "#InnopolisU",
+    "url": "http://university.innopolis.ru",
+    "appYears": [
+      2016,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Innopolis U A",
+    "regionals": [
+      "Northern Eurasia, 12th"
+    ]
+  },
+  "coach": {
+    "name": "Ekaterina Protsko",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Muhammadjon Hokimiyon",
+      "altNames": [],
+      "cfHandle": "Mprimus",
+      "cfRating": 2110,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Khaled Ahmed",
+      "altNames": [],
+      "cfHandle": "Laggy",
+      "cfRating": 1499,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Farhod Hakimiyon",
+      "altNames": [],
+      "cfHandle": "Farhod",
+      "cfRating": 2630,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

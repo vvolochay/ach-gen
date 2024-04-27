@@ -47,7 +47,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "achievement": "ICPC WF Invitational Finalist (2020)",
           "priority": 50
         }
       ]
@@ -62,7 +62,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "achievement": "ICPC WF Invitational Finalist (2020)",
           "priority": 50
         }
       ]
@@ -77,11 +77,11 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "Facebook Hacker Cup Finalist (2020)",
+          "achievement": "Hacker Cup Finalist (2020)",
           "priority": 90
         },
         {
-          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "achievement": "ICPC WF Invitational Finalist (2020)",
           "priority": 50
         }
       ]

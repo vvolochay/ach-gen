@@ -1,0 +1,50 @@
+{
+  "id": 46049,
+  "university": {
+    "fullName": "Jordan University of Science and Technology",
+    "shortName": "JUST",
+    "region": "Africa and Arabia",
+    "hashTag": "#justedujo",
+    "url": "https://www.just.edu.jo/"
+  },
+  "team": {
+    "name": "pancake sorting :p",
+    "regionals": [
+      "Africa & Arab, 19th"
+    ]
+  },
+  "coach": {
+    "name": "Malak Abdullah",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ahmad Sulieman",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Iyaad Al-Azzam",
+      "altNames": [],
+      "cfHandle": "Eyd",
+      "cfRating": 1209,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abdulrahman Ajlouni",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

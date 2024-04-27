@@ -1,0 +1,70 @@
+{
+  "id": 47107,
+  "university": {
+    "fullName": "Universidade Federal de Minas Gerais",
+    "shortName": "UFMG",
+    "region": "Latin America",
+    "hashTag": "#UFMG",
+    "url": "http://www.dcc.ufmg.br",
+    "appYears": [
+      2011,
+      2013,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Humuhumunukunukuapua'a",
+    "regionals": [
+      "Brazil, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Pedro Papa Paniago",
+    "altNames": [],
+    "cfHandle": "Paniago",
+    "cfRating": 2033,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Emanuel Silva",
+      "altNames": [],
+      "cfHandle": "Emaneru",
+      "cfRating": 2213,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Bernardo Amorim",
+      "altNames": [],
+      "cfHandle": "bernardo_amorim",
+      "cfRating": 2134,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Bruno Monteiro",
+      "altNames": [],
+      "cfHandle": "brunomont",
+      "cfRating": 2142,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

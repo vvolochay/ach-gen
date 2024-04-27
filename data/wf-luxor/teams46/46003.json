@@ -1,0 +1,73 @@
+{
+  "id": 46003,
+  "university": {
+    "fullName": "Al-Azhar University",
+    "shortName": "Al-Azhar",
+    "region": "Africa and Arabia",
+    "hashTag": "#Al-Azhar",
+    "url": "https://www.facebook.com/AlAzharUniversity/",
+    "appYears": [
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "I'm once again asking for a DP problem",
+    "regionals": [
+      "Africa & Arab, 13th"
+    ]
+  },
+  "coach": {
+    "name": "Muhammad Al-Halaby",
+    "altNames": [],
+    "cfHandle": "MuhammadAl-Halaby",
+    "cfRating": 1698,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2021)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ahmed Magdy",
+      "altNames": [],
+      "cfHandle": "Ahmad-Magdy",
+      "cfRating": 1644,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ahmad Almaghraby",
+      "altNames": [],
+      "cfHandle": "maghrabyJr_",
+      "cfRating": 1783,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ahmad Abdulrahman",
+      "altNames": [],
+      "cfHandle": "AhmadEbtihal",
+      "cfRating": 1778,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

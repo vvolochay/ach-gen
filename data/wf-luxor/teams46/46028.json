@@ -1,0 +1,68 @@
+{
+  "id": 46028,
+  "university": {
+    "fullName": "Hangzhou Dianzi University",
+    "shortName": "Hangzhou Dianzi U",
+    "region": "Asia East",
+    "hashTag": "#HDU",
+    "url": "http://www.hdu.edu.cn",
+    "appYears": [
+      2010,
+      2011,
+      2015,
+      2017,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "HDU-T02",
+    "regionals": [
+      "Asia East, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Chunying Liu",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2010-2011, 2015, 2017-2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "ZhengHe Zhao",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zhiwei Dai",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Wuxiao Yin",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

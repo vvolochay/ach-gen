@@ -1,0 +1,67 @@
+{
+  "id": 47120,
+  "university": {
+    "fullName": "University of Dhaka",
+    "shortName": "DU",
+    "region": "Asia West",
+    "hashTag": "#UnivofDhaka",
+    "url": "http://www.du.ac.bd",
+    "appYears": [
+      2006,
+      2009,
+      2017,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "DU_Kronos",
+    "regionals": [
+      "Asia West, 21st"
+    ]
+  },
+  "coach": {
+    "name": "Md Mahmudur Rahman",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Bholanath Das",
+      "altNames": [],
+      "cfHandle": "boringtofu",
+      "cfRating": 1632,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Sakib Hassan",
+      "altNames": [],
+      "cfHandle": "_skb_",
+      "cfRating": 1982,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yeamin Kaiser",
+      "altNames": [],
+      "cfHandle": "_Kaizer_",
+      "cfRating": 1572,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

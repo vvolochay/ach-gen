@@ -1,0 +1,82 @@
+{
+  "id": 46107,
+  "university": {
+    "fullName": "Universitas Indonesia",
+    "shortName": "UI",
+    "region": "Asia Pacific",
+    "hashTag": "#UnivIndonesia",
+    "url": "http://www.ui.ac.id",
+    "appYears": [
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "stack.py",
+    "regionals": [
+      "Jakarta, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Denny Denny",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "dennycs",
+    "achievements": [
+      {
+        "achievement": "WF coach (2014-2015, 2017, 2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Hocky Yudhiono",
+      "altNames": [],
+      "cfHandle": "hocky",
+      "cfRating": 1948,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Pikatan Arya Bramajati",
+      "altNames": [],
+      "cfHandle": "Pyqe",
+      "cfRating": 2855,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2020, 2021)",
+          "priority": 64
+        }
+      ]
+    },
+    {
+      "name": "Fausta Anugrah Dianparama",
+      "altNames": [
+        "R. Fausta Anugrah Dianparama"
+      ],
+      "cfHandle": "faustaadp",
+      "cfRating": 2394,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 63
+        }
+      ]
+    }
+  ]
+}

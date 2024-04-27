@@ -1,0 +1,76 @@
+{
+  "id": 47051,
+  "university": {
+    "fullName": "Jagiellonian University in Krakow",
+    "shortName": "Jagiellonian",
+    "region": "Europe",
+    "hashTag": "#Jagiellonski",
+    "url": "http://www.uj.edu.pl",
+    "appYears": [
+      2004,
+      2006,
+      2008,
+      2009,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [
+      2006
+    ],
+    "silverYears": [],
+    "bronzeYears": [
+      2011,
+      2013
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Jagiellonian 1",
+    "regionals": [
+      "Central Europe, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Lech Duraj",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "lduraj",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Jacek Salata",
+      "altNames": [],
+      "cfHandle": "jacynkaa",
+      "cfRating": 2730,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Grzegorz Gawryał",
+      "altNames": [],
+      "cfHandle": "YalG",
+      "cfRating": 2483,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Antoni Długosz",
+      "altNames": [],
+      "cfHandle": "Amtek",
+      "cfRating": 2484,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

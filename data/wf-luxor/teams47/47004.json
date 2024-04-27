@@ -1,0 +1,72 @@
+{
+  "id": 47004,
+  "university": {
+    "fullName": "American University of Beirut",
+    "shortName": "AU Beirut",
+    "region": "Africa and Arabia",
+    "hashTag": "#AUBeirut",
+    "url": "http://www.aub.edu.lb",
+    "appYears": [
+      2010,
+      2014,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "AIM",
+    "regionals": [
+      "Africa & Arab, 20th"
+    ]
+  },
+  "coach": {
+    "name": "Nagi Nahas",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2010, 2014, 2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mira Awar",
+      "altNames": [],
+      "cfHandle": "DaMiraCode",
+      "cfRating": 1572,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ibrahim El Hajj",
+      "altNames": [],
+      "cfHandle": "Orora",
+      "cfRating": 1576,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Amine Ghoussaini",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 46102,
+  "university": {
+    "fullName": "Universidade de São Paulo",
+    "shortName": "USP",
+    "region": "Latin America",
+    "hashTag": "#USP",
+    "url": "http://www.usp.br",
+    "appYears": [
+      1999,
+      2001,
+      2002,
+      2007,
+      2008,
+      2014,
+      2015,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2001
+    ],
+    "regYears": [
+      2001,
+      2018
+    ]
+  },
+  "team": {
+    "name": "Hoje tem 'In queue' do Ribamar",
+    "regionals": [
+      "Brazil, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Enrique Junchaya",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Lucas Hiroshi Hanke Harada",
+      "altNames": [],
+      "cfHandle": "lucas3h",
+      "cfRating": 2416,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Thiago Oliveira",
+      "altNames": [],
+      "cfHandle": "thilio",
+      "cfRating": 1987,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Gabriel De Azevedo",
+      "altNames": [],
+      "cfHandle": "morete",
+      "cfRating": 1927,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

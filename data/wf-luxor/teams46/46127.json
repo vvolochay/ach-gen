@@ -1,0 +1,64 @@
+{
+  "id": 46127,
+  "university": {
+    "fullName": "V.N. Karazin Kharkiv National University",
+    "shortName": "Kharkiv NU",
+    "region": "Europe",
+    "hashTag": "#KharkivNU",
+    "url": "http://www.univer.kharkov.ua/en",
+    "appYears": [
+      2013,
+      2014
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "KhNU_OtVinta",
+    "regionals": [
+      "Southeastern Europe, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Zholtkevych Hryhoriy",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Daniil Ostashev",
+      "altNames": [],
+      "cfHandle": "Stroustrup",
+      "cfRating": 2189,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Illya Koval",
+      "altNames": [],
+      "cfHandle": "kilt_01",
+      "cfRating": 2120,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2017)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Artur Kravtsov",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 47124,
+  "university": {
+    "fullName": "University of Maryland",
+    "shortName": "U Maryland",
+    "region": "North America",
+    "hashTag": "#UofMaryland",
+    "url": "http://www.umd.edu",
+    "appYears": [
+      1993,
+      2006,
+      2009,
+      2010,
+      2011,
+      2013,
+      2014,
+      2015,
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UMD RED",
+    "regionals": [
+      "North America, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Mohammad Hajiaghayi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ali Ahmadi",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Colin Galen",
+      "altNames": [],
+      "cfHandle": "galen_colin",
+      "cfRating": 2641,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Cheng-Yuan Lee",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

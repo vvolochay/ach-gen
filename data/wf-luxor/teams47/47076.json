@@ -1,0 +1,83 @@
+{
+  "id": 47076,
+  "university": {
+    "fullName": "Saarland University",
+    "shortName": "UdS",
+    "region": "Europe",
+    "hashTag": "#SAAR",
+    "url": "http://www.uni-sb.de",
+    "appYears": [
+      2014
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "⊛˯⛒",
+    "regionals": [
+      "Northwestern Europe, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Julian Baldus",
+    "altNames": [
+      "Juliane Baldus"
+    ],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2014)",
+        "priority": 100
+      },
+      {
+        "achievement": "GHC Finalist (2019, 2021)",
+        "priority": 70
+      },
+      {
+        "achievement": "IOI Silver Medalist (2013)",
+        "priority": 63
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Egor Gorbachev",
+      "altNames": [],
+      "cfHandle": "peltorator",
+      "cfRating": 2547,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "VK Cup Qualified (2018, 2021)",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "name": "Marc Strufe",
+      "altNames": [],
+      "cfHandle": "Tc14",
+      "cfRating": 2127,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2020, 2021)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Baumann",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

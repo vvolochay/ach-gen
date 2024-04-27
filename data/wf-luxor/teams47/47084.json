@@ -1,0 +1,50 @@
+{
+  "id": 47084,
+  "university": {
+    "fullName": "Southern University of Science and Technology",
+    "shortName": "SUSTech",
+    "region": "Asia East",
+    "hashTag": "#Soongsil",
+    "url": "https://www.sustech.edu.cn/en/"
+  },
+  "team": {
+    "name": "SUSTech-Vichy",
+    "regionals": [
+      "Asia East, 51st"
+    ]
+  },
+  "coach": {
+    "name": "Bo Tang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Luyao Chen",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zhaoyang Hong",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Haoyu Li",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 47093,
+  "university": {
+    "fullName": "Tokyo Institute of Technology",
+    "shortName": "Tokyo Tech",
+    "region": "Asia Pacific",
+    "hashTag": "#Titech",
+    "url": "http://www.titech.ac.jp",
+    "appYears": [
+      2003,
+      2004,
+      2013,
+      2014,
+      2017,
+      2018,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "tonosama",
+    "regionals": [
+      "Yokohama, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Yoshiki Nakamura",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yasunori Kinoshita",
+      "altNames": [
+        "noshi91"
+      ],
+      "cfHandle": "noshi91",
+      "cfRating": 2703,
+      "twitterHandle": "noshi91",
+      "achievements": []
+    },
+    {
+      "name": "Kosuke Kaneshita",
+      "altNames": [
+        "potato167"
+      ],
+      "cfHandle": "potato167",
+      "cfRating": 2938,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "Yandex.Algorithm Finalist (2023)",
+          "priority": 90
+        }
+      ]
+    },
+    {
+      "name": "Tatsuhito Yamagata",
+      "altNames": [],
+      "cfHandle": "tatyam",
+      "cfRating": 2692,
+      "twitterHandle": "tatyam_prime",
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

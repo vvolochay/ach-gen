@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1350" height="205" viewBox="0 0 1350 205" fill="none" version="1.1" id="svg46" xml:space="preserve"
+     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_303_366)" id="g36" transform="translate(0,-765)">
+        <path d="m 0,765 h 1350 v 189.001 c 0,8.836 -7.16,16 -16,16 H 16 c -8.83656,0 -16,-7.164 -16,-16 z"
+              fill="#154326" id="path2"/>
+        <image width="161.6842" height="159.15788" preserveAspectRatio="none" xlink:href="data:image/png;base64,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 " id="image1257" x="32.462746" y="784.02509"/>
+        <text opacity="0.03" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica"
+              font-size="220px" font-weight="bold" letter-spacing="-20px" id="text6"><tspan x="-490.703" y="946.50897" id="tspan4">Faculty of Computer Science, Belgrade</tspan></text>
+        <text fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="32px"
+              font-weight="bold" letter-spacing="0em" id="text19690" x="13.304717" y="758.2099"><tspan x="229.30472" y="823.74896" id="tspan19688">Aleksa Plavsic</tspan></text>
+        <rect x="1245.3047" y="798.7099" width="78" height="28" rx="4" fill="#dd340f" id="rect19698"/>
+ <text fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="16px" font-weight="bold" letter-spacing="0em" id="text19702" x="13.304717" y="758.2099"><tspan x="1253.3047" y="818.22937" id="tspan19700">CF 2171</tspan></text>
+
+        
+
+        <g clip-path="url(#clip0_303_308)" id="g19752" transform="translate(13.304718,758.20987)">
+            <text opacity="0.75" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="18px" letter-spacing="0em" id="text19706"><tspan x="216" y="103.52" id="tspan19704">ICPC World Finals Finalist (2020)</tspan></text>
+            <text opacity="0.75" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="18px" letter-spacing="0em" id="text19710"><tspan x="216" y="133.52" id="tspan19708"></tspan></text>
+            <text opacity="0.75" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="18px" letter-spacing="0em" id="text19714"><tspan x="216" y="163.52" id="tspan19712"></tspan></text>
+            <text opacity="0.75" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="18px" letter-spacing="0em" id="text19718"><tspan x="523" y="103.52" id="tspan19716"></tspan></text>
+            <text opacity="0.75" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="18px" letter-spacing="0em" id="text19722"><tspan x="523" y="133.52" id="tspan19720"></tspan></text>
+            <text opacity="0.75" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="18px" letter-spacing="0em" id="text19726"><tspan x="523" y="163.52" id="tspan19724"></tspan></text>
+            <text opacity="0.75" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="18px" letter-spacing="0em" id="text19730"><tspan x="800" y="103.52" id="tspan19728"></tspan></text>
+            <text opacity="0.75" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="18px" letter-spacing="0em" id="text19734"><tspan x="800" y="133.52" id="tspan19732"></tspan></text>
+            <text opacity="0.75" fill="#ffffff" xml:space="preserve" style="white-space:pre" font-family="Helvetica" font-size="18px" letter-spacing="0em" id="text19738"><tspan x="800" y="163.52" id="tspan19736"></tspan></text>
+        </g>
+    </g>
+    <defs
+            id="defs44"><clipPath
+       id="clip0_303_366"><rect
+         width="1350"
+         height="970"
+         rx="12"
+         fill="#ffffff"
+         id="rect38"
+         x="0"
+         y="0" /></clipPath>
+        <clipPath
+                id="clip0_303_308"><rect
+         width="1094"
+         height="116"
+         fill="#ffffff"
+         transform="translate(216,89)"
+         id="rect19759"
+         x="0"
+         y="0" /></clipPath></defs></svg>

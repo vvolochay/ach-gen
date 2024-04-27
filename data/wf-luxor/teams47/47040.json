@@ -1,0 +1,64 @@
+{
+  "id": 47040,
+  "university": {
+    "fullName": "Indian Institute of Technology - Delhi",
+    "shortName": "IIT Delhi",
+    "region": "Asia West",
+    "hashTag": "#IITDelhi",
+    "url": "http://www.iitd.ernet.in",
+    "appYears": [
+      2001,
+      2011,
+      2012,
+      2015,
+      2016,
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "AuditPass",
+    "regionals": [
+      "Asia West, 28th"
+    ]
+  },
+  "coach": {
+    "name": "Smruti Sarangi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Rishabh Dhiman",
+      "altNames": [],
+      "cfHandle": "islingr",
+      "cfRating": 2114,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Harsh Wardhan",
+      "altNames": [],
+      "cfHandle": "magga",
+      "cfRating": 2371,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tamajit Banerjee",
+      "altNames": [],
+      "cfHandle": "tamajitbuba",
+      "cfRating": 2121,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

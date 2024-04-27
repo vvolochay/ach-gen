@@ -1,0 +1,81 @@
+{
+  "id": 46103,
+  "university": {
+    "fullName": "Universidade de São Paulo - Campus de São Carlos",
+    "shortName": "USP - São Carlos",
+    "region": "Latin America",
+    "hashTag": "#USP-ICMC",
+    "url": "http://www.icmc.usp.br",
+    "appYears": [
+      2013,
+      2014,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "gramando no deitado",
+    "regionals": [
+      "Brazil, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Guilherme Tubone",
+    "altNames": [],
+    "cfHandle": "tubone",
+    "cfRating": 1756,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Andre Fakhoury",
+      "altNames": [],
+      "cfHandle": "fakhoury",
+      "cfRating": 1960,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Frederico Ribeiro",
+      "altNames": [
+        "Frederico Bulhões De Souza Ribeiro"
+      ],
+      "cfHandle": "fredbr",
+      "cfRating": 1953,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Lucas Fernandes Turci",
+      "altNames": [],
+      "cfHandle": "lucasturci",
+      "cfRating": 2161,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

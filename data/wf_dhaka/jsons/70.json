@@ -68,7 +68,7 @@
         "priority": 3000
       },
       {
-        "achievement": "World Finals coach (2013, 2016, 2019)",
+        "achievement": "WF coach (2013, 2016, 2019)",
         "priority": 1000
       }
     ]
@@ -109,7 +109,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "Google Code Jam Finalist (2021)",
+          "achievement": "GCJ Finalist (2021)",
           "priority": 90
         }
       ]

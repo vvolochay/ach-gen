@@ -1,0 +1,102 @@
+{
+  "id": 46122,
+  "university": {
+    "fullName": "University of Wisconsin-Madison",
+    "shortName": "U Wisconsin - Madison",
+    "region": "North America",
+    "hashTag": "#UWMadison",
+    "url": "http://www.wisc.edu",
+    "appYears": [
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Longest SubRoutine",
+    "regionals": [
+      "North America, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Dieter Van Melkebeek",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2003-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Nitit Jongsawatsataporn",
+      "altNames": [],
+      "cfHandle": "LUL____SEPLED1305",
+      "cfRating": 2334,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ziyi Zhang",
+      "altNames": [],
+      "cfHandle": "RobeZH",
+      "cfRating": 2614,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mingrui Liu",
+      "altNames": [],
+      "cfHandle": "Subconscious",
+      "cfRating": 2974,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2018)",
+          "priority": 100
+        },
+        {
+          "achievement": "Hacker Cup Finalist (2021)",
+          "priority": 90
+        }
+      ]
+    }
+  ]
+}

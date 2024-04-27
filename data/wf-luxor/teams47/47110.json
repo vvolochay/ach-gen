@@ -1,0 +1,75 @@
+{
+  "id": 47110,
+  "university": {
+    "fullName": "Universitas Indonesia",
+    "shortName": "UI",
+    "region": "Asia Pacific",
+    "hashTag": "#UnivIndonesia",
+    "url": "http://www.ui.ac.id",
+    "appYears": [
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Bingung weh",
+    "regionals": [
+      "Jakarta, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Denny Denny",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "dennycs",
+    "achievements": [
+      {
+        "achievement": "WF coach (2014-2015, 2017, 2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Steven Novaryo",
+      "altNames": [],
+      "cfHandle": "steven.novaryo",
+      "cfRating": 2186,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmad Haulian Yoga Pratama",
+      "altNames": [],
+      "cfHandle": "yogahmad77",
+      "cfRating": 2462,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020, 2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 83
+        }
+      ]
+    },
+    {
+      "name": "Budiman Arbenta",
+      "altNames": [],
+      "cfHandle": "BudiArb",
+      "cfRating": 1880,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

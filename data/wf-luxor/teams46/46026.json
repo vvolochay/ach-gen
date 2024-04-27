@@ -1,0 +1,81 @@
+{
+  "id": 46026,
+  "university": {
+    "fullName": "German University in Cairo",
+    "shortName": "GUC",
+    "region": "Africa and Arabia",
+    "hashTag": "#GUC",
+    "url": "https://www.guc.edu.eg/",
+    "appYears": [
+      2009,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2009,
+      2012,
+      2017
+    ]
+  },
+  "team": {
+    "name": "Hemose 3al shagara wala 10 fel 2eed",
+    "regionals": [
+      "Africa & Arab, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Nour Elrashidy",
+    "altNames": [],
+    "cfHandle": "NourElRashidy",
+    "cfRating": 1770,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2018-2019)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Finalist (2017)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yahia Sherif",
+      "altNames": [],
+      "cfHandle": "YahiaSherif",
+      "cfRating": 2230,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Adhm Mohamed",
+      "altNames": [],
+      "cfHandle": "ZerooCool",
+      "cfRating": 2151,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ibrahim Dewedar",
+      "altNames": [],
+      "cfHandle": "Hemose",
+      "cfRating": 2118,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

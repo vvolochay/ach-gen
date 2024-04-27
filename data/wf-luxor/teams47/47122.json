@@ -1,0 +1,73 @@
+{
+  "id": 47122,
+  "university": {
+    "fullName": "University of Engineering and Technology - VNU",
+    "shortName": "UET - VNU",
+    "region": "Asia Pacific",
+    "hashTag": "#UETVNU",
+    "url": "http://e.uet.vnu.edu.vn",
+    "appYears": [
+      2007,
+      2009,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2021
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "mongoDB",
+    "regionals": [
+      "Ho Chi Minh, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Ho Dac Phuong",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2015-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Nguyen Nhat Minh",
+      "altNames": [],
+      "cfHandle": "Normie28",
+      "cfRating": 2438,
+      "twitterHandle": "Normie0208",
+      "achievements": []
+    },
+    {
+      "name": "Vu Nguyen Hoang",
+      "altNames": [],
+      "cfHandle": "lanhf",
+      "cfRating": 2204,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Chau Vu",
+      "altNames": [],
+      "cfHandle": "rainbowbunny",
+      "cfRating": 2242,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

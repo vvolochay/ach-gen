@@ -1,0 +1,69 @@
+{
+  "id": 46011,
+  "university": {
+    "fullName": "Beihang University",
+    "shortName": "BUAA",
+    "region": "Asia East",
+    "hashTag": "#BUAA",
+    "url": "http://ev.buaa.edu.cn",
+    "appYears": [
+      2013,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Poor Math",
+    "regionals": [
+      "Asia East, 15th"
+    ]
+  },
+  "coach": {
+    "name": "You Song",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2013, 2015, 2017-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yibang Tang",
+      "altNames": [],
+      "cfHandle": "200815147",
+      "cfRating": 2207,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zhenwei Yang",
+      "altNames": [],
+      "cfHandle": "Serval",
+      "cfRating": 2401,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Liankai Jin",
+      "altNames": [],
+      "cfHandle": "Oshwiciqwqq",
+      "cfRating": 2283,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 46093,
+  "university": {
+    "fullName": "Universidad Autónoma de Nuevo Leon",
+    "shortName": "UANL",
+    "region": "Latin America",
+    "hashTag": "#UANL",
+    "url": "http://www.uanl.mx",
+    "appYears": [
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "TriAda",
+    "regionals": [
+      "Mexico, 4th"
+    ]
+  },
+  "coach": {
+    "name": "María Chávez",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2017-2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Angel Alejandro Aleman Alegre",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Angel Manuel Tapia Avitia",
+      "altNames": [],
+      "cfHandle": "Angeltapia",
+      "cfRating": 1763,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Oscar Alejandro Morales Almaguer",
+      "altNames": [],
+      "cfHandle": "0scarmorales01",
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

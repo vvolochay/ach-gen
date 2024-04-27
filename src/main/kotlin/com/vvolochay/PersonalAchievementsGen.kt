@@ -1,5 +1,6 @@
 package com.vvolochay
 
+import com.vvolochay.GenUtils.Companion.base64Logo
 import java.io.File
 
 data class ContestantData(
@@ -21,7 +22,7 @@ class PersonalAchievementsGen : Generator() {
             val info = parseLines(it)
             var replaced = template.readText(Charsets.UTF_8)
                 .replace("{Name}", info.name)
-                .replace("{Logo}", base64Logo(if (logo.isDirectory) File(logo.path + "/" + info.id + ".png") else logo))
+                .replace("{Logo}", base64Logo(logo, info.id.toInt(), File("")))
 
             replaced = if (result) {
                 replaceVsoshData(replaced, info.points)

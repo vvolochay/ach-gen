@@ -12,6 +12,7 @@ enum class AchType { Person, WF, Team }
 
 fun main(args: Array<String>) {
     val parser = ArgParser("ach-gen")
+    System.setProperty("file.encoding", "UTF8")
 
     val input by parser.option(ArgType.String, shortName = "i", description = "Input with data: file or directory").required()
     val type by parser.option(ArgType.Choice<AchType>(), shortName = "t", description = "Type of achievements").required()
@@ -29,7 +30,7 @@ fun main(args: Array<String>) {
     val gen: Generator = when (type) {
         AchType.Person -> PersonalAchievementsGen()
         AchType.Team -> TeamAchievementsGen()
-        AchType.WF -> FullAchievementsGen()
+        AchType.WF -> WFAchievementsGen()
     }
 
     Path.of(output).createDirectories()

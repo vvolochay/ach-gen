@@ -1,0 +1,50 @@
+{
+  "id": 46042,
+  "university": {
+    "fullName": "Institut Supérieur d'Informatique",
+    "shortName": "ISI",
+    "region": "Africa and Arabia",
+    "hashTag": "#ISI",
+    "url": "http://www.isi.rnu.tn/"
+  },
+  "team": {
+    "name": "eBsilong",
+    "regionals": [
+      "Africa & Arab, 25th"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Aziz Belhaj Amor",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Smiri Med Aziz",
+      "altNames": [],
+      "cfHandle": "SMIrrichto",
+      "cfRating": 2145,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yassine Hajji",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Saif Allah Ben Khelil",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

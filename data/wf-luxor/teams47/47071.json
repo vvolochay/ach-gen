@@ -1,0 +1,72 @@
+{
+  "id": 47071,
+  "university": {
+    "fullName": "New York University",
+    "shortName": "NYU",
+    "region": "North America",
+    "hashTag": "#NYU",
+    "url": "http://www.nyu.edu",
+    "appYears": [
+      2005,
+      2014,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2014
+    ]
+  },
+  "team": {
+    "name": "RTFP",
+    "regionals": [
+      "North America, 18th"
+    ]
+  },
+  "coach": {
+    "name": "Yang Tang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Sparsh Sanchorawala",
+      "altNames": [],
+      "cfHandle": "spar5h",
+      "cfRating": 2214,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "GHC Finalist (2022)",
+          "priority": 70
+        }
+      ]
+    },
+    {
+      "name": "Andrew Polizzotto",
+      "altNames": [],
+      "cfHandle": "anpoli99",
+      "cfRating": 2270,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Invitational Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Peiliang Liu",
+      "altNames": [],
+      "cfHandle": "Liupeiliang",
+      "cfRating": 2175,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

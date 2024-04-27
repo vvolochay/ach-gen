@@ -1,0 +1,94 @@
+{
+  "id": 46007,
+  "university": {
+    "fullName": "Arab Academy for Science,Technology and Maritime Transport - Alexandria",
+    "shortName": "AASTMT-Alex",
+    "region": "Africa and Arabia",
+    "hashTag": "#AAST",
+    "url": "http://www.aast.edu",
+    "appYears": [],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "100% Winrate",
+    "regionals": [
+      "Africa & Arab, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Mahmoud",
+    "altNames": [],
+    "cfHandle": "fegla",
+    "cfRating": 1518,
+    "twitterHandle": "wahabfegla",
+    "achievements": [
+      {
+        "achievement": "WF coach (2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Youssef Salama",
+      "altNames": [
+        "Yousef Ibrahim Salama"
+      ],
+      "cfHandle": "Yousef_Salama",
+      "cfRating": 2593,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2017, 2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2015)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2012, 2013)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Mahmoud Badawy",
+      "altNames": [],
+      "cfHandle": "mahmoudbadawy",
+      "cfRating": 2220,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020, 2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2016)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2018)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Mariam Salah",
+      "altNames": [],
+      "cfHandle": "tamp_",
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": 47073,
+  "university": {
+    "fullName": "Peking University",
+    "shortName": "Peking U",
+    "region": "Asia East",
+    "hashTag": "#PekingU",
+    "url": "http://www.pku.edu.cn",
+    "appYears": [
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [
+      2014,
+      2018,
+      2021
+    ],
+    "silverYears": [
+      2015,
+      2017
+    ],
+    "bronzeYears": [
+      2005
+    ],
+    "regYears": [
+      2014,
+      2018,
+      2021
+    ]
+  },
+  "team": {
+    "name": "Let It Rot",
+    "regionals": [
+      "Asia East, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Qinjian Zhang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Yi Qian",
+      "altNames": [],
+      "cfHandle": "skip2004",
+      "cfRating": 2840,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2021)",
+          "priority": 64
+        }
+      ]
+    },
+    {
+      "name": "Bo Peng",
+      "altNames": [],
+      "cfHandle": "p_b_p_b",
+      "cfRating": 2818,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Shiyuan Feng",
+      "altNames": [],
+      "cfHandle": "Warriors_fsy",
+      "cfRating": 2254,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

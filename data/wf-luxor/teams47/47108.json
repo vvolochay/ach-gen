@@ -1,0 +1,65 @@
+{
+  "id": 47108,
+  "university": {
+    "fullName": "Universidade Federal do Rio de Janeiro",
+    "shortName": "UFRJ",
+    "region": "Latin America",
+    "hashTag": "#UFRJ",
+    "url": "http://www.ufrj.br",
+    "appYears": [
+      2012,
+      2015,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Lebenslangerschicksalsschatz",
+    "regionals": [
+      "Brazil, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Marcia Cerioli",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2015, 2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Gabriel Oliveira De Março",
+      "altNames": [],
+      "cfHandle": "GabrielNexT",
+      "cfRating": 1372,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Letícia Freire Carvalho De Sousa",
+      "altNames": [],
+      "cfHandle": "LeticiaFCS",
+      "cfRating": 1585,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Felipe Chen Wu",
+      "altNames": [],
+      "cfHandle": "fcw",
+      "cfRating": 2167,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 47061,
+  "university": {
+    "fullName": "Nanjing University",
+    "shortName": "NJU",
+    "region": "Asia East",
+    "hashTag": "#NJU",
+    "url": "http://www.nju.edu.cn/",
+    "appYears": [
+      2009,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2020
+    ],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "triple_dogs",
+    "regionals": [
+      "Asia East, 9th"
+    ]
+  },
+  "coach": {
+    "name": "Jun Ma",
+    "altNames": [],
+    "cfHandle": "yefllower",
+    "cfRating": 2260,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2019)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Bronze Medalist (2015)",
+        "priority": 102
+      },
+      {
+        "achievement": "CodeChef SnackDown Finalist (2015)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Hongyang Liu",
+      "altNames": [],
+      "cfHandle": "gisp_zjz",
+      "cfRating": 3078,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2019)",
+          "priority": 100
+        },
+        {
+          "achievement": "GCJ Finalist (2021)",
+          "priority": 90
+        },
+        {
+          "achievement": "ICPC WF Invitational 2nd (2020)",
+          "priority": 34
+        }
+      ]
+    },
+    {
+      "name": "Chunyang Wang",
+      "altNames": [
+        "Roundgod"
+      ],
+      "cfHandle": "Roundgod",
+      "cfRating": 2500,
+      "twitterHandle": "wcysai",
+      "achievements": []
+    },
+    {
+      "name": "Xinyuan Zhang",
+      "altNames": [],
+      "cfHandle": "triple__a",
+      "cfRating": 2624,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

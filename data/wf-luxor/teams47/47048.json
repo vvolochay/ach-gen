@@ -1,0 +1,68 @@
+{
+  "id": 47048,
+  "university": {
+    "fullName": "Instituto Militar de Engenharia",
+    "shortName": "IME",
+    "region": "Latin America",
+    "hashTag": "#IME",
+    "url": "http://www.ime.eb.br",
+    "appYears": [
+      2008,
+      2014,
+      2018,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2014
+    ]
+  },
+  "team": {
+    "name": " 12k Club",
+    "regionals": [
+      "Brazil, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Claudia Justel",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2008, 2014, 2018-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Henrique Navarro",
+      "altNames": [],
+      "cfHandle": "hsnavarro",
+      "cfRating": 1504,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Sérgio Macário",
+      "altNames": [],
+      "cfHandle": "srgioreinier",
+      "cfRating": 1647,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Davi Holanda",
+      "altNames": [],
+      "cfHandle": "Deaga",
+      "cfRating": 2176,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

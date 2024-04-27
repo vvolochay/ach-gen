@@ -1,0 +1,64 @@
+{
+  "id": 46126,
+  "university": {
+    "fullName": "Uzhgorod National University",
+    "shortName": "Uzhgorod NU",
+    "region": "Europe",
+    "hashTag": "#UZNU",
+    "url": "http://www.uzhnu.edu.ua",
+    "appYears": [
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UzhNU_OLDS",
+    "regionals": [
+      "Southeastern Europe, 15th"
+    ]
+  },
+  "coach": {
+    "name": "Oleksandr Mitsa",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2017-2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ivan Fekete",
+      "altNames": [],
+      "cfHandle": "Fekete",
+      "cfRating": 2106,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Illia Kryvoviaz",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yaroslav Bulyna",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

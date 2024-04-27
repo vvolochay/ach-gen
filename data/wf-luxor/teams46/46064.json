@@ -1,0 +1,60 @@
+{
+  "id": 46064,
+  "university": {
+    "fullName": "National University of Science and Technology \"MISiS\"",
+    "shortName": "MISiS",
+    "region": "Northern Eurasia",
+    "hashTag": "#NUSTMISiS",
+    "url": "http://en.misis.ru/‎",
+    "appYears": [
+      2013,
+      2014,
+      2015
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Palm_Hop_Selec",
+    "regionals": [
+      "Northern Eurasia, 29th"
+    ]
+  },
+  "coach": {
+    "name": "Igor Mamai",
+    "altNames": [],
+    "cfHandle": "mibig",
+    "cfRating": 2404,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Mikhail Tagiltsev",
+      "altNames": [],
+      "cfHandle": "Jen94kA_isMy_WAIFU",
+      "cfRating": 1607,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Evgeny Kolodin",
+      "altNames": [],
+      "cfHandle": "qpEDop_MuXauJloBu4",
+      "cfRating": 2470,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Daryush Piskevich",
+      "altNames": [],
+      "cfHandle": "Daryusz",
+      "cfRating": 1866,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

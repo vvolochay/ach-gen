@@ -1,0 +1,69 @@
+{
+  "id": 47009,
+  "university": {
+    "fullName": "Beihang University",
+    "shortName": "BUAA",
+    "region": "Asia East",
+    "hashTag": "#BUAA",
+    "url": "http://ev.buaa.edu.cn",
+    "appYears": [
+      2013,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Dauntless Shield",
+    "regionals": [
+      "Asia East, 21st"
+    ]
+  },
+  "coach": {
+    "name": "You Song",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2013, 2015, 2017-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yifan Zhang",
+      "altNames": [],
+      "cfHandle": "JJLeo",
+      "cfRating": 2320,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jiaxu Min",
+      "altNames": [],
+      "cfHandle": "2sozx",
+      "cfRating": 2359,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Shaoke Cui",
+      "altNames": [],
+      "cfHandle": "Bazoka13",
+      "cfRating": 2183,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

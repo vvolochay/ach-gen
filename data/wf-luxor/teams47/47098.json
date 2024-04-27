@@ -1,0 +1,79 @@
+{
+  "id": 47098,
+  "university": {
+    "fullName": "Universidad de Guanajuato - DCNE",
+    "shortName": "UG-CIMAT",
+    "region": "Latin America",
+    "hashTag": "#SoyUG",
+    "url": "http://www.dcne.ugto.mx",
+    "appYears": [
+      2003,
+      2008,
+      2010,
+      2011,
+      2012,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "OWO",
+    "regionals": [
+      "Mexico, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Carlos Segura González",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "José Angel Alejandro Soto",
+      "altNames": [
+        "José Ángel Alejandro Soto"
+      ],
+      "cfHandle": "JoseSoto",
+      "cfRating": 1965,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Diego Emir García Moreno",
+      "altNames": [],
+      "cfHandle": "DiegoGarcia",
+      "cfRating": 1751,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2019)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Sebastian Sánchez",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

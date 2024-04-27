@@ -56,19 +56,19 @@
         "priority": 5000
       },
       {
-        "achievement": "ICPC World Finals Silver Medalist (2011)",
+        "achievement": "ICPC WF Silver Medalist (2011)",
         "priority": 103
       },
       {
-        "achievement": "ICPC World Finals Finalist (2012)",
+        "achievement": "ICPC WF Finalist (2012)",
         "priority": 100
       },
       {
-        "achievement": "Google Code Jam Finalist (2011)",
+        "achievement": "GCJ Finalist (2011)",
         "priority": 90
       },
       {
-        "achievement": "Facebook Hacker Cup Finalist (2015)",
+        "achievement": "Hacker Cup Finalist (2015)",
         "priority": 90
       },
       {
@@ -76,15 +76,15 @@
         "priority": 30
       },
       {
-        "achievement": "Russian Code Cup Finalist (2011, 2013, 2015)",
+        "achievement": "Russian Code Cup Finalist (x3)",
         "priority": 30
       },
       {
-        "achievement": "CodeChef SnackDown Finalist (2021)",
+        "achievement": "CodeChef SnackDown (2021)",
         "priority": 30
       },
       {
-        "achievement": "Facebook Hacker Cup Qualified* (2013)",
+        "achievement": " Hacker Cup Qualified* (2013)",
         "priority": 1
       }
     ]
@@ -110,7 +110,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals World Champion (2020)",
+          "achievement": "ICPC WF Champion (2020)",
           "priority": 105
         }
       ]

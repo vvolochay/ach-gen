@@ -1,0 +1,80 @@
+{
+  "id": 47111,
+  "university": {
+    "fullName": "University of Belgrade",
+    "shortName": "UBG",
+    "region": "Europe",
+    "hashTag": "#UnivIndonesia",
+    "url": "http://www.bg.ac.yu",
+    "appYears": [
+      1996,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UoB R-Shuf",
+    "regionals": [
+      "Southeastern Europe, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Tamara Šekularac",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Jovan Bengin",
+      "altNames": [],
+      "cfHandle": "JovanB",
+      "cfRating": 2461,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2022)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2019, 2020, 2021)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Igor Pavlović",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vladimir Milenkovic",
+      "altNames": [
+        "Vladimir Milenković"
+      ],
+      "cfHandle": "VladaMG98",
+      "cfRating": 2427,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2017)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

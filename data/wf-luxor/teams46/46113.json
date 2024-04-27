@@ -1,0 +1,85 @@
+{
+  "id": 46113,
+  "university": {
+    "fullName": "University of Engineering and Technology - VNU",
+    "shortName": "UET - VNU",
+    "region": "Asia Pacific",
+    "hashTag": "#UETVNU",
+    "url": "http://e.uet.vnu.edu.vn",
+    "appYears": [
+      2007,
+      2009,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2021
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "PENDLE",
+    "regionals": [
+      "Hanoi, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Ho Dac Phuong",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2015-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Nghia Pham",
+      "altNames": [
+        "Nghia Pham Tuan"
+      ],
+      "cfHandle": "ngfam",
+      "cfRating": 2412,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Invitational Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Duong Dao Quang Thai",
+      "altNames": [],
+      "cfHandle": "Gnoud__",
+      "cfRating": 2428,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nguyen Hai Binh",
+      "altNames": [],
+      "cfHandle": "Negativez2",
+      "cfRating": 2406,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Bronze Medalist (2021)",
+          "priority": 102
+        }
+      ]
+    }
+  ]
+}

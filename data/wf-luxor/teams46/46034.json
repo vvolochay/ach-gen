@@ -1,0 +1,64 @@
+{
+  "id": 46034,
+  "university": {
+    "fullName": "IIIT-Delhi",
+    "shortName": "IIIT-Delhi",
+    "region": "Asia West",
+    "hashTag": "#IIITDelhi",
+    "url": "http://www.iiitd.ac.in",
+    "appYears": [
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "PGP",
+    "regionals": [
+      "Asia West, 14th"
+    ]
+  },
+  "coach": {
+    "name": "Debajyoti Bera",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Gaurav Dawra",
+      "altNames": [],
+      "cfHandle": "Gaurav_Dawra",
+      "cfRating": 1783,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Priyansh Agarwal",
+      "altNames": [],
+      "cfHandle": "Priyansh31dec",
+      "cfRating": 2188,
+      "twitterHandle": "Priyansh_31Dec",
+      "achievements": []
+    },
+    {
+      "name": "Parth Chhabra",
+      "altNames": [],
+      "cfHandle": "parth20",
+      "cfRating": 1999,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

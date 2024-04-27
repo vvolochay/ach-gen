@@ -1,0 +1,80 @@
+{
+  "id": 46111,
+  "university": {
+    "fullName": "University of Dhaka",
+    "shortName": "DU",
+    "region": "Asia West",
+    "hashTag": "#UnivofDhaka",
+    "url": "http://www.du.ac.bd",
+    "appYears": [
+      2006,
+      2009,
+      2017,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "DU_NotStrongEnough",
+    "regionals": [
+      "Asia West, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Md Mahmudur Rahman",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jubayer Rahman",
+      "altNames": [],
+      "cfHandle": "Alpha_Q",
+      "cfRating": 2447,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2017)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2016)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Ayman Rasheed",
+      "altNames": [],
+      "cfHandle": "aymanrasheed7",
+      "cfRating": 2101,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ayon Shahrier",
+      "altNames": [],
+      "cfHandle": "serotonin",
+      "cfRating": 2334,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

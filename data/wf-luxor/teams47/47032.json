@@ -1,0 +1,72 @@
+{
+  "id": 47032,
+  "university": {
+    "fullName": "German University in Cairo",
+    "shortName": "GUC",
+    "region": "Africa and Arabia",
+    "hashTag": "#GUC",
+    "url": "https://www.guc.edu.eg/",
+    "appYears": [
+      2009,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2009,
+      2012,
+      2017
+    ]
+  },
+  "team": {
+    "name": "Persistent Imposters",
+    "regionals": [
+      "Africa & Arab, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Ibrahim Abou Elenein",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Omar Essam",
+      "altNames": [],
+      "cfHandle": "O_E",
+      "cfRating": 1784,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmed Hossam",
+      "altNames": [],
+      "cfHandle": "Ahmed_Hosssam",
+      "cfRating": 1936,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Noureldin Shaker",
+      "altNames": [],
+      "cfHandle": "Pandemic",
+      "cfRating": 2158,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

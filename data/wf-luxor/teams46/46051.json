@@ -1,0 +1,95 @@
+{
+  "id": 46051,
+  "university": {
+    "fullName": "KAIST",
+    "shortName": "KAIST",
+    "region": "Asia Pacific",
+    "hashTag": "#KAIST",
+    "url": "http://www.kaist.ac.kr",
+    "appYears": [
+      1996,
+      1997,
+      1999,
+      2001,
+      2003,
+      2004,
+      2006,
+      2007,
+      2009,
+      2010,
+      2011,
+      2013,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      1997,
+      2001,
+      2017
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "DO Solve",
+    "regionals": [
+      "Seoul, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Sukyoung Ryu",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Onjo Lee",
+      "altNames": [],
+      "cfHandle": "Onjo",
+      "cfRating": 2299,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Sungjae Im",
+      "altNames": [],
+      "cfHandle": "est_stella",
+      "cfRating": 2518,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Serin Kim",
+      "altNames": [],
+      "cfHandle": "CarrotCarrot",
+      "cfRating": 2585,
+      "twitterHandle": "@_dsstar",
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 47016,
+  "university": {
+    "fullName": "BRAC University",
+    "shortName": "BRACU",
+    "region": "Asia West",
+    "hashTag": "BRACUniversity",
+    "url": "https://www.bracu.ac.bd/"
+  },
+  "team": {
+    "name": "BRACU_Crows",
+    "regionals": [
+      "Asia West, 10th"
+    ]
+  },
+  "coach": {
+    "name": "Kabbya Kantam Patwary",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ruhan Habib",
+      "altNames": [],
+      "cfHandle": "ruhan.habib39",
+      "cfRating": 1921,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2016, 2017)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2018)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Md Mazed Hossain",
+      "altNames": [],
+      "cfHandle": "MH_Parag",
+      "cfRating": 1550,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Arman Ferdous",
+      "altNames": [],
+      "cfHandle": "arman_ferdous",
+      "cfRating": 1946,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2019, 2020, 2021)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

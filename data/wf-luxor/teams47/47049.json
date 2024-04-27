@@ -1,0 +1,67 @@
+{
+  "id": 47049,
+  "university": {
+    "fullName": "International IT University",
+    "shortName": "IITU",
+    "region": "Northern Eurasia",
+    "hashTag": "#IITU",
+    "url": "http://www.iitu.kz",
+    "appYears": [
+      2013,
+      2014,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "IITU: Defective Memory",
+    "regionals": [
+      "Northern Eurasia, 33rd"
+    ]
+  },
+  "coach": {
+    "name": "Yeskendir Sultanov",
+    "altNames": [],
+    "cfHandle": "Messi",
+    "cfRating": 1938,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Torezhan Botakanov",
+      "altNames": [],
+      "cfHandle": "toritori",
+      "cfRating": 1830,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abdussattar Srazhov",
+      "altNames": [],
+      "cfHandle": "abdu.srazh",
+      "cfRating": 1783,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mikhail Kapitov",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

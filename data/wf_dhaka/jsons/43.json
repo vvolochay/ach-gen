@@ -38,7 +38,7 @@
     "twitterHandle": null,
     "achievements": [
       {
-        "achievement": "World Finals coach (2013, 2018-2020)",
+        "achievement": "WF coach (2013, 2018-2020)",
         "priority": 1000
       }
     ]
@@ -54,7 +54,7 @@
       "twitterHandle": "PiyushSethia7",
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2020)",
+          "achievement": "ICPC WF Finalist (2020)",
           "priority": 100
         }
       ]
@@ -79,7 +79,7 @@
       "twitterHandle": "rahuldugarrd",
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2020)",
+          "achievement": "ICPC WF Finalist (2020)",
           "priority": 100
         },
         {

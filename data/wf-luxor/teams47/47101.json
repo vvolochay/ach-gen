@@ -1,0 +1,95 @@
+{
+  "id": 47101,
+  "university": {
+    "fullName": "Universidad Nacional de Colombia - Bogotá",
+    "shortName": "UNAL Bogotá",
+    "region": "Latin America",
+    "hashTag": "#ComunidadUN",
+    "url": "http://www.unal.edu.co",
+    "appYears": [
+      2006,
+      2009,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "phiUN",
+    "regionals": [
+      "South America-North, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Osman David Jiménez Gutiérrez",
+    "altNames": [],
+    "cfHandle": "-osdajigu-",
+    "cfRating": 2005,
+    "twitterHandle": "osdajigu",
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2019, 2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Cesar Esteban Diaz Medina",
+      "altNames": [
+        "Cesar Diaz"
+      ],
+      "cfHandle": "Cesardiaz22",
+      "cfRating": 1912,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2018, 2019)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Andres Ricardo Perez Rojas",
+      "altNames": [
+        "Andrés Pérez"
+      ],
+      "cfHandle": "AndresRPerez",
+      "cfRating": 1935,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2015, 2016, 2017)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Juan Sebastian Chaves Ramirez",
+      "altNames": [
+        "Juan Chaves"
+      ],
+      "cfHandle": "Chaves",
+      "cfRating": 1482,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2014, 2015)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

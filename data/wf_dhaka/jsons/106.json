@@ -37,11 +37,11 @@
     "twitterHandle": null,
     "achievements": [
       {
-        "achievement": "World Finals coach (2020)",
+        "achievement": "WF coach (2020)",
         "priority": 1000
       },
       {
-        "achievement": "ICPC World Finals Finalist (2018, 2019)",
+        "achievement": "ICPC WF Finalist (2018, 2019)",
         "priority": 100
       }
     ]

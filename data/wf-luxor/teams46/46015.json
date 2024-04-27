@@ -1,0 +1,64 @@
+{
+  "id": 46015,
+  "university": {
+    "fullName": "Birla Institute of Technology and Science, Pilani Campus",
+    "shortName": "BITS Pilani",
+    "region": "Asia West",
+    "hashTag": "#BITS",
+    "url": "http://www.bits-pilani.ac.in",
+    "appYears": [
+      2016,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "seize_means_of_software_production",
+    "regionals": [
+      "Asia West, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Amit Dua",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Tanveer Singh",
+      "altNames": [],
+      "cfHandle": "brobat",
+      "cfRating": 2241,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aditya Anand Bangalore",
+      "altNames": [],
+      "cfHandle": "AdiAnand",
+      "cfRating": 1718,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Rahul Prabhu",
+      "altNames": [],
+      "cfHandle": "Lain",
+      "cfRating": 2131,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

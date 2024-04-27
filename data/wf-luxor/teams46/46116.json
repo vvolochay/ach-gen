@@ -1,0 +1,93 @@
+{
+  "id": 46116,
+  "university": {
+    "fullName": "University of Oxford",
+    "shortName": "Oxford",
+    "region": "Europe",
+    "hashTag": "#Oxford",
+    "url": "http://www.ox.ac.uk",
+    "appYears": [
+      2008,
+      2009,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2009
+    ],
+    "bronzeYears": [
+      2021
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Oxford Blues",
+    "regionals": [
+      "Northwestern Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Bartek Klin",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Viktor Kozhuharov",
+      "altNames": [],
+      "cfHandle": "Sorting",
+      "cfRating": 2357,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Radostin Chonev",
+      "altNames": [],
+      "cfHandle": "Ronnie007",
+      "cfRating": 2528,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Harris Leung",
+      "altNames": [],
+      "cfHandle": "gamegame",
+      "cfRating": 3218,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "AtCoder World Tour Finals Finalist (2022)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Gold Medalist (2020, 2021)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2017, 2018)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

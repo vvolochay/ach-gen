@@ -1,0 +1,91 @@
+{
+  "id": 47099,
+  "university": {
+    "fullName": "Universidad de La Habana",
+    "shortName": "UH",
+    "region": "Latin America",
+    "hashTag": "#UniversidadLH",
+    "url": "http://www.uh.cu/",
+    "appYears": [
+      2011,
+      2012,
+      2013,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2017
+    ]
+  },
+  "team": {
+    "name": "UH Top",
+    "regionals": [
+      "Caribbean, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Alfredo Somoza Moreno",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2011-2013, 2015-2017, 2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Leonardo Daniel Artiles Montero",
+      "altNames": [],
+      "cfHandle": "Leonardo16",
+      "cfRating": 1889,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "David Manuel García Aguilera",
+      "altNames": [],
+      "cfHandle": "dmga44",
+      "cfRating": 2517,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 83
+        },
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Jorge Alejandro Pichardo Cabrera",
+      "altNames": [],
+      "cfHandle": "Giga_Cronos",
+      "cfRating": 1996,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

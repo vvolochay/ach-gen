@@ -36,11 +36,11 @@
     "twitterHandle": null,
     "achievements": [
       {
-        "achievement": "World Finals coach (2011, 2015)",
+        "achievement": "WF coach (2011, 2015)",
         "priority": 1000
       },
       {
-        "achievement": "ICPC World Finals Finalist (2008, 2011)",
+        "achievement": "ICPC WF Finalist (2008, 2011)",
         "priority": 100
       }
     ]

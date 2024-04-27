@@ -1,0 +1,68 @@
+{
+  "id": 47109,
+  "university": {
+    "fullName": "Università di Pisa",
+    "shortName": "UNIPI",
+    "region": "Europe",
+    "hashTag": "#UFRJ",
+    "url": "https://www.unipi.it/"
+  },
+  "team": {
+    "name": "flag[10]",
+    "regionals": [
+      "Southwestern Europe, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Rossano Venturini",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Tommaso Dossi",
+      "altNames": [],
+      "cfHandle": "Kaey",
+      "cfRating": 2282,
+      "twitterHandle": "offbyonekenobi",
+      "achievements": []
+    },
+    {
+      "name": "Filippo Casarin",
+      "altNames": [],
+      "cfHandle": "Virv",
+      "cfRating": 1971,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2021, 2022)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Valerio Stancanelli",
+      "altNames": [],
+      "cfHandle": "TheScrasse",
+      "cfRating": 2577,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2021, 2022)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

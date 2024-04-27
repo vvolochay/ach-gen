@@ -1,0 +1,66 @@
+{
+  "id": 46012,
+  "university": {
+    "fullName": "Beijing Institute of Technology",
+    "shortName": "BIT",
+    "region": "Asia East",
+    "hashTag": "#BIT",
+    "url": "http://www.bit.edu.cn",
+    "appYears": [
+      2013,
+      2014,
+      2015,
+      2017
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "ddl VS pigeon",
+    "regionals": [
+      "Asia East, 11th"
+    ]
+  },
+  "coach": {
+    "name": "Yonggang Lin",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2013-2015)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Zilin Zhu",
+      "altNames": [],
+      "cfHandle": "smzzl",
+      "cfRating": 2197,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zhiqiu Zou",
+      "altNames": [],
+      "cfHandle": "fallleaves01",
+      "cfRating": 2494,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kai Lin",
+      "altNames": [],
+      "cfHandle": "OMG_link",
+      "cfRating": 2484,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

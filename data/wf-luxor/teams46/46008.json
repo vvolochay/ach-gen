@@ -1,0 +1,50 @@
+{
+  "id": 46008,
+  "university": {
+    "fullName": "Assiut University",
+    "shortName": "Assiut",
+    "region": "Africa and Arabia",
+    "hashTag": "#Assiut",
+    "url": "http://www.aun.eun.eg"
+  },
+  "team": {
+    "name": "Ala7lam_team",
+    "regionals": [
+      "Africa & Arab, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Hussien Ibrahiem",
+    "altNames": [],
+    "cfHandle": "Hussien_Ibrahiem",
+    "cfRating": 2024,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Muhammad Mustafa",
+      "altNames": [],
+      "cfHandle": "Ahmed-Yasser",
+      "cfRating": 1906,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mahmoud Abd Alkareem",
+      "altNames": [],
+      "cfHandle": "karemo",
+      "cfRating": 1914,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmed Ezzat",
+      "altNames": [],
+      "cfHandle": "AhmedEzzatG",
+      "cfRating": 1978,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

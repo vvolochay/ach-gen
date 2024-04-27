@@ -1,0 +1,111 @@
+{
+  "id": 46080,
+  "university": {
+    "fullName": "Stanford University",
+    "shortName": "Stanford",
+    "region": "North America",
+    "hashTag": "#Stanford",
+    "url": "http://www.stanford.edu",
+    "appYears": [
+      1992,
+      1993,
+      1995,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2004,
+      2007,
+      2008,
+      2009,
+      2010,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [
+      1993
+    ],
+    "silverYears": [
+      1992,
+      2002,
+      2008
+    ],
+    "bronzeYears": [
+      2001
+    ],
+    "regYears": [
+      2010
+    ]
+  },
+  "team": {
+    "name": "Cardinal",
+    "regionals": [
+      "North America, 12th"
+    ]
+  },
+  "coach": {
+    "name": "Andy Shih",
+    "altNames": [],
+    "cfHandle": "andyshih12",
+    "cfRating": 2174,
+    "twitterHandle": "andyshih12",
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2017, 2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Lucas Xia",
+      "altNames": [],
+      "cfHandle": "lucasxia01",
+      "cfRating": 2203,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Konstantin Miagkov",
+      "altNames": [],
+      "cfHandle": "miagkov",
+      "cfRating": 2114,
+      "twitterHandle": "KonstantinMiag1",
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2017, 2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Spencer Compton",
+      "altNames": [
+        "Shubham Jain"
+      ],
+      "cfHandle": "TheOneYouWant",
+      "cfRating": 2248,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020, 2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

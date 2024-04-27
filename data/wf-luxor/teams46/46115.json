@@ -1,0 +1,88 @@
+{
+  "id": 46115,
+  "university": {
+    "fullName": "University of Melbourne",
+    "shortName": "U Melbourne",
+    "region": "Asia Pacific",
+    "hashTag": "#UniMelb",
+    "url": "http://www.unimelb.edu.au",
+    "appYears": [
+      1992,
+      1995,
+      1998,
+      2000,
+      2001,
+      2009,
+      2021
+    ],
+    "winYears": [
+      1992
+    ],
+    "goldYears": [
+      1992,
+      2000
+    ],
+    "silverYears": [
+      1998
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2000,
+      2009
+    ]
+  },
+  "team": {
+    "name": "fightUsUNSW",
+    "regionals": [
+      "South Pacific, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Junhao Gan",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Quang Ong",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2020)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Netanya Robinson",
+      "altNames": [],
+      "cfHandle": "Netr",
+      "cfRating": 1883,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Michael Zhao",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

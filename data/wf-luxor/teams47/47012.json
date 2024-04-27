@@ -1,0 +1,77 @@
+{
+  "id": 47012,
+  "university": {
+    "fullName": "Bina Nusantara University",
+    "shortName": "BINUS",
+    "region": "Asia Pacific",
+    "hashTag": "#BINUS",
+    "url": "http://www.binus.ac.id",
+    "appYears": [
+      1997,
+      1998,
+      2007,
+      2008,
+      2009,
+      2014,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "okePeko",
+    "regionals": [
+      "Jakarta, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Felicia Limanta",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Vio Albert Ferdinand",
+      "altNames": [],
+      "cfHandle": "vioalbert",
+      "cfRating": 1830,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Albert Yulius Ramahalim",
+      "altNames": [],
+      "cfHandle": "Zanite",
+      "cfRating": 2403,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2022)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Rico Filberto",
+      "altNames": [],
+      "cfHandle": "rfpermen",
+      "cfRating": 2410,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 47021,
+  "university": {
+    "fullName": "Central South University",
+    "shortName": "Central South U.",
+    "region": "Asia East",
+    "hashTag": "CentralSouth_U",
+    "url": "http://www.csu.edu.cn"
+  },
+  "team": {
+    "name": "Trio of Tomorrow Winds",
+    "regionals": [
+      "Asia East, 73rd"
+    ]
+  },
+  "coach": {
+    "name": "Zailiang Chen",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Xuanjing Li",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Boyang Zhao",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Guochen Xu",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": 47092,
+  "university": {
+    "fullName": "The University of Tokyo",
+    "shortName": "U Tokyo",
+    "region": "Asia Pacific",
+    "hashTag": "#UTokyo",
+    "url": "http://www.u-tokyo.ac.jp",
+    "appYears": [
+      2002,
+      2003,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [
+      2013,
+      2015,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "silverYears": [
+      2014
+    ],
+    "bronzeYears": [
+      2003,
+      2012,
+      2017
+    ],
+    "regYears": [
+      2015,
+      2018,
+      2019,
+      2021
+    ]
+  },
+  "team": {
+    "name": "Time Manipulators",
+    "regionals": [
+      "Yokohama, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Shinji Okumura",
+    "altNames": [],
+    "cfHandle": "okura",
+    "cfRating": 2114,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Rintaro Matsuo",
+      "altNames": [],
+      "cfHandle": "QCFium",
+      "cfRating": 2411,
+      "twitterHandle": "QCFium",
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2020)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Masataka Yoneda",
+      "altNames": [],
+      "cfHandle": "E869120",
+      "cfRating": 2830,
+      "twitterHandle": "e869120",
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2019, 2020)",
+          "priority": 64
+        }
+      ]
+    },
+    {
+      "name": "Hirotaka Yoneda",
+      "altNames": [],
+      "cfHandle": "square1001",
+      "cfRating": 2449,
+      "twitterHandle": "square10011",
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        }
+      ]
+    }
+  ]
+}

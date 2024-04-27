@@ -1,0 +1,95 @@
+{
+  "id": 47103,
+  "university": {
+    "fullName": "Universidad Panamericana Campus Bonaterra",
+    "shortName": "UP Bonaterra",
+    "region": "Latin America",
+    "hashTag": "#UPBonaterra",
+    "url": "http://www.up.edu.mx/",
+    "appYears": [
+      2013,
+      2014,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UPsolving",
+    "regionals": [
+      "Mexico, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Ricardo Espinosa",
+    "altNames": [
+      "Sebastian Sánchez Lara"
+    ],
+    "cfHandle": "wiritos",
+    "cfRating": 1611,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2019)",
+        "priority": 62
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Hector Fernando Ricardez Lara",
+      "altNames": [
+        "Héctor Fernando Ricárdez Lara",
+        "Hector Fernando Ricardez"
+      ],
+      "cfHandle": "kishtarn",
+      "cfRating": 2062,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2017, 2019, 2020)",
+          "priority": 82
+        },
+        {
+          "achievement": "IOI Finalist (2018)",
+          "priority": 80
+        }
+      ]
+    },
+    {
+      "name": "Fernanda Sarahy Mancilla Nuñez",
+      "altNames": [],
+      "cfHandle": "Hurrem_Mancilla",
+      "cfRating": 1587,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Victor Armando Jaramillo Moreno",
+      "altNames": [
+        "Víctor Armando Jaramillo Moreno"
+      ],
+      "cfHandle": "IamVictor",
+      "cfRating": 1726,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2021)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

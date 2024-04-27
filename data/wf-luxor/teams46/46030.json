@@ -1,0 +1,114 @@
+{
+  "id": 46030,
+  "university": {
+    "fullName": "Harbour.Space University - Barcelona Campus",
+    "shortName": "HS",
+    "region": "Europe",
+    "hashTag": "#HarbourSpace",
+    "url": "https://harbour.space/"
+  },
+  "team": {
+    "name": "Raw Pots",
+    "regionals": [
+      "Southwestern Europe, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Kamil Debowski",
+    "altNames": [
+      "Kamil Dębowski"
+    ],
+    "cfHandle": "Errichto",
+    "cfRating": 2965,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Bronze Medalist (2015)",
+        "priority": 102
+      },
+      {
+        "achievement": "ICPC WF Finalist (2018)",
+        "priority": 100
+      },
+      {
+        "achievement": "Google Code Jam 2nd (2018)",
+        "priority": 94
+      },
+      {
+        "achievement": "TCO Algorithm Finalist (2018)",
+        "priority": 90
+      },
+      {
+        "achievement": "TCO Marathon Finalist (2018)",
+        "priority": 90
+      },
+      {
+        "achievement": "GCJ Finalist (2019)",
+        "priority": 90
+      },
+      {
+        "achievement": "Distributed Code Jam Finalist (2018)",
+        "priority": 90
+      },
+      {
+        "achievement": "Hacker Cup Finalist (x4)",
+        "priority": 90
+      },
+      {
+        "achievement": "Yandex.Algorithm Finalist (2016, 2018)",
+        "priority": 30
+      },
+      {
+        "achievement": "GHC Finalist (2018, 2019, 2020)",
+        "priority": 10
+      },
+      {
+        "achievement": "Distributed Code Jam Qualified (2016)",
+        "priority": 2
+      },
+      {
+        "achievement": "Lyft Level 5 Challenge Finalist (2018)",
+        "priority": -10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Marco Meijer",
+      "altNames": [],
+      "cfHandle": "Meijer",
+      "cfRating": 2453,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2021)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Danil Zashikhin",
+      "altNames": [],
+      "cfHandle": "early-morning-dreams",
+      "cfRating": 2111,
+      "twitterHandle": "barman17_18",
+      "achievements": []
+    },
+    {
+      "name": "Maksym Oboznyi",
+      "altNames": [],
+      "cfHandle": "MaksymOboznyi",
+      "cfRating": 2403,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

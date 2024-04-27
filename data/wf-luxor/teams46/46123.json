@@ -1,0 +1,139 @@
+{
+  "id": 46123,
+  "university": {
+    "fullName": "University of Wroclaw",
+    "shortName": "U Wroclaw",
+    "region": "Europe",
+    "hashTag": "#UWroclaw",
+    "url": "http://www.uni.wroc.pl",
+    "appYears": [
+      2005,
+      2007,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2005,
+      2019,
+      2020
+    ],
+    "bronzeYears": [
+      2016
+    ],
+    "regYears": [
+      2020
+    ]
+  },
+  "team": {
+    "name": "UWr 1",
+    "regionals": [
+      "Central Europe, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Paweł Gawrychowski",
+    "altNames": [
+      "Pawel Gawrychowski"
+    ],
+    "cfHandle": "gawry",
+    "cfRating": 2428,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ACM ICPC silver medal as coach (2020)",
+        "priority": 3000
+      },
+      {
+        "achievement": "WF coach (2011, 2014)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC WF Silver Medalist (2005)",
+        "priority": 103
+      },
+      {
+        "achievement": "ICPC WF Finalist (2007)",
+        "priority": 100
+      },
+      {
+        "achievement": "GCJam Finalist (2005, 2006, 2008, 2012)",
+        "priority": 90
+      },
+      {
+        "achievement": "TCO Algorithm Finalist (2005)",
+        "priority": 90
+      },
+      {
+        "achievement": "TCO Algorithm Wildcard (2007, 2011)",
+        "priority": 90
+      },
+      {
+        "achievement": "TCO Algorithm Semifinalist (2008)",
+        "priority": 90
+      },
+      {
+        "achievement": "Hacker Cup Finalist (2011, 2012)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Collegiate Challenge Algorithm 3rd (2007)",
+        "priority": 53
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Łukasz Pluta",
+      "altNames": [],
+      "cfHandle": "natofp",
+      "cfRating": 2427,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Adam Górkiewicz",
+      "altNames": [],
+      "cfHandle": "Goorkiewicz",
+      "cfRating": 2598,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Anadi Agrawal",
+      "altNames": [],
+      "cfHandle": "Anadi",
+      "cfRating": 2923,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Silver Medalist (2019, 2020)",
+          "priority": 103
+        },
+        {
+          "achievement": "GHC Finalist (2021)",
+          "priority": 70
+        },
+        {
+          "achievement": "IOI Gold Medalist (2017, 2018)",
+          "priority": 64
+        }
+      ]
+    }
+  ]
+}

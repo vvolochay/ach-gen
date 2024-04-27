@@ -1,0 +1,63 @@
+{
+  "id": 46039,
+  "university": {
+    "fullName": "Indian Institute of Technology (ISM), Dhanbad",
+    "shortName": "IIT(ISM) Dhanbad",
+    "region": "Asia West",
+    "hashTag": "#IITISM_DHANBAD",
+    "url": "http://iitism.ac.in",
+    "appYears": [
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Convex Chull",
+    "regionals": [
+      "Asia West, 11th"
+    ]
+  },
+  "coach": {
+    "name": "Chandra Shekhara Rao Annavarapu",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Jay Sharma",
+      "altNames": [],
+      "cfHandle": "JaySharma1048576",
+      "cfRating": 2195,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "CodeChef SnackDown Finalist (2021)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Yash Daga",
+      "altNames": [],
+      "cfHandle": "yash_daga",
+      "cfRating": 2400,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abhishek Kumar Jain",
+      "altNames": [],
+      "cfHandle": "abhidot",
+      "cfRating": 1943,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

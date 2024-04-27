@@ -1,0 +1,67 @@
+{
+  "id": 46046,
+  "university": {
+    "fullName": "International IT University",
+    "shortName": "IITU",
+    "region": "Northern Eurasia",
+    "hashTag": "#IITU",
+    "url": "http://www.iitu.kz",
+    "appYears": [
+      2013,
+      2014,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "SuperNoVa",
+    "regionals": [
+      "Northern Eurasia, 21st"
+    ]
+  },
+  "coach": {
+    "name": "Yeskendir Sultanov",
+    "altNames": [],
+    "cfHandle": "Messi",
+    "cfRating": 1938,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2019-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Dinmukhamed Shormankhan",
+      "altNames": [],
+      "cfHandle": "Railgun",
+      "cfRating": 2100,
+      "twitterHandle": "DimashAsimov",
+      "achievements": []
+    },
+    {
+      "name": "Batyrkhan Altynbekov",
+      "altNames": [],
+      "cfHandle": "Pazio",
+      "cfRating": 2006,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aibar Kuanyshbay",
+      "altNames": [],
+      "cfHandle": "lebowski998",
+      "cfRating": 2230,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

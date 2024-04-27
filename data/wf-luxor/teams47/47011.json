@@ -1,0 +1,71 @@
+{
+  "id": 47011,
+  "university": {
+    "fullName": "Belarusian State University of Informatics and Radioelectronics",
+    "shortName": "BSUIR",
+    "region": "Northern Eurasia",
+    "hashTag": "#BSUIR",
+    "url": "http://www.bsuir.by",
+    "appYears": [
+      2012,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2012
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Belarusian SUIR #1: So stuffy",
+    "regionals": [
+      "Northern Eurasia, 27th"
+    ]
+  },
+  "coach": {
+    "name": "Ivan Udovin",
+    "altNames": [],
+    "cfHandle": "wilcot",
+    "cfRating": 2131,
+    "twitterHandle": "iudovin",
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2020, 2021)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Raman Markavets",
+      "altNames": [],
+      "cfHandle": "romarkovets",
+      "cfRating": 1393,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aliaksandr Loseu",
+      "altNames": [],
+      "cfHandle": "kartel",
+      "cfRating": 2100,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mikita Halukh",
+      "altNames": [],
+      "cfHandle": "p3rfect",
+      "cfRating": 2033,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

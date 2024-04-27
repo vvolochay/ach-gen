@@ -1,0 +1,64 @@
+{
+  "id": 46041,
+  "university": {
+    "fullName": "Innopolis University",
+    "shortName": "Innopolis",
+    "region": "Northern Eurasia",
+    "hashTag": "#InnopolisU",
+    "url": "http://university.innopolis.ru",
+    "appYears": [
+      2016,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Innopolis U Q",
+    "regionals": [
+      "Northern Eurasia, 19th"
+    ]
+  },
+  "coach": {
+    "name": "Ekaterina Protsko",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Khaled Ismaeel",
+      "altNames": [],
+      "cfHandle": "khaled_ismaeel",
+      "cfRating": 1649,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Wesam Naseer",
+      "altNames": [],
+      "cfHandle": "RedMind",
+      "cfRating": 2231,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Temurbek Khujaev",
+      "altNames": [],
+      "cfHandle": "Tokyo_Drift",
+      "cfRating": 2147,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

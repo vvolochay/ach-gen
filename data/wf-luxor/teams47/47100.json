@@ -1,0 +1,70 @@
+{
+  "id": 47100,
+  "university": {
+    "fullName": "Universidad Mayor de San Simón",
+    "shortName": "UMSS",
+    "region": "Latin America",
+    "hashTag": "#UMSS",
+    "url": "http://www.umss.edu.bo/",
+    "appYears": [
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Club de Frontón 2880",
+    "regionals": [
+      "Central America, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Maria Leticia Blanco Coca",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Rodrigo Joaquin Salguero Morales",
+      "altNames": [],
+      "cfHandle": "pacha2880",
+      "cfRating": 1986,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Nicolás Mateo Valdivia Viscarra",
+      "altNames": [
+        "Nicolas Mateo Valdivia Viscarra"
+      ],
+      "cfHandle": "el_programador",
+      "cfRating": 1956,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2020, 2021)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Oliver Winsor Pozo Flores",
+      "altNames": [],
+      "cfHandle": "HeReWeGoAgAiN123",
+      "cfRating": 1641,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

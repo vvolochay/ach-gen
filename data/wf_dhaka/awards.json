@@ -1,0 +1,102 @@
+[
+  {
+    "id": "group-winner-17102",
+    "citation": "Winner(s) of group Asia East",
+    "team_ids": [
+      "70"
+    ]
+  },
+  {
+    "id": "group-winner-17105",
+    "citation": "Winner(s) of group Latin America",
+    "team_ids": [
+      "101"
+    ]
+  },
+  {
+    "id": "group-winner-17106",
+    "citation": "Winner(s) of group Africa and the Middle East",
+    "team_ids": [
+      "10"
+    ]
+  },
+  {
+    "id": "group-winner-17117",
+    "citation": "Winner(s) of group Northern Eurasia",
+    "team_ids": [
+      "63"
+    ]
+  },
+  {
+    "id": "group-winner-17118",
+    "citation": "Winner(s) of group Asia West",
+    "team_ids": [
+      "42"
+    ]
+  },
+  {
+    "id": "group-winner-17119",
+    "citation": "Winner(s) of group Asia Pacific",
+    "team_ids": [
+      "92"
+    ]
+  },
+  {
+    "id": "group-winner-17122",
+    "citation": "Winner(s) of group North America",
+    "team_ids": [
+      "59"
+    ]
+  },
+  {
+    "id": "group-winner-17123",
+    "citation": "Winner(s) of group Europe",
+    "team_ids": [
+      "31"
+    ]
+  },
+  {
+    "id": "group-winner-17124",
+    "citation": "Winner(s) of group South Pacific",
+    "team_ids": [
+      "131"
+    ]
+  },
+  {
+    "id": "winner",
+    "citation": "Contest winner",
+    "team_ids": [
+      "59"
+    ]
+  },
+  {
+    "id": "gold-medal",
+    "citation": "Gold medal winner",
+    "team_ids": [
+      "59",
+      "70",
+      "92",
+      "75"
+    ]
+  },
+  {
+    "id": "silver-medal",
+    "citation": "Silver medal winner",
+    "team_ids": [
+      "31",
+      "28",
+      "22",
+      "127"
+    ]
+  },
+  {
+    "id": "bronze-medal",
+    "citation": "Bronze medal winner",
+    "team_ids": [
+      "63",
+      "82",
+      "122",
+      "118"
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "id": 46131,
+  "university": {
+    "fullName": "Zhongshan (Sun Yat-sen) University",
+    "shortName": "Zhongshan U",
+    "region": "Asia East",
+    "hashTag": "#ZhongshanU",
+    "url": "http://sysu.edu.cn",
+    "appYears": [
+      1999,
+      2000,
+      2001,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2003,
+      2012
+    ],
+    "bronzeYears": [
+      2001,
+      2004,
+      2010
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "SYSU_unhindered",
+    "regionals": [
+      "Asia East, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Zizhen Zhang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2007)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Lihui Xie",
+      "altNames": [],
+      "cfHandle": "Zayin",
+      "cfRating": 2428,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Qipeng Kuang",
+      "altNames": [],
+      "cfHandle": "kqp",
+      "cfRating": 2181,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mingyu Deng",
+      "altNames": [],
+      "cfHandle": "PureWhite",
+      "cfRating": 2202,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

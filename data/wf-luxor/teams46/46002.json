@@ -1,0 +1,69 @@
+{
+  "id": 46002,
+  "university": {
+    "fullName": "Ain Shams University - Faculty of Computer and Information Sciences",
+    "shortName": "ASU-FCIS",
+    "region": "Africa and Arabia",
+    "hashTag": "#Fciseg",
+    "url": "http://cis.shams.edu.eg",
+    "appYears": [
+      2011,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Too Wrong to pass Too Correct to fail",
+    "regionals": [
+      "Africa & Arab, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Anany",
+    "altNames": [],
+    "cfHandle": "DeadlyPillow",
+    "cfRating": 2156,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2018, 2019)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mostafa ELbadawy",
+      "altNames": [],
+      "cfHandle": "Mostafa_ELbadawy",
+      "cfRating": 1991,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Isaac Moris",
+      "altNames": [],
+      "cfHandle": "IsaacMoris",
+      "cfRating": 2183,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Islam Mohsen",
+      "altNames": [],
+      "cfHandle": "islammohsen",
+      "cfRating": 1784,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

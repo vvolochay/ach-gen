@@ -1,0 +1,66 @@
+{
+  "id": 47036,
+  "university": {
+    "fullName": "Higher Institute for Applied Sciences and Technology",
+    "shortName": "HIAST",
+    "region": "Africa and Arabia",
+    "hashTag": "#HIAST",
+    "url": "http://www.hiast.edu.sy/",
+    "appYears": [
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "nON-sTOP",
+    "regionals": [
+      "Africa & Arab, 18th"
+    ]
+  },
+  "coach": {
+    "name": "Samer Alshehabi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Bashar Hussain",
+      "altNames": [],
+      "cfHandle": "Basharo",
+      "cfRating": 1860,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Kifah Helal",
+      "altNames": [],
+      "cfHandle": "KiFaH_HeLaL",
+      "cfRating": 1830,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mahmoud Haddad",
+      "altNames": [],
+      "cfHandle": "Mahmoud_Haddad",
+      "cfRating": 1985,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

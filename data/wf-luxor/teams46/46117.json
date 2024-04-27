@@ -1,0 +1,65 @@
+{
+  "id": 46117,
+  "university": {
+    "fullName": "University of Science and Technology of China",
+    "shortName": "Univ. of Sci. & Tech",
+    "region": "Asia East",
+    "hashTag": "#USTC",
+    "url": "http://www.ustc.edu.cn/",
+    "appYears": [
+      2006,
+      2007,
+      2015
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "cabbage",
+    "regionals": [
+      "Asia East, 55th"
+    ]
+  },
+  "coach": {
+    "name": "Guangzhong Sun",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2006)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Zhu ChenXi",
+      "altNames": [],
+      "cfHandle": "chen_zexing",
+      "cfRating": 2347,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Wang HanBin",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "YueRan Yin",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

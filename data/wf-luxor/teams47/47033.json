@@ -1,0 +1,50 @@
+{
+  "id": 47033,
+  "university": {
+    "fullName": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+    "shortName": "GIK Institute",
+    "region": "Asia West",
+    "hashTag": "#AIESECGIKI",
+    "url": null
+  },
+  "team": {
+    "name": "AC47",
+    "regionals": [
+      "Asia West, 36th"
+    ]
+  },
+  "coach": {
+    "name": "Jalees Ur Rahman",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Hamza Hasan Ellahie",
+      "altNames": [],
+      "cfHandle": "h_squared",
+      "cfRating": 1991,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mujtaba Omar",
+      "altNames": [],
+      "cfHandle": "stakudog",
+      "cfRating": 1112,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Syed Basim Mehmood",
+      "altNames": [],
+      "cfHandle": "Simba",
+      "cfRating": 1314,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

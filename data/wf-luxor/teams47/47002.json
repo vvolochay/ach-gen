@@ -1,0 +1,78 @@
+{
+  "id": 47002,
+  "university": {
+    "fullName": "Al-Baath University",
+    "shortName": "Al-Baath",
+    "region": "Africa and Arabia",
+    "hashTag": "#albaathunivweb",
+    "url": "http://www.albaath-univ.edu.sy",
+    "appYears": [
+      2017,
+      2018,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Kindergarteners > Project Managers",
+    "regionals": [
+      "Africa & Arab, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Marcel Ibrahim",
+    "altNames": [],
+    "cfHandle": "Al-Merreikh",
+    "cfRating": 1932,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2020, 2021)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Aws Issa",
+      "altNames": [],
+      "cfHandle": "Kaitokid",
+      "cfRating": 2271,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Naseem Daghestani",
+      "altNames": [],
+      "cfHandle": "Naseem17",
+      "cfRating": 2271,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Moussa Syoufi",
+      "altNames": [],
+      "cfHandle": "AboAbdoMC",
+      "cfRating": 1951,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

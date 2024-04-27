@@ -1,0 +1,74 @@
+{
+  "id": 47042,
+  "university": {
+    "fullName": "Indian Institute of Technology - Kanpur",
+    "shortName": "IIT Kanpur",
+    "region": "Asia West",
+    "hashTag": "#IITKNP",
+    "url": "http://www.iitk.ac.in",
+    "appYears": [
+      2000,
+      2002,
+      2011,
+      2012,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2021
+    ]
+  },
+  "team": {
+    "name": "facelessmen3.0",
+    "regionals": [
+      "Asia West, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Surender Baswana",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2016, 2018-2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Satyam Roy",
+      "altNames": [],
+      "cfHandle": "satyam343",
+      "cfRating": 2197,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Udhav Varma",
+      "altNames": [],
+      "cfHandle": "udhavvarma03",
+      "cfRating": 1882,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Avi Kumar",
+      "altNames": [],
+      "cfHandle": "avi0000",
+      "cfRating": 2188,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

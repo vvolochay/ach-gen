@@ -1,0 +1,50 @@
+{
+  "id": 46050,
+  "university": {
+    "fullName": "Kabul Polytechnic University",
+    "shortName": "KPU",
+    "region": "Asia West",
+    "hashTag": "#KabulPolytechnicUniversity",
+    "url": "http://kpu.edu.af"
+  },
+  "team": {
+    "name": "CleanCode",
+    "regionals": [
+      "Kabul, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Murtaza Rahimi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Bilal Zahirzai",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ziaullah Saeed",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Hamayon Hussain Zada",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

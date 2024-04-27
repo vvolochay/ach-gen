@@ -1,0 +1,60 @@
+{
+  "id": 46060,
+  "university": {
+    "fullName": "National Institute of Technology, Trichy",
+    "shortName": "NIT Trichy",
+    "region": "Asia West",
+    "hashTag": "#Trichy",
+    "url": "http://www.nitt.edu",
+    "appYears": [
+      2007,
+      2008,
+      2010
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "2Golu1Tonu",
+    "regionals": [
+      "Asia West, 13th"
+    ]
+  },
+  "coach": {
+    "name": "Kunwar Singh",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ritik Mittal",
+      "altNames": [],
+      "cfHandle": "ritikmital",
+      "cfRating": 1786,
+      "twitterHandle": "mittalritik365",
+      "achievements": []
+    },
+    {
+      "name": "Rishab Nahar",
+      "altNames": [],
+      "cfHandle": "rishabnahar2025",
+      "cfRating": 2098,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nitin Gupta",
+      "altNames": [],
+      "cfHandle": "gupta_nitin",
+      "cfRating": 2136,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

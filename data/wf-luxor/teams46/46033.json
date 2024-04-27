@@ -1,0 +1,50 @@
+{
+  "id": 46033,
+  "university": {
+    "fullName": "Ho Chi Minh City International University",
+    "shortName": "HCMIU",
+    "region": "Asia Pacific",
+    "hashTag": "#IUVNUHCMC",
+    "url": "http://www.hcmiu.edu.vn/"
+  },
+  "team": {
+    "name": "HCMIU_ThinkingTourists",
+    "regionals": [
+      "Hanoi, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Ha Viet-Uyen Synh",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Xuan Tung Nguyen",
+      "altNames": [],
+      "cfHandle": "neko_nyaaaaaaaaaaaaaaaaa",
+      "cfRating": 2545,
+      "twitterHandle": "neko_nyaa",
+      "achievements": []
+    },
+    {
+      "name": "Trung Duc Luu",
+      "altNames": [],
+      "cfHandle": "SpiritGoFarAwayWithAlcoh",
+      "cfRating": 1544,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Lam Quoc Dinh",
+      "altNames": [],
+      "cfHandle": "YinLin",
+      "cfRating": 1489,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

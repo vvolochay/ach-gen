@@ -34,7 +34,7 @@
     "twitterHandle": "huhumor",
     "achievements": [
       {
-        "achievement": "World Finals coach (2013-2014, 2018)",
+        "achievement": "WF coach (2013-2014, 2018)",
         "priority": 1000
       }
     ]
@@ -50,7 +50,7 @@
       "twitterHandle": null,
       "achievements": [
         {
-          "achievement": "ICPC World Finals Finalist (2018)",
+          "achievement": "ICPC WF Finalist (2018)",
           "priority": 100
         }
       ]

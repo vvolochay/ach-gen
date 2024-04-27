@@ -1,0 +1,50 @@
+{
+  "id": 46043,
+  "university": {
+    "fullName": "Instituto de Matemática Pura e Aplicada",
+    "shortName": "IMPA",
+    "region": "Latin America",
+    "hashTag": "#IMPA",
+    "url": "http://impa.br"
+  },
+  "team": {
+    "name": "Last Chance",
+    "regionals": [
+      "Brazil, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Lucas Resende",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Yukun Zhao",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Celio Passos",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Angel Gerardo Napa Bernuy",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

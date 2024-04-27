@@ -1,0 +1,110 @@
+{
+  "id": 47087,
+  "university": {
+    "fullName": "St. Petersburg State University",
+    "shortName": "St. Petersburg SU",
+    "region": "Northern Eurasia",
+    "hashTag": "#SPBU",
+    "url": "http://eng.spbu.ru",
+    "appYears": [
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "winYears": [
+      2000,
+      2001,
+      2014,
+      2016
+    ],
+    "goldYears": [
+      1998,
+      2000,
+      2001,
+      2009,
+      2011,
+      2014,
+      2016,
+      2017
+    ],
+    "silverYears": [
+      2006,
+      2010,
+      2013
+    ],
+    "bronzeYears": [
+      1997,
+      1999,
+      2008,
+      2021
+    ],
+    "regYears": [
+      2000,
+      2001,
+      2011,
+      2014,
+      2016
+    ]
+  },
+  "team": {
+    "name": "Urgant Team",
+    "regionals": [
+      "Northern Eurasia, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Demid Kucherenko",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Saveliy Grigoryev",
+      "altNames": [],
+      "cfHandle": "sava-cska",
+      "cfRating": 2338,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Evgenii Karpovich",
+      "altNames": [],
+      "cfHandle": "74TrAkToR",
+      "cfRating": 2371,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mikhail Ivanov",
+      "altNames": [],
+      "cfHandle": "orz",
+      "cfRating": 2778,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

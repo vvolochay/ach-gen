@@ -1,0 +1,50 @@
+{
+  "id": 46027,
+  "university": {
+    "fullName": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+    "shortName": "GIK Institute",
+    "region": "Asia West",
+    "hashTag": "#AIESECGIKI",
+    "url": null
+  },
+  "team": {
+    "name": "Pentateuch",
+    "regionals": [
+      "Asia West"
+    ]
+  },
+  "coach": {
+    "name": "Jalees Ur Rahman",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Omar Kashif Majeed",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Muhammad Zulfiqar Ali",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ashar Tanveer",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

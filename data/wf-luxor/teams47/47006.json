@@ -1,0 +1,50 @@
+{
+  "id": 47006,
+  "university": {
+    "fullName": "Assiut University",
+    "shortName": "Assiut",
+    "region": "Africa and Arabia",
+    "hashTag": "#UniMelb",
+    "url": "http://www.aun.eun.eg"
+  },
+  "team": {
+    "name": "Assuit U",
+    "regionals": [
+      "Africa & Arab, 21st"
+    ]
+  },
+  "coach": {
+    "name": "Hussien Ibrahiem",
+    "altNames": [],
+    "cfHandle": "Hussien_Ibrahiem",
+    "cfRating": 2024,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Mahmoud Ashour",
+      "altNames": [],
+      "cfHandle": "MahmoudAshour",
+      "cfRating": 2112,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmed Abd Almaboud",
+      "altNames": [],
+      "cfHandle": "Ahmed_AbdAlmaboud",
+      "cfRating": 1715,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mohamed Shehata",
+      "altNames": [],
+      "cfHandle": "CoOoNaN",
+      "cfRating": 1516,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 46124,
+  "university": {
+    "fullName": "UNSW Sydney",
+    "shortName": "UNSW Sydney",
+    "region": "Asia Pacific",
+    "hashTag": "#UNSW",
+    "url": "http://www.cse.unsw.edu.au",
+    "appYears": [
+      2001,
+      2013
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2001
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Runtime Terror",
+    "regionals": [
+      "South Pacific, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Raveen De Silva",
+    "altNames": [],
+    "cfHandle": "blueandgold11",
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC WF Finalist (2013, 2014)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ali Khosravi",
+      "altNames": [],
+      "cfHandle": "Ali.Kh",
+      "cfRating": 2194,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dallas Yan",
+      "altNames": [],
+      "cfHandle": "dallasyan",
+      "cfRating": 1624,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Angus Ritossa",
+      "altNames": [],
+      "cfHandle": "AngusRitossa",
+      "cfRating": 2603,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Gold Medalist (2019)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

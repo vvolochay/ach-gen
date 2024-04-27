@@ -1,0 +1,106 @@
+{
+  "id": 46092,
+  "university": {
+    "fullName": "Union University - Faculty of Computer Science",
+    "shortName": "UNION",
+    "region": "Europe",
+    "hashTag": "#UUComputerScience",
+    "url": "http://union.edu.rs"
+  },
+  "team": {
+    "name": "GII Klub",
+    "regionals": [
+      "Southeastern Europe, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Dušan Zdravković",
+    "altNames": [
+      "Dusan Zdravkovic"
+    ],
+    "cfHandle": "DuX",
+    "cfRating": 2118,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "WF coach (2020)",
+        "priority": 1000
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2010, 2011)",
+        "priority": 62
+      },
+      {
+        "achievement": "Codeflows Finalist (2021)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mladen Puzic",
+      "altNames": [
+        "Mladen Puzić"
+      ],
+      "cfHandle": "MladenP",
+      "cfRating": 2141,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Aleksa Milisavljevic",
+      "altNames": [
+        "Aleksa Milisavljević"
+      ],
+      "cfHandle": "milisav",
+      "cfRating": 2637,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020, 2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "GHC Finalist (2021)",
+          "priority": 70
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Pavle Martinovic",
+      "altNames": [
+        "Pavle Martinović"
+      ],
+      "cfHandle": "Pajaraja",
+      "cfRating": 2438,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020, 2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "GHC Finalist (2021)",
+          "priority": 70
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 63
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 46090,
+  "university": {
+    "fullName": "Tishreen University",
+    "shortName": "Tishreen",
+    "region": "Africa and Arabia",
+    "hashTag": "#Tishreen",
+    "url": "http://www.tishreen.edu.sy",
+    "appYears": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "You'll Never WA Alone",
+    "regionals": [
+      "Africa & Arab, 12th"
+    ]
+  },
+  "coach": {
+    "name": "Ahmad Ahmad",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Mohammad Bakkar",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Rabeeh Jouni",
+      "altNames": [],
+      "cfHandle": "SubSpring",
+      "cfRating": 1764,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC WF Finalist (2020)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mohammad Idris",
+      "altNames": [],
+      "cfHandle": "Edrisov",
+      "cfRating": 1404,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

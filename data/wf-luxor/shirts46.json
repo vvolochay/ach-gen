@@ -1,0 +1,554 @@
+[
+  {
+    "id": 1,
+    "colorName": "black"
+  },
+  {
+    "id": 2,
+    "colorName": "purple rain"
+  },
+  {
+    "id": 3,
+    "colorName": "titanium"
+  },
+  {
+    "id": 4,
+    "colorName": "turquoise"
+  },
+  {
+    "id": 5,
+    "colorName": "peacock"
+  },
+  {
+    "id": 6,
+    "colorName": "black"
+  },
+  {
+    "id": 7,
+    "colorName": "garnet"
+  },
+  {
+    "id": 8,
+    "colorName": "flannel"
+  },
+  {
+    "id": 9,
+    "colorName": "emerald"
+  },
+  {
+    "id": 10,
+    "colorName": "lapis"
+  },
+  {
+    "id": 11,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 12,
+    "colorName": "emerald"
+  },
+  {
+    "id": 13,
+    "colorName": "silk"
+  },
+  {
+    "id": 14,
+    "colorName": "lapis"
+  },
+  {
+    "id": 15,
+    "colorName": "ink"
+  },
+  {
+    "id": 16,
+    "colorName": "paprika"
+  },
+  {
+    "id": 17,
+    "colorName": "willow"
+  },
+  {
+    "id": 18,
+    "colorName": "emerald"
+  },
+  {
+    "id": 19,
+    "colorName": "flannel"
+  },
+  {
+    "id": 20,
+    "colorName": "black"
+  },
+  {
+    "id": 21,
+    "colorName": "blush"
+  },
+  {
+    "id": 22,
+    "colorName": "moonlight"
+  },
+  {
+    "id": 23,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 24,
+    "colorName": "purple rain"
+  },
+  {
+    "id": 25,
+    "colorName": "tangerine"
+  },
+  {
+    "id": 26,
+    "colorName": "apple"
+  },
+  {
+    "id": 27,
+    "colorName": "lapis"
+  },
+  {
+    "id": 28,
+    "colorName": "straw"
+  },
+  {
+    "id": 29,
+    "colorName": "goldfish"
+  },
+  {
+    "id": 30,
+    "colorName": "black"
+  },
+  {
+    "id": 31,
+    "colorName": "white"
+  },
+  {
+    "id": 32,
+    "colorName": "lapis"
+  },
+  {
+    "id": 33,
+    "colorName": "pumpkin"
+  },
+  {
+    "id": 34,
+    "colorName": "carrot"
+  },
+  {
+    "id": 35,
+    "colorName": "flowerpot"
+  },
+  {
+    "id": 36,
+    "colorName": "white"
+  },
+  {
+    "id": 37,
+    "colorName": "turquoise"
+  },
+  {
+    "id": 38,
+    "colorName": "purple rain"
+  },
+  {
+    "id": 39,
+    "colorName": "shooting star"
+  },
+  {
+    "id": 40,
+    "colorName": "black"
+  },
+  {
+    "id": 41,
+    "colorName": "cacao"
+  },
+  {
+    "id": 42,
+    "colorName": "turquoise"
+  },
+  {
+    "id": 43,
+    "colorName": "cyan"
+  },
+  {
+    "id": 44,
+    "colorName": "pomegranite"
+  },
+  {
+    "id": 45,
+    "colorName": "cyan"
+  },
+  {
+    "id": 46,
+    "colorName": "flamingo"
+  },
+  {
+    "id": 47,
+    "colorName": "turquoise"
+  },
+  {
+    "id": 48,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 49,
+    "colorName": "parrot"
+  },
+  {
+    "id": 50,
+    "colorName": "adobe"
+  },
+  {
+    "id": 51,
+    "colorName": "apple"
+  },
+  {
+    "id": 52,
+    "colorName": "black"
+  },
+  {
+    "id": 53,
+    "colorName": "vapor"
+  },
+  {
+    "id": 54,
+    "colorName": "ink"
+  },
+  {
+    "id": 55,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 56,
+    "colorName": "black"
+  },
+  {
+    "id": 57,
+    "colorName": "coral"
+  },
+  {
+    "id": 58,
+    "colorName": "lapis"
+  },
+  {
+    "id": 59,
+    "colorName": "saffron"
+  },
+  {
+    "id": 60,
+    "colorName": "charcoal"
+  },
+  {
+    "id": 61,
+    "colorName": "carrot"
+  },
+  {
+    "id": 62,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 63,
+    "colorName": "cerulean"
+  },
+  {
+    "id": 64,
+    "colorName": "flowerpot"
+  },
+  {
+    "id": 65,
+    "colorName": "black"
+  },
+  {
+    "id": 66,
+    "colorName": "purple rain"
+  },
+  {
+    "id": 67,
+    "colorName": "black"
+  },
+  {
+    "id": 68,
+    "colorName": "ink"
+  },
+  {
+    "id": 69,
+    "colorName": "purple rain"
+  },
+  {
+    "id": 70,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 71,
+    "colorName": "black"
+  },
+  {
+    "id": 72,
+    "colorName": "black"
+  },
+  {
+    "id": 73,
+    "colorName": "goldfish"
+  },
+  {
+    "id": 74,
+    "colorName": "cerulean"
+  },
+  {
+    "id": 75,
+    "colorName": "lapis"
+  },
+  {
+    "id": 76,
+    "colorName": "lapis"
+  },
+  {
+    "id": 77,
+    "colorName": "sky"
+  },
+  {
+    "id": 78,
+    "colorName": "mocca"
+  },
+  {
+    "id": 79,
+    "colorName": "orchid"
+  },
+  {
+    "id": 80,
+    "colorName": "lapis"
+  },
+  {
+    "id": 81,
+    "colorName": "poppy"
+  },
+  {
+    "id": 82,
+    "colorName": "retro green"
+  },
+  {
+    "id": 83,
+    "colorName": "blueberry"
+  },
+  {
+    "id": 84,
+    "colorName": "black"
+  },
+  {
+    "id": 85,
+    "colorName": "shooting star"
+  },
+  {
+    "id": 86,
+    "colorName": "black"
+  },
+  {
+    "id": 87,
+    "colorName": "emerald"
+  },
+  {
+    "id": 88,
+    "colorName": "coral"
+  },
+  {
+    "id": 89,
+    "colorName": "garnet"
+  },
+  {
+    "id": 90,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 91,
+    "colorName": "turquoise"
+  },
+  {
+    "id": 92,
+    "colorName": "black"
+  },
+  {
+    "id": 93,
+    "colorName": "paprika"
+  },
+  {
+    "id": 94,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 95,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 96,
+    "colorName": "sunny day"
+  },
+  {
+    "id": 97,
+    "colorName": "purple rain"
+  },
+  {
+    "id": 98,
+    "colorName": "white"
+  },
+  {
+    "id": 99,
+    "colorName": "emerald"
+  },
+  {
+    "id": 100,
+    "colorName": "black"
+  },
+  {
+    "id": 101,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 102,
+    "colorName": "lapis"
+  },
+  {
+    "id": 103,
+    "colorName": "tanzanite"
+  },
+  {
+    "id": 104,
+    "colorName": "cyan"
+  },
+  {
+    "id": 105,
+    "colorName": "emerald"
+  },
+  {
+    "id": 106,
+    "colorName": "shooting star"
+  },
+  {
+    "id": 107,
+    "colorName": "pomegranite"
+  },
+  {
+    "id": 108,
+    "colorName": "sand dollar"
+  },
+  {
+    "id": 109,
+    "colorName": "lapis"
+  },
+  {
+    "id": 110,
+    "colorName": "black"
+  },
+  {
+    "id": 111,
+    "colorName": "lapis"
+  },
+  {
+    "id": 112,
+    "colorName": "fern"
+  },
+  {
+    "id": 113,
+    "colorName": "aqua"
+  },
+  {
+    "id": 114,
+    "colorName": "sunny day"
+  },
+  {
+    "id": 115,
+    "colorName": "black"
+  },
+  {
+    "id": 116,
+    "colorName": "autumn rose"
+  },
+  {
+    "id": 117,
+    "colorName": "peacock"
+  },
+  {
+    "id": 118,
+    "colorName": "white"
+  },
+  {
+    "id": 119,
+    "colorName": "chocolate"
+  },
+  {
+    "id": 120,
+    "colorName": "peacock"
+  },
+  {
+    "id": 121,
+    "colorName": "black"
+  },
+  {
+    "id": 122,
+    "colorName": "orchid"
+  },
+  {
+    "id": 123,
+    "colorName": "wisteria"
+  },
+  {
+    "id": 124,
+    "colorName": "pool"
+  },
+  {
+    "id": 125,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 126,
+    "colorName": "black"
+  },
+  {
+    "id": 127,
+    "colorName": "ink"
+  },
+  {
+    "id": 128,
+    "colorName": "garnet"
+  },
+  {
+    "id": 129,
+    "colorName": "chili pepper"
+  },
+  {
+    "id": 130,
+    "colorName": "black"
+  },
+  {
+    "id": 131,
+    "colorName": "pumpkin"
+  },
+  {
+    "id": 132,
+    "colorName": "eggplant"
+  },
+  {
+    "id": 133,
+    "colorName": "lapis"
+  },
+  {
+    "id": 134,
+    "colorName": "cobalt"
+  },
+  {
+    "id": 135,
+    "colorName": "black"
+  },
+  {
+    "id": 136,
+    "colorName": "aqua"
+  },
+  {
+    "id": 137,
+    "colorName": "apple"
+  },
+  {
+    "id": 138,
+    "colorName": "cobalt"
+  }
+]

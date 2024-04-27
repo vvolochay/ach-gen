@@ -1,0 +1,59 @@
+{
+  "id": 46073,
+  "university": {
+    "fullName": "Rutgers University",
+    "shortName": "Rutgers Uni.",
+    "region": "North America",
+    "hashTag": "#rutgersu",
+    "url": "http://www.rutgers.edu/",
+    "appYears": [
+      2005,
+      2007
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Rutgers-7",
+    "regionals": [
+      "North America, 11th"
+    ]
+  },
+  "coach": {
+    "name": "Zach Langley",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Thomas Yang",
+      "altNames": [],
+      "cfHandle": "ki0apa",
+      "cfRating": 2243,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Akif Patel",
+      "altNames": [],
+      "cfHandle": "akifpatel",
+      "cfRating": 2300,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Joseph Durie",
+      "altNames": [],
+      "cfHandle": "jdurie",
+      "cfRating": 2530,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}
