@@ -1,0 +1,75 @@
+{
+  "id": 107,
+  "university": {
+    "fullName": "Universidade Estadual de Campinas",
+    "shortName": "UNICAMP",
+    "region": "Latin America",
+    "hashTag": "#UNICAMP",
+    "url": "http://www.ic.unicamp.br",
+    "appYears": [
+      2003,
+      2004,
+      2005,
+      2008,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2020,
+      2021,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Eu ja tenho meu veredito, FAKE AC",
+    "regionals": [
+      "Latin America, 3rd",
+      "Brazil, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Naim Shaikhzadeh",
+    "altNames": [],
+    "cfHandle": "NaimSS",
+    "cfRating": 2308,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2021, 2023)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Bernardo Panka Archegas",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yan Silva",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Luiz Henrique Yuji Delgado Oda",
+      "altNames": [],
+      "cfHandle": "luiz_oda",
+      "cfRating": 1856,
+      "twitterHandle": "Luiz Oda",
+      "achievements": []
+    }
+  ]
+}

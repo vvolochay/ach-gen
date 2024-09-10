@@ -1,0 +1,141 @@
+{
+  "id": 137,
+  "university": {
+    "fullName": "University of Wroclaw",
+    "shortName": "U Wroclaw",
+    "region": "Europe",
+    "hashTag": "#UWroclaw",
+    "url": "http://www.uni.wroc.pl",
+    "appYears": [
+      2005,
+      2007,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2005,
+      2019,
+      2020
+    ],
+    "bronzeYears": [
+      2016
+    ],
+    "regYears": [
+      2020
+    ]
+  },
+  "team": {
+    "name": "UWr 1",
+    "regionals": [
+      "Europe, 5th",
+      "Central Europe, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Paweł Gawrychowski",
+    "altNames": [
+      "Pawel Gawrychowski"
+    ],
+    "cfHandle": "gawry",
+    "cfRating": 2428,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC silver medal as coach (2020)",
+        "priority": 3000
+      },
+      {
+        "achievement": "World Finals coach (2011, 2014, 2021-2022)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Silver Medalist (2005)",
+        "priority": 103
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2007)",
+        "priority": 100
+      },
+      {
+        "achievement": "Google Code Jam Finalist (2005, 2006, 2008, 2012)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Finalist (2005)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Wildcard (2007, 2011)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Semifinalist (2008)",
+        "priority": 90
+      },
+      {
+        "achievement": "Facebook Hacker Cup Finalist (2011, 2012)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Collegiate Challenge Algorithm 3rd (2007)",
+        "priority": 53
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Łukasz Pluta",
+      "altNames": [],
+      "cfHandle": "natofp",
+      "cfRating": 2636,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Krzysztof Boryczka",
+      "altNames": [],
+      "cfHandle": "kobor",
+      "cfRating": 2440,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "Google Hash Code Finalist (2021)",
+          "priority": 70
+        }
+      ]
+    },
+    {
+      "name": "Antoni Buraczewski",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2023)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 63
+        }
+      ]
+    }
+  ]
+}

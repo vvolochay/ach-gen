@@ -1,0 +1,58 @@
+{
+  "id": 6,
+  "university": {
+    "fullName": "The Australian National University",
+    "shortName": "ANU",
+    "region": "Asia Pacific",
+    "hashTag": "#ANU",
+    "url": "http://cs.anu.edu.au",
+    "appYears": [
+      2015
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "ACDQ",
+    "regionals": [
+      "South Pacific Independent, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Abdolahad Noori Zehmakan",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Hadyn Tang",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Andrew Kerr",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Cormac Kikkert",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

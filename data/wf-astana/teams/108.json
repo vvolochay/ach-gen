@@ -1,0 +1,56 @@
+{
+  "id": 108,
+  "university": {
+    "fullName": "Universidade Federal de Goiás",
+    "shortName": "UFG",
+    "region": "Latin America",
+    "hashTag": "#UFG",
+    "url": "https://ufg.br"
+  },
+  "team": {
+    "name": "Monkeys: Karasuno",
+    "regionals": [
+      "Latin America, 10th",
+      "Brazil, 13th"
+    ]
+  },
+  "coach": {
+    "name": "Rafael De Castro Silva",
+    "altNames": [],
+    "cfHandle": "Rafaelcs",
+    "cfRating": 2021,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Dayllon Vinícius Xavier Lemos",
+      "altNames": [],
+      "cfHandle": "Dayllon",
+      "cfRating": 1688,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nelsi Junior",
+      "altNames": [],
+      "cfHandle": "nelsi_sousa",
+      "cfRating": 1213,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Gustavo Leal",
+      "altNames": [],
+      "cfHandle": "gustavoleal",
+      "cfRating": 2143,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

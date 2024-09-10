@@ -1,0 +1,66 @@
+{
+  "id": 26,
+  "university": {
+    "fullName": "Harbin Institute of Technology",
+    "shortName": "HIT",
+    "region": "Asia East",
+    "hashTag": "#HIT",
+    "url": "http://www.hit.edu.cn",
+    "appYears": [
+      2010,
+      2011,
+      2013,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Genshin Impact's Fault",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Dalie Sun",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2010-2011, 2013, 2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Peijian Du",
+      "altNames": [],
+      "cfHandle": "w4p3r",
+      "cfRating": 2606,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yifan Yang",
+      "altNames": [],
+      "cfHandle": "daniel14311531",
+      "cfRating": 2144,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zhanhua Qi",
+      "altNames": [],
+      "cfHandle": "FavorGew",
+      "cfRating": 2216,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

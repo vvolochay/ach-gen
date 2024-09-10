@@ -1,0 +1,138 @@
+{
+  "id": 81,
+  "university": {
+    "fullName": "Shanghai Jiao Tong University",
+    "shortName": "SJTU",
+    "region": "Asia East",
+    "hashTag": "#SJTU",
+    "url": "http://www.sjtu.edu.cn",
+    "appYears": [
+      1997,
+      1998,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [
+      2002,
+      2005,
+      2010
+    ],
+    "goldYears": [
+      2002,
+      2005,
+      2010,
+      2012,
+      2013,
+      2016
+    ],
+    "silverYears": [
+      2003,
+      2006,
+      2007,
+      2014,
+      2018
+    ],
+    "bronzeYears": [
+      2000,
+      2001,
+      2015
+    ],
+    "regYears": [
+      2002,
+      2005,
+      2006,
+      2010,
+      2012,
+      2013,
+      2016
+    ]
+  },
+  "team": {
+    "name": "Nemesis",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Yong Yu",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC win as coach (2002, 2005, 2010)",
+        "priority": 5000
+      },
+      {
+        "achievement": "ICPC gold medal as coach (2012-2013, 2016)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ICPC silver medal as coach (2003, 2006-2007, 2014, 2018)",
+        "priority": 3000
+      },
+      {
+        "achievement": "ICPC bronze medal as coach (2000-2001, 2015)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (2004, 2008-2009, 2011, 2017, 2019, 2021-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Zonghan Yang",
+      "altNames": [],
+      "cfHandle": "-14",
+      "cfRating": 2725,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mingchi Zhang",
+      "altNames": [],
+      "cfHandle": "Imakf",
+      "cfRating": 2554,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jianjun Zhang",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

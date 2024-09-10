@@ -1,0 +1,66 @@
+{
+  "id": 34,
+  "university": {
+    "fullName": "Indian Institute of Technology - Guwahati",
+    "shortName": "IIT Guwahati",
+    "region": "Asia West",
+    "hashTag": "#IITGuwahati",
+    "url": "http://www.iitg.ernet.in",
+    "appYears": [
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "cns_lena_chahiye_tha",
+    "regionals": [
+      "Asia West, 2nd",
+      "Kanpur, 7th",
+      "Amritapuri, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Chandan Karfa",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020-2021)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Dhruv Somani",
+      "altNames": [],
+      "cfHandle": "dhruvsomani",
+      "cfRating": 1755,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vikram Singla",
+      "altNames": [],
+      "cfHandle": "vikram108",
+      "cfRating": 1841,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Anindya Vijayvargeeya",
+      "altNames": [],
+      "cfHandle": "ParadigmShift",
+      "cfRating": 1678,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

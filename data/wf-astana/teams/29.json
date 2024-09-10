@@ -1,0 +1,78 @@
+{
+  "id": 29,
+  "university": {
+    "fullName": "Hunan University",
+    "shortName": "Hunan University",
+    "region": "Asia East",
+    "hashTag": "#HunanU",
+    "url": "http://www.hnu.edu.cn",
+    "appYears": [
+      2014,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Golden Legend",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Hao Wu",
+    "altNames": [],
+    "cfHandle": "qwdqkh1",
+    "cfRating": 1583,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2015, 2016)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Shukang Liao",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mingyang Zhu",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jie Su",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

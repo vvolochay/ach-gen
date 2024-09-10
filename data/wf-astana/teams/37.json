@@ -1,0 +1,89 @@
+{
+  "id": 37,
+  "university": {
+    "fullName": "Indian Institute of Technology - Madras",
+    "shortName": "IIT Madras",
+    "region": "Asia West",
+    "hashTag": "#iitmadras",
+    "url": "http://www.iitm.ac.in",
+    "appYears": [
+      2005,
+      2007,
+      2008,
+      2012,
+      2014,
+      2015,
+      2018,
+      2019,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Yorozuya Forever",
+    "regionals": [
+      "Asia West, 8th",
+      "Amritapuri, 24th",
+      "Chennai, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Rupesh Nasre",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2015, 2018-2019, 2022-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Nisanth Daniel",
+      "altNames": [],
+      "cfHandle": "Nisanth",
+      "cfRating": 2156,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Yash Bhagwat",
+      "altNames": [],
+      "cfHandle": "blitztage",
+      "cfRating": 2133,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Dronadula Teja",
+      "altNames": [],
+      "cfHandle": "Teja-Smart",
+      "cfRating": 2299,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

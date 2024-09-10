@@ -1,0 +1,77 @@
+{
+  "id": 109,
+  "university": {
+    "fullName": "Universidade Federal de Minas Gerais",
+    "shortName": "UFMG",
+    "region": "Latin America",
+    "hashTag": "#UFMG",
+    "url": "http://www.dcc.ufmg.br",
+    "appYears": [
+      2011,
+      2013,
+      2020,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "teambrbr002",
+    "regionals": [
+      "Latin America, 1st",
+      "Brazil, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Bruno Monteiro",
+    "altNames": [],
+    "cfHandle": "brunomont",
+    "cfRating": 2142,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2020)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Felipe Mota Dos Santos",
+      "altNames": [],
+      "cfHandle": "fmota",
+      "cfRating": 2675,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2018)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Emanuel Silva",
+      "altNames": [],
+      "cfHandle": "emaneru",
+      "cfRating": 2300,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Kaio Henrique Masse Vieira",
+      "altNames": [],
+      "cfHandle": "MvKaio",
+      "cfRating": 2205,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

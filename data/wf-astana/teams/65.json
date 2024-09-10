@@ -1,0 +1,63 @@
+{
+  "id": 65,
+  "university": {
+    "fullName": "National University of Defense Technology",
+    "shortName": "NUDT",
+    "region": "Asia East",
+    "hashTag": "#NUDT",
+    "url": "http://www.nudt.edu.cn",
+    "appYears": [
+      2007,
+      2008,
+      2010,
+      2012,
+      2015,
+      2016
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "ALPC_Natural_Selection",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Liangze Yin",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Jiaying Wu",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Shijia Kang",
+      "altNames": [],
+      "cfHandle": "DT_Kang",
+      "cfRating": 1917,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ziheng Wang",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 117,
+  "university": {
+    "fullName": "University of California San Diego",
+    "shortName": "UC San Diego",
+    "region": "North America",
+    "hashTag": "#ucsd",
+    "url": "http://www.ucsd.edu",
+    "appYears": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2005,
+      2009,
+      2011,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UCSD Fallen Star",
+    "regionals": [
+      "North America, 5th",
+      "South California, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Qihao Ye",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Shang Zhou",
+      "altNames": [],
+      "cfHandle": "ZhouShang2003",
+      "cfRating": 2659,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Zexing Chen",
+      "altNames": [],
+      "cfHandle": "chen_zexing",
+      "cfRating": 2635,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Stanisław Strzelecki",
+      "altNames": [],
+      "cfHandle": "stasio6",
+      "cfRating": 2354,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2017)",
+          "priority": 63
+        }
+      ]
+    }
+  ]
+}

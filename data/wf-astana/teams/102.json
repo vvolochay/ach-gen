@@ -1,0 +1,80 @@
+{
+  "id": 102,
+  "university": {
+    "fullName": "Universidad Tecnológica Nacional - Facultad Regional Santa Fe",
+    "shortName": "UTN Argentina - Santa Fe",
+    "region": "Latin America",
+    "hashTag": "#UTNSantaFe",
+    "url": "http://www.frsf.utn.edu.ar",
+    "appYears": [
+      2019,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Fruta Fresca",
+    "regionals": [
+      "Latin America, 23rd",
+      "South America-South, 10th",
+      "Argentina, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Matias Ramos",
+    "altNames": [],
+    "cfHandle": "matramos",
+    "cfRating": 1101,
+    "twitterHandle": "somartam",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2019)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mariano Feresin",
+      "altNames": [],
+      "cfHandle": "marianoferesin",
+      "cfRating": 1721,
+      "twitterHandle": "@MarianoFeresin",
+      "achievements": []
+    },
+    {
+      "name": "Federico Nahuel Quijada",
+      "altNames": [],
+      "cfHandle": "FedeNQ",
+      "cfRating": 1773,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Juan Pablo Cabaña",
+      "altNames": [],
+      "cfHandle": "JPrime",
+      "cfRating": 1504,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

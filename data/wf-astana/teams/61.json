@@ -1,0 +1,79 @@
+{
+  "id": 61,
+  "university": {
+    "fullName": "Nanjing University of Posts and Telecommunications",
+    "shortName": "NJUPT",
+    "region": "Asia East",
+    "hashTag": "#NUPT",
+    "url": "https://www.njupt.edu.cn/en/main.psp",
+    "appYears": [
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2022
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Cirtrus",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Zhi Chen",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "zhichen_cn",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yixin Chen",
+      "altNames": [],
+      "cfHandle": "ugly2333",
+      "cfRating": 3221,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Bronze Medalist (2022)",
+          "priority": 102
+        },
+        {
+          "achievement": "AtCoder World Tour Finals Finalist (2024)",
+          "priority": 90
+        }
+      ]
+    },
+    {
+      "name": "Lehan He",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Bronze Medalist (2022)",
+          "priority": 102
+        }
+      ]
+    },
+    {
+      "name": "Yizhou Zhao",
+      "altNames": [],
+      "cfHandle": "Artistic_Fantasy",
+      "cfRating": 2137,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

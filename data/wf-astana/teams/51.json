@@ -1,0 +1,80 @@
+{
+  "id": 51,
+  "university": {
+    "fullName": "Kazakh-British Technical University",
+    "shortName": "Kazakh-British TU",
+    "region": "Northern Eurasia",
+    "hashTag": "#Kazakh-BritishTU",
+    "url": "http://www.kbtu.kz",
+    "appYears": [
+      2006,
+      2011,
+      2012,
+      2013,
+      2018,
+      2019,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "DAG",
+    "regionals": [
+      "Northern Eurasia, 28th",
+      "Kazakhstan, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Alimzhan Amanov",
+    "altNames": [],
+    "cfHandle": "SimB4",
+    "cfRating": 2189,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Amanbol Kanatuly",
+      "altNames": [],
+      "cfHandle": "amanbol",
+      "cfRating": 2123,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Dinmukhamed Tursynbay",
+      "altNames": [],
+      "cfHandle": "DimmyT",
+      "cfRating": 2234,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ivane Topuria",
+      "altNames": [],
+      "cfHandle": "ivatopuria",
+      "cfRating": 2265,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

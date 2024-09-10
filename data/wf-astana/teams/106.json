@@ -1,0 +1,96 @@
+{
+  "id": 106,
+  "university": {
+    "fullName": "Universidade do Porto",
+    "shortName": "U Porto",
+    "region": "Europe",
+    "hashTag": "#UPorto",
+    "url": "https://www.up.pt/portal/en/",
+    "appYears": [
+      2019,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Heroes of the C",
+    "regionals": [
+      "Europe, 9th",
+      "Southwestern Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Pedro Ribeiro",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2019, 2023)",
+        "priority": 1000
+      },
+      {
+        "achievement": "IOI Finalist (1995, 1996, 1997, 1998)",
+        "priority": 60
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Duarte Nóbrega",
+      "altNames": [],
+      "cfHandle": "Haunted_Cpp",
+      "cfRating": 1934,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Kevin Pucci",
+      "altNames": [],
+      "cfHandle": "KLPP",
+      "cfRating": 2631,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018, 2019)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Paulo Sousa",
+      "altNames": [],
+      "cfHandle": "de_sousa",
+      "cfRating": 2138,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

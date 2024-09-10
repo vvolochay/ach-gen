@@ -1,0 +1,72 @@
+{
+  "id": 32,
+  "university": {
+    "fullName": "Indian Institute of Technology - Bombay",
+    "shortName": "IIT Bombay",
+    "region": "Asia West",
+    "hashTag": "#IITBombay",
+    "url": "http://www.iitb.ac.in",
+    "appYears": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Runtime Terrors",
+    "regionals": [
+      "Asia West, 9th",
+      "Chennai, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Swaprava Nath",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "swaprava",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Harshvardhan Agarwal",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vaibhav Raj",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Pulkit Agarwal",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

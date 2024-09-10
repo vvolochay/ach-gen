@@ -1,0 +1,65 @@
+{
+  "id": 68,
+  "university": {
+    "fullName": "Northeastern University (China)",
+    "shortName": "NEU",
+    "region": "Asia East",
+    "hashTag": "#NEU",
+    "url": "http://www.neu.edu.cn",
+    "appYears": [
+      2016,
+      2017,
+      2019
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "NEU_Vulpecula",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Xiaofeng Liu",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "zarcoder_neu",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2016-2017, 2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Shaohuang Chen",
+      "altNames": [],
+      "cfHandle": "CSHwang",
+      "cfRating": 2216,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kun Su",
+      "altNames": [],
+      "cfHandle": "Sulfox",
+      "cfRating": 2921,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yuehao Xu",
+      "altNames": [],
+      "cfHandle": "thecold",
+      "cfRating": 2362,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

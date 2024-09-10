@@ -1,0 +1,80 @@
+{
+  "id": 121,
+  "university": {
+    "fullName": "University of Engineering and Technology - VNU",
+    "shortName": "UET - VNU",
+    "region": "Asia Pacific",
+    "hashTag": "#UETVNU",
+    "url": "http://e.uet.vnu.edu.vn",
+    "appYears": [
+      2007,
+      2009,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2021
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "sudo",
+    "regionals": [
+      "Asia Pacific, 7th",
+      "Hue City, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Ho Dac Phuong",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC bronze medal as coach (2021)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (2015-2019, 2022-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Hung Pham",
+      "altNames": [],
+      "cfHandle": "HollwoQ_Pelw",
+      "cfRating": 2456,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Trung Xuan Pham",
+      "altNames": [],
+      "cfHandle": "TrungNotChung",
+      "cfRating": 2223,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Khue Hoang Ngoc Bao",
+      "altNames": [],
+      "cfHandle": "khuepr123",
+      "cfRating": 2379,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

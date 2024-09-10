@@ -1,0 +1,164 @@
+{
+  "id": 59,
+  "university": {
+    "fullName": "Moscow Institute of Physics and Technology",
+    "shortName": "MIPT",
+    "region": "Northern Eurasia",
+    "hashTag": "#PhysTech",
+    "url": "http://www.mipt.ru",
+    "appYears": [
+      2008,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [
+      2012,
+      2016,
+      2018,
+      2020,
+      2023
+    ],
+    "silverYears": [
+      2017,
+      2022
+    ],
+    "bronzeYears": [
+      2019
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Yolki-palki",
+    "regionals": [
+      "Northern Eurasia, 1st",
+      "Moscow, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Filipp Rukhovich",
+    "altNames": [
+      "Филипп Рухович",
+      "Philip Rukhovich"
+    ],
+    "cfHandle": "DPR-pavlin",
+    "cfRating": 2427,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC gold medal as coach (2023)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ICPC silver medal as coach (2022)",
+        "priority": 3000
+      },
+      {
+        "achievement": "World Finals coach (2021)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2014)",
+        "priority": 100
+      },
+      {
+        "achievement": "TopCoder High School Finalist (2009)",
+        "priority": 30
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (2014, 2016, 2017)",
+        "priority": 30
+      },
+      {
+        "achievement": "CROC Finalist (2013, 2016)",
+        "priority": 10
+      },
+      {
+        "achievement": "VK Cup Finalist (2015)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Denis Mustafin",
+      "altNames": [],
+      "cfHandle": "Kapt",
+      "cfRating": 2974,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Gold Medalist (2023)",
+          "priority": 104
+        },
+        {
+          "achievement": "Yandex.Algorithm Finalist (2023)",
+          "priority": 90
+        },
+        {
+          "achievement": "Universal Cup Summer Summit Semifinalist (2024)",
+          "priority": 70
+        },
+        {
+          "achievement": "VK Cup Finalist (2022)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Tikhon Evteev",
+      "altNames": [],
+      "cfHandle": "Tikhon228",
+      "cfRating": 2444,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Gold Medalist (2023)",
+          "priority": 104
+        },
+        {
+          "achievement": "Universal Cup Summer Summit Semifinalist (2024)",
+          "priority": 70
+        }
+      ]
+    },
+    {
+      "name": "Vsevolod Nagibin",
+      "altNames": [
+        "Всеволод Нагибин"
+      ],
+      "cfHandle": "Pechalka",
+      "cfRating": 2705,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Gold Medalist (2023)",
+          "priority": 104
+        },
+        {
+          "achievement": "Yandex.Algorithm Finalist (2023)",
+          "priority": 90
+        },
+        {
+          "achievement": "Universal Cup Summer Summit Semifinalist (2024)",
+          "priority": 70
+        },
+        {
+          "achievement": "IOI Gold Medalist (2022)",
+          "priority": 64
+        }
+      ]
+    }
+  ]
+}

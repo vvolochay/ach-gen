@@ -1,0 +1,79 @@
+{
+  "id": 90,
+  "university": {
+    "fullName": "Syrian Virtual University",
+    "shortName": "SVU",
+    "region": "Africa and Arab",
+    "hashTag": "#SVU",
+    "url": "http://www.svuonline.org",
+    "appYears": [
+      2019,
+      2020,
+      2021,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2019
+    ]
+  },
+  "team": {
+    "name": "Proven by AC",
+    "regionals": [
+      "Africa & Arab, 7th",
+      "Syria, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Hassan Alhaj Ali",
+    "altNames": [],
+    "cfHandle": "Hassan111",
+    "cfRating": 1654,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2023)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ammar Haj Ahmad Dabaan",
+      "altNames": [],
+      "cfHandle": "AmmarDab3an",
+      "cfRating": 2110,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mohamad Hallak",
+      "altNames": [],
+      "cfHandle": "The_Hallak",
+      "cfRating": 2164,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmad Alghadban",
+      "altNames": [],
+      "cfHandle": "ahmad_alghadban",
+      "cfRating": 1865,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

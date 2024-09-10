@@ -1,0 +1,61 @@
+{
+  "id": 50,
+  "university": {
+    "fullName": "Karlsruhe Institute of Technology",
+    "shortName": "KIT",
+    "region": "Europe",
+    "hashTag": "#Karlsruhe",
+    "url": "http://www.kit.edu/english/",
+    "appYears": [
+      2008,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Kindergarten Timelimit",
+    "regionals": [
+      "Europe, 18th",
+      "Northwestern Europe, 3rd",
+      "Germany, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Michael Zündorf",
+    "altNames": [],
+    "cfHandle": "MZuenni",
+    "cfRating": 2078,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Lucas Schwebler",
+      "altNames": [],
+      "cfHandle": "LuCpp",
+      "cfRating": 2692,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yidi Zang",
+      "altNames": [],
+      "cfHandle": "Anonymous_Noob",
+      "cfRating": 2390,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jonathan Dransfeld",
+      "altNames": [],
+      "cfHandle": "dranjohn",
+      "cfRating": 2269,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

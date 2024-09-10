@@ -1,0 +1,81 @@
+{
+  "id": 84,
+  "university": {
+    "fullName": "Soongsil University",
+    "shortName": "Soongsil U",
+    "region": "Asia Pacific",
+    "hashTag": "#Soongsil",
+    "url": "http://www.ssu.ac.kr",
+    "appYears": [
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "PS akgwi",
+    "regionals": [
+      "Asia Pacific, 5th",
+      "Seoul, 5th",
+      "Korea, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Cheol Hong Kim",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jeounghui Nah",
+      "altNames": [],
+      "cfHandle": "Justice_Hui",
+      "cfRating": 2100,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Joowon Oh",
+      "altNames": [],
+      "cfHandle": "JooDdae",
+      "cfRating": 2500,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Seongseo Lee",
+      "altNames": [],
+      "cfHandle": "edenooo",
+      "cfRating": 2451,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

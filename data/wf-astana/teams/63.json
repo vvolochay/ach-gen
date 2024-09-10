@@ -1,0 +1,104 @@
+{
+  "id": 63,
+  "university": {
+    "fullName": "National Research University Higher School of Economics",
+    "shortName": "HSE",
+    "region": "Northern Eurasia",
+    "hashTag": "#HSE",
+    "url": "http://hse.ru",
+    "appYears": [
+      2010,
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [
+      2023
+    ],
+    "goldYears": [
+      2022,
+      2023
+    ],
+    "silverYears": [],
+    "bronzeYears": [
+      2014,
+      2019,
+      2020,
+      2021
+    ],
+    "regYears": [
+      2021,
+      2022,
+      2023
+    ]
+  },
+  "team": {
+    "name": "Youthful Passion Fruit",
+    "regionals": [
+      "Northern Eurasia, 2nd",
+      "Moscow, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Mikhail Gustokashin",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC win as coach (2023)",
+        "priority": 5000
+      },
+      {
+        "achievement": "ICPC gold medal as coach (2022)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ICPC bronze medal as coach (2019-2021)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (2015, 2017)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Iurii Pustovalov",
+      "altNames": [],
+      "cfHandle": "talant",
+      "cfRating": 2613,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Alexey Vasilyev",
+      "altNames": [],
+      "cfHandle": "daubi",
+      "cfRating": 2935,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "VK Cup Finalist (2022)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Aleksander Nekrasov",
+      "altNames": [],
+      "cfHandle": "alexxela12345",
+      "cfRating": 2739,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

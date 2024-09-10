@@ -1,0 +1,69 @@
+{
+  "id": 1,
+  "university": {
+    "fullName": "Ain Shams University - Faculty of Computer and Information Sciences",
+    "shortName": "ASU-FCIS",
+    "region": "Africa and Arab",
+    "hashTag": "#Fciseg",
+    "url": "https://cis.asu.edu.eg/",
+    "appYears": [
+      2011,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2022
+    ]
+  },
+  "team": {
+    "name": "BA3DEN",
+    "regionals": [
+      "Africa & Arab, 4th",
+      "Egypt, 11th"
+    ]
+  },
+  "coach": {
+    "name": "Abdelrahman Khaled",
+    "altNames": [],
+    "cfHandle": "Abdelrahman_K",
+    "cfRating": 1685,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Youssef Morsi",
+      "altNames": [],
+      "cfHandle": "Youssefmorsi1",
+      "cfRating": 1637,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abdallah Sherif",
+      "altNames": [],
+      "cfHandle": "go_next",
+      "cfRating": 1854,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ziad Tarek",
+      "altNames": [],
+      "cfHandle": "zezoo050",
+      "cfRating": 1921,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 95,
+  "university": {
+    "fullName": "Ulsan National Institute of Science and Technology",
+    "shortName": "UNIST",
+    "region": "Asia Pacific",
+    "hashTag": "#UNIST",
+    "url": "http://www.unist.ac.kr",
+    "appYears": [
+      2018,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Potom",
+    "regionals": [
+      "Asia Pacific, 20th",
+      "Seoul, 10th",
+      "Korea, 9th"
+    ]
+  },
+  "coach": {
+    "name": "Hyungon Moon",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Adil Sultanov",
+      "altNames": [],
+      "cfHandle": "moonpie24",
+      "cfRating": 1925,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ildar Kanaliyev",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mansur Mukimbekov",
+      "altNames": [],
+      "cfHandle": "Mansur",
+      "cfRating": 2041,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2021)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

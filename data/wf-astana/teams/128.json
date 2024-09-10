@@ -1,0 +1,67 @@
+{
+  "id": 128,
+  "university": {
+    "fullName": "University of Science and Technology of China",
+    "shortName": "USTC",
+    "region": "Asia East",
+    "hashTag": "#USTC",
+    "url": "http://www.ustc.edu.cn/",
+    "appYears": [
+      2006,
+      2007,
+      2015,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Xitao Village Team of Silk-road City",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Guangzhong Sun",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2006, 2022-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Wenjie Hong",
+      "altNames": [],
+      "cfHandle": "Wallbreaker5th",
+      "cfRating": 2108,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "ZhaiEnHe Zhou",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yihang Guo",
+      "altNames": [],
+      "cfHandle": "Guoyh",
+      "cfRating": 2448,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

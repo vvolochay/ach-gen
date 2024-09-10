@@ -1,0 +1,87 @@
+{
+  "id": 113,
+  "university": {
+    "fullName": "University of Bergen",
+    "shortName": "Bergen",
+    "region": "Europe",
+    "hashTag": "#ShandongU",
+    "url": "http://www.uib.no",
+    "appYears": [
+      2018,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Florida Men",
+    "regionals": [
+      "Europe, 14th",
+      "Northwestern Europe, 16th"
+    ]
+  },
+  "coach": {
+    "name": "Torstein Strømme",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "tjstromme",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018, 2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Samuel Krempasky",
+      "altNames": [],
+      "cfHandle": "niktonikto717",
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Magnus Hegdahl",
+      "altNames": [],
+      "cfHandle": "magnus.hegdahl",
+      "cfRating": 2478,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2021)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Jakob Skaar",
+      "altNames": [],
+      "cfHandle": "jakobrs",
+      "cfRating": 1765,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2023)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Finalist (2022)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

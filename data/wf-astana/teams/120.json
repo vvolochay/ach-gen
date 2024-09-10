@@ -1,0 +1,74 @@
+{
+  "id": 120,
+  "university": {
+    "fullName": "University of Electronic Science and Technology of China",
+    "shortName": "UESTC",
+    "region": "Asia East",
+    "hashTag": "#UESTC",
+    "url": "http://www.uestc.edu.cn",
+    "appYears": [
+      2008,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UESTC_Guest_WiFi",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Peng Yang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2012, 2014-2017, 2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jingwei Yi",
+      "altNames": [],
+      "cfHandle": "Vingying0",
+      "cfRating": 1826,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Cheng Wang",
+      "altNames": [],
+      "cfHandle": "leukocyte",
+      "cfRating": 2507,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Chenghao Zhu",
+      "altNames": [],
+      "cfHandle": "axs7384",
+      "cfRating": 2421,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

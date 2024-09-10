@@ -1,0 +1,84 @@
+{
+  "id": 124,
+  "university": {
+    "fullName": "University of Maryland",
+    "shortName": "U Maryland",
+    "region": "North America",
+    "hashTag": "#UofMaryland",
+    "url": "http://www.umd.edu",
+    "appYears": [
+      1993,
+      2006,
+      2009,
+      2010,
+      2011,
+      2013,
+      2014,
+      2015,
+      2017,
+      2018,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UMD WHITE",
+    "regionals": [
+      "North America, 6th",
+      "Mid-Atlantic USA, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Mohammad Hajiaghayi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Colin Galen",
+      "altNames": [],
+      "cfHandle": "galen_colin",
+      "cfRating": 2641,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Shayan Chashm Jahan",
+      "altNames": [],
+      "cfHandle": "Shayan",
+      "cfRating": 2691,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Cheng-Yuan Lee",
+      "altNames": [],
+      "cfHandle": "sam571128",
+      "cfRating": 2162,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

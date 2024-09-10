@@ -1,0 +1,104 @@
+{
+  "id": 89,
+  "university": {
+    "fullName": "Swarthmore College",
+    "shortName": "Swarthmore",
+    "region": "North America",
+    "hashTag": "#Swarthmore",
+    "url": "http://www.swarthmore.edu",
+    "appYears": [
+      1996,
+      1997,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2020
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "cout<<1/0<<endl;",
+    "regionals": [
+      "North America (2022), 2nd",
+      "Mid-Atlantic USA (2021), 1st"
+    ]
+  },
+  "coach": {
+    "name": "Joshua Brody",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2021-2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Timothy Mou",
+      "altNames": [],
+      "cfHandle": "silxi",
+      "cfRating": 2148,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Runze Wang",
+      "altNames": [],
+      "cfHandle": "nitrousoxide",
+      "cfRating": 2120,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Jay Leeds",
+      "altNames": [],
+      "cfHandle": "Geothermal",
+      "cfRating": 3569,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "Facebook Hacker Cup Finalist (2020)",
+          "priority": 90
+        },
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 30
+        },
+        {
+          "achievement": "M(IT)^2 Spring Invitationals Qualified (2024)",
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}

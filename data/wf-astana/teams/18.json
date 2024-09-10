@@ -1,0 +1,72 @@
+{
+  "id": 18,
+  "university": {
+    "fullName": "Damascus University",
+    "shortName": "Damascus U",
+    "region": "Africa and Arab",
+    "hashTag": "#DamasUniv",
+    "url": "http://www.damascusuniversity.edu.sy",
+    "appYears": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "vector.pop_corn()",
+    "regionals": [
+      "Africa & Arab, 12th",
+      "Syria, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Aws Issa",
+    "altNames": [],
+    "cfHandle": "Kaitokid",
+    "cfRating": 2469,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2021, 2023)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mhd Yaser Harba",
+      "altNames": [],
+      "cfHandle": "yaser.harba",
+      "cfRating": 1555,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ahmad Hamoudeh",
+      "altNames": [],
+      "cfHandle": "Ahmad7_7",
+      "cfRating": 1622,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ismail Alrifai",
+      "altNames": [],
+      "cfHandle": "Ismail_Alrifai",
+      "cfRating": 1682,
+      "twitterHandle": "ismail__alrifai",
+      "achievements": []
+    }
+  ]
+}

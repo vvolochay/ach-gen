@@ -1,0 +1,93 @@
+{
+  "id": 115,
+  "university": {
+    "fullName": "University of California, Berkeley",
+    "shortName": "UC Berkeley",
+    "region": "North America",
+    "hashTag": "#UCBerkeley",
+    "url": "http://www.berkeley.edu",
+    "appYears": [
+      1993,
+      1994,
+      1995,
+      1996,
+      1998,
+      1999,
+      2001,
+      2002,
+      2003,
+      2009,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2023
+    ],
+    "winYears": [
+      1996
+    ],
+    "goldYears": [
+      1995,
+      1996
+    ],
+    "silverYears": [
+      1993,
+      2015
+    ],
+    "bronzeYears": [
+      1994,
+      1999
+    ],
+    "regYears": [
+      2015
+    ]
+  },
+  "team": {
+    "name": "ICPC Fans",
+    "regionals": [
+      "North America, 10th",
+      "Pacific Northwest, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Jelani Nelson",
+    "altNames": [],
+    "cfHandle": "Minilek",
+    "cfRating": 1419,
+    "twitterHandle": "minilek",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Youngmin Park",
+      "altNames": [],
+      "cfHandle": "Bungmint",
+      "cfRating": 2357,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ernest Lu",
+      "altNames": [],
+      "cfHandle": "Badint",
+      "cfRating": 2150,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vedant Kumud",
+      "altNames": [],
+      "cfHandle": "vkgainz",
+      "cfRating": 2441,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

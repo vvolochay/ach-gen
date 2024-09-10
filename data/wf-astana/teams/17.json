@@ -1,0 +1,102 @@
+{
+  "id": 17,
+  "university": {
+    "fullName": "Cornell University",
+    "shortName": "Cornell",
+    "region": "North America",
+    "hashTag": "#Cornell",
+    "url": "http://www.cornell.edu",
+    "appYears": [
+      1999,
+      2000,
+      2002,
+      2003,
+      2004,
+      2007,
+      2008,
+      2009,
+      2010,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Cornell-Kappa",
+    "regionals": [
+      "North America, 16th",
+      "Greater NY, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Haobin Ni",
+    "altNames": [
+      "Naobin Ni"
+    ],
+    "cfHandle": "TankEngineer",
+    "cfRating": 2904,
+    "twitterHandle": "HaobinNi",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Gold Medalist (2016)",
+        "priority": 104
+      },
+      {
+        "achievement": "ICPC World Finals Silver Medalist (2014)",
+        "priority": 103
+      },
+      {
+        "achievement": "Google Code Jam Finalist (2015)",
+        "priority": 90
+      },
+      {
+        "achievement": "Facebook Hacker Cup Finalist (2015)",
+        "priority": 90
+      },
+      {
+        "achievement": "CodeChef SnackDown Finalist (2015)",
+        "priority": 10
+      },
+      {
+        "achievement": "Facebook Hacker Cup Qualified (2017)",
+        "priority": 2
+      },
+      {
+        "achievement": "CodeChef SnackDown Qualified (2016)",
+        "priority": 2
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tenghao Li",
+      "altNames": [],
+      "cfHandle": "leo020828",
+      "cfRating": 1472,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Omkar Bhalerao",
+      "altNames": [],
+      "cfHandle": "qlf9",
+      "cfRating": 1902,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yi Xu",
+      "altNames": [],
+      "cfHandle": "Fujiwara_no_Mokou",
+      "cfRating": 2139,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

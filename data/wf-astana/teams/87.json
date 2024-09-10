@@ -1,0 +1,51 @@
+{
+  "id": 87,
+  "university": {
+    "fullName": "St. Petersburg State University of Industrial Technologies and Design",
+    "shortName": "SPb SUITD",
+    "region": "Northern Eurasia",
+    "hashTag": null,
+    "url": "http://sutd.ru/en"
+  },
+  "team": {
+    "name": "PMI",
+    "regionals": [
+      "Northern Eurasia, 27th",
+      "Northwestern Russia, 14th"
+    ]
+  },
+  "coach": {
+    "name": "Petr Antonyuk",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Sofya Romashenko",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Denis Akilov",
+      "altNames": [],
+      "cfHandle": "seiko.iwasawa",
+      "cfRating": 2203,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kirill Kipriyanov",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

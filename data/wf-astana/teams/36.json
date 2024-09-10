@@ -1,0 +1,73 @@
+{
+  "id": 36,
+  "university": {
+    "fullName": "Indian Institute of Technology - Kharagpur",
+    "shortName": "IIT Kharagpur",
+    "region": "Asia West",
+    "hashTag": "#IITKharagpur",
+    "url": "http://www.iitkgp.ac.in",
+    "appYears": [
+      2015,
+      2018,
+      2019,
+      2020,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "DunderMifflin",
+    "regionals": [
+      "Amritapuri, 1st",
+      "Chennai, 15th"
+    ]
+  },
+  "coach": {
+    "name": "Pawan Goyal",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018-2020, 2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Rishabh Agarwal",
+      "altNames": [],
+      "cfHandle": "rishabh_agarwal",
+      "cfRating": 2101,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Shreyan Ray",
+      "altNames": [],
+      "cfHandle": "Dominater069",
+      "cfRating": 2754,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2023)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Rishit Singhania",
+      "altNames": [],
+      "cfHandle": "rishit3234",
+      "cfRating": 2105,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 71,
+  "university": {
+    "fullName": "Osaka University",
+    "shortName": "Osaka U",
+    "region": "Asia Pacific",
+    "hashTag": "#OsakaU",
+    "url": "http://www.osaka-u.ac.jp",
+    "appYears": [
+      2016
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "kotamanegi_marunage",
+    "regionals": [
+      "Asia Pacific, 19th",
+      "Yokohama, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Yuki Imori",
+    "altNames": [
+      "Olphe"
+    ],
+    "cfHandle": "olphe",
+    "cfRating": 2290,
+    "twitterHandle": "_olphe",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Shunsuke Tomimoto",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Yuya Terashima",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Koki Aoyama",
+      "altNames": [
+        "Kotamanegi"
+      ],
+      "cfHandle": "kotamanegi",
+      "cfRating": 2233,
+      "twitterHandle": "small_onions",
+      "achievements": []
+    }
+  ]
+}

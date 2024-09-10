@@ -1,0 +1,100 @@
+{
+  "id": 79,
+  "university": {
+    "fullName": "Seoul National University",
+    "shortName": "Seoul National U",
+    "region": "Asia Pacific",
+    "hashTag": "#SNU",
+    "url": "http://www.snu.ac.kr",
+    "appYears": [
+      2001,
+      2002,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [
+      2017,
+      2020,
+      2021
+    ],
+    "silverYears": [
+      2001,
+      2018,
+      2019,
+      2022,
+      2023
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2001,
+      2017,
+      2020,
+      2022,
+      2023
+    ]
+  },
+  "team": {
+    "name": "NewTrend",
+    "regionals": [
+      "Asia Pacific, 1st",
+      "Hue City, 1st",
+      "Seoul, 3rd",
+      "Korea, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Yongsoo Song",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Seohyun Choi",
+      "altNames": [],
+      "cfHandle": "YeongTree",
+      "cfRating": 2759,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Hyunseo Jeong",
+      "altNames": [],
+      "cfHandle": "Karuna",
+      "cfRating": 2864,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jaemin Park",
+      "altNames": [],
+      "cfHandle": "arnold518",
+      "cfRating": 2573,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

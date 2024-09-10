@@ -1,0 +1,73 @@
+{
+  "id": 39,
+  "university": {
+    "fullName": "Indian Institute of Technology - Roorkee",
+    "shortName": "IIT Roorkee",
+    "region": "Asia West",
+    "hashTag": "#IITRoorkee",
+    "url": "http://www.iitr.ernet.in",
+    "appYears": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Buriburizaemon",
+    "regionals": [
+      "Asia West, 5th",
+      "Kanpur, 3rd",
+      "Amritapuri, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Balasubramanian Raman",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2013, 2018-2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Rudransh .",
+      "altNames": [],
+      "cfHandle": "fluffy_the_squirrel",
+      "cfRating": 1913,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tejas Sajwan",
+      "altNames": [],
+      "cfHandle": "BlackMamba",
+      "cfRating": 1930,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Lakshya Joshi",
+      "altNames": [],
+      "cfHandle": "Gaze_n_Miss",
+      "cfRating": 2103,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

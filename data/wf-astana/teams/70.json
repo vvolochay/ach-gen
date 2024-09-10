@@ -1,0 +1,79 @@
+{
+  "id": 70,
+  "university": {
+    "fullName": "Novosibirsk State University",
+    "shortName": "Novosibirsk SU",
+    "region": "Northern Eurasia",
+    "hashTag": "#NovosibirskSU",
+    "url": "http://www.nsu.ru",
+    "appYears": [
+      2000,
+      2002,
+      2004,
+      2005,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2013,
+      2014,
+      2017,
+      2018,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2007
+    ],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Novosibirsk SU 1: Avdim last hope",
+    "regionals": [
+      "Northern Eurasia, 19th",
+      "West Siberia, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Vladimir Isachenko",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Artyom Plyusnin",
+      "altNames": [],
+      "cfHandle": "Timonnable",
+      "cfRating": 2037,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Sophya Lylova",
+      "altNames": [],
+      "cfHandle": "Lylova",
+      "cfRating": 2086,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Anton Mokrousov",
+      "altNames": [],
+      "cfHandle": "amokrousov",
+      "cfRating": 1989,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

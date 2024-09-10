@@ -1,0 +1,80 @@
+{
+  "id": 131,
+  "university": {
+    "fullName": "The University of Texas at Austin",
+    "shortName": "UT Austin",
+    "region": "North America",
+    "hashTag": "#UTAustin",
+    "url": "http://www.utexas.edu",
+    "appYears": [
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2007,
+      2008,
+      2009,
+      2010,
+      2017,
+      2018,
+      2019,
+      2020,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "UT Orange",
+    "regionals": [
+      "North America, 13th",
+      "South-Central USA, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Trung Dang",
+    "altNames": [],
+    "cfHandle": "Kuroni",
+    "cfRating": 2760,
+    "twitterHandle": "kuroni_osu",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2021, 2023)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Caleb Hu",
+      "altNames": [],
+      "cfHandle": "bleh0.5",
+      "cfRating": 1900,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mark Wen",
+      "altNames": [],
+      "cfHandle": "mwen",
+      "cfRating": 2242,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aaryan Prakash",
+      "altNames": [],
+      "cfHandle": "fishy15",
+      "cfRating": 2177,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

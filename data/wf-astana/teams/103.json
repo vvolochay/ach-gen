@@ -1,0 +1,80 @@
+{
+  "id": 103,
+  "university": {
+    "fullName": "Universidade de São Paulo",
+    "shortName": "USP",
+    "region": "Latin America",
+    "hashTag": "#USP",
+    "url": "http://www.usp.br",
+    "appYears": [
+      1999,
+      2001,
+      2002,
+      2007,
+      2008,
+      2014,
+      2015,
+      2016,
+      2018,
+      2020,
+      2021,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2001
+    ],
+    "regYears": [
+      2001,
+      2018
+    ]
+  },
+  "team": {
+    "name": "Codando & Coringando",
+    "regionals": [
+      "Latin America, 4th",
+      "Brazil, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Enrique Junchaya",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Willian Miura Mori",
+      "altNames": [],
+      "cfHandle": "wnmrmr",
+      "cfRating": 2291,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Luan Ícaro Pinto Arcanjo",
+      "altNames": [],
+      "cfHandle": "LipArcanjo",
+      "cfRating": 2530,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nathan Martins",
+      "altNames": [],
+      "cfHandle": "nathan_luiz",
+      "cfRating": 2340,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 25,
+  "university": {
+    "fullName": "Hanoi University of Science and Technology",
+    "shortName": "HUST",
+    "region": "Asia Pacific",
+    "hashTag": "#HUST",
+    "url": "https://hust.edu.vn",
+    "appYears": [
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "HUST Kite",
+    "regionals": [
+      "Asia Pacific, 16th",
+      "Hue City, 15th"
+    ]
+  },
+  "coach": {
+    "name": "Hung Nguyen An",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2021)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Hoang Tien Pham",
+      "altNames": [],
+      "cfHandle": "Lyde",
+      "cfRating": 2263,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dũng Nguyễn Tấn",
+      "altNames": [],
+      "cfHandle": "ntdung",
+      "cfRating": 2139,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Anh Tien Nguyen",
+      "altNames": [],
+      "cfHandle": "KarD1m",
+      "cfRating": 1549,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

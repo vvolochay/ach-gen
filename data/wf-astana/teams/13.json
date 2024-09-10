@@ -1,0 +1,51 @@
+{
+  "id": 13,
+  "university": {
+    "fullName": "Carnegie Mellon University in Qatar",
+    "shortName": "CMUQ",
+    "region": "Africa and Arab",
+    "hashTag": null,
+    "url": "http://www.qatar.cmu.edu/"
+  },
+  "team": {
+    "name": "Andrey+2",
+    "regionals": [
+      "Africa & Arab, 14th",
+      "Qatar, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Giselle Reis",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Gulnaz Serikbay",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Andrey Genze",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ulan Seitkaliyev",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

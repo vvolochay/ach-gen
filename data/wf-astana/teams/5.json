@@ -1,0 +1,88 @@
+{
+  "id": 5,
+  "university": {
+    "fullName": "Astana IT University",
+    "shortName": "AITU",
+    "region": "Northern Eurasia",
+    "hashTag": "#AstanaItUniversity",
+    "url": "https://astanait.edu.kz/en",
+    "appYears": [
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "jaujurek 3 bala",
+    "regionals": [
+      "Northern Eurasia, 14th",
+      "Kazakhstan, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Temirlan Satylkhanov",
+    "altNames": [],
+    "cfHandle": "Tima",
+    "cfRating": 2377,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022-2023)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2019)",
+        "priority": 100
+      },
+      {
+        "achievement": "VK Cup Finalist (2017)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Narkhan Kamzabek",
+      "altNames": [],
+      "cfHandle": "nkamzabek",
+      "cfRating": 1843,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Daulet Biakhmet",
+      "altNames": [],
+      "cfHandle": "dolbaeb",
+      "cfRating": 2269,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Dinmukhamed Oralkhanov",
+      "altNames": [],
+      "cfHandle": "dimachine",
+      "cfRating": 2107,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

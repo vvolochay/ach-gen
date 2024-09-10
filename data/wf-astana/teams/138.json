@@ -1,0 +1,111 @@
+{
+  "id": 138,
+  "university": {
+    "fullName": "University of Zagreb",
+    "shortName": "Zagreb",
+    "region": "Europe",
+    "hashTag": "#ZagrebU",
+    "url": "http://www.unizg.hr",
+    "appYears": [
+      2008,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2008,
+      2014,
+      2015
+    ],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Zagreb",
+    "regionals": [
+      "Europe, 2nd",
+      "Central Europe, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Krešimir Malnar",
+    "altNames": [
+      "Kresimir Malnar"
+    ],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC silver medal as coach (2015)",
+        "priority": 3000
+      },
+      {
+        "achievement": "World Finals coach (2016-2017, 2019)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Patrick Pavić",
+      "altNames": [],
+      "cfHandle": "ppavic",
+      "cfRating": 2755,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2020, 2021, 2022)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Dorijan Lendvaj",
+      "altNames": [],
+      "cfHandle": "dorijanlendvaj",
+      "cfRating": 3021,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Gold Medalist (2021, 2022)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Krešimir Nežmah",
+      "altNames": [],
+      "cfHandle": "keko37",
+      "cfRating": 2313,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2019, 2020)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2021)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

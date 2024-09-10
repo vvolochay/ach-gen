@@ -1,0 +1,135 @@
+{
+  "id": 118,
+  "university": {
+    "fullName": "University of Cambridge",
+    "shortName": "Cambridge",
+    "region": "Europe",
+    "hashTag": "#Cambridge",
+    "url": "http://www.cam.ac.uk",
+    "appYears": [
+      2009,
+      2014,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2020
+    ],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Trinity's Trinity",
+    "regionals": [
+      "Europe, 13th",
+      "Northwestern Europe, 10th",
+      "UK & Ireland, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Dimitrije Erdeljan",
+    "altNames": [],
+    "cfHandle": "dd__",
+    "cfRating": 2243,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2018)",
+        "priority": 100
+      },
+      {
+        "achievement": "IOI Silver Medalist (2014, 2015)",
+        "priority": 63
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2013)",
+        "priority": 62
+      },
+      {
+        "achievement": "Google Hash Code Finalist (2017)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Fredrik Ekholm",
+      "altNames": [],
+      "cfHandle": "fredrik.w.ekholm",
+      "cfRating": 2291,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018, 2019, 2020)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2017)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Matej Urban",
+      "altNames": [],
+      "cfHandle": "Maturvo",
+      "cfRating": 2318,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Gold Medalist (2021)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Joël Benjamin Huber",
+      "altNames": [
+        "Joël Huber"
+      ],
+      "cfHandle": "johutha",
+      "cfRating": 2484,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Gold Medalist (2021)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        }
+      ]
+    }
+  ]
+}

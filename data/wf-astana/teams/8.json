@@ -1,0 +1,110 @@
+{
+  "id": 8,
+  "university": {
+    "fullName": "Belarusian State University",
+    "shortName": "Belarusian SU",
+    "region": "Northern Eurasia",
+    "hashTag": "#BelarusianSU",
+    "url": "http://www.bsu.by",
+    "appYears": [
+      1999,
+      2000,
+      2002,
+      2003,
+      2004,
+      2005,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [
+      2004
+    ],
+    "silverYears": [
+      2012,
+      2013,
+      2020
+    ],
+    "bronzeYears": [
+      2008
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Belarusian SU 1: Last hope",
+    "regionals": [
+      "Northern Eurasia, 13th",
+      "Belarus, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Vladimir Kotov",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC gold medal as coach (2004)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ICPC silver medal as coach (2012-2013, 2020)",
+        "priority": 3000
+      },
+      {
+        "achievement": "ICPC bronze medal as coach (2008)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (1999-2000, 2002-2003, 2005, 2007, 2009-2011, 2014-2016, 2018-2019, 2021, 2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Uladzislau Koshchanka",
+      "altNames": [],
+      "cfHandle": "MathBoy",
+      "cfRating": 2008,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Andrei Kastsiany",
+      "altNames": [],
+      "cfHandle": "VEGAnn",
+      "cfRating": 2405,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2021)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Anton Kharasau",
+      "altNames": [],
+      "cfHandle": "ne4eHbKa",
+      "cfRating": 2131,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

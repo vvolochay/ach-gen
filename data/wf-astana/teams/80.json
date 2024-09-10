@@ -1,0 +1,76 @@
+{
+  "id": 80,
+  "university": {
+    "fullName": "Shahjalal University of Science and Technology",
+    "shortName": "SUST",
+    "region": "Asia West",
+    "hashTag": "#SUST",
+    "url": "http://www.sust.edu",
+    "appYears": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "SUST_GuessForces",
+    "regionals": [
+      "Asia West, 3rd",
+      "Dhaka, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "A. K. M. Fakhrul Hossain",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Md. Shajalal Sohag",
+      "altNames": [],
+      "cfHandle": "YouKn0wWho",
+      "cfRating": 2250,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Shaikat Hosen",
+      "altNames": [],
+      "cfHandle": "Raiden",
+      "cfRating": 2103,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mozaddede Alfeh Sani",
+      "altNames": [],
+      "cfHandle": "Alfeh",
+      "cfRating": 2354,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}
