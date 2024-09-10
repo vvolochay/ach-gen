@@ -1,0 +1,56 @@
+{
+  "id": 45,
+  "university": {
+    "fullName": "ITESM Campus Guadalajara",
+    "shortName": "ITESM GDA",
+    "region": "Latin America",
+    "hashTag": null,
+    "url": "http://www.gda.itesm.mx"
+  },
+  "team": {
+    "name": "Borregos Salvajes",
+    "regionals": [
+      "Latin America, 22nd",
+      "Mexico, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Aida Crystal Rodriguez Soto",
+    "altNames": [],
+    "cfHandle": "crystaalroo",
+    "cfRating": 1529,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2021, 2022)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Carlos David Amezcua Canales",
+      "altNames": [],
+      "cfHandle": "cdamezcua",
+      "cfRating": 1654,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Karla Rebeca Munguía Romero",
+      "altNames": [],
+      "cfHandle": "karlamun",
+      "cfRating": 1820,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Germán Andrés Jaramillo Ramírez",
+      "altNames": [],
+      "cfHandle": "germanking6",
+      "cfRating": 1471,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 135,
+  "university": {
+    "fullName": "University of Washington",
+    "shortName": "U of Washington",
+    "region": "North America",
+    "hashTag": "#universityofwashington",
+    "url": "http://www.washington.edu",
+    "appYears": [
+      1997,
+      2000,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [
+      1997
+    ],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "KKSK",
+    "regionals": [
+      "North America, 12th",
+      "Pacific Northwest, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Milin Kodnongbua",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2022)",
+        "priority": 100
+      },
+      {
+        "achievement": "IOI Bronze Medalist (2018)",
+        "priority": 62
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Kaiyuan Liu",
+      "altNames": [],
+      "cfHandle": "Tohsaka_Sakura",
+      "cfRating": 2214,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jiyuan Qi",
+      "altNames": [],
+      "cfHandle": "Rico64",
+      "cfRating": 2080,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Jun Xing Go",
+      "altNames": [],
+      "cfHandle": "Evirir",
+      "cfRating": 2128,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

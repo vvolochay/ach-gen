@@ -1,0 +1,69 @@
+{
+  "id": 100,
+  "university": {
+    "fullName": "Universidad Nacional de Ingeniería - FC",
+    "shortName": "UNI-FC",
+    "region": "Latin America",
+    "hashTag": "#UNI",
+    "url": "http://fc.uni.edu.pe/",
+    "appYears": [
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Rating is just a number",
+    "regionals": [
+      "Latin America, 12th",
+      "South America-South, 11th"
+    ]
+  },
+  "coach": {
+    "name": "Miguel Alessandro Miní Huambachano",
+    "altNames": [],
+    "cfHandle": "Bashca",
+    "cfRating": 2102,
+    "twitterHandle": "@Threat1995",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2019)",
+        "priority": 100
+      },
+      {
+        "achievement": "ICPC World Finals Invitational Finalist (2020)",
+        "priority": 30
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ricardo Ulloa Vega",
+      "altNames": [],
+      "cfHandle": "bardend",
+      "cfRating": 1454,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mijail Poccohuanca",
+      "altNames": [],
+      "cfHandle": "mika_uwu",
+      "cfRating": 2136,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Emanuel Soto Ortega",
+      "altNames": [],
+      "cfHandle": "Cegax",
+      "cfRating": 2149,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": 2,
+  "university": {
+    "fullName": "Applied Science Private University",
+    "shortName": "ASU",
+    "region": "Africa and Arab",
+    "hashTag": "#ASPUJordan",
+    "url": "http://www.asu.edu.jo",
+    "appYears": [
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "arealteam",
+    "regionals": [
+      "Africa & Arab, 1st",
+      "Jordan, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Mohammad Hijjawi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mohammad Kilani",
+      "altNames": [
+        "Mohammad Alkilani"
+      ],
+      "cfHandle": "Kilani",
+      "cfRating": 2582,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2021)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2016, 2017)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Ayoub Abuasbeh",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Asem Tuffaha",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

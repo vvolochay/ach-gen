@@ -1,0 +1,147 @@
+{
+  "id": 134,
+  "university": {
+    "fullName": "University of Warsaw",
+    "shortName": "U Warsaw",
+    "region": "Europe",
+    "hashTag": "#UWarsaw",
+    "url": "http://www.uw.edu.pl",
+    "appYears": [
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [
+      2003,
+      2007
+    ],
+    "goldYears": [
+      2003,
+      2007,
+      2012,
+      2017,
+      2019
+    ],
+    "silverYears": [
+      2001,
+      2006,
+      2010,
+      2013,
+      2014,
+      2016,
+      2021
+    ],
+    "bronzeYears": [
+      1998,
+      2004,
+      2009,
+      2015,
+      2023
+    ],
+    "regYears": [
+      2003,
+      2007,
+      2018,
+      2019
+    ]
+  },
+  "team": {
+    "name": "Warsaw Eagles 2024",
+    "regionals": [
+      "Europe, 1st",
+      "Central Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Krzysztof Diks",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC bronze medal as coach (2023)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (2020, 2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tomasz Nowak",
+      "altNames": [],
+      "cfHandle": "tnowak",
+      "cfRating": 2310,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Bronze Medalist (2023)",
+          "priority": 102
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2020)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Bartłomiej Czarkowski",
+      "altNames": [],
+      "cfHandle": "Asymmetry",
+      "cfRating": 2472,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Bronze Medalist (2023)",
+          "priority": 102
+        },
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Arkadiusz Czarkowski",
+      "altNames": [],
+      "cfHandle": "Markadiusz",
+      "cfRating": 2348,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Bronze Medalist (2023)",
+          "priority": 102
+        }
+      ]
+    }
+  ]
+}

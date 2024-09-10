@@ -1,0 +1,51 @@
+{
+  "id": 105,
+  "university": {
+    "fullName": "Universidade do Estado de Santa Catarina",
+    "shortName": "UDESC",
+    "region": "Latin America",
+    "hashTag": null,
+    "url": "http://www.udesc.br"
+  },
+  "team": {
+    "name": "Não Treinamos o João",
+    "regionals": [
+      "Latin America, 19th",
+      "Brazil, 14th"
+    ]
+  },
+  "coach": {
+    "name": "Karina Girardi Roggia",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "kaqui",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Eric Grochowicz",
+      "altNames": [],
+      "cfHandle": "ericg",
+      "cfRating": 1602,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "João Marcos De Oliveira",
+      "altNames": [],
+      "cfHandle": "joaozao",
+      "cfRating": 2034,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Enzo Rodrigues",
+      "altNames": [],
+      "cfHandle": "nzo",
+      "cfRating": 2051,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

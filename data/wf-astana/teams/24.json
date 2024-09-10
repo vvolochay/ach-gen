@@ -1,0 +1,80 @@
+{
+  "id": 24,
+  "university": {
+    "fullName": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+    "shortName": "GIK Institute",
+    "region": "Asia West",
+    "hashTag": "#AIESECGIKI",
+    "url": null,
+    "appYears": [
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "AC47",
+    "regionals": [
+      "Asia West, 26th",
+      "Topi, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Jalees Ur Rahman",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Hamza Hasan Ellahie",
+      "altNames": [],
+      "cfHandle": "h_squared",
+      "cfRating": 2134,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mujtaba Omar",
+      "altNames": [],
+      "cfHandle": "stakudog",
+      "cfRating": 1353,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Syed Basim Mehmood",
+      "altNames": [],
+      "cfHandle": "Simba",
+      "cfRating": 1265,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 141,
+  "university": {
+    "fullName": "Yerevan State University",
+    "shortName": "Yerevan SU",
+    "region": "Northern Eurasia",
+    "hashTag": "#YSU",
+    "url": "http://www.ysu.am",
+    "appYears": [
+      2017,
+      2020,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "SD3",
+    "regionals": [
+      "Northern Eurasia, 15th",
+      "Armenia, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Armen Andreasyan",
+    "altNames": [],
+    "cfHandle": "armand",
+    "cfRating": 1685,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2017)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Samvel Andreasyan",
+      "altNames": [],
+      "cfHandle": "Andreasyan",
+      "cfRating": 2598,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Robert Kocharyan",
+      "altNames": [],
+      "cfHandle": "mcdx9524",
+      "cfRating": 2215,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Hamlet Petrosyan",
+      "altNames": [],
+      "cfHandle": "erankyun",
+      "cfRating": 1873,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2022)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2023)",
+          "priority": 60
+        },
+        {
+          "achievement": "IMO Gold Medalist (2023)",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 44,
+  "university": {
+    "fullName": "International IT University",
+    "shortName": "IITU",
+    "region": "Northern Eurasia",
+    "hashTag": "#IITU",
+    "url": "http://www.iitu.kz",
+    "appYears": [
+      2013,
+      2014,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "KAZAKHSTAN",
+    "regionals": [
+      "Northern Eurasia, 24th",
+      "Kazakhstan, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Yeskendir Sultanov",
+    "altNames": [],
+    "cfHandle": "Messi",
+    "cfRating": 1938,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2019-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Temirkhan Zimanov",
+      "altNames": [],
+      "cfHandle": "HCPS42",
+      "cfRating": 2196,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Alikhan Zimanov",
+      "altNames": [],
+      "cfHandle": "sstrong",
+      "cfRating": 2580,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Fedor Popov",
+      "altNames": [],
+      "cfHandle": "trainwithoutpain",
+      "cfRating": 2247,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

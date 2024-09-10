@@ -1,0 +1,89 @@
+{
+  "id": 77,
+  "university": {
+    "fullName": "Saarland University",
+    "shortName": "UdS",
+    "region": "Europe",
+    "hashTag": "#SAAR",
+    "url": "http://www.uni-sb.de",
+    "appYears": [
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "<(OvO)>",
+    "regionals": [
+      "Europe, 22nd",
+      "Northwestern Europe, 2nd",
+      "Germany, 17th"
+    ]
+  },
+  "coach": {
+    "name": "Julian Baldus",
+    "altNames": [
+      "Juliane Baldus"
+    ],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2014)",
+        "priority": 100
+      },
+      {
+        "achievement": "Google Hash Code Finalist (2019, 2021)",
+        "priority": 70
+      },
+      {
+        "achievement": "IOI Silver Medalist (2013)",
+        "priority": 63
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Asadullo Ganiev",
+      "altNames": [],
+      "cfHandle": "solvemproblr",
+      "cfRating": 1606,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2018, 2019)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Niklas Mück",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Janine Lohse",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2018)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

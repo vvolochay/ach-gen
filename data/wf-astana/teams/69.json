@@ -1,0 +1,79 @@
+{
+  "id": 69,
+  "university": {
+    "fullName": "Northwestern Polytechnical University",
+    "shortName": "NWPU",
+    "region": "Asia East",
+    "hashTag": "#NWPU",
+    "url": "http://www.nwpu.edu.cn",
+    "appYears": [
+      2018,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Favour",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Xuefeng Jiang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "xajxf",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tianshu Li",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Jiutao Chi",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Haoyang Xu",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

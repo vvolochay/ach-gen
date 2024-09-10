@@ -1,0 +1,91 @@
+{
+  "id": 83,
+  "university": {
+    "fullName": "Skolkovo Institute of Science and Technology",
+    "shortName": "Skoltech",
+    "region": "Northern Eurasia",
+    "hashTag": null,
+    "url": "http://www.skoltech.ru"
+  },
+  "team": {
+    "name": "Caravella",
+    "regionals": [
+      "Northern Eurasia, 21st",
+      "Moscow, 53rd"
+    ]
+  },
+  "coach": {
+    "name": "Ivan Safonov",
+    "altNames": [
+      "Иван Сафонов"
+    ],
+    "cfHandle": "isaf27",
+    "cfRating": 3110,
+    "twitterHandle": "isaf27",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Gold Medalist (2022)",
+        "priority": 104
+      },
+      {
+        "achievement": "ICPC World Finals Bronze Medalist (2020, 2021)",
+        "priority": 102
+      },
+      {
+        "achievement": "Yandex.Algorithm Semifinalist (2023)",
+        "priority": 90
+      },
+      {
+        "achievement": "Google Hash Code Finalist (2020, 2021, 2022)",
+        "priority": 70
+      },
+      {
+        "achievement": "VK Cup Finalist (2020, 2021, 2022)",
+        "priority": 10
+      },
+      {
+        "achievement": "CodeChef SnackDown Finalist (2021)",
+        "priority": 10
+      },
+      {
+        "achievement": "VK Cup Qualified (2018)",
+        "priority": 2
+      },
+      {
+        "achievement": "Universal Cup Summer Summit Qualified (2024)",
+        "priority": 2
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Nikita Morozov",
+      "altNames": [],
+      "cfHandle": "madn",
+      "cfRating": 2126,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ekaterina Fadeeva",
+      "altNames": [],
+      "cfHandle": "kek1234",
+      "cfRating": 2141,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2019)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Artur Goldman",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

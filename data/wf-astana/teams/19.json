@@ -1,0 +1,100 @@
+{
+  "id": 19,
+  "university": {
+    "fullName": "École Normale Supérieure de Paris",
+    "shortName": "ENS Paris",
+    "region": "Europe",
+    "hashTag": "#ENS_Ulm",
+    "url": "http://www.ens.fr",
+    "appYears": [
+      2010,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2021
+    ],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "ENS Ulm 1",
+    "regionals": [
+      "Europe, 6th",
+      "Southwestern Europe, 10th"
+    ]
+  },
+  "coach": {
+    "name": "Hadrien Barral",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC silver medal as coach (2021)",
+        "priority": 3000
+      },
+      {
+        "achievement": "World Finals coach (2017-2018, 2022-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Justin Cahuzac",
+      "altNames": [],
+      "cfHandle": "JeanBombeur",
+      "cfRating": 2219,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2021)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Sven Meyer",
+      "altNames": [],
+      "cfHandle": "mcfr",
+      "cfRating": 2108,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2020)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Hugo Peyraud-Magnin",
+      "altNames": [],
+      "cfHandle": "hugopm",
+      "cfRating": 2211,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 63
+        }
+      ]
+    }
+  ]
+}

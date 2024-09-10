@@ -1,0 +1,84 @@
+{
+  "id": 67,
+  "university": {
+    "fullName": "Nazarbayev University",
+    "shortName": "Nazarbayev U",
+    "region": "Northern Eurasia",
+    "hashTag": "#NUedukz",
+    "url": "http://nu.edu.kz/",
+    "appYears": [
+      2014,
+      2015,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "AITPAU",
+    "regionals": [
+      "Northern Eurasia, 34th",
+      "Kazakhstan, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Rauan Omarov",
+    "altNames": [],
+    "cfHandle": "krauch",
+    "cfRating": 2128,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2023)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Altair Ashurov",
+      "altNames": [],
+      "cfHandle": "fractal",
+      "cfRating": 2197,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2021)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Zhambyl Maksotov",
+      "altNames": [],
+      "cfHandle": "seduneon",
+      "cfRating": 2055,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2022)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2021)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Almaz Shinbay",
+      "altNames": [],
+      "cfHandle": "shinbay",
+      "cfRating": 2082,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

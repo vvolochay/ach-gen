@@ -1,0 +1,89 @@
+{
+  "id": 101,
+  "university": {
+    "fullName": "Universidad Nacional de Rosario",
+    "shortName": "UNR",
+    "region": "Latin America",
+    "hashTag": "#UNR",
+    "url": "http://www.unr.edu.ar",
+    "appYears": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2016
+    ]
+  },
+  "team": {
+    "name": "Don Gato",
+    "regionals": [
+      "Latin America, 13th",
+      "South America-South, 4th",
+      "Argentina, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Mariano Crosetti",
+    "altNames": [],
+    "cfHandle": "mariano22",
+    "cfRating": 2009,
+    "twitterHandle": "CrosettiMariano",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2019, 2023)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2015, 2016)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Franco De Rico",
+      "altNames": [],
+      "cfHandle": "Fran2001",
+      "cfRating": 1912,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Sebastián Mestre",
+      "altNames": [],
+      "cfHandle": "estoy-re-sebado",
+      "cfRating": 1999,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2018, 2019, 2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Federico Bersano",
+      "altNames": [],
+      "cfHandle": "Tainel",
+      "cfRating": 1977,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

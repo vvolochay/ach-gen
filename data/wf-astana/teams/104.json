@@ -1,0 +1,71 @@
+{
+  "id": 104,
+  "university": {
+    "fullName": "Universidade de São Paulo - Campus de São Carlos",
+    "shortName": "USP - São Carlos",
+    "region": "Latin America",
+    "hashTag": "#USP-ICMC",
+    "url": "http://www.icmc.usp.br",
+    "appYears": [
+      2013,
+      2014,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "que time é teu?",
+    "regionals": [
+      "Latin America, 6th",
+      "Brazil, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Andre Fakhoury",
+    "altNames": [],
+    "cfHandle": "fakhoury",
+    "cfRating": 1960,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2021, 2022)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Thiago Queiroz",
+      "altNames": [],
+      "cfHandle": "ThiagoSDQ",
+      "cfRating": 1685,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kenzo Nobre",
+      "altNames": [],
+      "cfHandle": "kenzo.nobre",
+      "cfRating": 1691,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dikson Santos",
+      "altNames": [],
+      "cfHandle": "nitor",
+      "cfRating": 1817,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

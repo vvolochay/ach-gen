@@ -1,0 +1,70 @@
+{
+  "id": 3,
+  "university": {
+    "fullName": "Arab Academy for Science, Technology and Maritime Transport - Cairo",
+    "shortName": "AASTMT-Cairo",
+    "region": "Africa and Arab",
+    "hashTag": "#AASTMT-Cairo",
+    "url": "https://aast.edu/en/campuses/heliopolis/",
+    "appYears": [
+      2021,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Retired but Not Tired",
+    "regionals": [
+      "Africa & Arab, 9th",
+      "Egypt, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Mahmoud",
+    "altNames": [],
+    "cfHandle": "fegla",
+    "cfRating": 1392,
+    "twitterHandle": "wahabfegla",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mostafa Emad",
+      "altNames": [],
+      "cfHandle": "Eddard",
+      "cfRating": 2357,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Anas Ibrahim",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abdel-Aziz Mostafa",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

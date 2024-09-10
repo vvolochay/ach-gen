@@ -1,0 +1,66 @@
+{
+  "id": 76,
+  "university": {
+    "fullName": "Rutgers University",
+    "shortName": "Rutgers Uni.",
+    "region": "North America",
+    "hashTag": "#rutgersu",
+    "url": "http://www.rutgers.edu/",
+    "appYears": [
+      2005,
+      2007,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Rutgers-carpcarpcarpcarpcarp",
+    "regionals": [
+      "North America, 11th",
+      "Greater NY, 7th"
+    ]
+  },
+  "coach": {
+    "name": "Zach Langley",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Thomas Yang",
+      "altNames": [],
+      "cfHandle": "bobbilyking",
+      "cfRating": 2229,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nicholas Belov",
+      "altNames": [],
+      "cfHandle": "nickbelov",
+      "cfRating": 2175,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Eric Yang",
+      "altNames": [],
+      "cfHandle": "PMPuns",
+      "cfRating": 2165,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

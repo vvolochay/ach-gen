@@ -1,0 +1,53 @@
+{
+  "id": 0,
+  "university": {
+    "fullName": "Kateb University",
+    "shortName": "KATEB",
+    "region": "Asia West",
+    "hashTag": "#UniversityKateb",
+    "url": "http://kateb.edu.af"
+  },
+  "team": {
+    "name": "BITFOCUS",
+    "regionals": null
+  },
+  "coach": {
+    "name": "Mohmmad Qasim Hussaini",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ali Tareq Farhadi",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Rahmat Soltani",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mohammad Mahdi Lalee",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

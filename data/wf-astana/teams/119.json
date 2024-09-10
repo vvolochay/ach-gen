@@ -1,0 +1,93 @@
+{
+  "id": 119,
+  "university": {
+    "fullName": "University of Dhaka",
+    "shortName": "DU",
+    "region": "Asia West",
+    "hashTag": "#UnivofDhaka",
+    "url": "http://www.du.ac.bd",
+    "appYears": [
+      2006,
+      2009,
+      2017,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "DU__Ascending___",
+    "regionals": [
+      "Asia West, 7th",
+      "Dhaka, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Md Mahmudur Rahman",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Ayon Shahrier",
+      "altNames": [],
+      "cfHandle": "serotonin",
+      "cfRating": 2175,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Jubayer Rahman",
+      "altNames": [],
+      "cfHandle": "Alpha_Q",
+      "cfRating": 2181,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020, 2022)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2017)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2016)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Nayeemul Islam Swad",
+      "altNames": [],
+      "cfHandle": "DrSwad",
+      "cfRating": 2251,
+      "twitterHandle": "DrSwad",
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2021)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

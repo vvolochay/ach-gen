@@ -1,0 +1,88 @@
+{
+  "id": 12,
+  "university": {
+    "fullName": "Cairo University - Faculty of Computers and Artificial Intelligence",
+    "shortName": "CU-FCAI",
+    "region": "Africa and Arab",
+    "hashTag": "#Cairo-FCI",
+    "url": "https://fcai.cu.edu.eg/",
+    "appYears": [
+      2002,
+      2004,
+      2006,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2016
+    ]
+  },
+  "team": {
+    "name": "El Teeran El Hayga",
+    "regionals": [
+      "Africa & Arab, 3rd",
+      "Egypt, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Yasser Ezat",
+    "altNames": [
+      "Mohammad Yasser"
+    ],
+    "cfHandle": "Mohammad_Yasser",
+    "cfRating": 2137,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018, 2023)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2016, 2017)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Hazem Adel",
+      "altNames": [],
+      "cfHandle": "RaiseFromDeath",
+      "cfRating": 1763,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Abdelrahman Gamal",
+      "altNames": [],
+      "cfHandle": "Gamal74",
+      "cfRating": 2174,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Beshoy Hany",
+      "altNames": [],
+      "cfHandle": "Drakkon",
+      "cfRating": 2145,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 20,
+  "university": {
+    "fullName": "Ecole Polytechnique",
+    "shortName": "EP",
+    "region": "Europe",
+    "hashTag": "#Polytechnique",
+    "url": "http://www.polytechnique.fr/",
+    "appYears": [
+      2002,
+      2020,
+      2021,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "cnXtv",
+    "regionals": [
+      "Europe, 21st",
+      "Southwestern Europe, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Jill-Jênn Vie",
+    "altNames": [],
+    "cfHandle": "jill-jenn",
+    "cfRating": 1724,
+    "twitterHandle": "jjvie",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Flaviu-Cristian Verde",
+      "altNames": [],
+      "cfHandle": "Kripton2005",
+      "cfRating": 1827,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Luca Metehau",
+      "altNames": [],
+      "cfHandle": "Lemur95",
+      "cfRating": 2111,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Luca Perju Verzotti",
+      "altNames": [],
+      "cfHandle": "lucaperju",
+      "cfRating": 2681,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

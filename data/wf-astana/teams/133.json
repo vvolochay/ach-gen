@@ -1,0 +1,72 @@
+{
+  "id": 133,
+  "university": {
+    "fullName": "University of Virginia",
+    "shortName": "U Virginia",
+    "region": "North America",
+    "hashTag": "#UVA",
+    "url": "http://www.virginia.edu/",
+    "appYears": [
+      1999,
+      2001,
+      2003,
+      2009,
+      2010,
+      2011,
+      2013,
+      2014,
+      2016
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Gourd Zero",
+    "regionals": [
+      "North America, 18th",
+      "Mid-Atlantic USA, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Charles Reiss",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2006)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Nicholas Winschel",
+      "altNames": [],
+      "cfHandle": "nicksms",
+      "cfRating": 2485,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Richard Wang",
+      "altNames": [],
+      "cfHandle": "Richw818",
+      "cfRating": 2118,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Chase Hildebrand",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

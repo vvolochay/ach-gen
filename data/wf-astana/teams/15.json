@@ -1,0 +1,63 @@
+{
+  "id": 15,
+  "university": {
+    "fullName": "The Chinese University of Hong Kong, Shenzhen",
+    "shortName": "CUHKSZ",
+    "region": "Asia East",
+    "hashTag": "#CUHKSZ",
+    "url": "https://www.cuhk.edu.cn",
+    "appYears": [
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "CUHK-SZ: (TBD)",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Yixiang Fang",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Hanfei Chen",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "He Runyuan",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Zirong Zeng",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

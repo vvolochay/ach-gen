@@ -1,0 +1,74 @@
+{
+  "id": 41,
+  "university": {
+    "fullName": "Institut Supérieur d'Informatique",
+    "shortName": "ISI",
+    "region": "Africa and Arab",
+    "hashTag": "#ISI",
+    "url": "http://www.isi.rnu.tn/",
+    "appYears": [
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "eBsilong",
+    "regionals": [
+      "Africa & Arab, 11th",
+      "Tunisia, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Mohamed Aziz Belhaj Amor",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Saif Allah Ben Khelil",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Yassine Hajji",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Smiri Med Aziz",
+      "altNames": [],
+      "cfHandle": "SMIrrichto",
+      "cfRating": 2164,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 123,
+  "university": {
+    "fullName": "The University of Jordan",
+    "shortName": "UJ",
+    "region": "Africa and Arab",
+    "hashTag": "#UJ",
+    "url": "http://www.ju.edu.jo",
+    "appYears": [
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Where you at & how much you have",
+    "regionals": [
+      "Africa & Arab (2022), 23rd",
+      "Jordan (2022), 1st"
+    ]
+  },
+  "coach": {
+    "name": "Heba Saadeh",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Muhannad Alwarawreh",
+      "altNames": [],
+      "cfHandle": "Warawreh",
+      "cfRating": 2102,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2018)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Salem Warawreh",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Khaled Abu Sarhan",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

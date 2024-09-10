@@ -1,0 +1,106 @@
+{
+  "id": 91,
+  "university": {
+    "fullName": "Taras Shevchenko National University of Kyiv",
+    "shortName": "TS Kyiv NU",
+    "region": "Europe",
+    "hashTag": "#TSKievNU",
+    "url": "http://www.univ.kiev.ua",
+    "appYears": [
+      1995,
+      2003,
+      2006,
+      2009,
+      2010,
+      2011,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [
+      2010
+    ],
+    "silverYears": [
+      2013,
+      2022
+    ],
+    "bronzeYears": [
+      2003
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "KNU_0_GB_RAM",
+    "regionals": [
+      "Europe, 3rd",
+      "Southeastern Europe, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Oleksandr(Alexander) Vechur",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Vladyslav Zavodnyk",
+      "altNames": [],
+      "cfHandle": "VladProg",
+      "cfRating": 2711,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Silver Medalist (2022)",
+          "priority": 103
+        },
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Kostiantyn Lutsenko",
+      "altNames": [],
+      "cfHandle": "KostasKostil",
+      "cfRating": 2622,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Silver Medalist (2022)",
+          "priority": 103
+        },
+        {
+          "achievement": "VK Cup Finalist (2021)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Kostiantyn Savchuk",
+      "altNames": [],
+      "cfHandle": "kostia244",
+      "cfRating": 2687,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Silver Medalist (2022)",
+          "priority": 103
+        },
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 63
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 21,
+  "university": {
+    "fullName": "Eötvös Loránd University",
+    "shortName": "ELTE",
+    "region": "Europe",
+    "hashTag": null,
+    "url": "http://www.elte.hu"
+  },
+  "team": {
+    "name": "ELTE 1",
+    "regionals": [
+      "Europe, 4th",
+      "Central Europe, 8th"
+    ]
+  },
+  "coach": {
+    "name": "László Nikházy",
+    "altNames": [
+      "Laszlo Nikhazy"
+    ],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Áron Noszály",
+      "altNames": [],
+      "cfHandle": "mraron",
+      "cfRating": 2223,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2018)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2019)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Péter Varga",
+      "altNames": [],
+      "cfHandle": "Peti",
+      "cfRating": 2361,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2021)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Péter Gyimesi",
+      "altNames": [],
+      "cfHandle": "peti1234",
+      "cfRating": 3006,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "AtCoder World Tour Finals Finalist (2023)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        }
+      ]
+    }
+  ]
+}

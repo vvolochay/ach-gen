@@ -1,0 +1,82 @@
+{
+  "id": 111,
+  "university": {
+    "fullName": "Universitas Indonesia",
+    "shortName": "UI",
+    "region": "Asia Pacific",
+    "hashTag": "#UnivIndonesia",
+    "url": "http://www.ui.ac.id",
+    "appYears": [
+      2014,
+      2015,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Rigor Mormist",
+    "regionals": [
+      "Asia Pacific, 8th",
+      "Hue City, 10th",
+      "Jakarta, 3rd",
+      "Indonesia, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Denny Denny",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "dennycs",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2014-2015, 2017, 2019-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Steven Novaryo",
+      "altNames": [],
+      "cfHandle": "steven.novaryo",
+      "cfRating": 2170,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Pikatan Arya Bramajati",
+      "altNames": [],
+      "cfHandle": "Pyqe",
+      "cfRating": 2774,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Gold Medalist (2020, 2021)",
+          "priority": 64
+        }
+      ]
+    },
+    {
+      "name": "Arvin Arvin",
+      "altNames": [],
+      "cfHandle": "ArvinCiu",
+      "cfRating": 1978,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

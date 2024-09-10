@@ -1,0 +1,174 @@
+{
+  "id": 86,
+  "university": {
+    "fullName": "St. Petersburg State University",
+    "shortName": "St. Petersburg SU",
+    "region": "Northern Eurasia",
+    "hashTag": "#SPBU",
+    "url": "http://eng.spbu.ru",
+    "appYears": [
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [
+      2000,
+      2001,
+      2014,
+      2016
+    ],
+    "goldYears": [
+      1998,
+      2000,
+      2001,
+      2009,
+      2011,
+      2014,
+      2016,
+      2017
+    ],
+    "silverYears": [
+      2006,
+      2010,
+      2013
+    ],
+    "bronzeYears": [
+      1997,
+      1999,
+      2008,
+      2021
+    ],
+    "regYears": [
+      2000,
+      2001,
+      2011,
+      2014,
+      2016
+    ]
+  },
+  "team": {
+    "name": "block of cats",
+    "regionals": [
+      "Northern Eurasia, 5th",
+      "Northwestern Russia, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Ivan Kazmenko",
+    "altNames": [
+      "Иван Казменко"
+    ],
+    "cfHandle": "Gassa",
+    "cfRating": 2407,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2005)",
+        "priority": 100
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Semifinalist (2008)",
+        "priority": 90
+      },
+      {
+        "achievement": "CROC Finalist (2012, 2013)",
+        "priority": 10
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (2013)",
+        "priority": 10
+      },
+      {
+        "achievement": "Kotlin Challenge Finalist (2014)",
+        "priority": 10
+      },
+      {
+        "achievement": "Yandex Open Finalist (2010)",
+        "priority": 10
+      },
+      {
+        "achievement": "Google Code Jam Qualified* (2010, 2012)",
+        "priority": 1
+      },
+      {
+        "achievement": "AZsPCs Words Search Winner (2007)",
+        "priority": 1
+      },
+      {
+        "achievement": "AZsPCs AZsPCs Alphabet City Winner (2014)",
+        "priority": 1
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Fedor Ushakov",
+      "altNames": [],
+      "cfHandle": "fastmath",
+      "cfRating": 2573,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "VK Cup Finalist (2021)",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Leonid Danilevich",
+      "altNames": [],
+      "cfHandle": "LeoPro",
+      "cfRating": 2843,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Maksim Turevskii",
+      "altNames": [],
+      "cfHandle": "turmax",
+      "cfRating": 3210,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "Yandex.Algorithm Finalist (2023)",
+          "priority": 90
+        },
+        {
+          "achievement": "VK Cup Finalist (2022)",
+          "priority": 10
+        },
+        {
+          "achievement": "IMO Silver Medalist (2020)",
+          "priority": 1
+        },
+        {
+          "achievement": "IMO Gold Medalist (2021-2022)",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}

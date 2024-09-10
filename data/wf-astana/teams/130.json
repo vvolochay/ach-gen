@@ -1,0 +1,68 @@
+{
+  "id": 130,
+  "university": {
+    "fullName": "University of Tehran",
+    "shortName": "UT",
+    "region": "Asia West",
+    "hashTag": "#UTehran",
+    "url": "http://www.ut.ac.ir",
+    "appYears": [
+      2008,
+      2012,
+      2015,
+      2017,
+      2020,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Lomana",
+    "regionals": [
+      "Tehran (2022), 1st"
+    ]
+  },
+  "coach": {
+    "name": "Bagher BabaAli",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2015)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Seyed Parsa Pordastan",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Behrad Hemati Aghabagheri",
+      "altNames": [],
+      "cfHandle": "AA_Surely",
+      "cfRating": 2223,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Amirreza Mazinani",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

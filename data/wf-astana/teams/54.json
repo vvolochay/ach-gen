@@ -1,0 +1,51 @@
+{
+  "id": 54,
+  "university": {
+    "fullName": "Kutaisi International University",
+    "shortName": "KIU",
+    "region": "Northern Eurasia",
+    "hashTag": null,
+    "url": "www.kiu.edu.ge"
+  },
+  "team": {
+    "name": "Minor Berburbation",
+    "regionals": [
+      "Northern Eurasia, 25th",
+      "Georgia, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Besik Dundua",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Nika Tamliani",
+      "altNames": [],
+      "cfHandle": "Nika_Tamliani",
+      "cfRating": 2217,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Erekle Khomasuridze",
+      "altNames": [],
+      "cfHandle": "Eke_bichi",
+      "cfRating": 1759,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tevdore Nadareishvili",
+      "altNames": [],
+      "cfHandle": "bebera",
+      "cfRating": 1607,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": 28,
+  "university": {
+    "fullName": "Higher Institute for Applied Sciences and Technology",
+    "shortName": "HIAST",
+    "region": "Africa and Arab",
+    "hashTag": "#HIAST",
+    "url": "http://www.hiast.edu.sy/",
+    "appYears": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2023
+    ]
+  },
+  "team": {
+    "name": "Lightning Storm",
+    "regionals": [
+      "Africa & Arab, 5th",
+      "Syria, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Samer Alshehabi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mohamad Al Aswad",
+      "altNames": [],
+      "cfHandle": "LastDance_NotLastOfMe",
+      "cfRating": 1990,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ghaffar Daher",
+      "altNames": [],
+      "cfHandle": "Geo_Ghaffar",
+      "cfRating": 1798,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mahmoud Haddad",
+      "altNames": [],
+      "cfHandle": "Mahmoud_Haddad",
+      "cfRating": 2097,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

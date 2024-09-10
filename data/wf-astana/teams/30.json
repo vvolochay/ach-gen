@@ -1,0 +1,66 @@
+{
+  "id": 30,
+  "university": {
+    "fullName": "I. Javakhishvili Tbilisi State University",
+    "shortName": "I.J. Tbilisi SU",
+    "region": "Northern Eurasia",
+    "hashTag": null,
+    "url": "http://www.tsu.ge/",
+    "appYears": [
+      2009
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2009
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Darwin Nunez",
+    "regionals": [
+      "Northern Eurasia, 22nd",
+      "Georgia, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Manana Khachidze",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Davit Khvedelidze",
+      "altNames": [],
+      "cfHandle": "dkhve",
+      "cfRating": 2134,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2019)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Ucha Pipia",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Luka Macharashvili",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": 49,
+  "university": {
+    "fullName": "KAIST",
+    "shortName": "KAIST",
+    "region": "Asia Pacific",
+    "hashTag": "#KAIST",
+    "url": "http://www.kaist.ac.kr",
+    "appYears": [
+      1996,
+      1997,
+      1999,
+      2001,
+      2003,
+      2004,
+      2006,
+      2007,
+      2009,
+      2010,
+      2011,
+      2013,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      1997,
+      2001,
+      2017
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Penguins",
+    "regionals": [
+      "Seoul, 1st",
+      "Korea, 11th"
+    ]
+  },
+  "coach": {
+    "name": "Sukyoung Ryu",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2019, 2021-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Sungjae Im",
+      "altNames": [],
+      "cfHandle": "est_stella",
+      "cfRating": 2499,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2020)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Eunsoo Choe",
+      "altNames": [
+        "Eun Soo Choe"
+      ],
+      "cfHandle": "Worteltje",
+      "cfRating": 2619,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Gold Medalist (2020)",
+          "priority": 64
+        }
+      ]
+    },
+    {
+      "name": "Jongyoung Lee",
+      "altNames": [],
+      "cfHandle": "mo_onrabbit2",
+      "cfRating": 2610,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

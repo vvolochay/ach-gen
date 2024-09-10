@@ -1,0 +1,91 @@
+{
+  "id": 129,
+  "university": {
+    "fullName": "University of Science, VNU-HCM",
+    "shortName": "VNUHCM-US",
+    "region": "Asia Pacific",
+    "hashTag": "#VNU-HCM",
+    "url": "http://www.hcmus.edu.vn",
+    "appYears": [
+      2010,
+      2011,
+      2014,
+      2016,
+      2018,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "HCMUS-ExploringWorld",
+    "regionals": [
+      "Asia Pacific, 9th",
+      "Hue City, 8th"
+    ]
+  },
+  "coach": {
+    "name": "Vi-Minh Luong",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2018, 2021)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Tung Hoang Vu",
+      "altNames": [],
+      "cfHandle": "VHTung",
+      "cfRating": 2243,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Nghia Huu Le",
+      "altNames": [],
+      "cfHandle": "SaoST",
+      "cfRating": 2354,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2022)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Minh-Hoang Le",
+      "altNames": [],
+      "cfHandle": "Monarchuwu",
+      "cfRating": 2190,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

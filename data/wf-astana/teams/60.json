@@ -1,0 +1,101 @@
+{
+  "id": 60,
+  "university": {
+    "fullName": "Nanjing University",
+    "shortName": "NJU",
+    "region": "Asia East",
+    "hashTag": "#NJU",
+    "url": "http://www.nju.edu.cn/",
+    "appYears": [
+      2009,
+      2019,
+      2020,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2020,
+      2023
+    ],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Unreal Eventide",
+    "regionals": [
+      ""
+    ]
+  },
+  "coach": {
+    "name": "Jun Ma",
+    "altNames": [],
+    "cfHandle": "yefllower",
+    "cfRating": 2251,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC silver medal as coach (2023)",
+        "priority": 3000
+      },
+      {
+        "achievement": "ICPC bronze medal as coach (2022)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (2019)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Bronze Medalist (2015)",
+        "priority": 102
+      },
+      {
+        "achievement": "CodeChef SnackDown Finalist (2015)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Qicheng Shan",
+      "altNames": [],
+      "cfHandle": "uuzlovetree",
+      "cfRating": 2400,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Tianxing Ding",
+      "altNames": [],
+      "cfHandle": "-skyline-",
+      "cfRating": 2749,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Fengning Ou",
+      "altNames": [],
+      "cfHandle": "remoon",
+      "cfRating": 1985,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

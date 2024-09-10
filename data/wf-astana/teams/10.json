@@ -1,0 +1,82 @@
+{
+  "id": 10,
+  "university": {
+    "fullName": "Birla Institute of Technology and Science, Pilani Campus",
+    "shortName": "BITS Pilani",
+    "region": "Asia West",
+    "hashTag": "#BITS",
+    "url": "http://www.bits-pilani.ac.in",
+    "appYears": [
+      2016,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "lite lo",
+    "regionals": [
+      "Asia West, 6th",
+      "Kanpur, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Amit Dua",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "@mailamitdua",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Anish Kasegaonkar",
+      "altNames": [],
+      "cfHandle": "AAK",
+      "cfRating": 1927,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Utkarsh Darolia",
+      "altNames": [],
+      "cfHandle": "utk",
+      "cfRating": 1953,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Tanveer Singh",
+      "altNames": [],
+      "cfHandle": "brobat",
+      "cfRating": 2257,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

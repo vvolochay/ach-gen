@@ -1,0 +1,70 @@
+{
+  "id": 31,
+  "university": {
+    "fullName": "IIT Bhubaneswar",
+    "shortName": "IIT BBS",
+    "region": "Asia West",
+    "hashTag": "#iitbbs",
+    "url": "http://www.iitbbs.ac.in/",
+    "appYears": [
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Three Musketeers",
+    "regionals": [
+      "Asia West, 4th",
+      "Kanpur, 92nd",
+      "Chennai, 9th"
+    ]
+  },
+  "coach": {
+    "name": "Srinivas Pinisetty",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Sarthak Gupta",
+      "altNames": [],
+      "cfHandle": "sg0071729",
+      "cfRating": 2283,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Akshat Gupta",
+      "altNames": [],
+      "cfHandle": "gakshat468",
+      "cfRating": 1864,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Arihant Garg",
+      "altNames": [],
+      "cfHandle": "21cs01033",
+      "cfRating": 2142,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

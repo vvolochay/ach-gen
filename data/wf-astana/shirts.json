@@ -1,0 +1,566 @@
+[
+  {
+    "id": "1",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "2",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "3",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "4",
+    "colorName": "DARK-GREY"
+  },
+  {
+    "id": "5",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "6",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "7",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "8",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "9",
+    "colorName": "RED"
+  },
+  {
+    "id": "10",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "11",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "12",
+    "colorName": "RED"
+  },
+  {
+    "id": "13",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "14",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "15",
+    "colorName": "DARK-GREY"
+  },
+  {
+    "id": "16",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "17",
+    "colorName": "RED"
+  },
+  {
+    "id": "18",
+    "colorName": "DARK-GREY"
+  },
+  {
+    "id": "19",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "20",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "21",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "22",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "23",
+    "colorName": "GREEN"
+  },
+  {
+    "id": "24",
+    "colorName": "DARK-GREY"
+  },
+  {
+    "id": "25",
+    "colorName": "RED"
+  },
+  {
+    "id": "26",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "27",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "28",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "29",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "30",
+    "colorName": "GREEN"
+  },
+  {
+    "id": "31",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "32",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "33",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "34",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "35",
+    "colorName": "ORANGE"
+  },
+  {
+    "id": "36",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "37",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "38",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "39",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "40",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "41",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "42",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "43",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "44",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "45",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "46",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "48",
+    "colorName": "DARK-GREY"
+  },
+  {
+    "id": "49",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "50",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "51",
+    "colorName": "GREEN"
+  },
+  {
+    "id": "52",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "53",
+    "colorName": "DARK-GREY"
+  },
+  {
+    "id": "54",
+    "colorName": "RED"
+  },
+  {
+    "id": "55",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "56",
+    "colorName": "ORANGE"
+  },
+  {
+    "id": "57",
+    "colorName": "RED"
+  },
+  {
+    "id": "58",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "59",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "60",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "61",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "62",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "63",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "64",
+    "colorName": "YELLOW"
+  },
+  {
+    "id": "65",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "66",
+    "colorName": "ORANGE"
+  },
+  {
+    "id": "67",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "68",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "69",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "70",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "71",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "72",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "73",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "74",
+    "colorName": "YELLOW"
+  },
+  {
+    "id": "75",
+    "colorName": "GREEN"
+  },
+  {
+    "id": "76",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "77",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "78",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "79",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "80",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "81",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "82",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "83",
+    "colorName": "GREEN"
+  },
+  {
+    "id": "84",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "85",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "86",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "87",
+    "colorName": "GREEN"
+  },
+  {
+    "id": "88",
+    "colorName": "RED"
+  },
+  {
+    "id": "89",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "90",
+    "colorName": "DARK-GREY"
+  },
+  {
+    "id": "91",
+    "colorName": "LIGHT GREEN"
+  },
+  {
+    "id": "92",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "93",
+    "colorName": "LIGHT GREEN"
+  },
+  {
+    "id": "94",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "95",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "96",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "97",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "98",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "99",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "100",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "101",
+    "colorName": "ORANGE"
+  },
+  {
+    "id": "102",
+    "colorName": "GREEN"
+  },
+  {
+    "id": "103",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "104",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "105",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "106",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "107",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "108",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "109",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "110",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "111",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "112",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "113",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "114",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "115",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "116",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "117",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "118",
+    "colorName": "LIGHT GREEN"
+  },
+  {
+    "id": "119",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "120",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "121",
+    "colorName": "RED"
+  },
+  {
+    "id": "122",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "123",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "124",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "125",
+    "colorName": "YELLOW"
+  },
+  {
+    "id": "126",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "127",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "128",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "129",
+    "colorName": "YELLOW"
+  },
+  {
+    "id": "130",
+    "colorName": "GREEN"
+  },
+  {
+    "id": "131",
+    "colorName": "ORANGE"
+  },
+  {
+    "id": "132",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "133",
+    "colorName": "ORANGE"
+  },
+  {
+    "id": "134",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "135",
+    "colorName": "LILAC"
+  },
+  {
+    "id": "136",
+    "colorName": "DARK-GREY"
+  },
+  {
+    "id": "137",
+    "colorName": "RED"
+  },
+  {
+    "id": "138",
+    "colorName": "CORNFLOWER BLUE"
+  },
+  {
+    "id": "139",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "140",
+    "colorName": "BLACK"
+  },
+  {
+    "id": "141",
+    "colorName": "VINOUS"
+  },
+  {
+    "id": "142",
+    "colorName": "CORNFLOWER BLUE"
+  }
+]

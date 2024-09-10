@@ -1,0 +1,56 @@
+{
+  "id": 43,
+  "university": {
+    "fullName": "Instituto Tecnológico de Costa Rica campus Alajuela",
+    "shortName": "TEC Alajuela",
+    "region": "Latin America",
+    "hashTag": null,
+    "url": "http://www.siau.ac.cr"
+  },
+  "team": {
+    "name": "TEC - Silla",
+    "regionals": [
+      "Latin America, 35th",
+      "Central America, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Hugo Humberto Morales Peña",
+    "altNames": [],
+    "cfHandle": "huhumor",
+    "cfRating": null,
+    "twitterHandle": "huhumor",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2013-2014, 2018, 2021)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Maximilian Latysh",
+      "altNames": [],
+      "cfHandle": "fisher199",
+      "cfRating": 1534,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Santiago Ramos Arroyo",
+      "altNames": [],
+      "cfHandle": "Ramos-San",
+      "cfRating": 1067,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Anthony Josue Rojas Fuentes",
+      "altNames": [],
+      "cfHandle": "Voljhart",
+      "cfRating": 384,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

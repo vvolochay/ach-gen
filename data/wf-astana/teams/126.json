@@ -1,0 +1,122 @@
+{
+  "id": 126,
+  "university": {
+    "fullName": "University of Oxford",
+    "shortName": "Oxford",
+    "region": "Europe",
+    "hashTag": "#Oxford",
+    "url": "http://www.ox.ac.uk",
+    "appYears": [
+      2008,
+      2009,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [
+      2022
+    ],
+    "silverYears": [
+      2009
+    ],
+    "bronzeYears": [
+      2021
+    ],
+    "regYears": [
+      2022
+    ]
+  },
+  "team": {
+    "name": "NewJeans",
+    "regionals": [
+      "Europe, 7th",
+      "Northwestern Europe, 1st",
+      "UK & Ireland, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Bartek Klin",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC gold medal as coach (2022)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ICPC bronze medal as coach (2021)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Viktor Kozhuharov",
+      "altNames": [],
+      "cfHandle": "Sorting",
+      "cfRating": 2592,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Gold Medalist (2022)",
+          "priority": 104
+        },
+        {
+          "achievement": "IOI Silver Medalist (2021)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Harris Leung",
+      "altNames": [],
+      "cfHandle": "gamegame",
+      "cfRating": 3386,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Gold Medalist (2022)",
+          "priority": 104
+        },
+        {
+          "achievement": "AtCoder World Tour Finals Finalist (2023)",
+          "priority": 90
+        },
+        {
+          "achievement": "IOI Gold Medalist (2020, 2021)",
+          "priority": 64
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 63
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2017, 2018)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "Thien Udomsrirungruang",
+      "altNames": [],
+      "cfHandle": "Thienu",
+      "cfRating": 2668,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

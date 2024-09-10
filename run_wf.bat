@@ -1,0 +1,1 @@
+java -jar build/libs/ach-gen.jar -i data/wf-astana/jsons --logo data/wf-astana/logo -t WF -o generated

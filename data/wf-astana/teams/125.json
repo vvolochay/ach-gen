@@ -1,0 +1,76 @@
+{
+  "id": 125,
+  "university": {
+    "fullName": "University of Michigan at Ann Arbor",
+    "shortName": "U Michigan",
+    "region": "North America",
+    "hashTag": "#umich",
+    "url": "http://www.umich.edu",
+    "appYears": [
+      2004,
+      2005,
+      2010,
+      2011,
+      2014,
+      2015,
+      2017,
+      2018,
+      2021
+    ],
+    "winYears": [],
+    "goldYears": [
+      2011
+    ],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2011
+    ]
+  },
+  "team": {
+    "name": "Victors",
+    "regionals": [
+      "North America, 15th",
+      "East Central NA, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Dennis Matveyev",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": "dennyamd",
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Yeyuan Chen",
+      "altNames": [],
+      "cfHandle": "docriz",
+      "cfRating": 2497,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Benyu Wang",
+      "altNames": [],
+      "cfHandle": "wbyyui",
+      "cfRating": 2215,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tuong Le",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

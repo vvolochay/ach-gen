@@ -1,0 +1,69 @@
+{
+  "id": 58,
+  "university": {
+    "fullName": "Moscow Aviation Institute",
+    "shortName": "MAI",
+    "region": "Northern Eurasia",
+    "hashTag": "#MAI",
+    "url": "http://www.mai.ru",
+    "appYears": [
+      2013,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "MAI #1",
+    "regionals": [
+      "Northern Eurasia, 16th",
+      "Moscow, 10th"
+    ]
+  },
+  "coach": {
+    "name": "Valentin Zaytsev",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2015, 2018-2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Maxim Plyushkin",
+      "altNames": [],
+      "cfHandle": "maxplus",
+      "cfRating": 2461,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Maksim Inyutin",
+      "altNames": [],
+      "cfHandle": "mainyutin",
+      "cfRating": 1913,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Egor Belousov",
+      "altNames": [],
+      "cfHandle": "ZergTricky",
+      "cfRating": 2124,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

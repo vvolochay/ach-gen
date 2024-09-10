@@ -1,0 +1,95 @@
+{
+  "id": 97,
+  "university": {
+    "fullName": "Universidad de Guanajuato - DCNE",
+    "shortName": "UG-CIMAT",
+    "region": "Latin America",
+    "hashTag": "#SoyUG",
+    "url": "http://www.dcne.ugto.mx",
+    "appYears": [
+      2003,
+      2008,
+      2010,
+      2011,
+      2012,
+      2020,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "OWO",
+    "regionals": [
+      "Latin America, 8th",
+      "Mexico, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Carlos Segura González",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Sebastian Sánchez Lara",
+      "altNames": [],
+      "cfHandle": "wiritos",
+      "cfRating": 2183,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Bronze Medalist (2019)",
+          "priority": 62
+        }
+      ]
+    },
+    {
+      "name": "José Ángel Alejandro Soto",
+      "altNames": [
+        "José Angel Alejandro Soto"
+      ],
+      "cfHandle": "JoseSoto",
+      "cfRating": 2102,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2020, 2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2017)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Diego Emir García Moreno",
+      "altNames": [],
+      "cfHandle": "DiegoGarcia",
+      "cfRating": 2188,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2019)",
+          "priority": 60
+        }
+      ]
+    }
+  ]
+}

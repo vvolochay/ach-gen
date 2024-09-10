@@ -1,0 +1,52 @@
+{
+  "id": 73,
+  "university": {
+    "fullName": "Pohang University of Science and Technology",
+    "shortName": "POSTECH",
+    "region": "Asia Pacific",
+    "hashTag": null,
+    "url": "http://www.postech.ac.kr"
+  },
+  "team": {
+    "name": "AllSolvedin1557",
+    "regionals": [
+      "Asia Pacific, 11th",
+      "Seoul, 11th",
+      "Korea, 21st"
+    ]
+  },
+  "coach": {
+    "name": "Wook Shin Han",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Yu Dam Lee",
+      "altNames": [],
+      "cfHandle": "petamingks",
+      "cfRating": 2226,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Leo Jang",
+      "altNames": [],
+      "cfHandle": "leo020630",
+      "cfRating": 2177,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Kwon Chan Woo",
+      "altNames": [],
+      "cfHandle": "kwoncycle",
+      "cfRating": 2278,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

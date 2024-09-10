@@ -1,0 +1,92 @@
+{
+  "id": 35,
+  "university": {
+    "fullName": "Indian Institute of Technology - Kanpur",
+    "shortName": "IIT Kanpur",
+    "region": "Asia West",
+    "hashTag": "#IITKNP",
+    "url": "http://www.iitk.ac.in",
+    "appYears": [
+      2000,
+      2002,
+      2011,
+      2012,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2021
+    ]
+  },
+  "team": {
+    "name": "FacelessMen3.1",
+    "regionals": [
+      "Asia West, 71st",
+      "Kanpur, 1st",
+      "Amritapuri, 18th"
+    ]
+  },
+  "coach": {
+    "name": "Raghunath Tewari",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2020)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Udhav Varma",
+      "altNames": [],
+      "cfHandle": "udhavvarma03",
+      "cfRating": 2234,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Satyam Roy",
+      "altNames": [],
+      "cfHandle": "satyam343",
+      "cfRating": 2081,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Avi Kumar",
+      "altNames": [],
+      "cfHandle": "avi0000",
+      "cfRating": 2131,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

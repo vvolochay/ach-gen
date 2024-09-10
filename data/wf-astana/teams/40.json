@@ -1,0 +1,62 @@
+{
+  "id": 40,
+  "university": {
+    "fullName": "Indian Institute of Technology - Varanasi",
+    "shortName": "IITBHU",
+    "region": "Asia West",
+    "hashTag": "#BanarasHinduUniversity",
+    "url": "https://www.iitbhu.ac.in",
+    "appYears": [
+      2020,
+      2021,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "PerfecTerror",
+    "regionals": [
+      "Asia West, 11th",
+      "Kanpur, 45th",
+      "Amritapuri, 14th"
+    ]
+  },
+  "coach": {
+    "name": "Subir Das",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Nakshatra Shivhare",
+      "altNames": [],
+      "cfHandle": "nakshatraexe",
+      "cfRating": 1728,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Nitish Kumar",
+      "altNames": [],
+      "cfHandle": "_helloLad",
+      "cfRating": 1958,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Rohan Rohan",
+      "altNames": [],
+      "cfHandle": "Rohan217",
+      "cfRating": 1868,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

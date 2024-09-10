@@ -1,0 +1,51 @@
+{
+  "id": 53,
+  "university": {
+    "fullName": "Khulna University of Engineering & Technology",
+    "shortName": "KUET",
+    "region": "Asia West",
+    "hashTag": null,
+    "url": "http://www.kuet.ac.bd/"
+  },
+  "team": {
+    "name": "KUET_Effervescent",
+    "regionals": [
+      "Asia West, 12th",
+      "Dhaka, 10th"
+    ]
+  },
+  "coach": {
+    "name": "Abdul Aziz",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Sharif Minhazul Islam",
+      "altNames": [],
+      "cfHandle": "MinhazIbnMizan",
+      "cfRating": 1773,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Arnob Sarker",
+      "altNames": [],
+      "cfHandle": "Arnob",
+      "cfRating": 1950,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Md Mehrab Hossain Opi",
+      "altNames": [],
+      "cfHandle": "BrehamPie",
+      "cfRating": 1830,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

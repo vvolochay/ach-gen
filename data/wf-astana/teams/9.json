@@ -1,0 +1,92 @@
+{
+  "id": 9,
+  "university": {
+    "fullName": "Belarusian State University of Informatics and Radioelectronics",
+    "shortName": "BSUIR",
+    "region": "Northern Eurasia",
+    "hashTag": "#BSUIR",
+    "url": "http://www.bsuir.by",
+    "appYears": [
+      2012,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2012
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "Belarusian SUIR #1: So Stuffy",
+    "regionals": [
+      "Northern Eurasia, 18th",
+      "Belarus, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Ivan Udovin",
+    "altNames": [],
+    "cfHandle": "wilcot",
+    "cfRating": 2112,
+    "twitterHandle": "iudovin",
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Finalist (2020, 2021)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Raman Markavets",
+      "altNames": [],
+      "cfHandle": "romarkovets",
+      "cfRating": 2163,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr Loseu",
+      "altNames": [],
+      "cfHandle": "kartel",
+      "cfRating": 2120,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Mikita Halukh",
+      "altNames": [],
+      "cfHandle": "p3rfect",
+      "cfRating": 2232,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 16,
+  "university": {
+    "fullName": "Columbia University",
+    "shortName": "Columbia U",
+    "region": "North America",
+    "hashTag": "#ColumbiaU",
+    "url": "http://www.columbia.edu",
+    "appYears": [
+      1994,
+      1995,
+      1996,
+      1997,
+      2010,
+      2013,
+      2018,
+      2019,
+      2020,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Columbia-CU later",
+    "regionals": [
+      "North America, 3rd",
+      "Greater NY, 5th"
+    ]
+  },
+  "coach": {
+    "name": "Christian Yongwhan Lim",
+    "altNames": [],
+    "cfHandle": "yongwoods",
+    "cfRating": 2129,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Kevin Yang",
+      "altNames": [],
+      "cfHandle": "yangster67",
+      "cfRating": 2583,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Innokentiy Kaurov",
+      "altNames": [],
+      "cfHandle": "ikaurov",
+      "cfRating": 2513,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2023)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Eric Shao",
+      "altNames": [],
+      "cfHandle": "serichaoo",
+      "cfRating": 2127,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IPhO Bronze Medalist (2023)",
+          "priority": 1
+        },
+        {
+          "achievement": "Putnam HM (2023)",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}

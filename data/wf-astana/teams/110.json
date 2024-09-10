@@ -1,0 +1,73 @@
+{
+  "id": 110,
+  "university": {
+    "fullName": "Universidade Federal do Rio de Janeiro",
+    "shortName": "UFRJ",
+    "region": "Latin America",
+    "hashTag": "#UFRJ",
+    "url": "http://www.ufrj.br",
+    "appYears": [
+      2012,
+      2015,
+      2018,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Todo mundo adora o Chris",
+    "regionals": [
+      "Latin America, 5th",
+      "Brazil, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Marcia Cerioli",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2015, 2018, 2022-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Lucas Melick",
+      "altNames": [],
+      "cfHandle": "Lucas_Melick",
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Vinicius Proença",
+      "altNames": [],
+      "cfHandle": "viniciuslettieri",
+      "cfRating": 382,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Felipe Chen Wu",
+      "altNames": [],
+      "cfHandle": "fcw",
+      "cfRating": 2167,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

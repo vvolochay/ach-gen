@@ -1,0 +1,90 @@
+{
+  "id": 74,
+  "university": {
+    "fullName": "Pontificia Universidad Católica de Chile",
+    "shortName": "PUC",
+    "region": "Latin America",
+    "hashTag": "#ucatolica",
+    "url": "http://www.puc.cl",
+    "appYears": [
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Bella y Sensual",
+    "regionals": [
+      "Latin America, 11th",
+      "South America-South, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Martín Muñoz",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ignacio Muñoz",
+      "altNames": [],
+      "cfHandle": "MrNachoX",
+      "cfRating": 2183,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Bronze Medalist (2021)",
+          "priority": 62
+        },
+        {
+          "achievement": "IOI Finalist (2018, 2019, 2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Vicente Opazo",
+      "altNames": [],
+      "cfHandle": "visho33",
+      "cfRating": 2149,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Martin Andrighetti",
+      "altNames": [],
+      "cfHandle": "kovaxis",
+      "cfRating": 2160,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "TCS CodeVita Winner (2024)",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}

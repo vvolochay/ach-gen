@@ -1,0 +1,56 @@
+{
+  "id": 78,
+  "university": {
+    "fullName": "SDU University",
+    "shortName": "SDU",
+    "region": "Northern Eurasia",
+    "hashTag": "#sdukz",
+    "url": "http://www.sdu.edu.kz"
+  },
+  "team": {
+    "name": "SDU 4 - InParis",
+    "regionals": [
+      "Northern Eurasia, 114th",
+      "Kazakhstan, 33rd"
+    ]
+  },
+  "coach": {
+    "name": "Yerbol Baigarayev",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2021, 2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Azamat Kozhakov",
+      "altNames": [],
+      "cfHandle": "spargapees",
+      "cfRating": 1609,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ibrahim Serkebay",
+      "altNames": [],
+      "cfHandle": "ibrahimwq",
+      "cfRating": 2014,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Dauren Maskeugaliyev",
+      "altNames": [],
+      "cfHandle": "senitapqan",
+      "cfRating": 1976,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

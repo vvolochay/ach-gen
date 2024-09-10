@@ -1,0 +1,82 @@
+{
+  "id": 116,
+  "university": {
+    "fullName": "University of California Irvine",
+    "shortName": "UC Irvine",
+    "region": "North America",
+    "hashTag": "#UCIrvine",
+    "url": "http://www.uci.edu",
+    "appYears": [
+      1994,
+      2014,
+      2017,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "typedef int uci;",
+    "regionals": [
+      "North America, 9th",
+      "South California, 4th"
+    ]
+  },
+  "coach": {
+    "name": "Michael Shindler",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Thomas Neill",
+      "altNames": [],
+      "cfHandle": "t0mmyn",
+      "cfRating": 2408,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Jerry Li",
+      "altNames": [],
+      "cfHandle": "nanoblob",
+      "cfRating": 2057,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Elijah Huang",
+      "altNames": [],
+      "cfHandle": "codicon",
+      "cfRating": 2153,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

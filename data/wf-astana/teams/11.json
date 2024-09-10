@@ -1,0 +1,68 @@
+{
+  "id": 11,
+  "university": {
+    "fullName": "Birzeit University",
+    "shortName": "Birzeit U",
+    "region": "Africa and Arab",
+    "hashTag": "#BirzeitU",
+    "url": "https://www.birzeit.edu/en"
+  },
+  "team": {
+    "name": "Watermelon",
+    "regionals": [
+      "Africa & Arab (2022), 11th",
+      "Palestine (2022), 1st"
+    ]
+  },
+  "coach": {
+    "name": "Odah Masalmah",
+    "altNames": [],
+    "cfHandle": "Masalmah",
+    "cfRating": 1693,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Suhaib Sawalha",
+      "altNames": [
+        "Sohaib Sawalha"
+      ],
+      "cfHandle": "Satoru",
+      "cfRating": 1769,
+      "twitterHandle": "@suhaibsawalha7",
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2021, 2022)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Mohammad Milhem",
+      "altNames": [],
+      "cfHandle": "UserIsUndefined",
+      "cfRating": 1632,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Finalist (2019, 2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Basil Hijaz",
+      "altNames": [],
+      "cfHandle": "HIJAZ",
+      "cfRating": 1976,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

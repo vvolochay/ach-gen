@@ -1,0 +1,74 @@
+{
+  "id": 33,
+  "university": {
+    "fullName": "Indian Institute of Technology - Delhi",
+    "shortName": "IIT Delhi",
+    "region": "Asia West",
+    "hashTag": "#IITDelhi",
+    "url": "http://www.iitd.ernet.in",
+    "appYears": [
+      2001,
+      2011,
+      2012,
+      2015,
+      2016,
+      2018,
+      2020,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2023
+    ]
+  },
+  "team": {
+    "name": "SkillIssue",
+    "regionals": [
+      "Asia West, 1st",
+      "Kanpur, 14th",
+      "Amritapuri, 2nd"
+    ]
+  },
+  "coach": {
+    "name": "Smruti Sarangi",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Malik Hammad Faisal",
+      "altNames": [],
+      "cfHandle": "ghoul932",
+      "cfRating": 2020,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mridul Ahi",
+      "altNames": [],
+      "cfHandle": "MridulAhi",
+      "cfRating": 2313,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Tanmay Tanmay",
+      "altNames": [],
+      "cfHandle": "ElDiablo",
+      "cfRating": 2551,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

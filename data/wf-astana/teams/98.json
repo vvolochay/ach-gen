@@ -1,0 +1,90 @@
+{
+  "id": 98,
+  "university": {
+    "fullName": "Universidad de La Habana",
+    "shortName": "UH",
+    "region": "Latin America",
+    "hashTag": "#UniversidadLH",
+    "url": "http://www.uh.cu/",
+    "appYears": [
+      2011,
+      2012,
+      2013,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": [
+      2017
+    ]
+  },
+  "team": {
+    "name": "UH Top",
+    "regionals": [
+      "Latin America, 14th",
+      "Caribbean, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Alfredo Somoza Moreno",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2011-2013, 2015-2017, 2019-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Jorge Alejandro Pichardo Cabrera",
+      "altNames": [],
+      "cfHandle": "Giga_Cronos",
+      "cfRating": 2300,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Leonardo Daniel Artiles Montero",
+      "altNames": [],
+      "cfHandle": "Leonardo16",
+      "cfRating": 1906,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Finalist (2020)",
+          "priority": 60
+        }
+      ]
+    },
+    {
+      "name": "Ariel González Gómez",
+      "altNames": [],
+      "cfHandle": "AGG",
+      "cfRating": 2084,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

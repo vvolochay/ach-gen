@@ -1,0 +1,50 @@
+{
+  "id": 48,
+  "university": {
+    "fullName": "Kabul University",
+    "shortName": "KU",
+    "region": "Asia West",
+    "hashTag": null,
+    "url": "http://ku.edu.af"
+  },
+  "team": {
+    "name": "Constructor",
+    "regionals": [
+      "Kabul, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Mohammad Anwar Hussaini",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Ali Baba Hussaini",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ghulam Reza Merzaie",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Esmat Solimany",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 4,
+  "university": {
+    "fullName": "Assiut University",
+    "shortName": "Assiut",
+    "region": "Africa and Arab",
+    "hashTag": "#Assiut",
+    "url": "https://www.aun.edu.eg/",
+    "appYears": [
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Ala7lam_team",
+    "regionals": [
+      "Africa & Arab, 10th",
+      "Egypt, 14th"
+    ]
+  },
+  "coach": {
+    "name": "Hussien Ibrahiem",
+    "altNames": [],
+    "cfHandle": "Hussien_Ibrahiem",
+    "cfRating": 2024,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2022-2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Mahmoud Abd Alkareem",
+      "altNames": [],
+      "cfHandle": "karemo",
+      "cfRating": 1914,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Ahmed Ezzat",
+      "altNames": [],
+      "cfHandle": "AhmedEzzatG",
+      "cfRating": 2102,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Muhammad Mustafa",
+      "altNames": [],
+      "cfHandle": "MuhammadMostafa",
+      "cfRating": 1516,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

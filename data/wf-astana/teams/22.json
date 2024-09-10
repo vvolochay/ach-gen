@@ -1,0 +1,116 @@
+{
+  "id": 22,
+  "university": {
+    "fullName": "ETH Zürich",
+    "shortName": "ETH Zürich",
+    "region": "Europe",
+    "hashTag": "#ETH",
+    "url": "http://www.ethz.ch",
+    "appYears": [
+      2011,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [
+      2021
+    ],
+    "bronzeYears": [],
+    "regYears": [
+      2021
+    ]
+  },
+  "team": {
+    "name": "dETHroners",
+    "regionals": [
+      "Europe, 11th",
+      "Southwestern Europe, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Ahmet Ala",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Paula Vidas",
+      "altNames": [],
+      "cfHandle": "paula",
+      "cfRating": 2194,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2022)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2018)",
+          "priority": 63
+        },
+        {
+          "achievement": "ICPC World Finals Invitational Finalist (2020)",
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "name": "Michal Stawarz",
+      "altNames": [],
+      "cfHandle": "GRT_2018",
+      "cfRating": 2519,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2022)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Theodor Moroianu",
+      "altNames": [
+        "Theodor Pierre Moroianu",
+        "Teo Moroianu"
+      ],
+      "cfHandle": "theodor.moroianu",
+      "cfRating": 2247,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Silver Medalist (2020)",
+          "priority": 103
+        },
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        },
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 63
+        },
+        {
+          "achievement": "Codeflows Finalist (2021)",
+          "priority": 10
+        },
+        {
+          "achievement": "FII Code 1st (2019)",
+          "priority": -5
+        }
+      ]
+    }
+  ]
+}

@@ -68,16 +68,16 @@ class WFAchievementsGen : Generator() {
             val teamColor = parseFinalsColors(data.id)
 //            val teamColor = teamColors.getOrElse(data.id - 1) { DEFAULT_COLOR }
 
-            generateMainSVG(data, outputDir, teamColor!!)
-            generatePersonSVG(data.id, data.coach,  outputDir,"coach", teamColor)
-            for (i in 0 until data.contestants.size) {
-                generatePersonSVG(data.id, data.contestants[i], outputDir, "contestant_$i", teamColor)
-            }
-            generateFinalsSVG(data, outputDir, teamColor)
+            generateMainSVG(data, outputDir, teamColor)
+//            generatePersonSVG(data.id, data.coach,  outputDir,"coach", teamColor)
+//            for (i in 0 until data.contestants.size) {
+//                generatePersonSVG(data.id, data.contestants[i], outputDir, "contestant_$i", teamColor)
+//            }
+//            generateFinalsSVG(data, outputDir, teamColor)
         }
     }
 
-    fun generateMainSVG(data: Data, path: String, color: Color) {
+    fun generateMainSVG(data: Data, path: String, color: Color?) {
         var fontSize = DEFAULT_FONT_SIZE
         var replaced =
             if (data.university.fullName.length < 35) {
@@ -102,16 +102,16 @@ class WFAchievementsGen : Generator() {
             .replace("{fontSize}", fontSize.toString())
             .replace("{HashTag}", data.university.hashTag ?: "")
 
-        if (data.team.regionals != null) {
-             replaced = replaced.replace("{RegionalPlace}", replaceEscapingSymbols(data.team.regionals.last()))
-        }
+        replaced = replaced.replace("{RegionalPlace}", replaceEscapingSymbols(data.team.regionals.last()))
 
         if (data.university.hashTag == null) {
             println("HASTAG MISSED " + data.id)
         }
 
         //set colors
-        replaced = replaced.replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
+        if (color != null) {
+            replaced = replaced.replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
+        }
         File(path, "${data.id}_main.svg").writeText(replaced, Charsets.UTF_8)
     }
 

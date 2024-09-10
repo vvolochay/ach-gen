@@ -1,0 +1,143 @@
+{
+  "id": 56,
+  "university": {
+    "fullName": "Lviv National University",
+    "shortName": "Lviv NU",
+    "region": "Europe",
+    "hashTag": "#LNU ",
+    "url": "http://franko.lviv.ua",
+    "appYears": [
+      2008,
+      2011,
+      2015,
+      2016,
+      2017,
+      2018,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [
+      2008
+    ],
+    "silverYears": [],
+    "bronzeYears": [
+      2016
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "LNU Stallions",
+    "regionals": [
+      "Europe, 12th",
+      "Southeastern Europe, 3rd"
+    ]
+  },
+  "coach": {
+    "name": "Vasyl Biletskyy",
+    "altNames": [
+      "Vasyl Biletsky"
+    ],
+    "cfHandle": "Shef",
+    "cfRating": 2532,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC gold medal as coach (2008)",
+        "priority": 4000
+      },
+      {
+        "achievement": "ICPC bronze medal as coach (2016)",
+        "priority": 2000
+      },
+      {
+        "achievement": "World Finals coach (2011, 2015, 2022-2023)",
+        "priority": 1000
+      },
+      {
+        "achievement": "ICPC World Finals Gold Medalist (2008)",
+        "priority": 104
+      },
+      {
+        "achievement": "Google Code Jam 2nd (2013)",
+        "priority": 94
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Semifinalist (2007, 2008, 2018)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Open Algorithm Wildcard (2010)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Open Marathon Finalist (2014)",
+        "priority": 90
+      },
+      {
+        "achievement": "Google Code Jam Finalist (2010, 2012)",
+        "priority": 90
+      },
+      {
+        "achievement": "Facebook Hacker Cup Finalist (2013)",
+        "priority": 90
+      },
+      {
+        "achievement": "TopCoder Collegiate Challenge Algorithm Semifinalist (2007)",
+        "priority": 50
+      },
+      {
+        "achievement": "Russian Code Cup Finalist (2012, 2014, 2016)",
+        "priority": 30
+      },
+      {
+        "achievement": "Bayan Programming Contest Finalist (2015)",
+        "priority": 10
+      },
+      {
+        "achievement": "Google Hash Code Finalist (2017)",
+        "priority": 10
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Maksym Shcherba",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Yarema Stiahar",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    },
+    {
+      "name": "Petro Tarnavskyi",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

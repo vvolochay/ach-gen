@@ -1,0 +1,96 @@
+{
+  "id": 55,
+  "university": {
+    "fullName": "Kyoto University",
+    "shortName": "Kyoto U",
+    "region": "Asia Pacific",
+    "hashTag": "#KyotoU",
+    "url": "http://www.kyoto-u.ac.jp",
+    "appYears": [
+      1998,
+      1999,
+      2000,
+      2001,
+      2005,
+      2006,
+      2007,
+      2008,
+      2010,
+      2011,
+      2012,
+      2014,
+      2015,
+      2016,
+      2019,
+      2020,
+      2021,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2000,
+      2001,
+      2020
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "KUB1sharp",
+    "regionals": [
+      "Asia Pacific, 4th",
+      "Yokohama, 6th"
+    ]
+  },
+  "coach": {
+    "name": "Tomohito Omori",
+    "altNames": [],
+    "cfHandle": "Moririn2528",
+    "cfRating": 2472,
+    "twitterHandle": "moririn2528_c",
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2021, 2023)",
+        "priority": 100
+      },
+      {
+        "achievement": "Google Hash Code Finalist (2021)",
+        "priority": 70
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Yasutaka Hiraki",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "IOI Silver Medalist (2019)",
+          "priority": 63
+        }
+      ]
+    },
+    {
+      "name": "Yuta Azumaya",
+      "altNames": [],
+      "cfHandle": "cn449",
+      "cfRating": 2469,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Masahiro Inoue",
+      "altNames": [
+        "physics0523"
+      ],
+      "cfHandle": "physics0523",
+      "cfRating": 2732,
+      "twitterHandle": "butsurizuki",
+      "achievements": []
+    }
+  ]
+}

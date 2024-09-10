@@ -1,0 +1,62 @@
+{
+  "id": 52,
+  "university": {
+    "fullName": "Kharkiv National University of Radio Electronics",
+    "shortName": "KhNURE",
+    "region": "Europe",
+    "hashTag": "#KNURE",
+    "url": "https://nure.ua/en",
+    "appYears": [
+      2020,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [
+      2020
+    ],
+    "regYears": []
+  },
+  "team": {
+    "name": "KhNURE_KIVI",
+    "regionals": [
+      "Europe, 24th",
+      "Southeastern Europe, 1st"
+    ]
+  },
+  "coach": {
+    "name": "Oleksandr(Alexander) Vechur",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": []
+  },
+  "contestants": [
+    {
+      "name": "Kostiantyn Denysov",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Ihor Barenblat",
+      "altNames": [],
+      "cfHandle": "Barichek",
+      "cfRating": 2323,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Valerii Grynenko",
+      "altNames": [],
+      "cfHandle": null,
+      "cfRating": null,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}

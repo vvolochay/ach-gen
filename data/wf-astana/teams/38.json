@@ -1,0 +1,74 @@
+{
+  "id": 38,
+  "university": {
+    "fullName": "Indian Institute of Technology - Patna",
+    "shortName": "IIT Patna",
+    "region": "Asia West",
+    "hashTag": "#IITP",
+    "url": "http://www.iitp.ac.in",
+    "appYears": [
+      2018,
+      2019,
+      2020,
+      2022,
+      2023
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "MEX Offenders",
+    "regionals": [
+      "Asia West, 10th",
+      "Amritapuri, 47th",
+      "Chennai, 18th"
+    ]
+  },
+  "coach": {
+    "name": "Jimson Mathew",
+    "altNames": [],
+    "cfHandle": null,
+    "cfRating": null,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "World Finals coach (2023)",
+        "priority": 1000
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Harshit Singh",
+      "altNames": [],
+      "cfHandle": "quantau",
+      "cfRating": 1719,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Mayank Kumar",
+      "altNames": [],
+      "cfHandle": "mayankfrost",
+      "cfRating": 2030,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Aryaman Amitabh",
+      "altNames": [],
+      "cfHandle": "TimeWarp101",
+      "cfRating": 1977,
+      "twitterHandle": null,
+      "achievements": [
+        {
+          "achievement": "ICPC World Finals Finalist (2023)",
+          "priority": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 92,
+  "university": {
+    "fullName": "Tishreen University",
+    "shortName": "Tishreen",
+    "region": "Africa and Arab",
+    "hashTag": "#Tishreen",
+    "url": "http://www.tishreen.edu.sy",
+    "appYears": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021,
+      2022
+    ],
+    "winYears": [],
+    "goldYears": [],
+    "silverYears": [],
+    "bronzeYears": [],
+    "regYears": []
+  },
+  "team": {
+    "name": "Underagat",
+    "regionals": [
+      "Africa & Arab, 13th",
+      "Syria, 17th"
+    ]
+  },
+  "coach": {
+    "name": "Wael Mchantaf",
+    "altNames": [],
+    "cfHandle": "notAboAlmanalAnyMore",
+    "cfRating": 1644,
+    "twitterHandle": null,
+    "achievements": [
+      {
+        "achievement": "ICPC World Finals Finalist (2021)",
+        "priority": 100
+      }
+    ]
+  },
+  "contestants": [
+    {
+      "name": "Elias Obeid",
+      "altNames": [],
+      "cfHandle": "Eliaster",
+      "cfRating": 2120,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Osama Saleh",
+      "altNames": [],
+      "cfHandle": "Guess.Who",
+      "cfRating": 2175,
+      "twitterHandle": null,
+      "achievements": []
+    },
+    {
+      "name": "Helal Salloum",
+      "altNames": [],
+      "cfHandle": "Helal_Salloum",
+      "cfRating": 1836,
+      "twitterHandle": null,
+      "achievements": []
+    }
+  ]
+}
