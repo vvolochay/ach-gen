@@ -1,6 +1,7 @@
 package com.vvolochay
 
 import com.google.gson.Gson
+
 import com.google.gson.stream.JsonReader
 import com.vvolochay.GenUtils.Companion.addCups
 import com.vvolochay.GenUtils.Companion.addMedals
@@ -29,7 +30,7 @@ data class TeamColor(
     val colorName: String,
 )
 
-data class Team(val name: String, val regionals: List<String>)
+data class Team(val name: String, val regionals: List<String>? = null)
 
 data class University(
     val fullName: String, val shortName: String, val region: String, val hashTag: String?, val url: String,
@@ -47,65 +48,51 @@ data class Achievement(val achievement: String, val priority: Int)
 
 class WFAchievementsGen : Generator() {
 
-    private var ignored = ArrayList<String>()
-
     private lateinit var output: String
     private lateinit var logo: File
-    private var defaultLogo = File("data/wf-luxor/Logo.png")
-    private var colors = parseColorLibrary(File("src/main/resources/finals_colors.json"))
+    private var defaultLogo = File("data/wf-astana/logo.png")
+    private var colors = parseColorLibrary(File("src/main/resources/colors.json"))
 
     override fun run(filename: File, logo: File, template: File, outputDir: String, result: Boolean) {
         val teamData = parseTeamsData(filename)
-//        val teamColors = parseTeamsColors(File("data/wf-luxor/shirts46.json"))
+        val teamColors = parseTeamsColors(File("data/wf-astana/shirts.json"))
 
         this.output = outputDir
         this.logo = logo
 
         for (data in teamData) {
-            if (data.id >= 47055) { //dirty hack for WF 47
-                data.id += 1
-            }
-            val teamColor = parseFinalsColors(data.id)
-//            val teamColor = teamColors.getOrElse(data.id - 1) { DEFAULT_COLOR }
+            val teamColor = teamColors.getOrElse(data.id - 1) { DEFAULT_COLOR }
 
             generateMainSVG(data, outputDir, teamColor)
-//            generatePersonSVG(data.id, data.coach,  outputDir,"coach", teamColor)
-//            for (i in 0 until data.contestants.size) {
-//                generatePersonSVG(data.id, data.contestants[i], outputDir, "contestant_$i", teamColor)
-//            }
-//            generateFinalsSVG(data, outputDir, teamColor)
+            generatePersonSVG(data.id, data.coach,  outputDir,"coach", teamColor)
+            for (i in 0 until data.contestants.size) {
+                generatePersonSVG(data.id, data.contestants[i], outputDir, "contestant_$i", teamColor)
+            }
+            generateFinalsSVG(data, outputDir, teamColor)
         }
     }
 
     fun generateMainSVG(data: Data, path: String, color: Color?) {
-        var fontSize = DEFAULT_FONT_SIZE
-        var replaced =
-            if (data.university.fullName.length < 35) {
-                fontSize = 39
-                File("src/main/resources/svg/main_one_line.svg").readText(Charsets.UTF_8)
-                    .replace("{UniversityName}", replaceEscapingSymbols(data.university.fullName))
-            } else if (data.university.fullName.length > 30) {
-            val splitName = splitNameTwoPart(data.university.fullName)
-
-            File("src/main/resources/svg/main_two_lines.svg").readText(Charsets.UTF_8)
-                .replace("{UniversityName1}", replaceEscapingSymbols(splitName.first))
-                .replace("{UniversityName2}", replaceEscapingSymbols(splitName.second))
-        } else {
-            File("src/main/resources/svg/main_one_line.svg").readText(Charsets.UTF_8)
-                .replace("{UniversityName}", replaceEscapingSymbols(data.university.fullName))
+        if (data.team.name.length > 38) {
+            println("Long team name ${data.id}")
         }
 
-        replaced = replaced
+        var replaced = File("src/main/resources/svg/main_one_line.svg").readText(Charsets.UTF_8)
+            .replace("{ShortTeamName}",  replaceEscapingSymbols(data.team.name))
+            .replace("{UniversityName}", replaceEscapingSymbols(data.university.fullName))
             .replace("{Logo}", base64Logo(logo, data.id, defaultLogo))
             .replace("{ShortTeamName}", replaceEscapingSymbols(data.team.name))
             .replace("{Region}", replaceEscapingSymbols(data.university.region))
-            .replace("{fontSize}", fontSize.toString())
             .replace("{HashTag}", data.university.hashTag ?: "")
 
-        replaced = replaced.replace("{RegionalPlace}", replaceEscapingSymbols(data.team.regionals.last()))
+        if (!data.team.regionals.isNullOrEmpty()) {
+            replaced = replaced.replace("{RegionalPlace}", replaceEscapingSymbols(data.team.regionals.first()))
+        }
 
         if (data.university.hashTag == null) {
             println("HASTAG MISSED " + data.id)
+        } else if (data.university.hashTag.length > 19) {
+            println("very long hashtag " + data.university.hashTag + " id=" + data.id)
         }
 
         //set colors
@@ -115,20 +102,22 @@ class WFAchievementsGen : Generator() {
         File(path, "${data.id}_main.svg").writeText(replaced, Charsets.UTF_8)
     }
 
-    fun generatePersonSVG(id: Int, person: Person,  path: String, role: String, color: Color) {
-        var replaced = File("src/main/resources/svg/personal.svg").readText(Charsets.UTF_8)
-            .replace("{Name}", person.name)
+    fun generatePersonSVG(id: Int, person: Person, path: String, role: String, color: Color) {
+        var xCoord = 158
+        var replaced = if (role == "coach") {
+            xCoord = 240
+            File("src/main/resources/svg/coach.svg").readText(Charsets.UTF_8)
+                .replace("{Name}", person.name)
+        } else {
+            File("src/main/resources/svg/contestant.svg").readText(Charsets.UTF_8)
+                .replace("{Name}", person.name)
+        }
 
-        if (person.name.length > 22 && person.achievements!!.isNotEmpty()) {
-            println("Check by hands long name:" + id + "_" + role)
+        if (person.name.length > 21 && person.achievements!!.isNotEmpty()) {
+            println("Check by hands long name=" + person.name + ", teamId="+ id + "_" + role)
         }
 
         var rating = ""
-        var xCoord = 150
-        if (person.tcRating != null) {
-            rating += placeRating(person.tcRating.toString(), xCoord, "TC")
-            xCoord = 258
-        }
         if (person.cfRating != null) {
             rating += placeRating(person.cfRating.toString(), xCoord, "CF")
         }
@@ -141,7 +130,7 @@ class WFAchievementsGen : Generator() {
             }
         }
         if (longValue && person.achievements.size > 4) {
-            println("Check by hands long string:" + id + "_" + role)
+            println("Check by hands long achievement string:" + id + "_" + role)
         }
 
         for (i in 1..8) {
@@ -178,18 +167,22 @@ class WFAchievementsGen : Generator() {
         }
 
         replaced = addMedals(replaced, data.university)
-//        replaced = addCups(replaced, data.university, 1000)
-//        replaced = addRC(replaced, data.university, 500)
+
+        if (universityHasMedals(data.university)) {
+            var startsFrom = 455.29
+            replaced = addCups(replaced, data.university, startsFrom)
+
+            if (data.university.winYears!= null) {
+                val size = data.university.winYears.size
+                startsFrom += if (size >= 5) size * 50 else size * 70
+            }
+
+            replaced = addRC(replaced, data.university, startsFrom + 20)
+        }
 
         //set colors
         replaced = replaced.replace("{mainColor}", color.hex).replace("{fontColor}", color.fontColor)
         File(path, "${data.id}_finals.svg").writeText(replaced, Charsets.UTF_8)
-    }
-
-
-    private fun parseFinalsColors(id: Int): Color? {
-        if (id.toString().startsWith("46")) return colors["46"]
-        return colors["47"]
     }
 
     private fun parseTeamsColors(file: File): List<Color> {
@@ -201,6 +194,9 @@ class WFAchievementsGen : Generator() {
             colors[it.colorName]!!
         }
     }
+
+    private fun universityHasMedals(university: University) =
+        university.goldYears?.isNotEmpty() == true || university.silverYears?.isNotEmpty() == true || university.bronzeYears?.isNotEmpty() == true
 
     private fun splitNameTwoPart(fullName: String): Pair<String, String> {
         val s = fullName.substring(0, min(fullName.length, 35)).substringBeforeLast(" ")
