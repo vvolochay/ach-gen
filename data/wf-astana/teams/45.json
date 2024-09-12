@@ -4,7 +4,7 @@
     "fullName": "ITESM Campus Guadalajara",
     "shortName": "ITESM GDA",
     "region": "Latin America",
-    "hashTag": null,
+    "hashTag": "#TECcampusGDL",
     "url": "http://www.gda.itesm.mx"
   },
   "team": {
@@ -21,6 +21,22 @@
     "cfRating": 1529,
     "twitterHandle": null,
     "achievements": [
+      {
+        "achievement": "",
+        "priority": 110
+      },
+      {
+        "achievement": "",
+        "priority": 110
+      },
+      {
+        "achievement": "",
+        "priority": 110
+      },
+      {
+        "achievement": "",
+        "priority": 110
+      },
       {
         "achievement": "ICPC World Finals Finalist (2021, 2022)",
         "priority": 100

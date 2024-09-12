@@ -79,24 +79,24 @@ const val CUP = "<g id=\"Frame 210\">\n" +
 
 
 const val RC = "                    <g id=\"Frame 144\">\n" +
-        "                        <svg x=\"{svgCoord}\" y=\"-41.248\" width=\"120\" height=\"150\">\n" +
+        "                        <svg x=\"{svgCoord}\" y=\"-41.248\" width=\"110\" height=\"150\">\n" +
         "                            <text id=\"{year}\" opacity=\"0.8\" fill=\"white\" xml:space=\"preserve\" style=\"white-space: pre\" font-family=\"Helvetica\" font-size=\"14\"  letter-spacing=\"0em\" x=\"50%\" y=\"50%\"\n" +
         "                                  alignment-baseline=\"middle\" text-anchor=\"middle\">{year}</text>\n" +
         "                        </svg>\n" + "\n" +
         "                        <g id=\"Frame 179\">\n" +
-        "                            <rect x=\"{xCoord}\" y=\"44\" width=\"75\" height=\"44\" rx=\"6.66667\"\n" +
+        "                            <rect x=\"{xCoord}\" y=\"54\" width=\"75\" height=\"44\" rx=\"6.66667\"\n" +
         "                                  fill=\"url(#gradientName)\"/>\n" +
         "                            <text id=\"Regional Champion\" fill=\"#464646\" xml:space=\"preserve\" style=\"white-space: pre\"\n" +
-        "                                  font-family=\"Helvetica\" font-size=\"10\" font-weight=\"bold\" letter-spacing=\"0em\"><tspan x=\"{textCoord}\" y=\"63.4246\">REGIONAL&#10;</tspan>\n" +
-        "                                <tspan x=\"{textCoord}\" y=\"75.0913\">CHAMPION</tspan></text>\n" +
+        "                                  font-family=\"Helvetica\" font-size=\"10\" font-weight=\"bold\" letter-spacing=\"0em\"><tspan x=\"{textCoord}\" y=\"73.4246\">REGIONAL&#10;</tspan>\n" +
+        "                                <tspan x=\"{textCoord}\" y=\"85.0913\">CHAMPION</tspan></text>\n" +
         "                        </g>\n" +
         "                        <defs>\n" +
         "                            <linearGradient id=\"gradientName\" x1=\"{x1GradientCoord}\" y1=\"88\" x2=\"{xCoord}\" y2=\"42.8985\"\n" +
         "                                            gradientUnits=\"userSpaceOnUse\">\n" +
-        "                                <stop offset=\"0.102369\" stop-color=\"#CCCCCC\"/>\n" +
+        "                                <stop offset=\"0.102369\" stop-color=\"#9D9D9D\"/>\n" +
         "                                <stop offset=\"0.388571\" stop-color=\"#E5E5E5\"/>\n" +
         "                                <stop offset=\"0.69492\" stop-color=\"white\"/>\n" +
-        "                                <stop offset=\"1\" stop-color=\"#CECECE\"/>\n" +
+        "                                <stop offset=\"1\" stop-color=\"#A3A1A1\"/>\n" +
         "                            </linearGradient>\n" +
         "                        </defs>>\n" +
         "                    </g>"

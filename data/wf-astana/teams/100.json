@@ -31,11 +31,27 @@
     "twitterHandle": "@Threat1995",
     "achievements": [
       {
+        "achievement": "",
+        "priority": 110
+      },
+      {
+        "achievement": "",
+        "priority": 110
+      },
+      {
+        "achievement": "",
+        "priority": 110
+      },
+      {
+        "achievement": "",
+        "priority": 110
+      },
+      {
         "achievement": "ICPC World Finals Finalist (2019)",
         "priority": 100
       },
       {
-        "achievement": "ICPC World Finals Invitational Finalist (2020)",
+        "achievement": "ICPC WF Invitational Finalist (2020)",
         "priority": 30
       }
     ]

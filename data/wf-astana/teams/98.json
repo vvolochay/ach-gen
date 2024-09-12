@@ -42,7 +42,7 @@
     "twitterHandle": null,
     "achievements": [
       {
-        "achievement": "World Finals coach (2011-2013, 2015-2017, 2019-2023)",
+        "achievement": "World Finals coach (х11)",
         "priority": 1000
       }
     ]
@@ -56,6 +56,22 @@
       "twitterHandle": null,
       "achievements": [
         {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
           "achievement": "ICPC World Finals Finalist (2023)",
           "priority": 100
         }
@@ -68,6 +84,22 @@
       "cfRating": 1906,
       "twitterHandle": null,
       "achievements": [
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
         {
           "achievement": "ICPC World Finals Finalist (2023)",
           "priority": 100

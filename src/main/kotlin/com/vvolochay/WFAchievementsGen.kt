@@ -14,7 +14,7 @@ import java.io.File
 import java.io.FileReader
 import kotlin.math.min
 
-val DEFAULT_COLOR = Color("default", "#FFFFFF", "#2B2B2B")
+val DEFAULT_COLOR = Color("default", "#6D1E34", "#FFFFFF")
 const val DEFAULT_FONT_SIZE = 50
 
 data class Data(
@@ -163,7 +163,7 @@ class WFAchievementsGen : Generator() {
         if (data.university.appYears != null) {
             replaced = replaced.replace("{F}", data.university.appYears.size.toString())
         } else {
-            replaced = replaced.replace("{F}", "1")
+            replaced = replaced.replace("{F}", "1st")
         }
 
         replaced = addMedals(replaced, data.university)
@@ -174,7 +174,7 @@ class WFAchievementsGen : Generator() {
 
             if (data.university.winYears!= null) {
                 val size = data.university.winYears.size
-                startsFrom += if (size >= 5) size * 50 else size * 70
+                startsFrom += if (size >= 5) size * 50 + 20 else size * 70
             }
 
             replaced = addRC(replaced, data.university, startsFrom + 20)
@@ -188,7 +188,6 @@ class WFAchievementsGen : Generator() {
     private fun parseTeamsColors(file: File): List<Color> {
         val reader = JsonReader(FileReader(file))
         val teams: Array<TeamColor> = Gson().fromJson(reader, Array<TeamColor>::class.java)
-
 
         return teams.map {
             colors[it.colorName]!!

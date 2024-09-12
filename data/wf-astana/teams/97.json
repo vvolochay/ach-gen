@@ -65,6 +65,22 @@
       "twitterHandle": null,
       "achievements": [
         {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
           "achievement": "ICPC World Finals Finalist (2020, 2023)",
           "priority": 100
         },
@@ -81,6 +97,22 @@
       "cfRating": 2188,
       "twitterHandle": null,
       "achievements": [
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
+        {
+          "achievement": "",
+          "priority": 110
+        },
         {
           "achievement": "ICPC World Finals Finalist (2023)",
           "priority": 100

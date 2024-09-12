@@ -88,7 +88,7 @@
             <use xlink:href="#image0_1307_21158" transform="translate(0.0175601) scale(0.00184843)"/>
         </pattern>
         <clipPath id="clip0_1307_21158">
-            <path d="M0 0H1488V132C1488 140.837 1480.84 148 1472 148H16C7.16343 148 0 140.837 0 132V0Z" fill="white"/>
+            <path d="M0 0H1488V132C1488 140.837 1480.84 148 1472 148H16C7.16343 148 0 140.837 0 132V0Z" fill="{fontColor}"/>
         </clipPath>
 
     </defs>

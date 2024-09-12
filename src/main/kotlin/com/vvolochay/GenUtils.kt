@@ -97,7 +97,7 @@ class GenUtils {
 
                 for (year in university.winYears) {
                     val newCup = cup
-                        .replace("{year}", year.toString())
+                        .replace("{year}", yearMapping(year))
                         .replace("{xCoord}", startsFrom.toString())
                         .replace("{textXCoord}", textFrom.toString())
                     allCups += newCup
@@ -106,49 +106,51 @@ class GenUtils {
                     cup = CUP
                 }
             }
-
-            replaced.replace("{AllCups}", allCups)
-
-            // returns
             return replaced.replace("{AllCups}", allCups)
         }
 
         fun addRC(replaced: String, university: University, lastX: Double): String {
             var startsFrom = lastX
             var rc = RC
-            var textFrom = startsFrom + 18
-            var distX = 70
-
+            var distX = 100
             var allRC = ""
             if (university.regYears != null) {
 
-                if (university.regYears.size > 3) {
+                val size = university.regYears.size
+                if (size > 3) {
                     allRC += rc
-                        .replace("{year}", "&#xd7; $university.regYears.size")
+                        .replace("{year}", "&#xd7; $size")
                         .replace("{xCoord}", startsFrom.toString())
                         .replace("{x1GradientCoord}", (startsFrom + 100).toString())
                         .replace("{svgCoord}", (startsFrom - 20).toString())
-                        .replace("{textXCoord}", (startsFrom + 10).toString())
+                        .replace("{textCoord}", (startsFrom + 10).toString())
                 } else {
                     for (year in university.regYears) {
                         val newRC = rc
-                            .replace("{year}", year.toString())
+                            .replace("{year}", yearMapping(year))
                             .replace("{xCoord}", startsFrom.toString())
-                            .replace("{x1GradientCoord}", (startsFrom + 100).toString())
+                            .replace("{x1GradientCoord}", (startsFrom + 80).toString())
                             .replace("{svgCoord}", (startsFrom - 20).toString())
-                            .replace("{textXCoord}", (startsFrom + 10).toString())
+                            .replace("{textCoord}", (startsFrom + 10).toString())
                             .replace("gradientName", "gradientName$year")
 
-                        rc += newRC
+                        allRC += newRC
                         startsFrom += distX
-                        textFrom = startsFrom + 18
                         rc = RC
                     }
                 }
             }
-
             return replaced.replace("{AllRC}", allRC)
+        }
 
+        fun yearMapping(year: Int) : String {
+            return when(year) {
+                2020 -> "Moscow"
+                2021 -> "Dhaka"
+                2022 -> "Luxor"
+                2023 -> "Luxor"
+                else -> {year.toString()}
+            }
         }
     }
 }

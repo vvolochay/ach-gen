@@ -4,7 +4,7 @@
     "fullName": "Instituto Tecnológico de Costa Rica campus Alajuela",
     "shortName": "TEC Alajuela",
     "region": "Latin America",
-    "hashTag": null,
+    "hashTag": "#UTN",
     "url": "http://www.siau.ac.cr"
   },
   "team": {
@@ -21,6 +21,22 @@
     "cfRating": null,
     "twitterHandle": "huhumor",
     "achievements": [
+      {
+        "achievement": "",
+        "priority": 110
+      },
+      {
+        "achievement": "",
+        "priority": 110
+      },
+      {
+        "achievement": "",
+        "priority": 110
+      },
+      {
+        "achievement": "",
+        "priority": 110
+      },
       {
         "achievement": "World Finals coach (2013-2014, 2018, 2021)",
         "priority": 1000
