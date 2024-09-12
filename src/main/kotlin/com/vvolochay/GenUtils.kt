@@ -78,9 +78,9 @@ class GenUtils {
 
             return replaced
                 .replace("{Medals}", MEDALS)
-                .replace("&#xd7; G", "&#xd7; $gold")
-                .replace("&#xd7; S", "&#xd7; $silver")
-                .replace("&#xd7; B", "&#xd7; $bronze")
+                .replace("x G", "x $gold")
+                .replace("x S", "x $silver")
+                .replace("x B", "x $bronze")
 
         }
         fun addCups(replaced: String, university: University, startsX: Double): String {
@@ -119,7 +119,7 @@ class GenUtils {
                 val size = university.regYears.size
                 if (size > 3) {
                     allRC += rc
-                        .replace("{year}", "&#xd7; $size")
+                        .replace("{year}", "x $size")
                         .replace("{xCoord}", startsFrom.toString())
                         .replace("{x1GradientCoord}", (startsFrom + 100).toString())
                         .replace("{svgCoord}", (startsFrom - 20).toString())

@@ -1,7 +1,7 @@
 {
   "id": 21,
   "university": {
-    "fullName": "Eötvös Loránd University",
+    "fullName": "Eotvos Lorand University",
     "shortName": "ELTE",
     "region": "Europe",
     "hashTag": "#ELTE_UNI",
@@ -15,7 +15,7 @@
     ]
   },
   "coach": {
-    "name": "László Nikházy",
+    "name": "Laszlo Nikhazy",
     "altNames": [
       "Laszlo Nikhazy"
     ],
@@ -26,7 +26,7 @@
   },
   "contestants": [
     {
-      "name": "Áron Noszály",
+      "name": "Aron Noszaly",
       "altNames": [],
       "cfHandle": "mraron",
       "cfRating": 2223,
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Péter Varga",
+      "name": "Peter Varga",
       "altNames": [],
       "cfHandle": "Peti",
       "cfRating": 2361,
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Péter Gyimesi",
+      "name": "Peter Gyimesi",
       "altNames": [],
       "cfHandle": "peti1234",
       "cfRating": 3006,
